@@ -1,23 +1,10 @@
-### Resumo do Documento
+O documento apresenta a TrendsOn, uma empresa de tecnologia fundada em 2011 e focada em Marketing de Influência, que se intensificou no segmento de influenciadores a partir de 2022. Destacam-se os seguintes pontos-chave:
 
-**Empresa**: TrendsOn  
-**Fundação**: 2011, com especialização em Marketing de Influência a partir de 2022.
-
-**Objetivo**: Conectar marcas a influenciadores por meio de criatividade e inteligência, utilizando uma rede de mais de 15 mil parceiros.
-
-**Serviços Oferecidos**:
-- Planejamento estratégico
-- Curadoria de influenciadores
-- Gestão de campanhas
-- Monitoramento de resultados em tempo real
-
-**Diferenciais**:
-- Uso de inteligência artificial para selecionar influenciadores com foco em autenticidade e impacto.
-- Pioneirismo em User Generated Content (UGC) na América Latina, proporcionando conteúdo autêntico que gera mais engajamento.
-
-**Principais Estratégias**:
-- Branding
-- Lançamentos e rebranding
-- Monitoramento por meio de um dashboard exclusivo
-
-**Posição no Mercado**: A TrendsOn se destaca como parceira estratégica para marcas que desejam se conectar eficientemente com seus públicos e transformar tendências em resultados concretos.
+- **Atuação e Clientes**: A TrendsOn atende mais de 300 clientes, utilizando inteligência artificial e conhecimento humano para conectar marcas a mais de 15 mil influenciadores.
+- **Serviços Oferecidos**:
+  1. **Planejamento e Execução**: Criação de briefings, planejamento e gestão de campanhas por um time especializado.
+  2. **Monitoramento**: Acompanhamento em tempo real das campanhas, com relatórios personalizados e análise de sentimentos.
+  3. **User Generated Content (UGC)**: Ênfase na qualidade do conteúdo gerado, promovendo conexões autênticas com o público.
+- **Diferenciação**: Oferece soluções personalizadas para diversas indústrias, visando atingir públicos-alvo específicos.
+- **Ferramentas**: Disponibiliza um dashboard exclusivo para visualização de métricas e análises comparativas entre influenciadores.
+- **Objetivo**: Transformar tendências em resultados significativos, ampliando o engajamento e a confiança nas marcas dos clientes.
