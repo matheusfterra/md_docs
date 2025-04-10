@@ -1,5 +1,0 @@
-A TrendsOn é uma empresa de tecnologia criada em 2011, que se especializou em Marketing de Influência a partir de 2022. Com uma abordagem inovadora, a empresa conecta marcas a influenciadores, usando inteligência artificial e expertise humana para criar campanhas estratégicas e personalizadas, atendendo a diversos segmentos do mercado.
-
-Com uma base exclusiva de mais de 15.000 influenciadores, a TrendsOn oferece serviços como planejamento, gestão de campanhas, e monitoramento em tempo real do desempenho, com relatórios detalhados e métricas estratégicas. O foco está na qualidade do conteúdo, especialmente através do User Generated Content (UGC), que prioriza a autenticidade e a conexão com o público em meio a resultados significativos.
-
-A empresa destaca sua capacidade de adaptar estratégias e formatos de pagamento às necessidades de cada campanha, além de fornecer acesso total aos direitos de uso dos conteúdos produzidos. Com um atendimento humanizado e um time especializado, a TrendsOn busca sempre transformar tendências em resultados efetivos, com um DNA brasileiro e presença global.
