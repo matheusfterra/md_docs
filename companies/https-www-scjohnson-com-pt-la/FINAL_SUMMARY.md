@@ -1,0 +1,9 @@
+A SC Johnson é uma empresa familiar de quinta geração, comprometida em criar um mundo mais sustentável, saudável e transparente. Fundada em 1886, a empresa é conhecida por marcas icônicas como Raid®, Glade®, e Ziploc®. Com presença em mais de 70 países, a SC Johnson busca impactar positivamente as comunidades globais e conduzir práticas ambientais responsáveis.
+
+A empresa mantém um forte compromisso com sustentabilidade, exemplificado por iniciativas como garrafas feitas com 100% de plástico reciclado do oceano e parcerias para criar uma economia circular para plásticos. Em colaboração com o Plastic Bank e outras entidades, a SC Johnson trabalha para impedir que resíduos plásticos entrem nos oceanos e fomentar programas de reciclagem ao redor do mundo.
+
+Além disso, a SC Johnson conduziu várias parcerias, como aquelas com Milwaukee Bucks e Liverpool Football Club, para reciclar copos plásticos de eventos em novas embalagens. A empresa também está focada em inovação sustentável com o lançamento de produtos concentrados que utilizam menos plástico.
+
+Causas sociais são centrais para suas operações, como demonstrado pela doação de produtos e fundos para famílias afetadas por enchentes no Brasil, além de outras iniciativas de doação, como os 20 dias de doação, que apoia organizações comunitárias. A SC Johnson também investe na pesquisa sobre a saúde da família, usando ciência aplicada para combater doenças transmitidas por insetos.
+
+A empresa promove a diversidade e inclusão, sustentando iniciativas que criam uma sensação de pertencimento e igualdade, e oferecem oportunidades para todos os funcionários e suas comunidades.
