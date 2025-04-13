@@ -1,17 +1,16 @@
 # Relatório de Prospecção para John Deere
 
 ## Informações da Empresa
-
-### Nome:
+### Nome
 John Deere
 
-### Website:
+### Website
 [www.deere.com.br](https://www.deere.com.br)
 
-### Segmento:
+### Segmento
 Agricultura e Máquinas Pesadas
 
-### Diversificação:
+### Diversificação
 - **Equipamentos Agrícolas:** Tratores, colhedoras, plantadeiras, entre outros.
 - **Equipamentos de Construção:** Motoniveladoras, retroescavadeiras, pás-carregadeiras.
 - **Equipamentos Florestais:** Feller bunchers, skidders, harvesters.
@@ -20,7 +19,6 @@ Agricultura e Máquinas Pesadas
 ---
 
 ## Características da Empresa
-
 ### História e Missão
 A John Deere é um dos líderes mundiais em fabricação de máquinas para o setor agrícola e de construção, com uma história que se estende por mais de 180 anos. A missão da empresa é oferecer soluções inovadoras e sustentáveis que atendam às necessidades dos agricultores e do setor de construção.
 
@@ -37,17 +35,13 @@ A John Deere é um dos líderes mundiais em fabricação de máquinas para o set
 ---
 
 ## Dores Possíveis e Desafios
-
 1. **Sustentabilidade e Eficiência:** Há uma crescente pressão para melhorar a eficiência e sustentabilidade operativa, tanto nas práticas agrícolas quanto na produção de equipamentos.
-   
 2. **Concorrência e Inovação:** A John Deere enfrenta a necessidade constante de inovar em um mercado competitivo onde novas tecnologias e práticas agrícolas estão emergindo rapidamente.
-
 3. **Manutenção e Suporte:** Desafios relacionados à manutenção das máquinas, disponibilidade de peças, e a necessidade de suporte técnico eficiente.
 
 ---
 
 ## Contexto de Prospecção
-
 ### Oportunidade no Marketing de Influência
 A presença de influenciadores digitais é crescente no setor agrícola e de construção, o que apresenta uma oportunidade para a John Deere aumentar sua visibilidade e engajamento junto ao público-alvo. 
 
@@ -66,7 +60,5 @@ Alavancar influenciadores que possuem forte conexão com as comunidades de agric
 
 ## Considerações Finais
 A conexão entre a John Deere e a indústria de marketing de influência apresenta uma oportunidade significativa para a empresa abordar tanto os desafios como as dores do setor agrícola e de construção. Propostas de campanhas que destaquem sustentabilidade, tecnologia e inovação são cruciais para reavivar o relacionamento da marca com seus consumidores e o setor em geral.
-
----
 
 **Nota:** Este relatório deve ser utilizado pela equipe de copywriting para criar emails personalizados e direcionados à John Deere, com o objetivo de estabelecer um diálogo sobre colaborações e oportunidades no marketing de influência.
