@@ -1,60 +1,72 @@
 # Relatório de Prospecção para John Deere
 
 ## Informações da Empresa
-### Nome: John Deere
-### Website: [www.deere.com.br](https://www.deere.com.br)
-### Segmento: Agricultura e Máquinas Pesadas
-### Diversificação: 
-- **Equipamentos Agrícolas:** Tratores, colhedoras, plantadeiras, etc.
+
+### Nome:
+John Deere
+
+### Website:
+[www.deere.com.br](https://www.deere.com.br)
+
+### Segmento:
+Agricultura e Máquinas Pesadas
+
+### Diversificação:
+- **Equipamentos Agrícolas:** Tratores, colhedoras, plantadeiras, entre outros.
 - **Equipamentos de Construção:** Motoniveladoras, retroescavadeiras, pás-carregadeiras.
 - **Equipamentos Florestais:** Feller bunchers, skidders, harvesters.
-- **Ferramentas Digitais:** John Deere Operations Center™ e soluções agrícolas precisas.
+- **Ferramentas Digitais:** Soluções como o John Deere Operations Center™ que oferecem gestão de operações e agricultura de precisão.
 
 ---
 
 ## Características da Empresa
+
 ### História e Missão
-A John Deere é uma empresa icônica com mais de 180 anos de atuação na produção de máquinas e tecnologia para o setor agrícola e de construção, que visa transformar o setor, apoiando soluções sustentáveis e inovadoras.
+A John Deere é um dos líderes mundiais em fabricação de máquinas para o setor agrícola e de construção, com uma história que se estende por mais de 180 anos. A missão da empresa é oferecer soluções inovadoras e sustentáveis que atendam às necessidades dos agricultores e do setor de construção.
 
 ### Produtos e Soluções
-- **Agricultura de Precisão:** Uma gama de tecnologias que inclui sistemas de direcionamento e negócios digitais, como o JDLink™, que ajuda a monitorar a eficiência das máquinas.
-- **Maquinário Filos´fico:** A empresa disponibiliza uma linha de tratores, colhedoras e equipamentos florestais altamente tecnologicamente avançados.
-- **Estilo de Vida Sustentável:** John Deere procura garantir que suas práticas de produção e produtos resultem em benefícios ambientais, sociais e econômicos.
+- **Agricultura de Precisão:** Tecnologias que incluem sistemas de direcionamento e negócios digitais como o JDLink™.
+- **Máquinários Tecnológicos:** Tratores e colhedoras avançadas voltadas à eficiência e produtividade.
+- **Compromisso com a Sustentabilidade:** A John Deere integra práticas que visam reduzir o impacto ambiental de suas operações e produtos.
 
 ### Público-Alvo
 - Produtores rurais (agricultores e pecuaristas)
-- Construtores e engenheiros civis
+- Engenheiros e construtores civis
 - Empresas no setor florestal
 
 ---
 
 ## Dores Possíveis e Desafios
-1. **Sustentabilidade e eficiência:** Pressão para adotar práticas mais sustentáveis e eficientes em suas operações.
-2. **Concorrência e inovação:** Necessidade de manter-se à frente das inovações tecnológicas e práticas agrícolas locais.
-3. **Manutenção e suporte:** Desafios na manutenção de máquinas e disponibilidade de peças originais, juntamente com a necessidade de suporte técnico.
+
+1. **Sustentabilidade e Eficiência:** Há uma crescente pressão para melhorar a eficiência e sustentabilidade operativa, tanto nas práticas agrícolas quanto na produção de equipamentos.
+   
+2. **Concorrência e Inovação:** A John Deere enfrenta a necessidade constante de inovar em um mercado competitivo onde novas tecnologias e práticas agrícolas estão emergindo rapidamente.
+
+3. **Manutenção e Suporte:** Desafios relacionados à manutenção das máquinas, disponibilidade de peças, e a necessidade de suporte técnico eficiente.
 
 ---
 
 ## Contexto de Prospecção
+
 ### Oportunidade no Marketing de Influência
-A crescente popularidade de influenciadores nas redes sociais no setor agrícola e de construção representa uma oportunidade para a John Deere aumentar sua presença de marca e engajamento com o público-alvo.
+A presença de influenciadores digitais é crescente no setor agrícola e de construção, o que apresenta uma oportunidade para a John Deere aumentar sua visibilidade e engajamento junto ao público-alvo. 
 
 ### Conexão com a Comunidade
-A John Deere pode se beneficiar ao alavancar influenciadores que possuem conexões fortes com agricultores e profissionais da construção e florestais, focando em temas como produtividade, sustentabilidade, e eficiência.
+Alavancar influenciadores que possuem forte conexão com as comunidades de agricultores e profissionais do setor de construção pode ser uma estratégia eficaz para abordar temas relevantes como produtividade e sustentabilidade.
 
 ---
 
 ## Perguntas para Direcionar a Prospecção
-- Como a John Deere está promovendo suas inovações tecnológicas e sua abordagem sustentável junto ao público?
-- Existe uma estratégia atual para integrar influenciadores nas campanhas de marketing digital da John Deere?
-- Qual a percepção atual do público sobre a marca John Deere e quais os principais concorrentes em seu segmento?
-- Quais métricas de sucesso estão sendo avaliadas para campanhas de marketing e como as parcerias com influenciadores poderiam ser integradas a isso?
+- **Promoção de Inovações:** Como a John Deere está atualmente promovendo suas inovações tecnológicas e sua abordagem sustentável junto ao público?
+- **Integração de Influenciadores:** Existe uma estratégia estabelecida para integrar influenciadores nas campanhas de marketing digital da John Deere?
+- **Percepção da Marca:** Como a marca é percebida pelo público atualmente e quais são seus principais concorrentes?
+- **Métricas de Sucesso:** Quais métricas de sucesso estão sendo utilizadas para avaliar campanhas de marketing e como as parcerias com influenciadores poderiam ser integradas a essas avaliações?
 
 ---
 
 ## Considerações Finais
-A conexão entre a John Deere e a indústria de marketing de influência oferece uma maneira significativa de não apenas abordar as dores e desafios da empresa, mas de reforçar sua liderança no setor agrícola e de construção. Propostas de campanhas focadas na sustentabilidade, inovação e tecnologia podem ser extremamente úteis para transformar o relacionamento da marca com os consumidores e a indústria.
+A conexão entre a John Deere e a indústria de marketing de influência apresenta uma oportunidade significativa para a empresa abordar tanto os desafios como as dores do setor agrícola e de construção. Propostas de campanhas que destaquem sustentabilidade, tecnologia e inovação são cruciais para reavivar o relacionamento da marca com seus consumidores e o setor em geral.
 
---- 
+---
 
-**Nota:** Este relatório deve ser utilizado pela equipe de copywriting para criar emails altamente personalizados e direcionados a contatos da John Deere, visando estabelecer um diálogo a respeito de colaborações e oportunidades no marketing de influência.
+**Nota:** Este relatório deve ser utilizado pela equipe de copywriting para criar emails personalizados e direcionados à John Deere, com o objetivo de estabelecer um diálogo sobre colaborações e oportunidades no marketing de influência.
