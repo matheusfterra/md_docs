@@ -1,74 +1,48 @@
-# Relatório de Prospecção para a Gupy
+# Relatório de Prospecção SDR para Gupy
 
-## 1. **Informações Básicas da Empresa**
-- **Nome da Empresa:** Gupy  
-- **Segmento:** Recursos Humanos e Tecnologia  
-- **Website:** [gupy.io](https://www.gupy.io/)  
-- **Número de Funcionários:** +4.000  
-- **Localização:** Brasil, com expansão para outros países da América do Sul.  
-- **Mercado-Alvo:** Empresas de variados setores (varejo, tecnologia, serviços, saúde, etc.)  
+## Informações Gerais da Empresa
+- **Nome da Empresa**: Gupy
+- **Segmento**: Tecnologia para Recursos Humanos (RH)
+- **Subsegmentos**: Recrutamento e Seleção, Admissão Digital, Educação Corporativa, Clima e Engajamento, Performance e Desenvolvimento.
+- **Tamanho da Empresa**: +4000 clientes em diversos setores (varejo, tecnologia, serviços, educação, entre outros).
+- **Localização**: Brasil (presença em toda a América do Sul).
+- **Website**: [Gupy](https://www.gupy.io)
 
-## 2. **Sobre a Empresa**
-A Gupy é uma plataforma de software de gestão de recursos humanos que utiliza inteligência artificial para otimizar processos de recrutamento e seleção, admissão e desenvolvimento de colaboradores. Tornou-se uma das líderes no mercado brasileiro, oferecendo soluções que atendem desde pequenas empresas até grandes corporações.
+## Visão Geral dos Produtos e Soluções
+Gupy é uma plataforma de soluções de tecnologia voltada para a gestão de talentos, oferecendo um ecossistema que integra diversas funcionalidades para o RH, promovendo eficiência e agilidade nos processos de contratação, admissão e desenvolvimento de talentos. 
 
-### **Histórico e Crescimento**
-- **Fundação:** Gupy foi fundada com o objetivo de modernizar e digitalizar processos de RH que anteriormente eram manuais.
-- **Crescimento Rápido:** Desde sua fundação, a Gupy expandiu rapidamente, agora contando com mais de 4.000 empresas usando suas soluções.
+### Produtos:
+1. **Recrutamento e Seleção**: Utiliza Inteligência Artificial para otimizar a triagem de currículos, promovendo uma experiência fluida tanto para recrutadores quanto para candidatos. 
+2. **Admissão Digital**: Solução que automatiza e centraliza o processo de admissão, tornando-o mais rápido e seguro.
+3. **Educação Corporativa**: Permite criar e implementar treinamentos gamificados, aumentando o engajamento dos colaboradores.
+4. **Clima e Engajamento**: Monitora e analisa indicadores de engajamento, oferece insights preditivos e cria planos de ação para melhorar a retenção de talentos.
+5. **Performance e Desenvolvimento**: Fornece ferramentas de avaliação de desempenho, alinhando os resultados individuais às metas da organização.
 
-## 3. **Produtos e Soluções**
-### **Gupy Recrutamento e Seleção**
-- **Principais Funcionalidades:**
-  - Ordenação de currículos com IA.
-  - Integração com job boards e redes sociais.
-  - Módulo de Atração, permitindo a publicação de vagas personalizadas.
+## Potenciais Dores da Empresa a Ser Prospectada
+- **Dificuldade na Atração de Talentos**: Muitas empresas enfrentam uma alta concorrência e precisam de ferramentas que simplifiquem o processo de recrutamento.
+- **Processo de Admissão Burocrático**: Empresas que ainda utilizam processos manuais enfrentam desafios como atrasos na contratação e uma experiência negativa para candidatos.
+- **Engajamento de Colaboradores**: A falta de soluções eficazes para desenvolver e reter talentos pode resultar em alta rotatividade e insatisfação entre os colaboradores.
+- **Necessidade de Educação e Treinamento**: Com a transformação digital, muitas empresas buscam maneiras mais ágeis e intuitivas de capacitar seus colaboradores.
 
-### **Gupy Admissão**
-- **Principais Funcionalidades:**
-  - Validação automática de documentos com IA.
-  - Integração com sistemas de folha de pagamento.
-  - Gestão de benefícios e comunicação centralizada com candidatos.
+## Contexto do Mercado
+- **Tendências**:
+  - Crescente adoção de tecnologias digitais nas ações de RH.
+  - Necessidade de soluções integradas que combinem recrutamento, admissão e desenvolvimento de talentos.
+  - Aumento da busca por plataformas que possibilitem análises de dados e insights estratégicos (People Analytics).
+- **Desafios**: A pandemia acelerou a necessidade de digitalização no recrutamento e de adaptação a tecnologias que promovem trabalho remoto e híbrido.
 
-### **Gupy Educação Corporativa**
-- **Principais Funcionalidades:**
-  - Criação de cursos em poucos minutos com suporte de IA.
-  - Plataforma intuitiva e gamificada, aumentando o engajamento.
+## Estratégia de Prospecção
+1. **Identificação de Decisores**: Diretores e gerentes de RH, gerentes de talentos, e coordenadores na área de T&D.
+2. **Propostas de Valor**: Focar nas vantagens de eficiência, redução do tempo de contratação, personalização de processos e aumento do engajamento dos colaboradores.
+3. **Conteúdo Personalizado**: Criar abordagens que abordem as dores específicas de empresas prospectadas, utilizando estudos de caso de sucesso da Gupy como exemplo.
 
-### **Gupy Clima e Engajamento**
-- **Principais Funcionalidades:**
-  - Pesquisa de clima organizacional.
-  - Análise avançada de dados de engajamento e turnover.
+## Próximos Passos
+- Programar uma reunião com os stakeholders para apresentar a plataforma Gupy e suas funcionalidades.
+- Preparar demonstrações que ilustrem o valor agregado dos produtos para os desafios enfrentados pela empresa em questão.
 
-## 4. **Dores e Desafios**
-### **Desafios Comuns**
-- **Recrutamento em Massa:** Alta demanda em setores como varejo para realizar contratações em grande escala.
-- **Alta Rotatividade:** Empresas buscam reduzir o turnover e melhorar a experiência do colaborador.
-- **Integrações Tecnológicas:** Necessidade de unificar ferramentas de RH em uma plataforma coesa.
-
-### **Respostas da Gupy**
-- A Gupy oferece uma solução ideal para essas dores, simplificando processos e trazendo insights valiosos para a tomada de decisões.
-
-## 5. **Diferenciais Competitivos**
-- **Inteligência Artificial:** Ordenação de currículos e recomendações de candidatos com IA.
-- **Personalização:** Soluções adaptáveis às necessidades específicas dos clientes.
-- **Experiência do Usuário:** Interface intuitiva e suporte contínuo para garantir eficiência.
-
-### **Testemunhos e Casos de Sucesso**
-A Gupy possui várias histórias de sucesso, com clientes que alcançaram redução significativa no tempo de fechamento de vagas e aumento na diversidade de contratações, destacando a eficácia de suas soluções.
-
-## 6. **Visão de Mercado e Futuro**
-- **Expansão de Mercado:** Gupy pode expandir operações para novos mercados internacionais, baseando-se no sucesso no Brasil.
-- **Inovação Contínua:** Comprometida em melhorar a plataforma com novas funcionalidades e integrações.
-
-## 7. **Insights para o Copywriting**
-- **Foco nas Dores:** Destacar como a Gupy resolve problemas específicos na gestão de Recursos Humanos, como alta rotatividade e processos complexos.
-- **Soluções Personalizadas:** Enfatizar a flexibilidade do produto e sua capacidade de adaptação às necessidades do cliente.
-
-## 8. **Call to Action**
-- **Agendamento de Demonstração:** Incentivar empresas a agendar uma demonstração da plataforma para observar as vantagens que a Gupy pode oferecer.
-
-## 9. **Conclusão**
-A Gupy é uma solução inovadora que melhora a eficiência dos processos de RH e proporciona uma experiência superior para organizações e candidatos. Suas soluções são essenciais para empresas que procuram uma gestão moderna e integrada de recursos humanos. 
+## Conclusão
+A Gupy apresenta soluções robustas e integradas que podem atender às necessidades de recrutamento e seleção, admissão e desenvolvimento de talentos de empresas de diferentes setores. Com um mercado em constante evolução e desafios crescentes para reter e engajar colaboradores, a Gupy se posiciona como uma parceira estratégica no aprimoramento das práticas de RH. 
 
 ---
 
-**Nota ao copywriter:** Este relatório fornece uma visão abrangente da Gupy, suas soluções, e insights que podem ser utilizados para criar um e-mail de prospecção eficaz e personalizado. Use as informações sobre desafios do mercado e diferenciais competitivos para elaborar mensagens que ressoem com as necessidades específicas do seu público-alvo.
+Esse relatório visa fornecer uma compreensão detalhada da empresa prospectada e prepará-la para uma abordagem eficaz e personalizada nas comunicações da equipe de vendas.
