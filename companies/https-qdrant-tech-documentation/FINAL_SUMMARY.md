@@ -1,5 +1,305 @@
 # Estrutura de Diretórios
 ```plaintext
+├── FINAL_SUMMARY.md
+├── http-qdrant-tech.md
+├── https-code-search-qdrant-tech.md
+├── https-demo-qdrant-tech.md
+├── https-food-discovery-qdrant-tech.md
+├── https-qdrant-tech-about-us.md
+├── https-qdrant-tech-advanced-search.md
+├── https-qdrant-tech-ai-agents-ai-agents.md
+├── https-qdrant-tech-ai-agents.md
+├── https-qdrant-tech-articles-agentic-rag.md
+├── https-qdrant-tech-articles-batch-vector-search-with-qdrant.md
+├── https-qdrant-tech-articles-binary-quantization-openai.md
+├── https-qdrant-tech-articles-binary-quantization.md
+├── https-qdrant-tech-articles-cross-encoder-integration-gsoc.md
+├── https-qdrant-tech-articles-data-exploration.md
+├── https-qdrant-tech-articles-data-privacy.md
+├── https-qdrant-tech-articles-dedicated-vector-search.md
+├── https-qdrant-tech-articles-detecting-coffee-anomalies.md
+├── https-qdrant-tech-articles-dimension-reduction-qsoc.md
+├── https-qdrant-tech-articles-discovery-search.md
+├── https-qdrant-tech-articles-distance-based-exploration.md
+├── https-qdrant-tech-articles-ecosystem.md
+├── https-qdrant-tech-articles-fastembed.md
+├── https-qdrant-tech-articles-filtrable-hnsw.md
+├── https-qdrant-tech-articles-food-discovery-demo.md
+├── https-qdrant-tech-articles-gridstore-key-value-storage.md
+├── https-qdrant-tech-articles-hybrid-search.md
+├── https-qdrant-tech-articles-immutable-data-structures.md
+├── https-qdrant-tech-articles-indexing-optimization.md
+├── https-qdrant-tech-articles-io-uring.md
+├── https-qdrant-tech-articles-machine-learning.md
+├── https-qdrant-tech-articles-memory-consumption.md
+├── https-qdrant-tech-articles-modern-sparse-neural-retrieval.md
+├── https-qdrant-tech-articles-multitenancy.md
+├── https-qdrant-tech-articles-neural-search-tutorial.md
+├── https-qdrant-tech-articles-practicle-examples.md
+├── https-qdrant-tech-articles-product-quantization-clustering.md
+├── https-qdrant-tech-articles-product-quantization-cutting-the-vector-into-pieces.md
+├── https-qdrant-tech-articles-product-quantization-full-process.md
+├── https-qdrant-tech-articles-product-quantization-how-does-product-quantization-work.md
+├── https-qdrant-tech-articles-product-quantization-measuring-the-distance.md
+├── https-qdrant-tech-articles-product-quantization-product-quantization-benchmarks.md
+├── https-qdrant-tech-articles-product-quantization-product-quantization-vs-scalar-quantization.md
+├── https-qdrant-tech-articles-product-quantization-using-qdrant-for-product-quantization.md
+├── https-qdrant-tech-articles-product-quantization-what-is-product-quantization.md
+├── https-qdrant-tech-articles-product-quantization.md
+├── https-qdrant-tech-articles-qdrant-internals.md
+├── https-qdrant-tech-articles-rag-and-genai.md
+├── https-qdrant-tech-articles-rapid-rag-optimization-with-qdrant-and-quotient.md
+├── https-qdrant-tech-articles-scalar-quantization-accessing-best-practices.md
+├── https-qdrant-tech-articles-scalar-quantization-benchmarks.md
+├── https-qdrant-tech-articles-scalar-quantization-oversampling-and-rescoring.md
+├── https-qdrant-tech-articles-scalar-quantization-scalar-quantization.md
+├── https-qdrant-tech-articles-scalar-quantization-theoretical-background.md
+├── https-qdrant-tech-articles-scalar-quantization.md
+├── https-qdrant-tech-articles-search-as-you-type.md
+├── https-qdrant-tech-articles-search-feedback-loop.md
+├── https-qdrant-tech-articles-semantic-cache-ai-data-retrieval.md
+├── https-qdrant-tech-articles-serverless.md
+├── https-qdrant-tech-articles-sparse-vectors.md
+├── https-qdrant-tech-articles-storing-multiple-vectors-per-object-in-qdrant.md
+├── https-qdrant-tech-articles-vector-search-filtering.md
+├── https-qdrant-tech-articles-vector-search-manuals.md
+├── https-qdrant-tech-articles-vector-search-resource-optimization.md
+├── https-qdrant-tech-articles-vector-similarity-beyond-search.md
+├── https-qdrant-tech-articles-web-ui-gsoc.md
+├── https-qdrant-tech-articles-what-are-embeddings.md
+├── https-qdrant-tech-articles-what-is-a-vector-database.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-1-initial-quantized-search.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-1-what-is-scalar-quantization.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-2-oversampling.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-2-what-is-binary-quantization.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-3-rescoring-with-original-vectors.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-3-what-is-product-quantization.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-4-reranking.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-distributing-resources-between-disk-memory.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-learn-more.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-performance-of-quantized-vs-non-quantized-data.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-rescoring-oversampling-and-reranking.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-speeding-up-rescoring-with-io-uring.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-switching-between-quantization-methods.md
+├── https-qdrant-tech-articles-what-is-vector-quantization-wrapping-up.md
+├── https-qdrant-tech-articles-what-is-vector-quantization.md
+├── https-qdrant-tech-articles-why-rust.md
+├── https-qdrant-tech-articles.md
+├── https-qdrant-tech-benchmarks-are-we-biased.md
+├── https-qdrant-tech-benchmarks-benchmarking-vector-databases.md
+├── https-qdrant-tech-benchmarks-benchmarks-faq.md
+├── https-qdrant-tech-benchmarks-filter-result-2023-02-03-json.md
+├── https-qdrant-tech-benchmarks-filtered-results.md
+├── https-qdrant-tech-benchmarks-filtered-search-benchmark.md
+├── https-qdrant-tech-benchmarks-how-to-contribute.md
+├── https-qdrant-tech-benchmarks-how-to-read-the-results.md
+├── https-qdrant-tech-benchmarks-how-to-reproduce-the-benchmark.md
+├── https-qdrant-tech-benchmarks-how-we-select-hardware.md
+├── https-qdrant-tech-benchmarks-latency-vs-rps.md
+├── https-qdrant-tech-benchmarks-observations.md
+├── https-qdrant-tech-benchmarks-results-1-100-thread-2024-06-15-json.md
+├── https-qdrant-tech-benchmarks-setup.md
+├── https-qdrant-tech-benchmarks-single-node-benchmarks.md
+├── https-qdrant-tech-benchmarks-single-node-speed-benchmark-2022.md
+├── https-qdrant-tech-benchmarks-single-node-speed-benchmark.md
+├── https-qdrant-tech-benchmarks-tested-datasets.md
+├── https-qdrant-tech-benchmarks-what-about-closed-source-saas-platforms.md
+├── https-qdrant-tech-benchmarks-what-do-we-measure.md
+├── https-qdrant-tech-benchmarks-why-filtering-is-not-trivial.md
+├── https-qdrant-tech-benchmarks-why-we-decided-to-test-with-the-python-client.md
+├── https-qdrant-tech-benchmarks-why-you-are-not-comparing-with-faiss-or-annoy.md
+├── https-qdrant-tech-benchmarks.md
+├── https-qdrant-tech-blog-case-study-dailymotion.md
+├── https-qdrant-tech-blog-case-study-deutsche-telekom.md
+├── https-qdrant-tech-blog-case-study-hubspot.md
+├── https-qdrant-tech-blog-case-study-kairoswealth.md
+├── https-qdrant-tech-blog-case-study-kern.md
+├── https-qdrant-tech-blog-case-study-mixpeek.md
+├── https-qdrant-tech-blog-case-study-nyris.md
+├── https-qdrant-tech-blog-case-study-qatech.md
+├── https-qdrant-tech-blog-case-study-sprinklr.md
+├── https-qdrant-tech-blog-case-study-visua.md
+├── https-qdrant-tech-blog-case-study-voiceflow.md
+├── https-qdrant-tech-blog-colpali-qdrant-optimization.md
+├── https-qdrant-tech-blog-dust-and-qdrant.md
+├── https-qdrant-tech-blog-enterprise-vector-search.md
+├── https-qdrant-tech-blog-human-language-ai-models.md
+├── https-qdrant-tech-blog-iris-agent-qdrant.md
+├── https-qdrant-tech-blog-metadata-deasy-labs.md
+├── https-qdrant-tech-blog-page-10.md
+├── https-qdrant-tech-blog-page-2.md
+├── https-qdrant-tech-blog-page-3.md
+├── https-qdrant-tech-blog-page-4.md
+├── https-qdrant-tech-blog-page-5.md
+├── https-qdrant-tech-blog-page-6.md
+├── https-qdrant-tech-blog-page-7.md
+├── https-qdrant-tech-blog-page-8.md
+├── https-qdrant-tech-blog-page-9.md
+├── https-qdrant-tech-blog-qdrant-1-13-x.md
+├── https-qdrant-tech-blog-qdrant-n8n-beyond-simple-similarity-search.md
+├── https-qdrant-tech-blog-qdrant-soc2-type2-audit.md
+├── https-qdrant-tech-blog-satellite-vector-broadcasting.md
+├── https-qdrant-tech-blog-static-embeddings.md
+├── https-qdrant-tech-blog-webinar-crewai-qdrant-obsidian.md
+├── https-qdrant-tech-blog-webinar-vibe-coding-rag.md
+├── https-qdrant-tech-blog.md
+├── https-qdrant-tech-cloud.md
+├── https-qdrant-tech-community.md
+├── https-qdrant-tech-contact-us.md
+├── https-qdrant-tech-customers.md
+├── https-qdrant-tech-data-analysis-anomaly-detection.md
+├── https-qdrant-tech-demo.md
+├── https-qdrant-tech-documentation-advanced-tutorials-code-search.md
+├── https-qdrant-tech-documentation-advanced-tutorials-collaborative-filtering.md
+├── https-qdrant-tech-documentation-advanced-tutorials-pdf-retrieval-at-scale.md
+├── https-qdrant-tech-documentation-advanced-tutorials.md
+├── https-qdrant-tech-documentation-agentic-rag-crewai-zoom.md
+├── https-qdrant-tech-documentation-beginner-tutorials-hybrid-search-fastembed.md
+├── https-qdrant-tech-documentation-beginner-tutorials-neural-search.md
+├── https-qdrant-tech-documentation-beginner-tutorials-retrieval-quality.md
+├── https-qdrant-tech-documentation-beginner-tutorials-search-beginners.md
+├── https-qdrant-tech-documentation-beginner-tutorials.md
+├── https-qdrant-tech-documentation-cloud-authentication.md
+├── https-qdrant-tech-documentation-cloud-backups.md
+├── https-qdrant-tech-documentation-cloud-cluster-scaling.md
+├── https-qdrant-tech-documentation-cloud-qdrant-cloud-setup-enterprise-single-sign-on-sso.md
+├── https-qdrant-tech-documentation-concepts-collections.md
+├── https-qdrant-tech-documentation-concepts-explore.md
+├── https-qdrant-tech-documentation-concepts-filtering-full-text-match.md
+├── https-qdrant-tech-documentation-concepts-filtering-geo-bounding-box.md
+├── https-qdrant-tech-documentation-concepts-filtering-geo-radius.md
+├── https-qdrant-tech-documentation-concepts-filtering-match.md
+├── https-qdrant-tech-documentation-concepts-filtering-nested-key.md
+├── https-qdrant-tech-documentation-concepts-filtering-range.md
+├── https-qdrant-tech-documentation-concepts-filtering.md
+├── https-qdrant-tech-documentation-concepts-hybrid-queries.md
+├── https-qdrant-tech-documentation-concepts-indexing-filtrable-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-full-text-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-idf-modifier.md
+├── https-qdrant-tech-documentation-concepts-indexing-indexing.md
+├── https-qdrant-tech-documentation-concepts-indexing-on-disk-payload-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-parameterized-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-payload-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-principal-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-sparse-vector-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-tenant-index.md
+├── https-qdrant-tech-documentation-concepts-indexing-vector-index.md
+├── https-qdrant-tech-documentation-concepts-indexing.md
+├── https-qdrant-tech-documentation-concepts-optimizer.md
+├── https-qdrant-tech-documentation-concepts-payload-bool.md
+├── https-qdrant-tech-documentation-concepts-payload-datetime.md
+├── https-qdrant-tech-documentation-concepts-payload-float.md
+├── https-qdrant-tech-documentation-concepts-payload-geo.md
+├── https-qdrant-tech-documentation-concepts-payload-integer.md
+├── https-qdrant-tech-documentation-concepts-payload-keyword.md
+├── https-qdrant-tech-documentation-concepts-payload-uuid.md
+├── https-qdrant-tech-documentation-concepts-payload.md
+├── https-qdrant-tech-documentation-concepts-points.md
+├── https-qdrant-tech-documentation-concepts-search-query-planning.md
+├── https-qdrant-tech-documentation-concepts-search.md
+├── https-qdrant-tech-documentation-concepts-snapshots.md
+├── https-qdrant-tech-documentation-concepts-storage.md
+├── https-qdrant-tech-documentation-concepts-vectors.md
+├── https-qdrant-tech-documentation-concepts.md
+├── https-qdrant-tech-documentation-database-tutorials-async-api.md
+├── https-qdrant-tech-documentation-database-tutorials-automate-filtering-with-llms.md
+├── https-qdrant-tech-documentation-database-tutorials-bulk-upload.md
+├── https-qdrant-tech-documentation-database-tutorials-create-snapshot.md
+├── https-qdrant-tech-documentation-database-tutorials-huggingface-datasets.md
+├── https-qdrant-tech-documentation-database-tutorials-large-scale-search.md
+├── https-qdrant-tech-documentation-database-tutorials.md
+├── https-qdrant-tech-documentation-embeddings.md
+├── https-qdrant-tech-documentation-faq-database-optimization.md
+├── https-qdrant-tech-documentation-faq-qdrant-fundamentals.md
+├── https-qdrant-tech-documentation-frameworks-autogen.md
+├── https-qdrant-tech-documentation-frameworks-crewai.md
+├── https-qdrant-tech-documentation-frameworks-langgraph.md
+├── https-qdrant-tech-documentation-frameworks-swarm.md
+├── https-qdrant-tech-documentation-frameworks.md
+├── https-qdrant-tech-documentation-guides-administration.md
+├── https-qdrant-tech-documentation-guides-capacity-planning.md
+├── https-qdrant-tech-documentation-guides-common-errors.md
+├── https-qdrant-tech-documentation-guides-configuration.md
+├── https-qdrant-tech-documentation-guides-distributed-deployment.md
+├── https-qdrant-tech-documentation-guides-installation.md
+├── https-qdrant-tech-documentation-guides-monitoring.md
+├── https-qdrant-tech-documentation-guides-multiple-partitions.md
+├── https-qdrant-tech-documentation-guides-optimize.md
+├── https-qdrant-tech-documentation-guides-quantization-accuracy-tuning.md
+├── https-qdrant-tech-documentation-guides-quantization-binary-quantization-as-hamming-distance.md
+├── https-qdrant-tech-documentation-guides-quantization-binary-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization-how-to-choose-the-right-quantization-method.md
+├── https-qdrant-tech-documentation-guides-quantization-memory-and-speed-tuning.md
+├── https-qdrant-tech-documentation-guides-quantization-product-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization-quantization-tips.md
+├── https-qdrant-tech-documentation-guides-quantization-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization-scalar-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization-searching-with-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization-setting-up-binary-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization-setting-up-product-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization-setting-up-quantization-in-qdrant.md
+├── https-qdrant-tech-documentation-guides-quantization-setting-up-scalar-quantization.md
+├── https-qdrant-tech-documentation-guides-quantization.md
+├── https-qdrant-tech-documentation-guides-running-with-gpu.md
+├── https-qdrant-tech-documentation-guides-security.md
+├── https-qdrant-tech-documentation-guides-usage-statistics.md
+├── https-qdrant-tech-documentation-guides.md
+├── https-qdrant-tech-documentation-hybrid-cloud.md
+├── https-qdrant-tech-documentation-interfaces-api-reference.md
+├── https-qdrant-tech-documentation-interfaces.md
+├── https-qdrant-tech-documentation-overview-vector-search.md
+├── https-qdrant-tech-documentation-overview.md
+├── https-qdrant-tech-documentation-quantization-setting-up-quantization-in-qdrant.md
+├── https-qdrant-tech-documentation-quick-start.md
+├── https-qdrant-tech-documentation-quickstart-cloud.md
+├── https-qdrant-tech-documentation-quickstart.md
+├── https-qdrant-tech-documentation-search-query-planning.md
+├── https-qdrant-tech-documentation-tutorials-multimodal-search-fastembed.md
+├── https-qdrant-tech-documentation-tutorials.md
+├── https-qdrant-tech-documentation-web-ui.md
+├── https-qdrant-tech-documentation.md
+├── https-qdrant-tech-enterprise-solutions.md
+├── https-qdrant-tech-github-com-qdrant-landing-page-tree-master-qdrant-landing-content-articles-product-quantization-md.md
+├── https-qdrant-tech-github-com-qdrant-landing-page-tree-master-qdrant-landing-content-articles-scalar-quantization-md.md
+├── https-qdrant-tech-github-com-qdrant-landing-page-tree-master-qdrant-landing-content-articles-what-is-quantization-md.md
+├── https-qdrant-tech-github-com-qdrant-landing-page-tree-master-qdrant-landing-content-documentation-concepts-indexing-md.md
+├── https-qdrant-tech-github-com-qdrant-landing-page-tree-master-qdrant-landing-content-documentation-guides-quantization-md.md
+├── https-qdrant-tech-guides-distributed-deployment.md
+├── https-qdrant-tech-hybrid-cloud.md
+├── https-qdrant-tech-legal-impressum.md
+├── https-qdrant-tech-legal-privacy-policy.md
+├── https-qdrant-tech-legal-terms-and-conditions.md
+├── https-qdrant-tech-misc-qdrant-security-public-key-asc.md
+├── https-qdrant-tech-partners.md
+├── https-qdrant-tech-pricing.md
+├── https-qdrant-tech-private-cloud.md
+├── https-qdrant-tech-qdrant-for-startups-form.md
+├── https-qdrant-tech-qdrant-for-startups.md
+├── https-qdrant-tech-qdrant-vector-database.md
+├── https-qdrant-tech-rag-rag-evaluation-guide.md
+├── https-qdrant-tech-rag.md
+├── https-qdrant-tech-recommendations.md
+├── https-qdrant-tech-security-bug-bounty-program.md
+├── https-qdrant-tech-solutions.md
+├── https-qdrant-tech-stars.md
+├── https-qdrant-tech-subscribe.md
+├── https-qdrant-tech.md
+├── https-try-qdrant-tech-5-minute-rag-hslang-en.md
+├── https-try-qdrant-tech-agentic-rag-crewai-hslang-en.md
+├── https-try-qdrant-tech-ai-agents-webinar-hslang-en.md
+├── https-try-qdrant-tech-build-advanced-agents-with-llamaindex-and-qdrant-hslang-en.md
+├── https-try-qdrant-tech-colpali-webinar-hslang-en.md
+├── https-try-qdrant-tech-deepseek-hslang-en.md
+├── https-try-qdrant-tech-deutsche-telekom-talk-hslang-en.md
+├── https-try-qdrant-tech-events.md
+├── https-try-qdrant-tech-llm-rag-hslang-en.md
+└── https-try-qdrant-tech-mcp-agent-interoperability-hslang-en.md
+```
+                    ---
+                    ## 📄 `FINAL_SUMMARY.md`
+                    ```md
+                    # Estrutura de Diretórios
+```plaintext
 ├── http-qdrant-tech.md
 ├── https-code-search-qdrant-tech.md
 ├── https-demo-qdrant-tech.md
@@ -71097,6 +71397,3382 @@ We’ll show you how to harness the power of MCP to connect AI coding tools like
 Kacper Łukawski
 Developer Advocate
 You’ll learn:
+  * What MCP is and why it's suddenly everywhere
+  * The fundamentals of MCP: how it enables agent communication via a shared event bus
+  * Setting up an MCP server and connecting multiple clients (OpenAI Agents, AugmentCode, custom tools)
+  * Using Qdrant as a vector backend for memory, code context, and retrieval-augmented workflows
+  * Where Qdrant fits in as the vector search layer for agent memory and tool use  
+  * Real-time agent orchestration inside your IDE, with multi-agent collaboration on tasks like code generation, refactoring, and debugging
+  * Real-world demos of coding agents collaborating in an IDE
+  * How to extend these tools for your own AI developer workflows
+Whether you're experimenting with AI-supported coding or building your own developer agents, this session will give you practical, future-ready insights into using MCP with real tools.
+### Register Now
+Qdrant needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, please review our Privacy Policy.
+By registering, you agree to our [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) and allow Qdrant to store and process the information submitted above to provide you with the webinar information requested.  
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=44e57178-0670-478e-aa5d-b1c0020c01cd&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b1db5c60-8f0a-4603-acc6-407644c406d0&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fmcp-agent-interoperability&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=44e57178-0670-478e-aa5d-b1c0020c01cd&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b1db5c60-8f0a-4603-acc6-407644c406d0&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fmcp-agent-interoperability&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=640fc627-194e-45ac-a94e-e4a577b9cfe4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b1db5c60-8f0a-4603-acc6-407644c406d0&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fmcp-agent-interoperability&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=640fc627-194e-45ac-a94e-e4a577b9cfe4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b1db5c60-8f0a-4603-acc6-407644c406d0&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fmcp-agent-interoperability&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ```
+                    ```
+                    ## 📄 `http-qdrant-tech.md`
+  * [Qdrant Vector Database](https://qdrant.tech/qdrant-vector-database/)
+  * [Qdrant Cloud](https://qdrant.tech/cloud/)
+  * [Qdrant Hybrid Cloud](https://qdrant.tech/hybrid-cloud/)
+  * [Qdrant Enterprise Solutions](https://qdrant.tech/enterprise-solutions/)
+Use Cases
+  * [Advanced Search](https://qdrant.tech/advanced-search/)
+  * [Recommendation Systems](https://qdrant.tech/recommendations/)
+  * [Retrieval Augmented Generation](https://qdrant.tech/rag/)
+  * [Data Analysis & Anomaly Detection](https://qdrant.tech/data-analysis-anomaly-detection/)
+  * [AI Agents](https://qdrant.tech/ai-agents/)
+Developers
+  * [Documentation](https://qdrant.tech/documentation/)
+  * [Community](https://qdrant.tech/community/)
+Resources
+  * [Blog](https://qdrant.tech/blog/)
+  * [Benchmarks](https://qdrant.tech/benchmarks/)
+  * [Articles](https://qdrant.tech/articles/)
+  * [Events](https://try.qdrant.tech/events)
+  * [Startup Program](https://qdrant.tech/qdrant-for-startups/)
+  * [Demos](https://qdrant.tech/demo/)
+  * [Bug Bounty](https://qdrant.tech/security/bug-bounty-program/)
+Company
+  * [About Us](https://qdrant.tech/about-us/)
+  * [Customers](https://qdrant.tech/customers/)
+  * [Partners](https://qdrant.tech/partners/)
+  * [Contact Us](https://qdrant.tech/contact-us/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](http://qdrant.tech/legal/privacy-policy/)[I accept](http://qdrant.tech/)
+### Qdrant Code Search Unleashing Semantic Power
+Qdrant Code Explorer: Empowering Semantic Searching in Qdrant Repository with Advanced Code Analysis
+                    ## 📄 `https-demo-qdrant-tech.md`
+# Startup Semantic search with Qdrant
+This demo uses short descriptions of startups to perform a semantic search.
+Neural
+Text
+Search
+Try this:
+Qdrant
+Wooden furniture
+Milk Company
+![No results found.](https://demo.qdrant.tech/home.gif)
+Enter a query to start searching.
+                    ## 📄 `https-food-discovery-qdrant-tech.md`
+## What are you looking for?
+CancelSearch
+                    ## 📄 `https-qdrant-tech-about-us.md`
+##### Want to build the technology for the next generation of AI applications with us?
+Take a look at our open roles. We’re excited to hear from you.
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/about-us/)
+                    ## 📄 `https-qdrant-tech-advanced-search.md`
+###### Create a Hybrid Search Service with FastEmbed
+This tutorial guides you through building and deploying your own hybrid search service using FastEmbed.
+[View Tutorial](https://qdrant.tech/documentation/beginner-tutorials/hybrid-search-fastembed/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/advanced-search/)
+                    ## 📄 `https-qdrant-tech-ai-agents-ai-agents.md`
+### Building AI agents?
+Apply for the Qdrant for Startups program to access a 20% discount to Qdrant Cloud, our managed cloud service, perks from Hugging Face, LlamaIndex, and Airbyte, and much more.
+[Apply Now](https://qdrant.tech/qdrant-for-startups/)
+![](https://qdrant.tech/img/ai-agent.svg)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/ai-agents/)
+                    ## 📄 `https-qdrant-tech-ai-agents.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * What is Agentic RAG? Building Agents with Qdrant
+[](https://qdrant.tech/articles/rag-and-genai/)
+  * **Querying a vector database** - the most common tool used in agentic RAG systems. It allows the agent to retrieve relevant documents based on the query.
+  * **Query expansion** - a tool that can be used to improve the query. It can be used to add synonyms, correct typos, or even to generate new queries based on the original one. ![Query expansion example](https://qdrant.tech/articles_data/agentic-rag/query-expansion.png)
+  * **Extracting filters** - vector search alone is sometimes not enough. In many cases, you might want to narrow down the results based on specific parameters. This extraction process can automatically identify relevant conditions from the query. Otherwise, your users would have to manually define these search constraints. ![Extracting filters](https://qdrant.tech/articles_data/agentic-rag/extracting-filters.png)
+  * **Quality judgement** - knowing the quality of the results for given query can be used to decide whether they are good enough to answer, or if the agent should take another step to improve them somehow. Alternatively it can also admit the failure to provide good response. ![Quality judgement](https://qdrant.tech/articles_data/agentic-rag/quality-judgement.png)
+These are just some of the examples, but the list is not exhaustive. For example, your LLM could possibly play with Qdrant search parameters or choose different methods to query it. An example? If your users are searching using some specific keywords, you may prefer sparse vectors to dense vectors, as they are more efficient in such cases. In that case you have to arm your agent with tools to decide when to use sparse vectors and when to use dense vectors. Agent aware of the collection structure can make such decisions easily.
+Each of these tools might be a separate agent on its own, and multi-agent systems are not uncommon. In such cases, agents can communicate with each other, and one agent can decide to use another agent to solve a particular problem. Pretty useful component of an agentic RAG is also a human in the loop, which can be used to correct the agent’s decisions, or steer it in the right direction.
+  * **Persistence** - the state of the workflow graph is stored as a checkpoint. That happens at each so-called super-step (which is a single sequential node of a graph). It enables replying certain steps of the workflow, fault-tolerance, and including human-in-the-loop interactions. This mechanism also acts as a **short-term memory** , accessible in a context of a particular workflow execution.
+  * **Long-term memory** - LangGraph also has a concept of memories that are shared between different workflow runs. However, this mechanism has to explicitly handled by our nodes. **Qdrant with its semantic search capabilities is often used as a long-term memory layer**.
+  * **Multi-agent support** - while there is no separate concept of multi-agent systems in LangGraph, it’s possible to create such an architecture by building a graph that includes multiple agents and some kind of supervisor that makes a decision which agent to use in a given situation. If a node might be anything, then it might be another agent as well.
+Some other interesting features of LangGraph include the ability to visualize the graph, automate the retries of failed steps, and include human-in-the-loop interactions.
+A minimal example of an agentic RAG could improve the user query, e.g. by fixing typos, expanding it with synonyms, or even generating a new query based on the original one. The agent could then retrieve documents from a vector database based on the improved query, and generate a response. The LangGraph app implementing this approach could look like this:
+  * **Agent** - a unit that has a specific role and goal, controlled by an LLM. It can optionally use some external tools to communicate with the outside world, but generally steered by prompt we provide to the LLM.
+  * **Process** - currently either sequential or hierarchical. It defines how the task will be executed by the agents. In a sequential process, agents are executed one after another, while in a hierarchical process, agent is selected by the manager agent, which is responsible for making decisions about which agent to use in a given situation.
+  * **Roles and goals** - each agent has a certain role within the crew, and the goal it should aim to achieve. These are set when we define an agent and are used to make decisions about which agent to use in a given situation.
+  * **Memory** - an extensive memory system consists of short-term memory, long-term memory, entity memory, and contextual memory that combines the other three. There is also user memory for preferences and personalization. **This is where Qdrant comes into play, as it might be used as a long-term memory layer.**
+CrewAI provides a rich set of tools integrated into the framework. That may be a huge advantage for those who want to combine RAG with e.g. code execution, or image generation. The ecosystem is rich, however brining your own tools is not a big deal, as CrewAI is designed to be extensible.
+A simple agentic RAG application implemented in CrewAI could look like this:
+  * **Tools/functions** - external components that can be used by agents to communicate with the outside world. They are defined as Python callables, and can be used for any external interaction we want to allow the agent to do. Type annotations are used to define the input and output of the tools, and Pydantic models are supported for more complex type schema. AutoGen supports only OpenAI-compatible tool call API for the time being.
+  * **Code executors** - built-in code executors include local command, Docker command, and Jupyter. An agent can write and launch code, so theoretically the agents can do anything that can be done in Python. None of the other frameworks made code generation and execution that prominent. Code execution being the first-class citizen in AutoGen is an interesting concept.
+Each AutoGen agent uses at least one of the components: human-in-the-loop, code executor, tool executor, or LLM. A simple agentic RAG, based on the conversation of two agents which can retrieve documents from a vector database, or improve the query, could look like this:
+  * **Human-in-the-loop** - even though we aim to build autonomous agents, it’s often important to include the feedback from the human, so our agents cannot perform malicious actions.
+  * **Observability** - how easy it is to debug the system, and how easy it is to understand what’s happening inside. Especially important, since we are dealing with lots of LLM prompts.
+Still, choosing the right toolkit depends on the state of your project, and the specific requirements you have. If you want to integrate your agent with number of external tools, CrewAI might be the best choice, as the set of out-of-the-box integrations is the biggest. However, LangGraph integrates well with LangChain, so if you are familiar with that ecosystem, it may suit you better.
+All the frameworks have different approaches to building agents, so it’s worth experimenting with all of them to see which one fits your needs the best. LangGraph and CrewAI are more mature and have more features, while AutoGen and OpenAI Swarm are more lightweight and more experimental. However, **none of the existing frameworks solves all the mentioned Information Retrieval problems** , so you still have to build your own tools to fill the gaps.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/agentic-rag/)
+                    ## 📄 `https-qdrant-tech-articles-batch-vector-search-with-qdrant.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * Mastering Batch Search for Vector Optimization
+[](https://qdrant.tech/articles/vector-search-manuals/)
+  1. Querying the database sequentially.
+  2. Using many threads/processes with individual requests.
+  3. Utilizing the batch search of Qdrant in a single request.
+  4. Combining parallel processing and batch search.
+In order to do that, we’ll create a richer collection of points, with vectors from the  _glove-25-angular_ dataset, quite a common choice for ANN comparison. If you’re interested in seeing some more details of how we benchmarked Qdrant, let’s take a 
+  1. Sequential search: 225.9 seconds
+  2. Batch search: 208.0 seconds
+  3. Multiprocessing search (8 processes): 194.2 seconds
+  4. Multiprocessing batch search (8 processes, batch size 10): 148.9 seconds
+The results you may achieve on a specific setup may vary depending on the hardware, however, at the first glance, it seems that batch searching may save you quite a lot of time.
+Additional improvements could be achieved in the case of distributed deployment, as Qdrant won’t need to make extensive inter-cluster requests. Moreover, if your requests share the same filtering condition, the query optimizer would be able to reuse it among batch requests.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/batch-vector-search-with-qdrant/)
+                    ## 📄 `https-qdrant-tech-articles-binary-quantization-openai.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * Optimizing OpenAI Embeddings: Enhance Efficiency with Qdrant's Binary Quantization
+[](https://qdrant.tech/articles/practicle-examples/)
+  * The significance of OpenAI embeddings and real-world challenges.
+  * Qdrant’s Binary Quantization, and how it can improve the performance of OpenAI embeddings
+  * Results of an experiment that highlights improvements in search efficiency and accuracy
+  * Implications of these findings for real-world applications
+  * Best practices for leveraging Binary Quantization to enhance OpenAI embeddings
+If you’re new to Binary Quantization, consider reading our article which walks you through the concept and [how to use it with Qdrant](https://qdrant.tech/articles/binary-quantization/)
+You can also try out these techniques as described in 
+  * **Oversampling** : By oversampling, we can limit the loss of information inherent in quantization. This also helps to preserve the semantic richness of your OpenAI embeddings. We experimented with different oversampling factors, and identified the impact on the accuracy and efficiency of search. Spoiler: higher oversampling factors tend to improve the accuracy of searches. However, they usually require more computational resources.
+  * **Rescoring** : Rescoring refines the first results of an initial binary search. This process leverages the original high-dimensional vectors to refine the search results, **always** improving accuracy. We toggled rescoring on and off to measure effectiveness, when combined with Binary Quantization. We also measured the impact on search performance.
+  * **Search Limits** : We specify the number of results from the search process. We experimented with various search limits to measure their impact the accuracy and efficiency. We explored the trade-offs between search depth and performance. The results provide insight for applications with different precision and speed requirements.
+Through this detailed setup, our experiment sought to shed light on the nuanced interplay between Binary Quantization and the high-quality embeddings produced by OpenAI’s models. By meticulously adjusting and observing the outcomes under different conditions, we aimed to uncover actionable insights that could empower users to harness the full potential of Qdrant in combination with OpenAI’s embeddings, regardless of their specific application needs.
+     * For the `text-embedding-3-large` model with 3072 dimensions, rescoring boosts the accuracy from an average of about 76-77% without rescoring to 97-99% with rescoring, depending on the search limit and oversampling rate.
+     * The accuracy improvement with increased oversampling is more pronounced when rescoring is enabled, indicating a better utilization of the additional binary codes in refining search results.
+     * With the `text-embedding-3-small` model at 512 dimensions, accuracy increases from around 53-55% without rescoring to 71-91% with rescoring, highlighting the significant impact of rescoring, especially at lower dimensions.
+In contrast, for lower dimension models (such as text-embedding-3-small with 512 dimensions), the incremental accuracy gains from increased oversampling levels are less significant, even with rescoring enabled. This suggests a diminishing return on accuracy improvement with higher oversampling in lower dimension spaces.
+     * The performance gain from rescoring seems to be relatively stable across different search limits, suggesting that rescoring consistently enhances accuracy regardless of the number of top results considered.
+In summary, enabling rescoring dramatically improves search accuracy across all tested configurations. It is crucial feature for applications where precision is paramount. The consistent performance boost provided by rescoring underscores its value in refining search results, particularly when working with complex, high-dimensional data like OpenAI embeddings. This enhancement is critical for applications that demand high accuracy, such as semantic search, content discovery, and recommendation systems, where the quality of search results directly impacts user experience and satisfaction.
+  1. **Model Name** : Signifying the specific text embedding model variant, such as “text-embedding-3-large” or “text-embedding-3-small”. This distinction correlates with the model’s capacity, with “large” models offering more detailed embeddings at the cost of increased computational resources.
+  2. **Dimensions** : This refers to the size of the vector embeddings produced by the model. Options range from 512 to 3072 dimensions. Higher dimensions could lead to more precise embeddings but might also increase the search time and memory usage in Qdrant.
+Optimizing these parameters is a balancing act between search accuracy and resource efficiency. Testing across these combinations allows users to identify the configuration that best meets their specific needs, considering the trade-offs between computational resources and the quality of search results.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/binary-quantization-openai/)
+                    ## 📄 `https-qdrant-tech-articles-binary-quantization.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * Binary Quantization - Vector Search, 40x Faster
+[](https://qdrant.tech/articles/qdrant-internals/)
+  1. We store all the “full” vectors on disk.
+  2. Then we set the binary embeddings to be in RAM.
+By default, both the full vectors and BQ get stored in RAM. We move the full vectors to disk because this saves us memory and allows us to store more vectors in RAM. By doing this, we explicitly move the binary vectors to memory by setting `always_ram=True`.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/binary-quantization/)
+                    ## 📄 `https-qdrant-tech-articles-cross-encoder-integration-gsoc.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * Qdrant Summer of Code 2024 - ONNX Cross Encoders in Python
+[](https://qdrant.tech/articles/machine-learning/)
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/cross-encoder-integration-gsoc/)
+                    ## 📄 `https-qdrant-tech-articles-data-exploration.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/data-exploration/)
+                    ## 📄 `https-qdrant-tech-articles-data-privacy.md`
+  1. **Admin or Owner:** with full access, and can generate API keys.
+  2. **Editor:** with read-write access levels to specific collections.
+  3. **Viewer:** with read-only access to specific collections.
+  4. **Data Scientist or Analyst:** with read-only access to specific collections.
+  5. **Developer:** with read-write access to development- or testing-specific collections, but limited access to production data.
+  6. **Guest:** with limited read-only access to publicly available collections.
+In addition, you can create access levels within sections of a collection. In a multi-tenant application, where you have used payload-based partitioning, you can create read-only access for specific user roles for a subset of the collection that belongs to that user.
+Your application requirements will eventually help you decide the roles and access levels you should create. For example, in an application managing customer data, you could create additional roles such as:
+**Customer Support Representative** : read-write access to customer service-related data but no access to billing information.
+**Billing Department** : read-only access to billing data and read-write access to payment records.
+**Marketing Analyst** : read-only access to anonymized customer data for analytics.
+Each role can be assigned a JWT with claims that specify expiration times, read/write permissions for collections, and validating conditions.
+In such an application, an example JWT payload for a customer support representative role could be:
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/data-privacy/)
+                    ## 📄 `https-qdrant-tech-articles-dedicated-vector-search.md`
+  * [**GPU-Accelerated Indexing**](https://qdrant.tech/blog/qdrant-1.13.x/#gpu-accelerated-indexing)  
+By offloading index construction tasks to the GPU, Qdrant can significantly speed up the process of data indexing while keeping costs low. This becomes especially valuable when working with large datasets in hot data scenarios.
+GPU acceleration in Qdrant is a custom solution developed by an enthusiast from our core team. It’s vendor-free and natively supports all Qdrant’s unique architectural features, from FIlterable HNSW to multivectors.
+  * [**Multivectors**](https://qdrant.tech/documentation/concepts/vectors/?q=multivectors#multivectors)  
+Some modern embedding models produce an entire matrix (a list of vectors) as output rather than a single vector. Qdrant supports multivectors natively.
+This feature is critical when using state-of-the-art retrieval models such as [**ColBERT**](https://qdrant.tech/documentation/fastembed/fastembed-colbert/), ColPali, or ColQwen. For instance, ColPali and ColQwen produce multivector outputs, and supporting them natively is crucial for [**state-of-the-art (SOTA) PDF-retrieval**](https://qdrant.tech/documentation/advanced-tutorials/pdf-retrieval-at-scale/).
+In addition to that, we continuously look for improvements in:
+**Memory Efficiency & Compression** | Techniques such as [**quantization**](https://qdrant.tech/articles/dedicated-vector-search/documentation/guides/quantization/) and [**HNSW compression**](https://qdrant.tech/blog/qdrant-1.13.x/#hnsw-graph-compression) to reduce storage requirements  
+---|---  
+**Retrieval Algorithms** | Support for the latest retrieval algorithms, including [**sparse neural retrieval**](https://qdrant.tech/articles/modern-sparse-neural-retrieval/), [**hybrid search**](https://qdrant.tech/documentation/concepts/hybrid-queries/) methods, and [**re-rankers**](https://qdrant.tech/documentation/fastembed/fastembed-rerankers/).  
+**Vector Data Analysis & Visualization** | Tools like the [**distance matrix API**](https://qdrant.tech/blog/qdrant-1.12.x/#distance-matrix-api-for-data-insights) provide insights into vectorized data, and a [**Web UI**](https://qdrant.tech/blog/qdrant-1.11.x/#web-ui-search-quality-tool) allows for intuitive exploration of data.  
+**Search Speed & Scalability** | Includes optimizations for [**multi-tenant environments**](https://qdrant.tech/articles/multitenancy/) to ensure efficient and scalable search.  
+**These advancements are not just incremental improvements — they define the difference between a system optimized for vector search and one that accommodates it.**
+Staying at the cutting edge of vector search is not just about performance — it’s also about keeping pace with an evolving AI landscape.
+  * **High-Volume, Real-Time Search** : Ideal for applications with many simultaneous users who require fast, continuous access to search results—think search engines, e-commerce recommendations, social media, or media streaming services.
+  * **Dynamic, Unstructured Data** : Perfect for scenarios where data is continuously evolving and where the goal is to discover insights from data patterns.
+  * **Innovative Applications** : If you’re looking to implement advanced use cases such as recommendation engines, hybrid search solutions, or exploratory data analysis where traditional exact or token-based searches hold short.
+Investing in a dedicated vector search engine will deliver the performance and flexibility necessary for success if your application relies on vector search at scale, keeps up with trends, or requires more than just a simple small-scale similarity search.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/dedicated-vector-search/)
+                    ## 📄 `https-qdrant-tech-articles-detecting-coffee-anomalies.md`
+  * Data-hungry - requiring quite a number of labeled data;
+  * Expensive - data labeling is an expensive task itself;
+  * Time-consuming - you would try to obtain what is necessarily scarce;
+  * Hard to maintain - you would need to re-train the model repeatedly in response to changes in the data distribution.
+These are not desirable features if you want to put your model into production in a rapidly-changing environment. And, despite all the mentioned difficulties, they do not necessarily offer superior performance compared to the alternatives. In this post, we will detail the lessons learned from such a use case.
+  * We can benefit from unlabeled data, considering labeling is time-consuming and expensive.
+  * The relevant metric, e.g., precision or recall, can be tuned according to changing requirements during the inference without re-training.
+  * Queries labeled with a high score can be added to the KNN classifier on the fly as new data points.
+To apply metric learning, we need to have a neural encoder, a model capable of transforming an image into a vector.
+Training such an encoder from scratch may require a significant amount of data we might not have. Therefore, we will divide the training into two steps:
+  * The first step is to train the autoencoder, with which we will prepare a model capable of representing the target domain.
+  * The second step is finetuning. Its purpose is to train the model to distinguish the required types of anomalies.
+![Model training architecture](https://qdrant.tech/articles_data/detecting-coffee-anomalies/anomaly_detection_training.png)
+Model training architecture
+  * Collect more unlabeled data and pretrain a larger autoencoder.
+  * Obtain high-quality labels for a small number of images instead of tens of thousands for finetuning.
+  * Use hyperparameter optimization and possibly gradual unfreezing in the finetuning step.
+  * Use 
+We are actively looking into these, and we will continue to publish our findings in this challenge and other use cases of metric learning.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/detecting-coffee-anomalies/)
+                    ## 📄 `https-qdrant-tech-articles-dimension-reduction-qsoc.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * Qdrant Summer of Code 2024 - WASM based Dimension Reduction
+[](https://qdrant.tech/articles/ecosystem/)
+  1. **Computing Pairwise Similarity:** This step involves calculating the similarity between each pair of data points in the original high-dimensional space.
+  2. **Iterative Optimization:** The second step is iterative, where the embedding is refined using gradient descent. Here, the similarity matrix from the first step plays a crucial role.
+At the outset, Andrey tasked me with rewriting the existing JavaScript implementation of t-SNE in Rust, introducing multi-threading along the way. Setting up WASM with Vite for multi-threaded execution was no small feat, but the effort paid off. The resulting Rust implementation outperformed the single-threaded JavaScript version, although it still struggled with large datasets.
+Next came the challenge of optimizing the algorithm further. A key aspect of t-SNE’s first step is finding the nearest neighbors for each data point, which requires an efficient data structure. I opted for a 
+To illustrate, imagine dividing a 2D space into quadrants, each containing multiple points. Every quadrant is again subdivided into four quadrants. This is done until every point belongs to a single cell.
+![Calculating the resultant force on red point using Barnes-Hut approximation](https://qdrant.tech/articles_data/dimension-reduction-qsoc/barnes_hut.png)
+Barnes-Hut Approximation
+We then calculate the center of mass for each cell represented by a blue circle as shown in the figure. Now let’s say we want to find all the forces, represented by dotted lines, on the red point. Barnes Hut’s approximation states that for points that are sufficiently distant, instead of computing the force for each individual point, we use the center of mass as a proxy, significantly reducing the computational load. This is represented by the blue dotted line in the figure.
+These optimizations made a remarkable difference — Barnes-Hut t-SNE was eight times faster than the exact t-SNE for 10,000 vectors.
+![Image of visualizing 10,000 vectors using exact t-SNE which took 884.728s](https://qdrant.tech/articles_data/dimension-reduction-qsoc/rust_rewrite.jpg)
+Exact t-SNE - Total time: 884.728s
+![Image of visualizing 10,000 vectors using Barnes-Hut t-SNE which took 110.728s](https://qdrant.tech/articles_data/dimension-reduction-qsoc/rust_bhtsne.jpg)
+Barnes-Hut t-SNE - Total time: 104.191s
+Despite these improvements, the first step of the algorithm was still a bottleneck, leading to noticeable delays and blank screens. I experimented with approximate nearest neighbor algorithms, but the performance gains were minimal. After consulting with my mentor, we decided to compute the nearest neighbors on the server side, passing the distance matrix directly to the visualization process instead of the raw vectors.
+While waiting for the distance-matrix API to be ready, I explored further optimizations. I observed that the worker thread sent results to the main thread for rendering at specific intervals, causing unnecessary delays due to serialization and deserialization.
+![Image showing serialization and deserialization overhead due to message passing between threads](https://qdrant.tech/articles_data/dimension-reduction-qsoc/channels.png)
+Serialization and Deserialization Overhead
+To address this, I implemented a `SharedArrayBuffer`, allowing the main thread to access changes made by the worker thread instantly. This change led to noticeable improvements.
+Additionally, the previous architecture resulted in choppy animations due to the fixed intervals at which the worker thread sent results.
+![Image showing the previous architecture of the frontend with fixed intervals for sending results](https://qdrant.tech/articles_data/dimension-reduction-qsoc/prev_arch.png)
+Previous architecture with fixed intervals
+I introduced a “rendering-on-demand” approach, where the main thread would signal the worker thread when it was ready to render the next result. This created smoother, more responsive animations.
+![Image showing the current architecture of the frontend with rendering-on-demand approach](https://qdrant.tech/articles_data/dimension-reduction-qsoc/curr_arch.png)
+Current architecture with rendering-on-demand
+With these optimizations in place, the final step was wrapping up the project by creating a Node.js 
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/dimension-reduction-qsoc/)
+                    ## 📄 `https-qdrant-tech-articles-discovery-search.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * Discovery needs context
+[](https://qdrant.tech/articles/data-exploration/)
+  * **target** : the main point of interest
+  * **context** : the pairs of positive and negative points we just defined.
+However, it is not the only way to use it. Alternatively, you can **only** provide a context, which invokes a [**Context Search**](https://qdrant.tech/articles/discovery-search/#context-search). This is useful when you want to explore the space defined by the context, but don’t have a specific target in mind. But hold your horses, we’ll get to that [later ↪](https://qdrant.tech/articles/discovery-search/#context-search).
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/discovery-search/)
+                    ## 📄 `https-qdrant-tech-articles-distance-based-exploration.md`
+  1. _Randomly generate points in 2D space_ : Assign a random 2D point to each high-dimensional point.
+  2. _Compute distance matrix for high-dimensional points_ : Calculate distances between all pairs of points.
+  3. _Compute distance matrix for 2D points_ : Perform similarly to step 2.
+  4. _Match both distance matrices_ : Adjust 2D points to minimize differences.
+![UMAP](https://qdrant.tech/articles_data/distance-based-exploration/umap.png)
+Canonical example of UMAP results, 
+UMAP preserves the relative distances between high-dimensional points; the actual coordinates are not essential. If we already have the distance matrix, step 2 can be skipped entirely.
+Let’s use Qdrant to calculate the distance matrix and apply UMAP. We will use one of the default datasets perfect for experimenting in Qdrant–
+Use this command to download and import the dataset into Qdrant:
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/distance-based-exploration/)
+                    ## 📄 `https-qdrant-tech-articles-ecosystem.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/ecosystem/)
+                    ## 📄 `https-qdrant-tech-articles-fastembed.md`
+  1. 50% faster than PyTorch Transformers
+  2. Better performance than Sentence Transformers and OpenAI Ada-002
+  3. Cosine similarity of quantized and original model vectors is 0.92
+We use `BAAI/bge-small-en-v1.5` as our DefaultEmbedding, hence we’ve chosen that for comparison:
+![](https://qdrant.tech/articles_data/fastembed/throughput.png)
+>   * onnx: Version ^1.11 – We’ll try to drop this also in the future if we can!
+>   * onnxruntime: Version ^1.15
+>   * tqdm: Version ^4.65 – used only at Download
+>   * requests: Version ^2.31 – used only at Download
+>   * tokenizers: Version ^0.13
+> 
+This minimized list serves two purposes. First, it significantly reduces the installation time, allowing for quicker deployments. Second, it limits the amount of disk space required, making it a viable option even for environments with storage limitations.
+Notably absent from the dependency list are bulky libraries like PyTorch, and there’s no requirement for CUDA drivers. This is intentional. FastEmbed is engineered to deliver optimal performance right on your CPU, eliminating the need for specialized hardware or complex setups.
+**ONNXRuntime** : The ONNXRuntime gives us the ability to support multiple providers. The quantization we do is limited for CPU (Intel), but we intend to support GPU versions of the same in the future as well. This allows for greater customization and optimization, further aligning with your specific performance and computational requirements.
+  1. **Cloud** : Get started with a free plan on the 
+  2. **Docker Container** : If you’re the DIY type, you can set everything up on your own machine. Here’s a quick guide to help you out: [Quick Start with Docker](https://qdrant.tech/documentation/quick-start/?utm_source=qdrant&utm_medium=website&utm_campaign=fastembed&utm_content=article).
+So, go ahead, take it for a test drive. We’re excited to hear what you think!
+Lastly, If you find FastEmbed useful and want to keep up with what we’re doing, giving our GitHub repo a star would mean a lot to us. Here’s the link to 
+If you ever have questions about FastEmbed, please ask them on the Qdrant Discord: 
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/fastembed/)
+                    ## 📄 `https-qdrant-tech-articles-filtrable-hnsw.md`
+  * Categorical filtering
+    * Select only points in a specific category
+    * Select points which belong to a specific subset of categories
+    * Select points with a specific set of labels
+  * Numerical range
+  * Selection within some geographical region
+In the first case, we can guarantee that the HNSW graph will be connected simply by creating additional edges inside each category separately, using the same graph construction algorithm, and then combining them into the original graph. In this case, the total number of edges will increase by no more than 2 times, regardless of the number of categories.
+Second case is a little harder. A connection may be lost between two categories if they lie in different clusters.
+![category clusters](https://qdrant.tech/articles_data/filtrable-hnsw/hnsw_graph_category.png)
+The idea here is to build same navigation graph but not between nodes, but between categories. Distance between two categories might be defined as distance between category entry points (or, for precision, as the average distance between a random sample). Now we can estimate expected graph connectivity by number of excluded categories, not nodes. It still does not guarantee that two random categories will be connected, but allows us to switch to multiple searches in each category if connectivity threshold passed. In some cases, multiple searches can be even faster if you take advantage of parallel processing.
+![Dependency of connectivity to the random categories included in search](https://qdrant.tech/articles_data/filtrable-hnsw/exp_random_groups.png)
+Dependency of connectivity to the random categories included in search
+Third case might be resolved in a same way it is resolved in classical databases. Depending on labeled subsets size ration we can go for one of the following scenarios:
+  * if at least one subset is small: perform search over the label containing smallest subset and then filter points consequently.
+  * if large subsets give large intersection: perform regular search with constraints expecting that intersection size fits connectivity threshold.
+  * if large subsets give small intersection: perform linear search over intersection expecting that it is small enough to fit a time frame.
+Numerical range case can be reduces to the previous one if we split numerical range into a buckets containing equal amount of points. Next we also connect neighboring buckets to achieve graph connectivity. We still need to filter some results which presence in border buckets but do not fulfill actual constraints, but their amount might be regulated by the size of buckets.
+Geographical case is a lot like a numerical one. Usual geographical search involves 
+![Geohash example](https://qdrant.tech/articles_data/filtrable-hnsw/geohash.png)
+We can use this identifiers as categories and additionally make connections between neighboring geohashes. It will ensure that any selected geographical region will also contain connected HNSW graph.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/filtrable-hnsw/)
+                    ## 📄 `https-qdrant-tech-articles-food-discovery-demo.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/food-discovery-demo/)
+                    ## 📄 `https-qdrant-tech-articles-gridstore-key-value-storage.md`
+  * **How Gridstore works** – a deep dive into its architecture and mechanics.
+  * **Why we built it this way** – the key design decisions that shaped it.
+  * **Rigorous testing** – how we ensured the new storage is production-ready.
+  * **Performance benchmarks** – official metrics that demonstrate its efficiency.
+**Our first challenge?** Figuring out the best way to handle sequential keys and variable-sized data.
+  * **The Data Layer** holds the data and associates each key with its location in storage, including page ID, block offset, and the size of its value.
+  * **The Mask Layer** keeps track of which blocks are occupied and which are free.
+  * **The Gaps Layer** provides an indexed view of free blocks for efficient space allocation.
+Every time a new value is inserted or an existing value is updated, all these components need to be modified in a coordinated way.
+  1. Initialize a Gridstore instance and an empty hash map.
+  2. Run random operations (put, delete, update) on both.
+  3. Verify that results match after each operation.
+  4. Compare all keys and values to ensure consistency.
+This approach provides high test coverage, exposing issues like incorrect persistence or faulty deletions. Running large-scale model tests ensures Gridstore remains reliable in real-world use.
+Here is a naive way to generate operations in Rust.
+  * Missing data (points, vectors, or payloads)
+  * Corrupt payload values
+This aggressive yet simple approach has uncovered real-world issues when run for extended periods. While we also use chaos testing for distributed setups, Crasher excels at fast, repeatable failure testing in a local environment.
+  * A medium to large payload
+  * A tiny dense vector (dense vectors use a different storage type)
+  * A sparse vector
+* * *
+  * Gridstore: 2333MB
+  * RocksDB: 2319MB
+Strictly speaking, RocksDB is slightly smaller, but the difference is negligible compared to the 2x faster ingestion and more stable throughput. A small trade-off for a big performance gain!
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/gridstore-key-value-storage/)
+                    ## 📄 `https-qdrant-tech-articles-hybrid-search.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/hybrid-search/)
+                    ## 📄 `https-qdrant-tech-articles-immutable-data-structures.md`
+  * making the number of buckets bigger so the probability of collision is lower
+  * using a linked list or a tree to store multiple elements with the same hash
+However, these strategies have overheads, which become more significant if we consider using high-latency storage like disk.
+Indeed, every read operation from disk is several orders of magnitude slower than reading from RAM, so we want to know the correct location of the data from the first attempt.
+In order to achieve this, we can use a so-called minimal perfect hash function (MPHF). This special type of hash function is constructed specifically for a given set of keys, and it guarantees no collisions while using minimal amount of buckets.
+In Qdrant, we decided to use _fingerprint-based minimal perfect hash function_ implemented in the 
+Volume | `ph::Function` | `std::hash::Hash` | `HashMap::get`  
+---|---|---|---  
+1000 | 60ns | ~20ns | 34ns  
+100k | 90ns | ~20ns | 220ns  
+10M | 238ns | ~20ns | 500ns  
+Even thought the absolute time for hashing is higher, the time for the whole operation is lower, because PHF guarantees no collisions. The difference is even more significant when we consider disk read time, which might up to several milliseconds (10^6 ns).
+PHF RAM size scales linearly for `ph::Function`: 3.46 kB for 10k elements, 119MB for 350M elements. The construction time required to build the hash function is surprisingly low, and we only need to do it once:
+Volume |  `ph::Function` (construct) | PHF size | Size of int64 keys (for reference)  
+---|---|---|---  
+1M | 52ms | 0.34Mb | 7.62Mb  
+100M | 7.4s | 33.7Mb | 762.9Mb  
+The usage of PHF in Qdrant lets us minimize the latency of cold reads, which is especially important for large-scale multi-tenant systems. With PHF, it is enough to read a single page from a disk to get the exact location of the data.
+  * **Higher update costs:** Immutable structures are less efficient for updates. The amortized time complexity might be the same as mutable structures, but the constant factor is higher.
+  * **Rebuilding overhead:** In some cases, we may need to rebuild indices or structures for the same data more than once.
+  * **Read-heavy workloads:** Immutability assumes a search-heavy workload, which is typical for search engines but not for all applications.
+In Qdrant, we mitigate these downsides by allowing the user to adapt the system to their specific workload. For example, changing the default size of the segment might help to reduce the overhead of rebuilding indices.
+In extreme cases, multi-segment storage can act as a single segment, falling back to the mutable data structure when needed.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/immutable-data-structures/)
+                    ## 📄 `https-qdrant-tech-articles-indexing-optimization.md`
+  * **Disable HNSW indexing**
+To reduce memory and CPU pressure during bulk ingestion, you can **disable HNSW indexing entirely** by setting `"m": 0`. For dense vectors, the `m` parameter defines how many edges each node in the HNSW graph can have. This way, no dense vector index will be built, preventing unnecessary CPU usage during ingestion.
+**Figure 1:** A description of three key HNSW parameters.
+![](https://qdrant.tech/articles_data/indexing-optimization/hnsw-parameters.png)
+  * **Disabling optimizations completely**
+The `indexing_threshold` tells Qdrant how many unindexed dense vectors can accumulate in a segment before building the HNSW graph. Setting `"indexing_threshold"=0` defers indexing entirely, keeping **ingestion speed at maximum**. However, this means uploaded vectors are not moved to disk while uploading, which can lead to **high RAM usage**.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/indexing-optimization/)
+                    ## 📄 `https-qdrant-tech-articles-io-uring.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/io_uring/)
+                    ## 📄 `https-qdrant-tech-articles-machine-learning.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/machine-learning/)
+                    ## 📄 `https-qdrant-tech-articles-memory-consumption.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/memory-consumption/)
+                    ## 📄 `https-qdrant-tech-articles-modern-sparse-neural-retrieval.md`
+  * The SPARTA model is not sparse enough by construction, so authors of the SPLADE family of models introduced explicit **sparsity regularisation** , preventing the model from producing too many non-zero values.
+  * The SPARTA model mostly uses the BERT model as-is, without any additional neural network to capture the specifity of Information Retrieval problem, so SPLADE models introduce a trainable neural network on top of BERT with a specific architecture choice to make it perfectly fit the task.
+  * SPLADE family of models, finally, uses **knowledge distillation** , which is learning from a bigger (and therefore much slower, not-so-fit for production tasks) model how to predict good representations.
+One of the last versions of the SPLADE family of models is   
+SPLADE++, opposed to SPARTA model, expands not only documents but also queries at inference time. We’ll demonstrate this in the next section.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/modern-sparse-neural-retrieval/)
+                    ## 📄 `https-qdrant-tech-articles-multitenancy.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/multitenancy/)
+                    ## 📄 `https-qdrant-tech-articles-neural-search-tutorial.md`
+### Step 3: Upload data to Qdrant
+Now once we have the vectors prepared and the search engine running, we can start uploading the data. To interact with Qdrant from python, I recommend using an out-of-the-box client library.
+To install it, use the following command
+At this point, we should have startup records in file `startups.json`, encoded vectors in file `startup_vectors.npy`, and running Qdrant on a local machine. Let’s write a script to upload all startup data and vectors into the search engine.
+First, let’s create a client object for Qdrant.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/neural-search-tutorial/)
+                    ## 📄 `https-qdrant-tech-articles-practicle-examples.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/practicle-examples/)
+                    ## 📄 `https-qdrant-tech-articles-product-quantization-clustering.md`
+  * Deployment in a low-RAM environment where the limiting factor is the number of disk reads rather than the vector comparison itself
+  * Situations where the dimensionality of the original vectors is sufficiently high
+  * Cases where indexing speed is not a critical factor
+In circumstances that do not align with the above, Scalar Quantization should be the preferred choice.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/product-quantization/)
+                    ## 📄 `https-qdrant-tech-articles-product-quantization-cutting-the-vector-into-pieces.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/qdrant-internals/)
+                    ## 📄 `https-qdrant-tech-articles-rag-and-genai.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/rag-and-genai/)
+                    ## 📄 `https-qdrant-tech-articles-rapid-rag-optimization-with-qdrant-and-quotient.md`
+  1. **Irrelevance and Hallucinations** : When the documents retrieved are irrelevant, evidenced by low scores in both Chunk Relevance and Context Relevance, the model is prone to generating inaccurate or fabricated information.
+  2. **Optimizing Document Retrieval** : By retrieving a greater number of documents and reducing the chunk size, we observed improved outcomes in the model’s performance.
+  3. **Adaptive Retrieval Needs** : Certain queries may benefit from accessing more documents. Implementing a dynamic retrieval strategy that adjusts based on the query could enhance accuracy.
+  4. **Influence of Model and Prompt Variations** : Alterations in language models or the prompts used can significantly impact the quality of the generated responses, suggesting that fine-tuning these elements could optimize performance.
+Let us walk you through how we arrived at these findings!
+  * **Chunk size**
+  * **Chunk overlap**
+  * **Embedding model**
+  * **Number of documents retrieved (retrieval window)**
+Following the ingestion of data in Qdrant, we proceed to retrieve pertinent documents corresponding to each query. These documents are then seamlessly integrated into our evaluation dataset, enriching the contextual information within the designated **`context`**column to fulfil the evaluation aspect.
+Next we define methods to take care of logistics with respect to adding documents to Qdrant
+  * **Embedding Model:`bge-small-en`**
+  * **Chunk size:`512`**
+  * **Chunk overlap:`64`**
+  * **Number of docs retrieved (Retireval Window):`3`**
+  * **LLM:`Mistral-7B-Instruct`**
+We’ll process our documents based on configuration above and ingest them into Qdrant using `add_documents` method introduced earlier
+  * **Embedding Model :`bge-small-en`**
+  * **Chunk size:`1024`**
+  * **Chunk overlap:`128`**
+  * **Number of docs retrieved (Retireval Window):`3`**
+  * **LLM:`Mistral-7B-Instruct`**
+We will reprocess the data with the updated parameters above:
+  * **Embedding Model :`bge-small-en`**
+  * **Chunk size:`512`**
+  * **Chunk overlap:`64`**
+  * **Number of docs retrieved (Retrieval Window):`5`**
+  * **LLM: :`Mistral-7B-Instruct`**
+We can use the collection from Experiment 1 and run evaluation with modified `num_docs` parameter as :
+  * **Embedding Model :`MiniLM-L6-v2`**
+  * **Chunk size:`512`**
+  * **Chunk overlap:`64`**
+  * **Number of docs retrieved (Retrieval Window):`5`**
+  * **LLM: :`Mistral-7B-Instruct`**
+We will have to create another collection for this experiment :
+  * **Embedding Model :`bge-small-en`**
+  * **Chunk size:`512`**
+  * **Chunk overlap:`64`**
+  * **Number of docs retrieved (Retrieval Window):`5`**
+  * **LLM: :`GPT-3.5-turbo`**
+For this we can repurpose our collection from Experiment 3 while the evaluations to use a new recipe with **GPT-3.5-turbo** model.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/rapid-rag-optimization-with-qdrant-and-quotient/)
+                    ## 📄 `https-qdrant-tech-articles-scalar-quantization-accessing-best-practices.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/scalar-quantization/)
+                    ## 📄 `https-qdrant-tech-articles-scalar-quantization-benchmarks.md`
+#### Distance calculation
+We do not store the vectors in the collections represented by `int8` instead of `float32` just for the sake of compressing the memory. But the coordinates are being used while we calculate the distance between the vectors. Both dot product and cosine distance requires multiplying the corresponding coordinates of two vectors, so that’s the operation we perform quite often on `float32`. Here is how it would look like if we perform the conversion to `int8`:
+f32×f32′= =(α×i8+offset)×(α×i8′+offset)= =α2×i8×i8′+offset×α×i8′+offset×α×i8+offset2⏟pre-compute
+The first term, $ \alpha^{2} \times i8 \times i8’ $ has to be calculated when we measure the distance as it depends on both vectors. However, both the second and the third term ($ offset \times \alpha \times i8’ $ and $ offset \times \alpha \times i8 $ respectively), depend only on a single vector and those might be precomputed and kept for each vector. The last term, $ offset^{2} $ does not depend on any of the values, so it might be even computed once and reused.
+If we had to calculate all the terms to measure the distance, the performance could have been even worse than without the conversion. But thanks for the fact we can precompute the majority of the terms, things are getting simpler. And in turns out the scalar quantization has a positive impact not only on the memory usage, but also on the performance. As usual, we performed some benchmarks to support this statement!
+                    ## 📄 `https-qdrant-tech-articles-scalar-quantization-scalar-quantization.md`
+  1. Text matches in titles
+  2. Text matches in body (paragraphs or lists)
+  3. Semantic matches in titles
+  4. Any Semantic matches
+Those are put together by taking them in the above order, deduplicating as necessary.
+![merge workflow](https://qdrant.tech/articles_data/search-as-you-type/sayt_merge.png)
+Instead of sending a `search` or `recommend` request, one can also send a `search/batch` or `recommend/batch` request, respectively. Each of those contain a `"searches"` property with any number of search/recommend JSON requests:
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/search-as-you-type/)
+                    ## 📄 `https-qdrant-tech-articles-search-feedback-loop.md`
+  1. How accurately can the automated judge determine relevance (or irrelevance)?
+  2. How cost-efficient is it? After all, you can’t expect GPT-4o to re-rank thousands of documents for every user query — unless you’re filthy rich.
+Nevertheless, automated re-scored feedback could be a scalable way to improve search when explicit binary feedback is not accessible.
+  1. Query
+  2. Documents
+  3. Similarity scoring between them.
+![Research Field Taxonomy Overview](https://qdrant.tech/articles_data/search-feedback-loop/taxonomy-overview.png)
+Research Field Taxonomy Overview
+Query formulation is a subjective process – it can be done in infinite configurations, making the relevance of a document unpredictable until the query is formulated and submitted to the system.
+So, adapting documents (or the search index) to relevance feedback would require per-request dynamic changes, which is impractical, considering that modern retrieval systems store billions of documents.
+Thus, approaches for incorporating relevance feedback in search fall into two categories: **refining a query** and **refining the similarity scoring function** between the query and documents.
+  1. Either extract the **most frequent** terms from (pseudo-)relevant documents;
+  2. Or the **most specific** ones (for example, according to IDF);
+  3. Or the **most probable** ones (most likely to be in query according to a relevance set).
+Well-known methods of those times come from the family of 
+The most famous one, `RM3` – interpolation of expansion terms probability with their probability in a query – is still appearing in papers of the last few years as a (noticeably decent) baseline in term-based retrieval, usually as part of 
+![Simplified Query Expansion](https://qdrant.tech/articles_data/search-feedback-loop/relevance-models.png)
+Simplified Query Expansion
+With the time approaching the modern machine learning era, 
+Started with simple classifiers based on hand-crafted features, this trend naturally led to use the famous `BERT-QE` (Query Expansion) authors came up with this schema:
+  1. Get pseudo-relevance feedback from the finetuned BERT reranker (~10 documents);
+  2. Chunk these pseudo-relevant documents (~100 words) and score query-chunk relevance with the same reranker;
+  3. Expand the query with the most relevant chunks;
+  4. Rerank 1000 documents with the reranker using the expanded query.
+This approach significantly outperformed BM25 + RM3 baseline in experiments (+11% NDCG@20). However, it required **11.01x** more computation than just using BERT for reranking, and reranking 1000 documents with BERT would take around 9 seconds alone.
+Query term expansion can _hypothetically_ work for neural retrieval as well. New terms might shift the query vector closer to that of the desired document. However, 
+It definitely works if **query refining is done by a model operating in the same vector space** , which typically requires offline training of a retriever. The goal is to extend the query encoder input to also include feedback documents, producing an adjusted query embedding. Examples include 
+![Generating a new relevance-aware query vector](https://qdrant.tech/articles_data/search-feedback-loop/updated-encoder.png)
+Generating a new relevance-aware query vector
+The reason why you’re most probably not familiar with these models – their absence in the industry – is that their **training** itself is a **high upfront cost** , and even though it was “paid”, these models 
+Alternatively, one could skip a step — and work directly with vectors.
+  1. **Training rerankers offline** to ingest relevance feedback as an additional input at inference time, 
+  2. **Finetuning rerankers** on relevance feedback from the first retrieval stage, 
+The biggest limitation here is that these reranker-based methods cannot retrieve relevant documents beyond those returned in the initial search, and using rerankers on thousands of documents in production is a no-go – it’s too expensive. Ideally, to avoid that, a similarity scoring function updated with relevance feedback should be used directly in the second retrieval iteration. However, in every research paper we’ve come across, retrieval systems are **treated as black boxes** — ingesting queries, returning results, and offering no built-in mechanism to modify scoring.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/search-feedback-loop/)
+                    ## 📄 `https-qdrant-tech-articles-semantic-cache-ai-data-retrieval.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/semantic-cache-ai-data-retrieval/)
+                    ## 📄 `https-qdrant-tech-articles-serverless.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/serverless/)
+                    ## 📄 `https-qdrant-tech-articles-sparse-vectors.md`
+  1. Contextually relevant: Terms that represent a document well should be given more weight.
+  2. Discriminative across documents: Terms that a document has, and other documents don’t, should be given more weight.
+The token-level distributions that you’d expect in a standard transformer model are now transformed into token-level importance scores in SPLADE. These scores reflect the significance of each term in the context of the document or query, guiding the model to allocate more weight to terms that are likely to be more meaningful for retrieval purposes.
+The resulting sparse vectors are not only memory-efficient but also tailored for precise matching in the high-dimensional space of a search engine like Qdrant.
+  1. Problem Motivation: 
+  2. Late Interaction - 
+**Why just read when you can try it out?**
+We’ve packed an easy-to-use Colab for you on how to make a Sparse Vector: 
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/sparse-vectors/)
+                    ## 📄 `https-qdrant-tech-articles-storing-multiple-vectors-per-object-in-qdrant.md`
+  * Qdrant 0.10 introduces efficient vector storage optimization, allowing seamless management of multiple vectors per object within a single collection.
+  * This update streamlines semantic search capabilities by eliminating the need for separate collections for each vector type, enhancing search accuracy and performance.
+  * With Qdrant’s new features, users can easily configure vector parameters, including size and distance functions, for each vector type, optimizing search results and user experience.
+If you’d like to check out some other examples, please check out our 
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/storing-multiple-vectors-per-object-in-qdrant/)
+                    ## 📄 `https-qdrant-tech-articles-vector-search-filtering.md`
+  1. With filtering in Qdrant, you can **dramatically increase search precision**. More on this in the next section.  
+  2. Filtering helps control resources and **reduce compute use**. More on this in [**Payload Indexing**](https://qdrant.tech/articles/vector-search-filtering/#filtering-with-the-payload-index).
+  * the “t-rex” matches food=meat on `diet[1].food` and likes=true on `diet[1].likes`
+  * the “diplodocus” matches food=meat on `diet[1].food` and likes=true on `diet[0].likes`
+To retrieve only the points where the conditions apply to a specific element within an array (such as the point with id 1 in this example), you need to use a nested object filter.
+Nested object filters enable querying arrays of objects independently, ensuring conditions are checked within individual array elements.
+This is done by using the `nested` condition type, which consists of a payload key that targets an array and a filter to apply. The key should reference an array of objects and can be written with or without bracket notation (e.g., “data” or “data[]”).
+httppythontypescriptrustjavacsharp
+  * The planner estimates the cardinality of a filtered result before selecting a strategy.
+  * Qdrant retrieves points using the **payload index** if cardinality is below threshold.
+  * Qdrant uses the **filterable vector index** if the cardinality is above a threshold
+Our default full scan threshold is 10 kilobytes.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/vector-search-filtering/)
+                    ## 📄 `https-qdrant-tech-articles-vector-search-manuals.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/vector-search-manuals/)
+                    ## 📄 `https-qdrant-tech-articles-vector-search-resource-optimization.md`
+  * **Logical Isolation** : Ensures each tenant’s data remains separate while residing in the same collection.
+  * **Minimized Overhead** : Reduces resource consumption compared to maintaining separate collections for each user.
+  * **Scalability** : Handles high user volumes without compromising performance.
+Here’s how you can implement multitenancy efficiently in Qdrant:
+  1. **Shard Key** :
+The shard key determines how data points are distributed across shards. For example, using a key like `tenant_id` allows you to control how Qdrant partitions the data. Each data point added to the collection will be assigned to a shard based on the value of this key, ensuring logical isolation of data.
+  2. **Shard Number** :
+This defines the total number of physical shards for each shard key, influencing resource allocation and query performance.
+Here’s how you can add a data point to a collection with user-defined sharding:
+  * **How it works** : Instead of loading all data into memory, memmap storage maps data files directly to a virtual address space on disk. The system’s page cache handles data access, making it highly efficient.
+  * **When to use it** : Perfect for storing large collections that exceed your available RAM while still maintaining near in-memory performance when enough RAM is available.
+  * **Advantages** : Balances performance and memory usage, allowing you to work with datasets larger than your physical RAM.
+  * **Limitations** : Slightly slower than pure in-memory storage but significantly more scalable.
+To enable memmap vector storage in Qdrant, you can set the **on_disk** parameter to `true` when creating or updating a collection.
+  * **Prometheus** : An open-source monitoring and alerting toolkit, Prometheus collects and stores metrics in a time-series database. It scrapes metrics from predefined endpoints and supports powerful querying and visualization capabilities.
+  * **Grafana** : Often paired with Prometheus, Grafana provides an intuitive interface for visualizing metrics and creating interactive dashboards.
+Qdrant exposes metrics in the **Prometheus/OpenMetrics** format through the /metrics endpoint. Prometheus can scrape this endpoint to monitor various aspects of the Qdrant system.
+For a local Qdrant instance, the metrics endpoint is typically available at:
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/vector-search-resource-optimization/)
+                    ## 📄 `https-qdrant-tech-articles-vector-similarity-beyond-search.md`
+  * **Full-text search** when you need to find documents that contain a particular word or phrase.
+  * **[Vector search](https://qdrant.tech/documentation/overview/vector-search/)** when you need to find documents that are semantically similar to a given query.
+Sometimes people mix those two approaches, so it might look like the vector similarity is just an extension of full-text search. However, in this article, we will explore some promising new techniques that can be used to expand the use-case of unstructured data and demonstrate that vector similarity creates its own stack of data exploration tools.
+  * Choose a specific full-text search variant.
+  * Either sacrifice API consistency or limit vector similarity functionality to only basic kNN search.
+  * Introduce additional complexity to the system.
+Qdrant, on the contrary, puts vector similarity in the center of its API and architecture, such that it allows us to move towards a new stack of vector-native operations. We believe that this is the future of vector databases, and we are excited to see what new use-cases will be unlocked by these techniques.
+  * Vector similarity offers advanced data exploration tools beyond traditional full-text search, including dissimilarity search, diversity sampling, and recommendation systems.
+  * Practical applications of vector similarity include improving data quality through mislabeling detection and anomaly identification.
+  * Enhanced user experiences are achieved by leveraging advanced search techniques, providing users with intuitive data exploration, and improving decision-making processes.
+Ready to unlock the full potential of your data? [Try a free demo](https://qdrant.tech/contact-us/) to explore how vector similarity can revolutionize your data insights and drive smarter decision-making.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/vector-similarity-beyond-search/)
+                    ## 📄 `https-qdrant-tech-articles-web-ui-gsoc.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/web-ui-gsoc/)
+                    ## 📄 `https-qdrant-tech-articles-what-are-embeddings.md`
+  * “your answer is right”
+  * “turn right at the corner”
+  * “everyone has the right to freedom of speech”
+Each of these sentences use the word ‘right’, with different meanings.
+More advanced models like **surroundings** , and then creates different embeddings for each.
+![How the BERT model creates the embeddings for a word](https://qdrant.tech/articles_data/what-are-embeddings/BERT-model.jpg)
+But how does this process of understanding and interpreting work in practice? Think of the term: “biophilic design”, for example. To generate its embedding, the transformer architecture can use the following contexts:
+  * “Biophilic design incorporates natural elements into architectural planning.”
+  * “Offices with biophilic design elements report higher employee well-being.”
+  * “…plant life, natural light, and water features are key aspects of biophilic design.”
+And then it compares contexts to known architectural and design principles:
+  * “Sustainable designs prioritize environmental harmony.”
+  * “Ergonomic spaces enhance user comfort and health.”
+The model creates a vector embedding for “biophilic design” that encapsulates the concept of integrating natural elements into man-made environments. Augmented with attributes that highlight the correlation between this integration and its positive impact on health, well-being, and environmental sustainability.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/what-are-embeddings/)
+                    ## 📄 `https-qdrant-tech-articles-what-is-a-vector-database.md`
+  * **Euclidean Distance:** The straight-line path. It’s like measuring the physical distance between two points in space. Pick this one when the actual distance (like spatial data) matters.
+  * **Cosine Similarity:** This one is about the angle, not the length. It measures how two vectors point in the same direction, so it works well for text or documents when you care more about meaning than magnitude. For example, if two things are _similar_ , _opposite_ , or _unrelated_ :
+![Cosine Similarity Example](https://qdrant.tech/articles_data/what-is-a-vector-database/cosine-similarity.png)
+  * **Dot Product:** This looks at how much two vectors align. It’s popular in recommendation systems where you’re interested in how much two things “agree” with each other.
+  1. **Automatic Sharding:** Points (vectors) are automatically distributed across shards using consistent hashing. Each shard contains non-overlapping subsets of the data.
+  2. **User-defined Sharding:** Specify how points are distributed, enabling more control over your data organization, especially for use cases like **multitenancy** , where each tenant (a user, client, or organization) has their own isolated data.
+Each shard is divided into **segments**. They are a smaller storage unit within a shard, storing a subset of vectors and their associated payloads (metadata). When a query is executed, it targets the only relevant segments, processing them in parallel.
+![Segments act as smaller storage units within a shard](https://qdrant.tech/articles_data/what-is-a-vector-database/segments.png)
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/what-is-a-vector-database/)
+                    ## 📄 `https-qdrant-tech-articles-what-is-vector-quantization-1-initial-quantized-search.md`
+  * Values greater than zero are converted to 1.
+  * Values less than or equal to zero are converted to 0.
+Let’s consider our initial example of a 1536-dimensional vector that requires **6 KB** of memory (4 bytes for each `float32` value).
+After Binary Quantization, each dimension is reduced to 1 bit (1/8 byte), so the memory required is:
+1536 dimensions8 bits per byte=192 bytes
+This leads to a **32x** memory reduction.
+![Binary Quantization example](https://qdrant.tech/articles_data/what-is-vector-quantization/binary-quant.png)
+Qdrant automates the Binary Quantization process during indexing. As vectors are added to your collection, each 32-bit floating-point component is converted into a binary value according to the configuration you define.
+Here’s how you can set it up:
+httppython
+  * **OpenAI text-embedding-ada-002** (1536 dimensions)
+  * **Cohere AI embed-english-v2.0** (4096 dimensions)
+These models demonstrate minimal accuracy loss while still benefiting from substantial speed and memory gains.
+Even though Binary Quantization is incredibly fast and memory-efficient, the trade-offs are in **precision** and **model compatibility** , so you may need to ensure search quality using techniques like oversampling and rescoring.
+If you’re interested in exploring Binary Quantization in more detail—including implementation examples, benchmark results, and usage recommendations—check out our dedicated article on [Binary Quantization - Vector Search, 40x Faster](https://qdrant.tech/articles/binary-quantization/).
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/what-is-vector-quantization/)
+                    ## 📄 `https-qdrant-tech-articles-what-is-vector-quantization-1-what-is-scalar-quantization.md`
+  * [Articles](https://qdrant.tech/articles/)
+  * Why Rust?
+[](https://qdrant.tech/articles/)
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/why-rust/)
+                    ## 📄 `https-qdrant-tech-articles.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/)
+                    ## 📄 `https-qdrant-tech-benchmarks-are-we-biased.md`
+  * We do comparative benchmarks, which means we focus on **relative numbers** rather than absolute numbers.
+  * We use affordable hardware, so that you can reproduce the results easily.
+  * We run benchmarks on the same exact machines to avoid any possible hardware bias.
+  * All the benchmarks are 
+Scenarios we tested
+  1. Upload & Search benchmark on single node [Benchmark](https://qdrant.tech/benchmarks/single-node-speed-benchmark/)
+  2. Filtered search benchmark - [Benchmark](https://qdrant.tech/benchmarks/#filtered-search-benchmark)
+  3. Memory consumption benchmark - Coming soon
+  4. Cluster mode benchmark - Coming soon
+Some of our experiment design decisions are described in the [F.A.Q Section](https://qdrant.tech/benchmarks/#benchmarks-faq). Reach out to us on our 
+##  [](https://qdrant.tech/benchmarks/#single-node-benchmarks)Single node benchmarks
+We benchmarked several vector databases using various configurations of them on different datasets to check how the results may vary. Those datasets may have different vector dimensionality but also vary in terms of the distance function being used. We also tried to capture the difference we can expect while using some different configuration parameters, for both the engine itself and the search operation separately.  
+**Updated: January/June 2024**
+Dataset: dbpedia-openai-1M-1536-angular deep-image-96-angular gist-960-euclidean glove-100-angular
+Search threads: 100 1
+Plot values:
+RPS  Latency  p95 latency  Index time
+Engine | Setup | Dataset | Upload Time(m) | Upload + Index Time(m) | Latency(ms) | P95(ms) | P99(ms) | RPS | Precision  
+---|---|---|---|---|---|---|---|---|---  
+qdrant | _qdrant-sq-rps-m-64-ef-512_ | dbpedia-openai-1M-1536-angular | 3.51 | 24.43 | 3.54 | 4.95 | 8.62 | 1238.0016 | 0.99  
+weaviate | _latest-weaviate-m32_ | dbpedia-openai-1M-1536-angular | 13.94 | 13.94 | 4.99 | 7.16 | 11.33 | 1142.13 | 0.97  
+elasticsearch | _elasticsearch-m-32-ef-128_ | dbpedia-openai-1M-1536-angular | 19.18 | 83.72 | 22.10 | 72.53 | 135.68 | 716.80 | 0.98  
+redis | _redis-m-32-ef-256_ | dbpedia-openai-1M-1536-angular | 92.49 | 92.49 | 140.65 | 160.85 | 167.35 | 625.27 | 0.97  
+milvus | _milvus-m-16-ef-128_ | dbpedia-openai-1M-1536-angular | 0.27 | 1.16 | 393.31 | 441.32 | 576.65 | 219.11 | 0.99  
+_Download raw data:[here](https://qdrant.tech/benchmarks/results-1-100-thread-2024-06-15.json)_
+  * This was our setup for this experiment:
+    * Client: 8 vcpus, 16 GiB memory, 64GiB storage (`Standard D8ls v5` on Azure Cloud)
+    * Server: 8 vcpus, 32 GiB memory, 64GiB storage (`Standard D8s v3` on Azure Cloud)
+  * The Python client uploads data to the server, waits for all required indexes to be constructed, and then performs searches with configured number of threads. We repeat this process with different configurations for each engine, and then select the best one for a given precision.
+  * We ran all the engines in docker and limited their memory to 25GB. This was used to ensure fairness by avoiding the case of some engine configs being too greedy with RAM usage. This 25 GB limit is completely fair because even to serve the largest `dbpedia-openai-1M-1536-angular` dataset, one hardly needs `1M * 1536 * 4bytes * 1.5 = 8.6GB` of RAM (including vectors + index). Hence, we decided to provide all the engines with ~3x the requirement.
+Please note that some of the configs of some engines crashed on some datasets because of the 25 GB memory limit. That’s why you might see fewer points for some engines on choosing higher precision thresholds.
+  * Some use **post-filtering** , which applies filters after ANN search. It doesn’t scale well as it either loses results or requires many candidates on the first stage.
+  * Others use **pre-filtering** , which requires a binary mask of the whole dataset to be passed into the ANN algorithm. It is also not scalable, as the mask size grows linearly with the dataset size.
+On top of it, there is also a problem with search accuracy. It appears if too many vectors are filtered out, so the HNSW graph becomes disconnected.
+Qdrant uses a different approach, not requiring pre- or post-filtering while addressing the accuracy problem. Read more about the Qdrant approach in our [Filtrable HNSW](https://qdrant.tech/articles/filtrable-hnsw/) article.
+  * **Speed boost** - for some engines/queries, the filtered search is faster than the unfiltered one. It might happen if the filter is restrictive enough, to completely avoid the usage of the vector index.
+  * **Speed downturn** - some engines struggle to keep high RPS, it might be related to the requirement of building a filtering mask for the dataset, as described above.
+  * **Accuracy collapse** - some engines are loosing accuracy dramatically under some filters. It is related to the fact that the HNSW graph becomes disconnected, and the search becomes unreliable.
+Qdrant avoids all these problems and also benefits from the speed boost, as it implements an advanced [query planning strategy](https://qdrant.tech/documentation/search/#query-planning).
+The Filtering Benchmark is all about changes in performance between filter and un-filtered queries. Please refer to the search benchmark for absolute speed comparison.
+  1. While generating embeddings you’re most likely going to use Python and python based ML frameworks.
+  2. Based on GitHub stars, python clients are one of the most popular clients across all the engines.
+From the user’s perspective, the crucial thing is the latency perceived while using a specific library - in most cases a Python client. Nobody can and even should redefine the whole technology stack, just because of using a specific search tool. That’s why we decided to focus primarily on official Python libraries, provided by the database authors. Those may use some different protocols under the hood, but at the end of the day, we do not care how the data is transferred, as long as it ends up in the target location.
+##  [](https://qdrant.tech/benchmarks/#how-to-contribute)How to contribute?
+We made the benchmark Open Source because we believe that it has to be transparent. We could have misconfigured one of the engines or just done it inefficiently. If you feel like you could help us out, check out our 
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/benchmarks/)
+                    ## 📄 `https-qdrant-tech-benchmarks-benchmarking-vector-databases.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Benchmarks](https://qdrant.tech/benchmarks/)
+  * /
+  * Single node benchmarks (2022)
+Dataset: deep-image-96-angular gist-960-euclidean glove-100-angular
+Search threads: 100 8 4 2 1
+Plot values:
+RPS  Latency  p95 latency  Index time
+Engine | Setup | Dataset | Upload Time(m) | Upload + Index Time(m) | Latency(ms) | P95(ms) | P99(ms) | RPS | Precision  
+---|---|---|---|---|---|---|---|---|---  
+qdrant | _qdrant-rps-m-64-ef-512_ | deep-image-96-angular | 14.096 | 149.32 | 24.73 | 55.75 | 63.73 | 1541.86 | 0.96  
+weaviate | _weaviate-m-16-ef-128_ | deep-image-96-angular | 148.70 | 148.70 | 190.94 | 351.75 | 414.16 | 507.33 | 0.94  
+milvus | _milvus-m-16-ef-128_ | deep-image-96-angular | 6.074 | 35.28 | 171.50 | 220.26 | 236.97 | 339.44 | 0.97  
+elastic | _elastic-m-16-ef-128_ | deep-image-96-angular | 87.54 | 101.16 | 923.031 | 1116.83 | 1671.31 | 95.90 | 0.97  
+_Download raw data:[here](https://qdrant.tech/benchmarks/result-2022-08-10.json)_
+This is an archived version of Single node benchmarks. Please refer to the new version [here](https://qdrant.tech/benchmarks/single-node-speed-benchmark/).
+Share this article
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/benchmarks/single-node-speed-benchmark-2022/)
+                    ## 📄 `https-qdrant-tech-benchmarks-single-node-speed-benchmark.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Benchmarks](https://qdrant.tech/benchmarks/)
+  * /
+  * Single node benchmarks
+Dataset: dbpedia-openai-1M-1536-angular deep-image-96-angular gist-960-euclidean glove-100-angular
+Search threads: 100 1
+Plot values:
+RPS  Latency  p95 latency  Index time
+Engine | Setup | Dataset | Upload Time(m) | Upload + Index Time(m) | Latency(ms) | P95(ms) | P99(ms) | RPS | Precision  
+---|---|---|---|---|---|---|---|---|---  
+qdrant | _qdrant-sq-rps-m-64-ef-512_ | dbpedia-openai-1M-1536-angular | 3.51 | 24.43 | 3.54 | 4.95 | 8.62 | 1238.0016 | 0.99  
+weaviate | _latest-weaviate-m32_ | dbpedia-openai-1M-1536-angular | 13.94 | 13.94 | 4.99 | 7.16 | 11.33 | 1142.13 | 0.97  
+elasticsearch | _elasticsearch-m-32-ef-128_ | dbpedia-openai-1M-1536-angular | 19.18 | 83.72 | 22.10 | 72.53 | 135.68 | 716.80 | 0.98  
+redis | _redis-m-32-ef-256_ | dbpedia-openai-1M-1536-angular | 92.49 | 92.49 | 140.65 | 160.85 | 167.35 | 625.27 | 0.97  
+milvus | _milvus-m-16-ef-128_ | dbpedia-openai-1M-1536-angular | 0.27 | 1.16 | 393.31 | 441.32 | 576.65 | 219.11 | 0.99  
+_Download raw data:[here](https://qdrant.tech/benchmarks/results-1-100-thread-2024-06-15.json)_
+###  [](https://qdrant.tech/benchmarks/single-node-speed-benchmark/#setup)Setup
+![Benchmarks configuration](https://qdrant.tech/benchmarks/client-server.png)
+Benchmarks configuration
+Please note that some of the configs of some engines crashed on some datasets because of the 25 GB memory limit. That’s why you might see fewer points for some engines on choosing higher precision thresholds.
+Share this article
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/benchmarks/single-node-speed-benchmark/)
+                    ## 📄 `https-qdrant-tech-benchmarks-tested-datasets.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Dailymotion's Journey to Crafting the Ultimate Content-Driven Video Recommendation Engine with Qdrant Vector Database
+On this page:
+  *     * [Dailymotion’s Journey to Crafting the Ultimate Content-Driven Video Recommendation Engine with Qdrant Vector Database](https://qdrant.tech/blog/case-study-dailymotion/#dailymotions-journey-to-crafting-the-ultimate-content-driven-video-recommendation-engine-with-qdrant-vector-database)
+      * [Scale](https://qdrant.tech/blog/case-study-dailymotion/#scale)
+      * [Challenge](https://qdrant.tech/blog/case-study-dailymotion/#challenge)
+      * [Background / Journey](https://qdrant.tech/blog/case-study-dailymotion/#background--journey)
+      * [Solution at glance](https://qdrant.tech/blog/case-study-dailymotion/#solution-at-glance)
+      * [Why Qdrant?](https://qdrant.tech/blog/case-study-dailymotion/#why-qdrant)
+      * [Data Processing pipeline](https://qdrant.tech/blog/case-study-dailymotion/#data-processing-pipeline)
+      * [Results](https://qdrant.tech/blog/case-study-dailymotion/#results)
+      * [Outlook / Future plans](https://qdrant.tech/blog/case-study-dailymotion/#outlook--future-plans)
+      * [References](https://qdrant.tech/blog/case-study-dailymotion/#references)
+  1. Subpar video recommendations due to long processing time ~ 5 hours
+  2. Collaborative recommender tended to recommend and focused on high signal / popular videos
+  3. Metadata based recommender focussed only on a very small scope of trusted video sources
+  4. The recommendations did not take contents of the video into consideration
+![after-qdrant-results](https://qdrant.tech/case-studies/dailymotion/after-qdrant.png)
+The new recommender system implementation leveraging Qdrant along with the collaborative recommender offered various advantages :
+  1. The processing time for the new video content reduced significantly to a few minutes which enabled the fresh videos to be part of recommendations.
+  2. The performant & scalable scope of video recommendation currently processes 22 Million videos and can provide recommendation for videos with fewer interactions too.
+  3. The overall huge performance gain on the low signal videos has contributed to more than 3 times increase on the interaction and CTR ( number of clicks) on the recommended videos.
+  4. Seamlessly solved the initial cold start and low performance problems with the fresh content.
+### Get Started with Qdrant Free
+![](https://qdrant.tech/img/rocket.svg)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-dailymotion/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-deutsche-telekom.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * How Deutsche Telekom Built a Multi-Agent Enterprise Platform Leveraging Qdrant
+  *     *       * [Key Requirements for Scaling Enterprise AI Agents](https://qdrant.tech/blog/case-study-deutsche-telekom/#key-requirements-for-scaling-enterprise-ai-agents)
+      * [Why Deutsche Telekom Had to Rethink Its AI Stack from the Ground Up](https://qdrant.tech/blog/case-study-deutsche-telekom/#why-deutsche-telekom-had-to-rethink-its-ai-stack-from-the-ground-up)
+      * [LMOS: Deutsche Telekom’s Open-Source Multi-Agent AI PaaS for Enterprise AI](https://qdrant.tech/blog/case-study-deutsche-telekom/#lmos-deutsche-telekoms-open-source-multi-agent-ai-paas-for-enterprise-ai)
+      * [Why Qdrant? Finding the Right Vector Database for LMOS](https://qdrant.tech/blog/case-study-deutsche-telekom/#why-qdrant-finding-the-right-vector-database-for-lmos)
+      * [Scaling AI at Deutsche Telekom & The Future of LMOS](https://qdrant.tech/blog/case-study-deutsche-telekom/#scaling-ai-at-deutsche-telekom--the-future-of-lmos)
+      * [Watch livestream with Arun](https://qdrant.tech/blog/case-study-deutsche-telekom/#watch-livestream-with-arun)
+**How Deutsche Telekom Built a Scalable, Multi-Agent Enterprise Platform Leveraging Qdrant—Powering Over 2 Million Conversations Across Europe**
+![Deutsche Telekom’s AI Competence Center team leading the LMOS platform development](https://qdrant.tech/blog/case-study-deutsche-telekom/dtag-team.jpg)
+To achieve this, Telekom developed _(Eng: Ask Magenta)_ , a platform that includes chatbots and voice bots, built as a Platform as a Service (PaaS) to ensure scalability across Deutsche Telekom’s ten European subsidiaries.
+“We knew from the start that we couldn’t just deploy RAG, tool calling, and workflows at scale without a platform-first approach,” Arun explains. “When I looked at the challenge, it looked a lot like a distributed systems and engineering challenge, not just an AI problem.”
+  1. **Handling Tenancy & Memory Management:** AI workloads spanning 10 different countries require strict data segregation and compliance.
+  2. **Horizontal Scaling & Context Sharing**: AI agents require real-time processing while maintaining historical context, so efficiently storing, retrieving, and processing AI-generated context at scale is critical.
+  3. **Non-Deterministic Agent Collaboration:** AI agents often exhibit unpredictable behavior, making seamless inter-agent communication and workflow orchestration complex.
+“From our experience, these challenges are fundamentally distributed systems problems, not just AI problems,” Arun explains. “We need feedback loops, state management, lifecycle orchestration, and intelligent routing for staggered rollouts. Microservices alone aren’t enough — we need a domain-driven approach to AI agent design.”
+This insight led to the formation of 
+  * Memory spikes and operational instability due to the sheer number of components used in the previous provide
+  * Complex maintenance requirements, with frequent dependency issues, high operational overhead due to missing memory optimizations, and streamlined deployment.
+Despite efforts to improve annotations and tuning, it became evident that this approach wouldn’t scale for Deutsche Telekom.
+Additionally, there was a strong need to leverage existing engineering assets, as most developers and systems were already equipped with SDKs and familiar tooling. Rather than building an entirely new stack from scratch, the focus shifted to enabling developers to build AI agents within the tools and frameworks they were already comfortable with. This approach allowed domain experts who understood the APIs and enterprise systems to quickly develop AI agents without disrupting existing workflows.
+Recognizing this, the team made a bold decision: to build a **fully-fledged PaaS platform for AI agents** , streamlining development and accelerating deployment of AI Agents.
+  * **Choosing Kotlin and JVM** to ensure engineers familiar with existing Deutsche Telekom systems could easily integrate with LMOS.
+  * **Moving away from pre-built frameworks** in favor of a ground-up, highly optimized solution tailored to Deutsche Telekom’s specific needs.
+  * **Providing a Heroku-like experience** where engineers don’t need to worry about classifiers, agent lifecycles, deployment models, monitoring, and horizontal scaling.
+  * **Enterprise Grade while being flexible:** LMOS was built with enterprise-grade scalability, versioning, and multi-tenancy in mind, while also offering the flexibility to integrate agents from other frameworks — not just JVM-based solutions — ensuring interoperability across diverse AI ecosystems.
+“Our engineers already knew their APIs — billing, shopping, user profiles. Why should we introduce new abstractions that only complicate the stack?” Arun notes, “also, I envisioned us building the foundations of what I call **agentic computing** , playing a role in shaping the application stacks of the future on top of LLMs.”
+![LMOS architecture diagram showing AI agent collaboration and lifecycle management](https://qdrant.tech/blog/case-study-deutsche-telekom/lmos-architecture.png)
+LMOS architecture powering AI agent collaboration and lifecycle management in a cloud-native environment.
+  1. **Qualitative metrics** : developer experience, ease of use, memory efficiency features.
+  2. **Operational simplicity** : how well it fit into their PaaS-first approach and [multitenancy requirements](https://qdrant.tech/documentation/guides/multiple-partitions/).
+Deutsche Telekom’s engineers also cited several standout features that made Qdrant the right fit:
+  1. **Simplicity in operations** —Qdrant is lightweight and doesn’t require an excessive component stack.
+  2. **Developer experience** —libraries, multi-language clients, and cross-framework support make integrations seamless.
+  3. **WebUI & Collection Visualization**—engineers found Qdrant’s [built-in collection visualization](https://qdrant.tech/documentation/web-ui/) tools highly useful.
+As part of their evaluation, Deutsche Telekom engineers compared multiple solutions, weighing operational simplicity and reliability.
+One engineer summarized their findings: “Qdrant has way fewer components, compared to the another that required required Kafka, Zookeeper, and only had a hot standby for its index and query nodes. If you rescale it, you get downtime. Qdrant stays up.”
+###  [](https://qdrant.tech/blog/case-study-deutsche-telekom/#watch-livestream-with-arun)Watch livestream with Arun
+In this Vector Space talk, Thierry from Qdrant and Arun from Deutsche Telekom talk about the key requirements for scaling enterprise AI agents, key AI stack considerations, and how the team built a Platform as a Service (PaaS) - LMOS (Language Models Operating System) — a multi-agent PaaS designed for high scalability and modular AI agent deployment.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-deutsche-telekom/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-hubspot.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * HubSpot & Qdrant: Scaling an Intelligent AI Assistant
+  *     * [**Challenges Scaling an Intelligent AI**](https://qdrant.tech/blog/case-study-hubspot/#challenges-scaling-an-intelligent-ai)
+    * [**Why HubSpot Chose Qdrant**](https://qdrant.tech/blog/case-study-hubspot/#why-hubspot-chose-qdrant)
+    * [**Faster, More Accurate Search Improves Customer Satisfaction and Engagement**](https://qdrant.tech/blog/case-study-hubspot/#faster-more-accurate-search-improves-customer-satisfaction-and-engagement)
+HubSpot, a global leader in CRM solutions, continuously enhances its product suite with powerful AI-driven features. To optimize Breeze AI, its flagship intelligent assistant, HubSpot chose Qdrant as its vector database.
+  * Delivering highly personalized, context-aware responses required a robust vector search solution that could retrieve data quickly while maintaining accuracy.
+  * With increasing user interactions, HubSpot needed a scalable system capable of handling rapid data growth without performance degradation.
+  * Integration with HubSpot’s existing AI infrastructure had to be swift and easy to support fast-paced development cycles.
+  * HubSpot sought a future-proof vector search solution that could adapt to emerging AI advancements while maintaining high availability.
+These challenges made it essential to find a high-performance, developer-friendly vector database that could power Breeze AI efficiently.
+* * *
+_“Qdrant powers our demanding recommendation and RAG applications. We chose it for its ease of deployment and high performance at scale, and we have been consistently impressed with its results. The platform’s continuous feature enhancements and overall performance gains, coupled with their responsiveness, make Qdrant a reliable solution for our AI infrastructure.”_
+**– Srubin Sethu Madhavan, Technical Lead, HubSpot**
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-hubspot/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-kairoswealth.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Kairoswealth & Qdrant: Transforming Wealth Management with AI-Driven Insights and Scalable Vector Search
+  *     * [**About Kairoswealth**](https://qdrant.tech/blog/case-study-kairoswealth/#about-kairoswealth)
+    * [**Motivations for Adopting a Vector Database**](https://qdrant.tech/blog/case-study-kairoswealth/#motivations-for-adopting-a-vector-database)
+    * [**Challenges with Previous Solutions**](https://qdrant.tech/blog/case-study-kairoswealth/#challenges-with-previous-solutions)
+    * [**Qdrant Use Cases at Kairoswealth**](https://qdrant.tech/blog/case-study-kairoswealth/#qdrant-use-cases-at-kairoswealth)
+    * [**Why Kairoswealth Chose Qdrant**](https://qdrant.tech/blog/case-study-kairoswealth/#why-kairoswealth-chose-qdrant)
+    * [**Conclusion**](https://qdrant.tech/blog/case-study-kairoswealth/#conclusion)
+    * [**Future Roadmap for Kairoswealth**](https://qdrant.tech/blog/case-study-kairoswealth/#future-roadmap-for-kairoswealth)
+![Kairoswealth overview](https://qdrant.tech/blog/case-study-kairoswealth/image2.png)
+  * **Internal Data RAG:** Efficiently handling internal RAG use cases.
+  * **Financial Regulatory Reports RAG:** Managing and generating financial reports.
+  * **Recommendations:** Enhancing the accuracy and efficiency of recommendations with the Kairoswealth platform.
+![Stock recommendation](https://qdrant.tech/blog/case-study-kairoswealth/image1.png)
+##  [](https://qdrant.tech/blog/case-study-kairoswealth/#future-roadmap-for-kairoswealth)**Future Roadmap for Kairoswealth**
+Kairoswealth is seizing the opportunity to disrupt the wealth management sector, which has traditionally been underserved by technology. For example, they are developing the Kairos Terminal, a natural language interface that translates user queries into OpenBB commands (a set of tools for financial analysis and data visualization within the OpenBB Terminal). With regards to the future of the wealth management sector, Teyssier notes that “the integration of Generative AI will automate back-office tasks such as data collation, data reconciliation, and market research. This technology will also enable wealth managers to scale their services to broader segments, including affluent clients, by automating relationship management and interactions.”
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-kairoswealth/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-kern.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Kern AI & Qdrant: Precision AI Solutions for Finance and Insurance
+  *     * [About Kern AI](https://qdrant.tech/blog/case-study-kern/#about-kern-ai)
+    * [The Challenge](https://qdrant.tech/blog/case-study-kern/#the-challenge)
+    * [The Solution](https://qdrant.tech/blog/case-study-kern/#the-solution)
+    * [The Results](https://qdrant.tech/blog/case-study-kern/#the-results)
+    * [Outlook](https://qdrant.tech/blog/case-study-kern/#outlook)
+![kern-case-study](https://qdrant.tech/blog/case-study-kern/kern-case-study.png)
+  * **Multi-vector Storage** : This feature was crucial as it allowed the team to store and manage different search indexes. Given that no single embedding fits all use cases, this capability brought essential diversity to their embeddings, enabling more flexible and robust data handling.
+  * **Easy Setup** : Qdrant’s straightforward setup process enabled Kern AI to quickly integrate and start utilizing the database without extensive overhead, which was critical for maintaining development momentum.
+  * **Open Source** : The open-source nature of Qdrant aligned with Kern AI’s own product development philosophy. This allowed for greater customization and integration into their existing open-source projects.
+  * **Rapid Progress** : Qdrant’s swift advancements and frequent updates ensured that Kern AI could rely on continuous improvements and cutting-edge features to keep their solutions competitive.
+  * **Multi-vector Search** : Allowed Kern AI to perform complex queries across different embeddings simultaneously, enhancing the depth and accuracy of their search results.
+  * **Hybrid Search/Filters** : Enabled the combination of traditional keyword searches with vector searches, allowing for more nuanced and precise data retrieval.
+Kern AI uses Qdrant’s open-source, on-premise solution for both their open-source project and their commercial end-to-end framework. This framework, focused on the financial and insurance markets, is similar to LangChain or LlamaIndex but tailored to the industry-specific needs.
+![kern-data-retrieval](https://qdrant.tech/blog/case-study-kern/kern-data-retrieval.png)
+_Configuring data retrieval in Kern AI: Fine-tuning search inputs and metadata for optimized information extraction._
+  * **< 1% Hallucination Rate**: Ensures the highest level of accuracy and reliability in their chatbot solutions for the financial and insurance sector.
+  * **Reduced Customer Service Response Times** : Using Kern AI’s solution, Markel Insurance SE reduced response times from five minutes to under 30 seconds, significantly improving customer experience and operational efficiency.
+By utilizing Qdrant, Kern AI effectively supports various use cases in financial services, such as:
+  * **Claims Management** : Streamlining the claims process by quickly identifying relevant data points.
+  * **Similarity Search** : Enhancing incident handling by finding similar cases to improve decision-making quality.
+##  [](https://qdrant.tech/blog/case-study-kern/#outlook)Outlook
+Kern AI plans to expand its use of Qdrant to support both brownfield and greenfield use cases across the financial and insurance industry.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-kern/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-mixpeek.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * How Mixpeek Uses Qdrant for Efficient Multimodal Feature Stores
+  * [How Mixpeek Uses Qdrant for Efficient Multimodal Feature Stores](https://qdrant.tech/blog/case-study-mixpeek/#how-mixpeek-uses-qdrant-for-efficient-multimodal-feature-stores)
+    * [About Mixpeek](https://qdrant.tech/blog/case-study-mixpeek/#about-mixpeek)
+    * [The Challenge: Optimizing Feature Stores for Complex Retrievers](https://qdrant.tech/blog/case-study-mixpeek/#the-challenge-optimizing-feature-stores-for-complex-retrievers)
+    * [Why Mixpeek Chose Qdrant for Feature Stores](https://qdrant.tech/blog/case-study-mixpeek/#why-mixpeek-chose-qdrant-for-feature-stores)
+      * [Simplifying Hybrid Retrievers](https://qdrant.tech/blog/case-study-mixpeek/#simplifying-hybrid-retrievers)
+      * [40% Faster Query Times with Parallel Retrieval](https://qdrant.tech/blog/case-study-mixpeek/#40-faster-query-times-with-parallel-retrieval)
+      * [Optimizing SageMaker Feature Extraction Workflows](https://qdrant.tech/blog/case-study-mixpeek/#optimizing-sagemaker-feature-extraction-workflows)
+    * [Supporting Mixpeek’s Taxonomy and Clustering Architecture](https://qdrant.tech/blog/case-study-mixpeek/#supporting-mixpeeks-taxonomy-and-clustering-architecture)
+      * [Taxonomies (JOIN Analogue)](https://qdrant.tech/blog/case-study-mixpeek/#taxonomies-join-analogue)
+      * [Clustering (GROUP BY Analogue)](https://qdrant.tech/blog/case-study-mixpeek/#clustering-group-by-analogue)
+    * [Measurable Improvements After Feature Store Migration](https://qdrant.tech/blog/case-study-mixpeek/#measurable-improvements-after-feature-store-migration)
+    * [Future Direction: Supporting Diverse Multimodal Use Cases](https://qdrant.tech/blog/case-study-mixpeek/#future-direction-supporting-diverse-multimodal-use-cases)
+    * [Conclusion: Specialized Feature Stores for Multimodal Data Warehousing](https://qdrant.tech/blog/case-study-mixpeek/#conclusion-specialized-feature-stores-for-multimodal-data-warehousing)
+##  [](https://qdrant.tech/blog/case-study-mixpeek/#conclusion-specialized-feature-stores-for-multimodal-data-warehousing)Conclusion: Specialized Feature Stores for Multimodal Data Warehousing
+Mixpeek’s journey highlights the importance of specialized feature stores in a multimodal data warehouse architecture. Qdrant’s focus on vector search efficiency made it the ideal choice for powering Mixpeek’s feature stores, enabling more efficient retrievers and ingestion pipelines.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-mixpeek/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-nyris.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Nyris & Qdrant: How Vectors are the Future of Visual Search
+  *     * [About Nyris](https://qdrant.tech/blog/case-study-nyris/#about-nyris)
+    * [Overcoming Limitations in Visual Product Search](https://qdrant.tech/blog/case-study-nyris/#overcoming-limitations-in-visual-product-search)
+    * [The Path to Vector-Based Visual Search](https://qdrant.tech/blog/case-study-nyris/#the-path-to-vector-based-visual-search)
+      * [The Selection Process](https://qdrant.tech/blog/case-study-nyris/#the-selection-process)
+    * [Key Benefits of Qdrant in Production](https://qdrant.tech/blog/case-study-nyris/#key-benefits-of-qdrant-in-production)
+    * [Why Pure-Vector Search is the Future for Product Search](https://qdrant.tech/blog/case-study-nyris/#why-pure-vector-search-is-the-future-for-product-search)
+![nyris-case-study](https://qdrant.tech/blog/case-study-nyris/nyris-case-study.png)
+  * **Enhanced Security with JWT** : [JSON Web Tokens](https://qdrant.tech/documentation/guides/security/#granular-access-control-with-jwt) provide enhanced security and performance, critical for safeguarding their data.
+  * **Seamless Scalability** : Qdrant’s ability to [scale effortlessly across nodes](https://qdrant.tech/documentation/guides/distributed_deployment/) ensures consistent high performance, even as Nyris’s data volume grows.
+  * **Flexible Search Options** : The availability of both graph-based and brute-force search methods offers Nyris the flexibility to tailor the search approach to specific use case requirements.
+  * **Versatile Data Handling** : Qdrant imposes almost no restrictions on data types and vector sizes, allowing Nyris to manage diverse and complex datasets effectively.
+  * **Built with Rust** : The use of [Rust](https://qdrant.tech/articles/why-rust/) ensures superior performance and future-proofing, while its open-source nature allows Nyris to inspect and customize the code as necessary.
+  * **Cost-Effective High Performance Search** : Qdrant’s efficient search capabilities ensure that Nyris can maintain high performance at a reasonable cost. With Qdrant, Nyris can search through extensive datasets efficiently, making it a crucial part of their technology stack.
+By hosting Qdrant on Google Cloud within their Kubernetes Cluster, Nyris benefits from the scalability and reliability essential for their demanding operations, ensuring a robust and efficient visual search solution.
+##  [](https://qdrant.tech/blog/case-study-nyris/#why-pure-vector-search-is-the-future-for-product-search)Why Pure-Vector Search is the Future for Product Search
+Nyris’s vision is to identify every single product and spare part within milliseconds, and Qdrant plays an integral role in this. When envisioning the future of product search, Lukasson is convinced that vector representations will be the key to advancing search capabilities. Unlike keyword searches, vector search can seamlessly integrate various modalities, such as text, images, as well as depth or audio. This holistic approach will transform product and spare part searches, allowing for a single vector representation that encompasses a product’s text, visual and geometric descriptions.
+“While traditional algorithms like BM25 are fast and cheap and still have a place in the search stack, vectors will replace them in the coming years,” says Lukasson. “Today, we have separate spaces for text search, visual search, and other modalities, but we envision a future with a unified vector representation that encompasses all relevant item data. No matter what input you use for your query, the search results will be accurate. The days of scrolling through thousands of results or encountering ’no results’ pages will soon be over. Every search request will deliver the right product or spare part in milliseconds.”
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-nyris/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-qatech.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Empowering QA.tech’s Testing Agents with Real-Time Precision and Scale
+  *     * [What prompted QA.tech to use a vector database?](https://qdrant.tech/blog/case-study-qatech/#what-prompted-qatech-to-use-a-vector-database)
+    * [Why QA.tech chose Qdrant for its AI Agent platform](https://qdrant.tech/blog/case-study-qatech/#why-qatech-chose-qdrant-for-its-ai-agent-platform)
+    * [How QA.tech Overcame Key Challenges in AI Agent Development](https://qdrant.tech/blog/case-study-qatech/#how-qatech-overcame-key-challenges-in-ai-agent-development)
+![qdrant-qatech-1](https://qdrant.tech/blog/case-study-qatech/qdrant-qatech-1.png)
+**fully testing web applications, especially end-to-end, can be complex and time-consuming**. Unlike unit tests, end-to-end tests reveal what’s actually happening in the browser, often uncovering issues that other methods miss.
+Traditional solutions like hard-coded tests are not only labor-intensive to set up but also challenging to maintain over time. Alternatively, hiring QA testers can be a solution, but for startups, it quickly becomes a bottleneck. With every release, more testers are needed, and if testing is outsourced, managing timelines and ensuring quality becomes even harder.
+To address this, QA.tech has developed **testing agents** that perform tasks on the browser just like a user would - for example, purchasing a ticket on a travel app. These agents navigate the entire booking process, from searching for flights to completing the purchase, all while assessing their success. **They document errors, record the process, and flag issues for developers to review.** With access to console logs and network calls, developers can easily analyze each step, quickly understanding and debugging any issues that arise.
+![qdrant-qatech-2](https://qdrant.tech/blog/case-study-qatech/qdrant-qatech-2.png)
+_Output from a QA.tech AI agent_
+> “The more steps you ask an agent to take, the harder it becomes to ensure consistent performance,” Vilhelm von Ehrenheim, Co-Founder of QA.tech.
+Each additional action adds layers of interdependent variables, creating pathways that can easily lead to errors if not managed carefully.
+Von Ehrenheim also points out the limitations of current large language models (LLMs), noting that _“LLMs are getting more powerful, but they still struggle with multi-step reasoning and for example handling subtle visual changes like dark mode or adaptive UIs.”_ These challenges make it essential for agents to have precise planning capabilities and context awareness, which QA.tech has addressed by implementing custom embeddings and multimodal models.
+_“This is where scalable, adaptable infrastructure becomes crucial,”_ von Ehrenheim adds. Qdrant has been instrumental for QA.tech, providing stable, high-performance vector search to support the demanding workflows. **“With Qdrant, we’re able to handle these complex, high-velocity tasks without compromising on reliability.”**
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-qatech/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-sprinklr.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * How Sprinklr Leverages Qdrant to Enhance AI-Driven Customer Experience Solutions
+  *     * [The Need for a Vector Database](https://qdrant.tech/blog/case-study-sprinklr/#the-need-for-a-vector-database)
+      * [Why Qdrant?](https://qdrant.tech/blog/case-study-sprinklr/#why-qdrant)
+    * [Implementation and Qdrant’s Performance](https://qdrant.tech/blog/case-study-sprinklr/#implementation-and-qdrants-performance)
+      * [Key Outcomes with Qdrant](https://qdrant.tech/blog/case-study-sprinklr/#key-outcomes-with-qdrant)
+    * [Outlook](https://qdrant.tech/blog/case-study-sprinklr/#outlook)
+    * [Benchmarking Conclusion](https://qdrant.tech/blog/case-study-sprinklr/#benchmarking-conclusion)
+![case-study-sprinklr-1](https://qdrant.tech/blog/case-study-sprinklr/image1.png)
+Raghav Sonavane, Associate Director of Machine Learning Engineering at Sprinklr, leads the Applied AI team, focusing on Generative AI (GenAI) and Retrieval-Augmented Generation (RAG). His team is responsible for training and fine-tuning in-house models and deploying advanced retrieval and generation systems for customer-facing applications like FAQ bots and other 
+![case-study-sprinklr-2](https://qdrant.tech/blog/case-study-sprinklr/image2.png)
+_Figure:_ Sprinklr’s RAG architecture
+Sprinklr’s platform is composed of four key product suites - Sprinklr Service, Sprinklr Marketing, Sprinklr Social, and Sprinklr Insights. Each suite is embedded with AI-first features such as assist agents, post-call analysis, and real-time analytics, which are crucial for managing large-scale contact center operations. “These AI-driven capabilities, supported by Qdrant’s advanced vector search, enhance Sprinklr’s customer-facing tools such as FAQ bots, transactional bots, conversational services, and product recommendation engines,” says Sonavane.
+These self-serve applications rely heavily on advanced vector search to analyze and optimize community content and refine knowledge bases, ensuring efficient and relevant responses. For customers requiring further assistance, Sprinklr equips support agents with powerful search capabilities, enabling them to quickly access similar cases and draw from past interactions, enhancing the quality and speed of customer support.
+  * **30% Cost Reduction** : Internal benchmarking showed Qdrant reduced Sprinklr’s retrieval infrastructure costs by 30%.
+  * **Improved Developer Efficiency** : Qdrant’s user-friendly environment made it easier to maintain instances, enhancing overall efficiency.
+The Sprinklr team conducted a thorough internal benchmark on applications requiring vector search across 10k to over 1M vectors with varying dimensions of vectors depending on the use case. The key results from these benchmarks include:
+  * **Superior Write Performance** : Qdrant’s write performance excelled in Sprinklr’s benchmark tests, with incremental indexing time for 100k to 1M vectors being less than 10% of Elasticsearch’s, making it highly efficient for handling updates and append queries in high-ingestion use cases.
+  * **Low Latency for Real-Time Applications:** In Sprinklr’s benchmark, Qdrant delivered a P99 latency of 20ms for searches on 1 million vectors, making it ideal for real-time use cases like live chat, where Elasticsearch and Milvus both exceeded 100ms.
+  * **High Throughput for Heavy Query Loads** : In Sprinklr’s benchmark, Qdrant handled up to 250 requests per second (RPS) under similar configurations, significantly outperforming Elasticsearch’s 100 RPS, making it ideal for environments with heavy query loads.
+“Qdrant is a very fast and high quality retrieval system,” Sonavane points out.
+![case-study-sprinklr-3](https://qdrant.tech/blog/case-study-sprinklr/image3.png)
+_Figure: P95 Query Time vs Mean Average Precision Benchmark Across Varying Index Sizes_
+  * We benchmarked applications requiring search on different sizes ranging from 10k to 1M+ vectors, with varying dimensions of vectors depending on the usage. Our infrastructure mainly consisted of Elasticsearch and in-memory Faiss vector search.
+Key Observations:
+  2. **Low Latency** : Tail latencies are very critical for real-time applications such as live chat, requiring low P95 and P99 latencies. For a workload requiring search on 1 million vectors, qdrant provided inference latency of 20ms P99 whereas ES and Milvus were more than 100ms.
+  3. **High Throughput** : Qdrant handles a high number of requests per second, making it ideal for environments with heavy query loads. For similar configurations, Qdrant provided a throughput of 250 RPS whereas ES was around 100 RPS.
+![case-study-sprinklr-5](https://qdrant.tech/blog/case-study-sprinklr/image3.png)
+![case-study-sprinklr-6](https://qdrant.tech/blog/case-study-sprinklr/image6.png)
+![case-study-sprinklr-7](https://qdrant.tech/blog/case-study-sprinklr/image7.png)
+![case-study-sprinklr-8](https://qdrant.tech/blog/case-study-sprinklr/image8.png)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-sprinklr/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-visua.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Visua and Qdrant: Vector Search in Computer Vision
+  *     * [The Challenge](https://qdrant.tech/blog/case-study-visua/#the-challenge)
+    * [The Solution](https://qdrant.tech/blog/case-study-visua/#the-solution)
+    * [The Selection Process](https://qdrant.tech/blog/case-study-visua/#the-selection-process)
+    * [Implementing Qdrant](https://qdrant.tech/blog/case-study-visua/#implementing-qdrant)
+    * [The Results](https://qdrant.tech/blog/case-study-visua/#the-results)
+![visua/image1.png](https://qdrant.tech/blog/case-study-visua/image1.png)
+For over a decade, **Brandwatch** , cybersecurity like **Mimecast** , trademark protection like **Ebay** and several sports agencies like **Vision Insights** for sponsorship evaluation.
+![visua/image3.png](https://qdrant.tech/blog/case-study-visua/image3.png)
+  * **Hybrid Query Capability:** Qdrant enables the execution of hybrid queries that combine payload fields and vector data, allowing for comprehensive and nuanced searches. This functionality leverages the strengths of both payload attributes and vector similarities for detailed data analysis. Prest noted the importance of Qdrant’s hybrid approach, saying, “When talking with the founders of Qdrant, we realized that they put a lot of effort into this hybrid approach, which really resonated with us.”
+  * **Performance Superiority** : Qdrant distinguished itself as the fastest engine for VISUA’s specific needs, significantly outpacing alternatives with query speeds up to 40 times faster for certain VISUA use cases. Alessandro Prest highlighted, “Qdrant was the fastest engine by a large margin for our use case,” underscoring its significant efficiency and scalability advantages.
+  * **API Documentation** : The clarity, comprehensiveness, and user-friendliness of Qdrant’s API documentation and reference guides further solidified VISUA’s decision.
+This strategic selection enabled VISUA to achieve a notable increase in operational efficiency and scalability in its quality control processes.
+####  [](https://qdrant.tech/blog/case-study-visua/#expanding-qdrants-use-beyond-anomaly-detection)Expanding Qdrant’s Use Beyond Anomaly Detection
+While the primary application of Qdrant is focused on quality control, VISUA’s team is actively exploring additional use cases with Qdrant. VISUA’s use of Qdrant has inspired new opportunities, notably in content moderation. “The moment we started to experiment with Qdrant, opened up a lot of ideas within the team for new applications,” said Prest on the potential unlocked by Qdrant. For example, this has led them to actively explore the Qdrant [Discovery API](https://qdrant.tech/documentation/concepts/explore/?q=discovery#discovery-api), with an eye on enhancing content moderation processes.
+Beyond content moderation, VISUA is set for significant growth by broadening its copyright infringement detection services. As the demand for detecting a wider range of infringements, like unauthorized use of popular characters on merchandise, increases, VISUA plans to expand its technology capabilities. Qdrant will be pivotal in this expansion, enabling VISUA to meet the complex and growing challenges of moderating copyrighted content effectively and ensuring comprehensive protection for brands and creators.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-visua/)
+                    ## 📄 `https-qdrant-tech-blog-case-study-voiceflow.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Voiceflow & Qdrant: Powering No-Code AI Agent Creation with Scalable Vector Search
+  *     * [Evaluation Criteria](https://qdrant.tech/blog/case-study-voiceflow/#evaluation-criteria)
+    * [Migration and Onboarding](https://qdrant.tech/blog/case-study-voiceflow/#migration-and-onboarding)
+    * [RAG Pipeline Setup](https://qdrant.tech/blog/case-study-voiceflow/#rag-pipeline-setup)
+    * [How Voiceflow Uses Qdrant](https://qdrant.tech/blog/case-study-voiceflow/#how-voiceflow-uses-qdrant)
+    * [The Outcome](https://qdrant.tech/blog/case-study-voiceflow/#the-outcome)
+    * [What’s Next](https://qdrant.tech/blog/case-study-voiceflow/#whats-next)
+![voiceflow/image2.png](https://qdrant.tech/blog/case-study-voiceflow/image1.png)
+  * **Performance** : The ability to [handle the scale](https://qdrant.tech/documentation/guides/distributed_deployment/) required by Voiceflow, supporting hundreds of thousands of projects efficiently.
+  * **Metadata** : The capability to tag data and chunks and retrieve based on those values, essential for organizing and accessing specific information swiftly.
+  * **Managed Solution** : The availability of a [managed service](https://qdrant.tech/documentation/cloud/) with automated maintenance, scaling, and security, freeing the team from infrastructure concerns.
+_“We started with Pinecone but eventually switched to Qdrant,”_ Linkov noted. The reasons for the switch included:
+  * **Scaling Capabilities** : Qdrant offers a robust multi-node setup with [horizontal scaling](https://qdrant.tech/documentation/cloud/cluster-scaling/), allowing clusters to grow by adding more nodes and distributing data and load among them. This ensures high performance and resilience, which is crucial for handling large-scale projects.
+  * **Infrastructure** : “Qdrant provides robust infrastructure support, allowing integration with virtual private clouds on AWS using AWS Private Links and ensuring encryption with AWS KMS. This setup ensures high security and reliability,” says Portillo Edo.
+  * **Responsive Qdrant Team** : “The Qdrant team is very responsive, ships features quickly and is a great partner to build with,” Linkov added.
+  * **Data Upload** : Customers can upload data via API from sources such as URLs, PDFs, Word documents, and plain text formats. Integration with platforms like Zendesk is supported, and users can choose between single uploads or refresh-based uploads.
+  * **Data Ingestion** : Once data is ingested, Voiceflow offers preset strategies for data checking. Users can utilize these strategies or opt for more customization through the API to tailor the ingestion process as needed.
+  * **Metadata Tagging** : Metadata tags can be applied during the ingestion process, which helps organize and facilitate efficient data retrieval later on.
+  * **Data Retrieval** : At retrieval time, Voiceflow provides prompts that can modify user questions by adding context, variables, or other modifications. This customization includes adding personas or structuring responses as markdown. Depending on the type of interaction (e.g., button, carousel with an image for image retrieval), these prompts are displayed to users in a structured format.
+This comprehensive setup ensures that Voiceflow users can efficiently manage and customize their data workflows, providing a robust solution for building AI-driven applications.
+  * **Quantization** : This feature helps Voiceflow to perform efficient data processing by reducing the size of vectors, making searches faster. The team uses [Product Quantization](https://qdrant.tech/articles/product-quantization/) in particular.
+  * **Chunking Search** : Voiceflow uses chunking search to improve search efficiency by breaking down large datasets into manageable chunks, which allows for faster and more efficient data retrieval.
+  * **Sparse Vector Search** : Although not yet implemented, this feature is being explored for more precise keyword searches. “This is an encouraging direction the Qdrant team is taking here as many users seek more exact keyword search,” said Linkov.
+_Architecture:_
+  * **Node Pool** : A large node pool is used for public cloud users, ensuring scalability, while several smaller, isolated instances cater to private cloud users, providing enhanced security.
+_Infrastructure:_
+  * **Private Link** : The ability to use Private Link connections across different instances is a significant advantage, requiring robust infrastructure support from Qdrant. “This setup was crucial for SOC2 compliance, and Qdrant’s support team made the process seamless by ensuring feasibility and aiding in the implementation,” Linkov explained.
+By utilizing these features, Voiceflow ensures that its platform is scalable, secure, and efficient, meeting the diverse needs of its users.
+  * **Enhanced Metadata Tagging** : Implemented robust metadata tagging, allowing for custom fields and tags that facilitate efficient search filtering.
+  * **Optimized Performance** : Resolved concerns about retrieval times with a high number of tags by optimizing indexing strategies, achieving efficient performance.
+  * **Minimal Operational Overhead** : Experienced minimal overhead, streamlining their operational processes.
+  * **Future-Ready** : Anticipates further innovation in hybrid search with multi-token attention.
+  * **Multitenancy Support** : Utilized Qdrant’s efficient and [isolated data management](https://qdrant.tech/documentation/guides/multiple-partitions/) to support diverse user needs.
+Overall, Qdrant’s features and infrastructure provided Voiceflow with a stable, scalable, and efficient solution for their data processing and retrieval needs.
+##  [](https://qdrant.tech/blog/case-study-voiceflow/#whats-next)What’s Next
+Voiceflow plans to enhance its platform with more filtering and customization options, allowing developers to host and customize chatbot interfaces without building their own [RAG](https://qdrant.tech/rag/) pipeline.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/case-study-voiceflow/)
+                    ## 📄 `https-qdrant-tech-blog-colpali-qdrant-optimization.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Optimizing ColPali for Retrieval at Scale, 13x Faster Results
+  *     * [The Scaling Dilemma](https://qdrant.tech/blog/colpali-qdrant-optimization/#the-scaling-dilemma)
+    * [Two-Stage Retrieval Process](https://qdrant.tech/blog/colpali-qdrant-optimization/#two-stage-retrieval-process)
+      * [Pooling](https://qdrant.tech/blog/colpali-qdrant-optimization/#pooling)
+      * [The “ColPali as a Reranker” Experiment](https://qdrant.tech/blog/colpali-qdrant-optimization/#the-colpali-as-a-reranker-experiment)
+      * [Implementation](https://qdrant.tech/blog/colpali-qdrant-optimization/#implementation)
+      * [Experiment Setup](https://qdrant.tech/blog/colpali-qdrant-optimization/#experiment-setup)
+    * [Results](https://qdrant.tech/blog/colpali-qdrant-optimization/#results)
+      * [Metrics](https://qdrant.tech/blog/colpali-qdrant-optimization/#metrics)
+    * [What’s Next?](https://qdrant.tech/blog/colpali-qdrant-optimization/#whats-next)
+      * [Try It Yourself](https://qdrant.tech/blog/colpali-qdrant-optimization/#try-it-yourself)
+ColPali is a fascinating leap in document retrieval. Its precision in handling visually rich PDFs is phenomenal, but scaling it to handle real-world datasets comes with its share of computational challenges.
+Here’s how we solved these challenges to make ColPali 13x faster without sacrificing the precision it’s known for.
+  * **Dataset Size:** 20,000 PDF pages.
+  * **Number of Vectors:** Each page generates ~1,000 vectors of 128 dimensions.
+The total number of comparisons is calculated as:
+1,000⋅1,000⋅20,000⋅128=2.56×1012 comparisons!
+That’s trillions of comparisons needed to build the index. Even advanced indexing algorithms like **HNSW** struggle with this scale, as computational costs grow quadratically with amount of multivectors per page.
+We turned to a hybrid optimization strategy combining **pooling** (to reduce computational overhead) and **reranking** (to preserve accuracy).
+Before we go any deeper, watch our 
+For those eager to explore, the 
+  * **Mean Pooling:** Averages values across rows.
+  * **Max Pooling:** Selects the maximum value for each feature.
+32 vectors represent the pooled rows, while 6 vectors encode contextual information derived from ColPali’s special tokens (e.g., for the beginning of the sequence, and task-specific instructions like “Describe the image”).
+For our experiments, we chose to preserve these 6 additional vectors.
+  * **ViDoRe Benchmark:** Designed for PDF documents retrieval evaluation.
+  * **UFO Dataset:** Visually rich documents paired with synthetic queries 
+  * **DocVQA Dataset:** A large set of document-derived Q&A pairs.
+Each document was processed into 32x32 grids, generating both full-resolution and pooled embeddings. **Full-resolution** embeddings consisted of 1,030 vectors per page, while **pooled embeddings** included mean and max pooling variants.
+All embeddings were were stored and kept in RAM to avoid caching effects during retrieval speed experiments.
+  * **Demo Notebook:**
+  * **Webinar Walkthrough:**
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+                    ## 📄 `https-qdrant-tech-blog-dust-and-qdrant.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Dust and Qdrant: Using AI to Unlock Company Knowledge and Drive Employee Productivity
+  *     * [Challenge](https://qdrant.tech/blog/dust-and-qdrant/#challenge)
+    * [Solution](https://qdrant.tech/blog/dust-and-qdrant/#solution)
+    * [Results](https://qdrant.tech/blog/dust-and-qdrant/#results)
+    * [Outlook](https://qdrant.tech/blog/dust-and-qdrant/#outlook)
+One of the major promises of artificial intelligence is its potential to accelerate efficiency and productivity within businesses, empowering employees and teams in their daily tasks. The French company 
+##  [](https://qdrant.tech/blog/dust-and-qdrant/#outlook)Outlook
+Dust will continue to build out their platform, aiming to be the platform of choice for companies to execute on their internal GenAI strategy, unlocking company knowledge and driving team productivity. Over the coming months, Dust will add more connections, such as Intercom, Jira, or Salesforce. Additionally, Dust will expand on its structured data capabilities.
+To learn more about how Dust uses Qdrant to help employees in their day to day tasks, check out our 
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/dust-and-qdrant/)
+                    ## 📄 `https-qdrant-tech-blog-enterprise-vector-search.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Introducing Qdrant Cloud’s New Enterprise-Ready Vector Search
+  *     * [Securely Scale Your AI Workloads](https://qdrant.tech/blog/enterprise-vector-search/#securely-scale-your-ai-workloads)
+    * [Our New Qdrant Cloud Capabilities:](https://qdrant.tech/blog/enterprise-vector-search/#our-new-qdrant-cloud-capabilities)
+    * [Ok, now for the good part…](https://qdrant.tech/blog/enterprise-vector-search/#ok-now-for-the-good-part)
+      * [Cloud API for Simplified Management](https://qdrant.tech/blog/enterprise-vector-search/#cloud-api-for-simplified-management)
+      * [Secure Access & Authentication - Control the Who and What](https://qdrant.tech/blog/enterprise-vector-search/#secure-access--authentication---control-the-who-and-what)
+      * [Advanced Monitoring and Observability for Full Performance Insights](https://qdrant.tech/blog/enterprise-vector-search/#advanced-monitoring-and-observability-for-full-performance-insights)
+    * [Simply put, Qdrant is Enterprise-Ready](https://qdrant.tech/blog/enterprise-vector-search/#simply-put-qdrant-is-enterprise-ready)
+    * [Come Build with Us!](https://qdrant.tech/blog/enterprise-vector-search/#come-build-with-us)
+At Qdrant, we enable developers to power AI workloads - not only securely, but at any scale. That’s why we are excited to introduce Qdrant Cloud’s new suite of enterprise-grade features. With **our Cloud API, Cloud RBAC** , **Single Sign-On (SSO)** , granular **Database API Keys** , and **Advanced Monitoring & Observability**, you now have the control and visibility needed to operate at scale.
+##  [](https://qdrant.tech/blog/enterprise-vector-search/#come-build-with-us)Come Build with Us!
+[Contact Sales](https://qdrant.tech/contact-us/) to enable enterprise features for your team, or 
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/enterprise-vector-search/)
+                    ## 📄 `https-qdrant-tech-blog-human-language-ai-models.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * When music just doesn't match our vibe, can AI help? - Filip Makraduli | Vector Space Talks
+  *     * [**Top Takeaways:**](https://qdrant.tech/blog/human-language-ai-models/#top-takeaways)
+    * [Show Notes:](https://qdrant.tech/blog/human-language-ai-models/#show-notes)
+    * [More Quotes from Filip:](https://qdrant.tech/blog/human-language-ai-models/#more-quotes-from-filip)
+    * [Transcript:](https://qdrant.tech/blog/human-language-ai-models/#transcript)
+##  [](https://qdrant.tech/blog/human-language-ai-models/#transcript)Transcript:
+Demetrios: So for those who do not know, you are going to be talking to us about when the music we listen to does not match our vibe. And can we get AI to help us on that? And you’re currently working as a data scientist at Marks and Spencer. I know you got some slides to share, right? So I’ll let you share your screen. We can kick off the slides and then we’ll have a little presentation and I’ll be back on to answer some questions. And if Neil’s is still around at the end, which I don’t think he will be able to hang around, but we’ll see, we can pull him back on and have a little discussion at the end of the.
+Filip Makraduli: That’s. That’s great. All right, cool. I’ll share my screen.
+Demetrios: Right on.
+Filip Makraduli: Yeah.
+Demetrios: There we go.
+Filip Makraduli: Yeah. So I had to use this slide because it was really well done as an introductory slide. Thank you. Yeah. Thank you also for making it so. Yeah, the idea was, and kind of the inspiration with music, we all listen to it. It’s part of our lives in many ways. Sometimes it’s like the gym.
+Filip Makraduli: We’re ready to go, we’re all hyped up, ready to do a workout, and then we click play. But the music and the playlist we get, it’s just not what exactly we’re looking for at that point. Or if we try to work for a few hours and try to get concentrated and try to code for hours, we can do the same and then we click play, but it’s not what we’re looking for again. So my inspiration was here. Was it possible to somehow maybe find a way to transfer this feeling that we have this vibe and get the help of AI to understand what exactly we need at that moment in terms of songs. So the obvious first question is how do we even capture a vibe and feel of a song? So initially, one approach that’s popular and that works quite well is basically using a data set that has a lot of features. So Spotify has one data set like this and there are many others open source ones which include different features like loudness, key tempo, different kind of details related to the acoustics, the melody and so on. And this would work.
+Filip Makraduli: And this is kind of a way that a lot of song recommendation systems are built. However, what I wanted to do was maybe try a different approach in a way. Try to have a more unconventional recommender system, let’s say. So what I did here was I tried to concentrate just on language. So my idea was, okay, is it possible to use human language to transfer this experience, this feeling that we have, and just use that and try to maybe encapsulate these features of songs. And instead of having a data set, just have descriptions of songs or sentences that explain different aspects of a song. So, as I said, this is a bit of a less traditional approach, and it’s more of kind of testing the waters, but it worked to a decent extent. So what I did was, first I created a data set where I queried a large language model.
+Filip Makraduli: So I tried with llama and chat GPT, both. And the idea was to ask targeted questions, for example, like, what movie character does this song make you feel like? Or what’s the tempo like? So, different questions that would help us understand maybe in what situation we would listen to this song, how will it make us feel like? And so on. And the idea was, as I said, again, to only use song names as queries for this large language model. So not have the full data sets with multiple features, but just song name, and kind of use this pretrained ability of all these LLMs to get this info that I was looking for. So an example of the generated data was this. So this song called Deep Sea Creature. And we have, like, a small description of the song. So it says a heavy, dark, mysterious vibe.
+Filip Makraduli: It will make you feel like you’re descending into the unknown and so on. So a bit of a darker choice here, but that’s the general idea. So trying to maybe do a bit of prompt engineering in a way to get the right features of a song, but through human language. So that was the first step. So the next step was how to encode this text. So all of this kind of querying reminds me of sentences. And this led me to sentence transformers and sentence Bird. And the usual issue with kind of doing this sentence similarity in the past was this, what I have highlighted here.
+Filip Makraduli: So this is actually a quote from a paper that Nils published a few years ago. So, basically, the way that this similarity was done was using cross encoders in the past, and that worked well, but it was really slow and unscalable. So Nils and his colleague created this kind of model, which helped scale this and make this a lot quicker, but also keep a lot of the accuracy. So Bert and Roberta were used, but they were not, as I said, quite scalable or useful for larger applications. So that’s how sentence Bert was created. So the idea here was that there would be, like, a Siamese network that would train the model so that there could be, like, two bird models, and then the training would be done using this like zero, one and two tags, where kind of the sentences would be compared, whether there is entailment, neutrality or contradiction. So how similar these sentences are to each other. And by training a model like this and doing mean pooling, in the end, the model performed quite well and was able to kind of encapsulate this language intricacies of sentences.
+Filip Makraduli: So I decided to use and try out sentence transformers for my use case, and that was the encoding bit. So we have the model, we encode the text, and we have the embedding. So now the question is, how do we actually generate the recommendations? How is the similarity performed? So the similarity was done using vector spaces and cosine similarity search here. There were multiple ways of doing this. First, I tried things with a flat index and I tried Qdrant and I tried FIS. So I’ve worked with both. And with the flat index, it was good. It works well.
+Filip Makraduli: It’s quick for small number of examples, small number of songs, but there is an issue when scaling. So once the vector indices get bigger, there might be a problem. So one popular kind of index architecture is this one here on the left. So hierarchical, navigable, small world graphs. So the idea here is that you wouldn’t have to kind of go through all of the examples, but search through the examples in different layers, so that the search for similarities quicker. And this is a really popular approach. And Qdrant have done a really good customizable version of this, which is quite useful, I think, for very larger scales of application. And this graph here illustrates kind of well what the idea is.
+Filip Makraduli: So there is the sentence in this example. It’s like a stripped striped blue shirt made from cotton, and then there is the network or the encoder. So in my case, this sentence is the song description, the neural network is the sentence transformer in my case. And then this embeddings are generated, which are then mapped into this vector space, and then this vector space is queryed and the cosine similarity is found, and the recommendations are generated in this way, so that once the user writes a query and the query mentions, like some kind of a mood, for example, I feel happy and it’s a sunny day and so on, you would get the similarity to the song that has this kind of language explanations and language intricacies in its description. And there are a lot of ways of doing this, as Nils mentioned, especially with different embedding models and doing context related search. So this is an interesting area for improvement, even in my use case. And the quick screenshot looks like this. So for example, the mood that the user wrote, it’s a bit rainy, but I feel like I need a long walk in London.
+Filip Makraduli: And these are the top five suggested songs. This is also available on Streamlit. In the end I’ll share links of everything and also after that you can click create a Spotify playlist and this playlist will be saved in your Spotify account. As you can see here, it says playlist generated earlier today. So yeah, I tried this, it worked. I will try live demo bit later. Hopefully it works again. But this is in beta currently so you won’t be able to try it at home because Spotify needs to approve my app first and go through that process so that then I can do this part fully.
+Filip Makraduli: And the front end bit, as I mentioned, was done in Streamlit. So why Streamlit? I like the caching bit. So of course this general part where it’s really easy and quick to do a lot of data dashboarding and data applications to test out models, that’s quite nice. But this caching options that they have help a lot with like loading models from hugging face or if you’re loading models from somewhere, or if you’re loading different databases. So if you’re combining models and data. In my case I had a binary file of the index and also the model. So it was quite useful and quick to do these things and to be able to try things out quickly. So this is kind of the step by step outline of everything I’ve mentioned and the whole project.
+Filip Makraduli: So the first step is encoding this descriptions into embeddings. Then this vector embeddings are mapped into a vector space. Examples here with how I’ve used Qdrant for this, which was quite nice. I feel like the developer experience is really good for scalable purposes. It’s really useful. So if the number of songs keep increasing it’s quite good. And the query and more similar embeddings. The front is done with Streamlit and the Spotify API to save the playlists on the Spotify account.
+Filip Makraduli: All of these steps can be improved and tweaked in certain ways and I will talk a bit about that too. So a lot more to be done. So now there are 2000 songs, but as I’ve mentioned, in this vector space, the more songs that are there, the more representative this recommendations would be. So this is something I’m currently exploring and doing, generating, filtering and user specific personalization. So once maybe you log in with Spotify, you could get recommendations related to your taste on Spotify or on whatever app you listen your music on. And referring to the talk that Niels had a lot of potential for better models and embeddings and embedding models. So also the contrastive learning bits or the contents aware querying, that could be useful too. And a vector database because currently I’m using a binary file.
+Filip Makraduli: But I’ve explored Qdrant and as I said with Spotify web API there are a lot of things to be done with this specific user created recommendations. So with Qdrant, the Python client is quite good. The getting started helps a lot. So I wrote a bit of code. I think for production use cases it’s really great. So for my use case here, as you can see on the right, I just read the text from a column and then I encode with the model. So the sentence transformer is the model that I encode with. And there is this collections that they’re so called in Qdrant that are kind of like this vector spaces that you can create and you can also do different things with them, which I think one of the more helpful ones is the payload one and the batch one.
+Filip Makraduli: So you can batch things in terms of how many vectors will go to the server per single request. And also the payload helps if you want to add extra context. So maybe I want to filter by genres. I can add useful information to the vector embedding. So this is quite a cool feature that I’m planning on using. And another potential way of doing this and kind of combining things is using audio waves too, lyrics and descriptions and combining all of this as embeddings and then going through the similar process. So that’s something that I’m looking to do also. And yeah, you also might have noticed that I’m a data scientist at Marks and Spencer and I just wanted to say that there are a lot of interesting ML and data related stuff going on there.
+Filip Makraduli: So a lot of teams that work on very interesting use cases, like in recommender systems, personalization of offers different stuff about forecasting. There is a lot going on with causal ML and yeah, the digital and tech department is quite well developed and I think it’s a fun place to explore if you’re interested in retail data science use cases. So yeah, thank you for your attention. I’ll try the demo. So this is the QR code with the repo and all the useful links. You can contact me on LinkedIn. This is the screenshot of the repo and you have the link in the QR code. The name of the repo is song Vibe.
+Filip Makraduli: A friend of mine said that that wasn’t a great name of a repo. Maybe he was right. But yeah, here we are. I’ll just try to do the demo quickly and then we can step back to the.
+Demetrios: I love dude, I got to say, when you said you can just automatically create the Spotify playlist, that made me.
+Filip Makraduli: Go like, oh, yes, let’s see if it works locally. Do you have any suggestion what mood are you in?
+Demetrios: I was hoping you would ask me, man. I am in a bit of an esoteric mood and I want female kind of like Gaelic voices, but not Gaelic music, just Gaelic voices and lots of harmonies, heavy harmonies.
+Filip Makraduli: Also.
+Demetrios: You didn’t realize you’re asking a musician. Let’s see what we got.
+Filip Makraduli: Let’s see if this works in 2000 songs. Okay, so these are the results. Okay, yeah, you’d have to playlist. Let’s see.
+Demetrios: Yeah, can you make the playlist public and then I’ll just go find it right now. Here we go.
+Filip Makraduli: Let’s see. Okay, yeah, open in. Spotify playlist created now. Okay, cool. I can also rename it. What do you want to name the playlist?
+Demetrios: Esoteric Gaelic Harmonies. That’s what I think we got to go with AI. Well, I mean, maybe we could just put maybe in parenthes.
+Filip Makraduli: Yeah. So I’ll share this later with you. Excellent. But yeah, basically that was it.
+Demetrios: It worked. Ten out of ten for it. Working. That is also very cool.
+Filip Makraduli: Live demo working. That’s good. So now doing the infinite screen, which I have stopped now.
+Demetrios: Yeah, classic, dude. Well, I’ve got some questions coming through and the chat has been active too. So I’ll ask a few of the questions in the chat for a minute. But before I ask those questions in the chat, one thing that I was thinking about when you were talking about how to, like, the next step is getting better embeddings. And so was there a reason that you just went with the song title and then did you check, you said there was 2000 songs or how many songs? So did you do anything to check the output of the descriptions of these songs?
+Filip Makraduli: Yeah, so I didn’t do like a systematic testing in terms of like, oh, yeah, the output is structured in this way. But yeah, I checked it roughly went through a few songs and they seemed like, I mean, of course you could add more info, but they seemed okay. So I was like, okay, let me try kind of whether this works. And, yeah, the descriptions were nice.
+Demetrios: Awesome. Yeah. So that kind of goes into one of the questions that mornie’s asking. Let me see. Are you going to team this up with other methods, like collaborative filtering, content embeddings and stuff like that.
+Filip Makraduli: Yeah, I was thinking about this different kind of styles, but I feel like I want to first try different things related to embeddings and language just because I feel like with the other things, with the other ways of doing these recommendations, other companies and other solutions have done a really great job there. So I wanted to try something different to see whether that could work as well or maybe to a similar degree. So that’s why I went towards this approach rather than collaborative filtering.
+Demetrios: Yeah, it kind of felt like you wanted to test the boundaries and see if something like this, which seems a little far fetched, is actually possible. And it seems like I would give it a yes.
+Filip Makraduli: It wasn’t that far fetched, actually, once you see it working.
+Demetrios: Yeah, totally. Another question is coming through is asking, is it possible to merge the current mood so the vibe that you’re looking for with your musical preferences?
+Filip Makraduli: Yeah. So I was thinking of that when we’re doing this, the playlist creation that I did for you, there is a way to get your top ten songs or your other playlists and so on from Spotify. So my idea of kind of capturing this added element was through Spotify like that. But of course it could be that you could enter that in your own profile in the app or so on. So one idea would be how would you capture that preferences of the user once you have the user there. So you’d need some data of the preferences of the user. So that’s the problem. But of course it is possible.
+Demetrios: You know what I’d lOve? Like in your example, you put that, I feel like going for a walk or it’s raining, but I still feel like going through for a long walk in London. Right. You could probably just get that information from me, like what is the weather around me, where am I located? All that kind of stuff. So I don’t have to give you that context. You just add those kind of contextual things, especially weather. And I get the feeling that that would be another unlock too. Unless you’re like, you are the exact opposite of a sunny day on a sunny day. And it’s like, why does it keep playing this happy music? I told you I was sad.
+Filip Makraduli: Yeah. You’re predicting not just the songs, but the mood also.
+Demetrios: Yeah, totally.
+Filip Makraduli: You don’t have to type anything, just open the website and you get everything.
+Demetrios: Exactly. Yeah. Give me a few predictions just right off the bat and then maybe later we can figure it out. The other thing that I was thinking, could be a nice add on. I mean, the infinite feature request, I don’t think you realized you were going to get so many feature requests from me, but let it be known that if you come on here and I like your app, you’ll probably get some feature requests from me. So I was thinking about how it would be great if I could just talk to it instead of typing it in, right? And I could just explain my mood or explain my feeling and even top that off with a few melodies that are going on in my head, or a few singers or songwriters or songs that I really want, something like this, but not this song, and then also add that kind of thing, do the.
+Filip Makraduli: Humming sound a bit and you play your melody and then you get.
+Demetrios: Except I hum out of tune, so I don’t think that would work very well. I get a lot of random songs, that’s for sure. It would probably be just about as accurate as your recommendation engine is right now. Yeah. Well, this is awesome, man. I really appreciate you coming on here. I’m just going to make sure that there’s no other questions that came through the chat. No, looks like we’re good.
+Demetrios: And for everyone out there that is listening, if you want to come on and talk about anything cool that you have built with Qdrant, or how you’re using Qdrant, or different ways that you would like Qdrant to be better, or things that you enjoy, whatever it may be, we’d love to have you on here. And I think that is it. We’re going to call it a day for the vector space talks, number two. We’ll see you all later. Philip, thanks so much for coming on. It’s.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/human-language-ai-models/)
+                    ## 📄 `https-qdrant-tech-blog-iris-agent-qdrant.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * IrisAgent and Qdrant: Redefining Customer Support with AI
+  *     * [The Challenge](https://qdrant.tech/blog/iris-agent-qdrant/#the-challenge)
+    * [The Solution](https://qdrant.tech/blog/iris-agent-qdrant/#the-solution)
+    * [Optimizing IrisAgent’s AI Pipeline: The Evaluation and Integration of Qdrant](https://qdrant.tech/blog/iris-agent-qdrant/#optimizing-irisagents-ai-pipeline-the-evaluation-and-integration-of-qdrant)
+    * [Future of IrisAgent](https://qdrant.tech/blog/iris-agent-qdrant/#future-of-irisagent)
+Artificial intelligence is evolving customer support, offering unprecedented capabilities for automating interactions, understanding user needs, and enhancing the overall customer experience. 
+Bhatia describes IrisAgent as “the system of intelligence which sits on top of existing systems of records like support tickets, engineering bugs, sales data, or product data,” with the main objective of leveraging AI and generative AI, to automatically detect the intent and tags behind customer support tickets, reply to a large number of support tickets chats improve the time to resolution and increase the deflection rate of support teams. Ultimately, IrisAgent enables support teams to more with less and be more effective in helping customers.
+##  [](https://qdrant.tech/blog/iris-agent-qdrant/#future-of-irisagent)Future of IrisAgent
+Looking ahead, IrisAgent is committed to pushing the boundaries of AI in customer support, with ambitious plans to evolve their product further. The cornerstone of this vision is a feature that will allow support teams to leverage historical support data more effectively, by automating the generation of knowledge base content to redefine how FAQs and product documentation are created. This strategic initiative aims not just to reduce manual effort but also to enrich the self-service capabilities of users. As IrisAgent continues to refine its AI algorithms and expand its training datasets, the goal is to significantly elevate the support experience, making it more seamless and intuitive for end-users.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/iris-agent-qdrant/)
+                    ## 📄 `https-qdrant-tech-blog-metadata-deasy-labs.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Metadata automation and optimization - Reece Griffiths | Vector Space Talks
+  *     * [**Top takeaways:**](https://qdrant.tech/blog/metadata-deasy-labs/#top-takeaways)
+    * [**Show notes:**](https://qdrant.tech/blog/metadata-deasy-labs/#show-notes)
+    * [**More Quotes from Reece:**](https://qdrant.tech/blog/metadata-deasy-labs/#more-quotes-from-reece)
+      * [**Try Deasy Labs 🚀**](https://qdrant.tech/blog/metadata-deasy-labs/#try-deasy-labs-)
+###  [](https://qdrant.tech/blog/metadata-deasy-labs/#try-deasy-labs-)**Try Deasy Labs 🚀**
+Want to enhance your vector search performance with **automated metadata workflows**?
+**Start now at**
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/metadata-deasy-labs/)
+                    ## 📄 `https-qdrant-tech-blog-page-10.md`
+###### Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/10/)
+                    ## 📄 `https-qdrant-tech-blog-page-2.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Building a Facial Recognition System with Qdrant](https://qdrant.tech/blog/facial-recognition/preview/preview.jpg) Building a Facial Recognition System with Qdrant Build an AI app that uses facial recognition embeddings & vector search to match users with their celebrity look-alikes. David Myriel December 03, 2024 ](https://qdrant.tech/blog/facial-recognition/)[![Best Practices in RAG Evaluation: A Comprehensive Guide](https://qdrant.tech/blog/rag-evaluation-guide/preview/preview.jpg) Best Practices in RAG Evaluation: A Comprehensive Guide Explore best practices for evaluating Retrieval-Augmented Generation (RAG) systems. David Myriel November 24, 2024 ](https://qdrant.tech/blog/rag-evaluation-guide/)[![Empowering QA.tech’s Testing Agents with Real-Time Precision and Scale](https://qdrant.tech/blog/case-study-qatech/preview/preview.jpg) Empowering QA.tech’s Testing Agents with Real-Time Precision and Scale QA.tech uses Qdrant to power AI agents, enabling scalable, real-time web testing with custom embeddings and batch efficiency. Qdrant November 21, 2024 ](https://qdrant.tech/blog/case-study-qatech/)[![How Sprinklr Leverages Qdrant to Enhance AI-Driven Customer Experience Solutions](https://qdrant.tech/blog/case-study-sprinklr/preview/preview.jpg) How Sprinklr Leverages Qdrant to Enhance AI-Driven Customer Experience Solutions Learn how Sprinklr uses vector search to power AI tools for customer engagement. Qdrant October 17, 2024 ](https://qdrant.tech/blog/case-study-sprinklr/)[![New DeepLearning.AI Course on Retrieval Optimization: From Tokenization to Vector Quantization](https://qdrant.tech/blog/qdrant-deeplearning-ai-course/preview/preview.jpg) New DeepLearning.AI Course on Retrieval Optimization: From Tokenization to Vector Quantization Join Qdrant and DeepLearning.AI’s free, beginner-friendly course to learn retrieval optimization and boost search performance in machine learning. Qdrant October 06, 2024 ](https://qdrant.tech/blog/qdrant-deeplearning-ai-course/)[![Introducing Qdrant for Startups](https://qdrant.tech/blog/qdrant-for-startups-launch/preview/preview.jpg) Introducing Qdrant for Startups Enjoy special discounts from Qdrant, HuggingFace, LlamaIndex, and Airbyte, as well as expert support & tooling perks, and be the first to try new features. Qdrant October 02, 2024 ](https://qdrant.tech/blog/qdrant-for-startups-launch/)[![Qdrant and Shakudo: Secure & Performant Vector Search in VPC Environments](https://qdrant.tech/blog/case-study-shakudo/preview/preview.jpg) Qdrant and Shakudo: Secure & Performant Vector Search in VPC Environments Implementing vector search for enterprise AI via Qdrant's Hybrid Cloud integration into Shakudo’s virtual private cloud. Qdrant September 23, 2024 ](https://qdrant.tech/blog/case-study-shakudo/)[![Data-Driven RAG Evaluation: Testing Qdrant Apps with Relari AI](https://qdrant.tech/blog/qdrant-relari/preview/preview.jpg) Data-Driven RAG Evaluation: Testing Qdrant Apps with Relari AI Learn how Qdrant and Relari enhance RAG systems with vector search and data-driven RAG evaluation. Thierry Damiba, David Myriel & Yi Zhang September 16, 2024 ](https://qdrant.tech/blog/qdrant-relari/)[![Nyris & Qdrant: How Vectors are the Future of Visual Search](https://qdrant.tech/blog/case-study-nyris/preview/preview.jpg) Nyris & Qdrant: How Vectors are the Future of Visual Search Revolutionizing customer service in finance and insurance by leveraging vector search for faster responses and improved operational efficiency. Qdrant September 10, 2024 ](https://qdrant.tech/blog/case-study-nyris/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/2/)
+                    ## 📄 `https-qdrant-tech-blog-page-3.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Kern AI & Qdrant: Precision AI Solutions for Finance and Insurance](https://qdrant.tech/blog/case-study-kern/preview/preview.jpg) Kern AI & Qdrant: Precision AI Solutions for Finance and Insurance Revolutionizing customer service in finance and insurance by leveraging vector search for faster responses and improved operational efficiency. Qdrant August 28, 2024 ](https://qdrant.tech/blog/case-study-kern/)[![Kairoswealth & Qdrant: Transforming Wealth Management with AI-Driven Insights and Scalable Vector Search](https://qdrant.tech/blog/case-study-kairoswealth/preview/preview.jpg) Kairoswealth & Qdrant: Transforming Wealth Management with AI-Driven Insights and Scalable Vector Search Enhancing wealth management using AI-driven insights and efficient vector search for improved recommendations and scalability. Qdrant July 10, 2024 ](https://qdrant.tech/blog/case-study-kairoswealth/)[![Qdrant 1.10 - Universal Query, Built-in IDF & ColBERT Support](https://qdrant.tech/blog/qdrant-1.10.x/preview/preview.jpg) Qdrant 1.10 - Universal Query, Built-in IDF & ColBERT Support Consolidated search API, built-in IDF, and native multivector support. David Myriel July 01, 2024 ](https://qdrant.tech/blog/qdrant-1.10.x/)[![Community Highlights #1](https://qdrant.tech/blog/community-highlights-1/preview/preview.jpg) Community Highlights #1 Celebrating top contributions and achievements in vector search, featuring standout projects, articles, and the Creator of the Month, Pavan Kumar! Sabrina Aquino June 20, 2024 ](https://qdrant.tech/blog/community-highlights-1/)[![Response to CVE-2024-3829: Arbitrary file upload vulnerability](https://qdrant.tech/blog/cve-2024-3829-response/preview/preview.jpg) Response to CVE-2024-3829: Arbitrary file upload vulnerability Upgrade your deployments to at least v1.9.0. Cloud deployments not materially affected. Mac Chaffee June 10, 2024 ](https://qdrant.tech/blog/cve-2024-3829-response/)[![Qdrant Attains SOC 2 Type II Audit Report](https://qdrant.tech/blog/qdrant-soc2-type2-audit/preview/preview.jpg) Qdrant Attains SOC 2 Type II Audit Report We're proud to announce achieving SOC 2 Type II compliance for Security, Availability, and Confidentiality. Sabrina Aquino May 23, 2024 ](https://qdrant.tech/blog/qdrant-soc2-type2-audit/)[![Introducing Qdrant Stars: Join Our Ambassador Program!](https://qdrant.tech/blog/qdrant-stars-announcement/preview/preview.jpg) Introducing Qdrant Stars: Join Our Ambassador Program! Say hello to the first Qdrant Stars and learn more about our new ambassador program! Sabrina Aquino May 19, 2024 ](https://qdrant.tech/blog/qdrant-stars-announcement/)[![Intel’s New CPU Powers Faster Vector Search](https://qdrant.tech/blog/qdrant-cpu-intel-benchmark/preview/preview.jpg) Intel’s New CPU Powers Faster Vector Search Intel’s 5th gen Xeon processor is made for enterprise-scale operations in vector space. David Myriel, Kumar Shivendu May 10, 2024 ](https://qdrant.tech/blog/qdrant-cpu-intel-benchmark/)[![QSoC 2024: Announcing Our Interns!](https://qdrant.tech/blog/qsoc24-interns-announcement/preview/preview.jpg) QSoC 2024: Announcing Our Interns! We are pleased to announce the selection of interns for the inaugural Qdrant Summer of Code (QSoC) program. Sabrina Aquino May 08, 2024 ](https://qdrant.tech/blog/qsoc24-interns-announcement/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/3/)
+                    ## 📄 `https-qdrant-tech-blog-page-4.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Are You Vendor Locked?](https://qdrant.tech/blog/are-you-vendor-locked/preview/preview.jpg) Are You Vendor Locked? Redefining freedom in the age of Generative AI. We believe that vendor-dependency comes from hardware, not software. David Myriel May 05, 2024 ](https://qdrant.tech/blog/are-you-vendor-locked/)[![Visua and Qdrant: Vector Search in Computer Vision](https://qdrant.tech/blog/case-study-visua/preview/preview.jpg) Visua and Qdrant: Vector Search in Computer Vision How Visua uses Qdrant as a vector search engine for quality control and anomaly detection in their computer vision platform. Manuel Meyer May 01, 2024 ](https://qdrant.tech/blog/case-study-visua/)[![Qdrant 1.9.0 - Heighten Your Security With Role-Based Access Control Support](https://qdrant.tech/blog/qdrant-1.9.x/preview/preview.jpg) Qdrant 1.9.0 - Heighten Your Security With Role-Based Access Control Support New access control options for RBAC, a much faster shard transfer procedure, and direct support for byte embeddings. David Myriel April 24, 2024 ](https://qdrant.tech/blog/qdrant-1.9.x/)[![Qdrant's Trusted Partners for Hybrid Cloud Deployment](https://qdrant.tech/blog/hybrid-cloud-launch-partners/preview/preview.jpg) Qdrant's Trusted Partners for Hybrid Cloud Deployment With the launch of Qdrant Hybrid Cloud we provide developers the ability to deploy Qdrant as a managed vector database in any desired environment. Manuel Meyer April 15, 2024 ](https://qdrant.tech/blog/hybrid-cloud-launch-partners/)[![Developing Advanced RAG Systems with Qdrant Hybrid Cloud and LangChain ](https://qdrant.tech/blog/hybrid-cloud-langchain/preview/preview.jpg) Developing Advanced RAG Systems with Qdrant Hybrid Cloud and LangChain Empowering engineers and scientists globally to easily and securely develop and scale their GenAI applications. Qdrant April 14, 2024 ](https://qdrant.tech/blog/hybrid-cloud-langchain/)[![Advancements and Challenges in RAG Systems - Syed Asad | Vector Space Talks](https://qdrant.tech/blog/rag-advancements-challenges/preview/preview.jpg) Advancements and Challenges in RAG Systems - Syed Asad | Vector Space Talks Syed Asad unfolds the challenges of developing multimodal RAG systems at Kiwi Tech, detailing the balance between accuracy and cost-efficiency, and exploring various tools and approaches like GPT 4 and Mixtral to enhance family tree apps and financial chatbots while navigating the hurdles of data privacy and infrastructure demands. Demetrios Brinkmann April 11, 2024 ](https://qdrant.tech/blog/rag-advancements-challenges/)[![Building Search/RAG for an OpenAPI spec - Nick Khami | Vector Space Talks](https://qdrant.tech/blog/building-search-rag-open-api/preview/preview.jpg) Building Search/RAG for an OpenAPI spec - Nick Khami | Vector Space Talks Nick Khami discuss Trieve's work with Qdrant's Open API spec for creating powerful and simplified search and recommendation systems, touching on real-world applications, technical specifics, and the potential for improved user experiences. Demetrios Brinkmann April 11, 2024 ](https://qdrant.tech/blog/building-search-rag-open-api/)[![Iveta Lohovska on Gen AI and Vector Search | Qdrant](https://qdrant.tech/blog/gen-ai-and-vector-search/preview/preview.jpg) Iveta Lohovska on Gen AI and Vector Search | Qdrant Discover valuable insights on generative AI, vector search, and ethical AI implementation from Iveta Lohovska, Chief Technologist at HPE. Demetrios Brinkmann April 11, 2024 ](https://qdrant.tech/blog/gen-ai-and-vector-search/)[![Red Hat OpenShift and Qdrant Hybrid Cloud Offer Seamless and Scalable AI](https://qdrant.tech/blog/hybrid-cloud-red-hat-openshift/preview/preview.jpg) Red Hat OpenShift and Qdrant Hybrid Cloud Offer Seamless and Scalable AI Qdrant brings managed vector databases to Red Hat OpenShift for large-scale GenAI. Qdrant April 11, 2024 ](https://qdrant.tech/blog/hybrid-cloud-red-hat-openshift/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/4/)
+                    ## 📄 `https-qdrant-tech-blog-page-5.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Qdrant Hybrid Cloud and DigitalOcean for Scalable and Secure AI Solutions](https://qdrant.tech/blog/hybrid-cloud-digitalocean/preview/preview.jpg) Qdrant Hybrid Cloud and DigitalOcean for Scalable and Secure AI Solutions Enabling developers to deploy a managed vector database in their DigitalOcean Environment. Qdrant April 11, 2024 ](https://qdrant.tech/blog/hybrid-cloud-digitalocean/)[![Enhance AI Data Sovereignty with Aleph Alpha and Qdrant Hybrid Cloud](https://qdrant.tech/blog/hybrid-cloud-aleph-alpha/preview/preview.jpg) Enhance AI Data Sovereignty with Aleph Alpha and Qdrant Hybrid Cloud Empowering the world’s best companies in their AI journey. Qdrant April 11, 2024 ](https://qdrant.tech/blog/hybrid-cloud-aleph-alpha/)[![Vultr and Qdrant Hybrid Cloud Support Next-Gen AI Projects](https://qdrant.tech/blog/hybrid-cloud-vultr/preview/preview.jpg) Vultr and Qdrant Hybrid Cloud Support Next-Gen AI Projects Providing a flexible platform for high-performance vector search in next-gen AI workloads. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-vultr/)[![STACKIT and Qdrant Hybrid Cloud for Best Data Privacy](https://qdrant.tech/blog/hybrid-cloud-stackit/preview/preview.jpg) STACKIT and Qdrant Hybrid Cloud for Best Data Privacy Empowering German AI development with a data privacy-first platform. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-stackit/)[![Qdrant Hybrid Cloud and Scaleway Empower GenAI](https://qdrant.tech/blog/hybrid-cloud-scaleway/preview/preview.jpg) Qdrant Hybrid Cloud and Scaleway Empower GenAI Supporting innovation in AI with the launch of a revolutionary managed database for startups and enterprises. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-scaleway/)[![Qdrant and OVHcloud Bring Vector Search to All Enterprises](https://qdrant.tech/blog/hybrid-cloud-ovhcloud/preview/preview.jpg) Qdrant and OVHcloud Bring Vector Search to All Enterprises Collaborating to support startups and enterprises in Europe with a strong focus on data control and privacy. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-ovhcloud/)[![New RAG Horizons with Qdrant Hybrid Cloud and LlamaIndex](https://qdrant.tech/blog/hybrid-cloud-llamaindex/preview/preview.jpg) New RAG Horizons with Qdrant Hybrid Cloud and LlamaIndex Unlock the most advanced RAG opportunities with Qdrant Hybrid Cloud and LlamaIndex. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-llamaindex/)[![Cutting-Edge GenAI with Jina AI and Qdrant Hybrid Cloud](https://qdrant.tech/blog/hybrid-cloud-jinaai/preview/preview.jpg) Cutting-Edge GenAI with Jina AI and Qdrant Hybrid Cloud Build your most successful app with Jina AI embeddings and on Qdrant Hybrid Cloud. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-jinaai/)[![Qdrant Hybrid Cloud and Haystack for Enterprise RAG](https://qdrant.tech/blog/hybrid-cloud-haystack/preview/preview.jpg) Qdrant Hybrid Cloud and Haystack for Enterprise RAG A winning combination for enterprise-scale RAG consists of a strong framework and a scalable database. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-haystack/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/5/)
+                    ## 📄 `https-qdrant-tech-blog-page-6.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Elevate Your Data With Airbyte and Qdrant Hybrid Cloud](https://qdrant.tech/blog/hybrid-cloud-airbyte/preview/preview.jpg) Elevate Your Data With Airbyte and Qdrant Hybrid Cloud Leverage Airbyte and Qdrant Hybrid Cloud for best-in-class data performance. Qdrant April 10, 2024 ](https://qdrant.tech/blog/hybrid-cloud-airbyte/)[![Teaching Vector Databases at Scale - Alfredo Deza | Vector Space Talks](https://qdrant.tech/blog/teaching-vector-db-at-scale/preview/preview.jpg) Teaching Vector Databases at Scale - Alfredo Deza | Vector Space Talks Alfredo Deza discusses the practicality of machine learning operations, highlighting how personal interest in topics like wine datasets enhances engagement, while reflecting on the synergies between his professional sportsman discipline and the persistent, straightforward approach required for effectively educating on vector databases and large language models. Demetrios Brinkmann April 09, 2024 ](https://qdrant.tech/blog/teaching-vector-db-at-scale/)[![How to meow on the long tail with Cheshire Cat AI? - Piero and Nicola | Vector Space Talks](https://qdrant.tech/blog/meow-with-cheshire-cat/preview/preview.jpg) How to meow on the long tail with Cheshire Cat AI? - Piero and Nicola | Vector Space Talks Cheshire Cat AI's Piero Savastano and Nicola Procopio discusses the framework's vector space complexities, community growth, and future cloud-based expansions. Demetrios Brinkmann April 09, 2024 ](https://qdrant.tech/blog/meow-with-cheshire-cat/)[![Response to CVE-2024-2221: Arbitrary file upload vulnerability](https://qdrant.tech/blog/cve-2024-2221-response/preview/preview.jpg) Response to CVE-2024-2221: Arbitrary file upload vulnerability Upgrade your deployments to at least v1.9.0. Cloud deployments not materially affected. Mike Jang April 05, 2024 ](https://qdrant.tech/blog/cve-2024-2221-response/)[![Introducing FastLLM: Qdrant’s Revolutionary LLM](https://qdrant.tech/blog/fastllm-announcement/preview/preview.jpg) Introducing FastLLM: Qdrant’s Revolutionary LLM Lightweight and open-source. Custom made for RAG and completely integrated with Qdrant. David Myriel April 01, 2024 ](https://qdrant.tech/blog/fastllm-announcement/)[![VirtualBrain: Best RAG to unleash the real power of AI - Guillaume Marquis | Vector Space Talks](https://qdrant.tech/blog/virtualbrain-best-rag/preview/preview.jpg) VirtualBrain: Best RAG to unleash the real power of AI - Guillaume Marquis | Vector Space Talks Guillaume Marquis, CTO & Co-Founder at VirtualBrain, reveals the mechanics of advanced document retrieval with RAG technology, discussing the challenges of scalability, up-to-date information, and navigating user feedback to enhance the productivity of knowledge workers. Demetrios Brinkmann March 27, 2024 ](https://qdrant.tech/blog/virtualbrain-best-rag/)[![Talk with YouTube without paying a cent - Francesco Saverio Zuppichini | Vector Space Talks](https://qdrant.tech/blog/youtube-without-paying-cent/preview/preview.jpg) Talk with YouTube without paying a cent - Francesco Saverio Zuppichini | Vector Space Talks Francesco Zuppichini outlines the process of converting YouTube video subtitles into searchable vector databases, leveraging tools like YouTube DL and Hugging Face, and addressing the challenges of coding without conventional frameworks in machine learning engineering. Demetrios Brinkmann March 27, 2024 ](https://qdrant.tech/blog/youtube-without-paying-cent/)[![Qdrant is Now Available on Azure Marketplace!](https://qdrant.tech/blog/azure-marketplace/preview/preview.jpg) Qdrant is Now Available on Azure Marketplace! Discover the power of Qdrant on Azure Marketplace! Get started today and streamline your operations with ease. David Myriel March 26, 2024 ](https://qdrant.tech/blog/azure-marketplace/)[![Production-scale RAG for Real-Time News Distillation - Robert Caulk | Vector Space Talks](https://qdrant.tech/blog/real-time-news-distillation-rag/preview/preview.jpg) Production-scale RAG for Real-Time News Distillation - Robert Caulk | Vector Space Talks Robert Caulk, founder of Emergent Methods, discusses the complexities of context engineering, the power of Newscatcher API for broader news access, and the sophisticated use of tools like Qdrant for improved recommendation systems, all while emphasizing the importance of efficiency and modularity in technology stacks for real-time data management. Demetrios Brinkmann March 25, 2024 ](https://qdrant.tech/blog/real-time-news-distillation-rag/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/6/)
+                    ## 📄 `https-qdrant-tech-blog-page-7.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Insight Generation Platform for LifeScience Corporation - Hooman Sedghamiz | Vector Space Talks](https://qdrant.tech/blog/insight-generation-platform/preview/preview.jpg) Insight Generation Platform for LifeScience Corporation - Hooman Sedghamiz | Vector Space Talks Hooman Sedghamiz discloses the potential of AI in life sciences, from custom knowledge applications to improving crop yield predictions, while tearing apart the nuances of in-house AI deployment for multi-faceted enterprise efficiency. Demetrios Brinkmann March 25, 2024 ](https://qdrant.tech/blog/insight-generation-platform/)[![The challenges in using LLM-as-a-Judge - Sourabh Agrawal | Vector Space Talks](https://qdrant.tech/blog/llm-as-a-judge/preview/preview.jpg) The challenges in using LLM-as-a-Judge - Sourabh Agrawal | Vector Space Talks Everything you need to know about chatbots, Sourabh Agrawal goes in to detail on evaluating their performance, from real-time to post-feedback assessments, and introduces uptrendAI—an open-source tool for enhancing chatbot interactions through customized and logical evaluations. Demetrios Brinkmann March 19, 2024 ](https://qdrant.tech/blog/llm-as-a-judge/)[![Vector Search for Content-Based Video Recommendation - Gladys and Samuel from Dailymotion](https://qdrant.tech/blog/vector-search-vector-recommendation/preview/preview.jpg) Vector Search for Content-Based Video Recommendation - Gladys and Samuel from Dailymotion Gladys Roch and Samuel Leonardo Gracio from Dailymotion, discussed optimizing video recommendations using Qdrant's vector search alongside challenges and solutions in content-based recommender systems. Demetrios Brinkmann March 19, 2024 ](https://qdrant.tech/blog/vector-search-vector-recommendation/)[![IrisAgent and Qdrant: Redefining Customer Support with AI](https://qdrant.tech/blog/iris-agent-qdrant/preview/preview.jpg) IrisAgent and Qdrant: Redefining Customer Support with AI Learn how IrisAgent leverages Qdrant for RAG to automate support, and improve resolution times, transforming customer service Manuel Meyer March 06, 2024 ](https://qdrant.tech/blog/iris-agent-qdrant/)[![Dailymotion's Journey to Crafting the Ultimate Content-Driven Video Recommendation Engine with Qdrant Vector Database](https://qdrant.tech/blog/case-study-dailymotion/preview/preview.jpg) Dailymotion's Journey to Crafting the Ultimate Content-Driven Video Recommendation Engine with Qdrant Vector Database Dailymotion's Journey to Crafting the Ultimate Content-Driven Video Recommendation Engine with Qdrant Vector Database Atita Arora February 27, 2024 ](https://qdrant.tech/blog/case-study-dailymotion/)[![Qdrant vs Pinecone: Vector Databases for AI Apps](https://qdrant.tech/blog/comparing-qdrant-vs-pinecone-vector-databases/preview/preview.jpg) Qdrant vs Pinecone: Vector Databases for AI Apps In this detailed Qdrant vs Pinecone comparison, we share the top features to determine the best vector database for your AI applications. Qdrant Team February 25, 2024 ](https://qdrant.tech/blog/comparing-qdrant-vs-pinecone-vector-databases/)[![What is Vector Similarity? Understanding its Role in AI Applications.](https://qdrant.tech/blog/what-is-vector-similarity/preview/preview.jpg) What is Vector Similarity? Understanding its Role in AI Applications. Discover the significance of vector similarity in AI applications and how our vector database revolutionizes similarity search technology for enhanced performance and accuracy. Qdrant Team February 24, 2024 ](https://qdrant.tech/blog/what-is-vector-similarity/)[![DSPy vs LangChain: A Comprehensive Framework Comparison](https://qdrant.tech/blog/dspy-vs-langchain/preview/preview.jpg) DSPy vs LangChain: A Comprehensive Framework Comparison We dive deep into the capabilities of DSPy and LangChain and discuss scenarios where each of these frameworks shine. Qdrant Team February 23, 2024 ](https://qdrant.tech/blog/dspy-vs-langchain/)[![Qdrant Summer of Code 24](https://qdrant.tech/blog/qdrant-summer-of-code-24/preview/preview.jpg) Qdrant Summer of Code 24 Introducing Qdrant Summer of Code 2024 program. GSoC alternative. Andre Zayarni February 21, 2024 ](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/7/)
+                    ## 📄 `https-qdrant-tech-blog-page-8.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Dust and Qdrant: Using AI to Unlock Company Knowledge and Drive Employee Productivity](https://qdrant.tech/blog/dust-and-qdrant/preview/preview.jpg) Dust and Qdrant: Using AI to Unlock Company Knowledge and Drive Employee Productivity Using AI to Unlock Company Knowledge and Drive Employee Productivity Manuel Meyer February 06, 2024 ](https://qdrant.tech/blog/dust-and-qdrant/)[![The Bitter Lesson of Retrieval in Generative Language Model Workflows - Mikko Lehtimäki | Vector Space Talks](https://qdrant.tech/blog/bitter-lesson-generative-language-model/preview/preview.jpg) The Bitter Lesson of Retrieval in Generative Language Model Workflows - Mikko Lehtimäki | Vector Space Talks Mikko Lehtimäki delves into the intricate world of retrieval-augmented generation, discussing how Yokot AI manages vast diverse data inputs and how focusing on re-ranking can massively improve LLM workflows and output quality. Demetrios Brinkmann January 29, 2024 ](https://qdrant.tech/blog/bitter-lesson-generative-language-model/)[![Indexify Unveiled - Diptanu Gon Choudhury | Vector Space Talks](https://qdrant.tech/blog/indexify-content-extraction-engine/preview/preview.jpg) Indexify Unveiled - Diptanu Gon Choudhury | Vector Space Talks Diptanu Gon Choudhury shares insights on re-imaging Spark and data infrastructure while discussing his work on Indexify to enhance AI-driven workflows and knowledge bases. Demetrios Brinkmann January 26, 2024 ](https://qdrant.tech/blog/indexify-content-extraction-engine/)[![Unlocking AI Potential: Insights from Stanislas Polu](https://qdrant.tech/blog/qdrant-x-dust-vector-search/preview/preview.jpg) Unlocking AI Potential: Insights from Stanislas Polu Explore the dynamic discussion with Stanislas Polu on AI, ML, entrepreneurship, and product development. Gain valuable insights into AI's transformative power. Demetrios Brinkmann January 26, 2024 ](https://qdrant.tech/blog/qdrant-x-dust-vector-search/)[![Announcing Qdrant's $28M Series A Funding Round](https://qdrant.tech/blog/series-A-funding-round/preview/preview.jpg) Announcing Qdrant's $28M Series A Funding Round Andre Zayarni, CEO & Co-Founder January 23, 2024 ](https://qdrant.tech/blog/series-a-funding-round/)[![Introducing Qdrant Cloud on Microsoft Azure](https://qdrant.tech/blog/qdrant-cloud-on-microsoft-azure/preview/preview.jpg) Introducing Qdrant Cloud on Microsoft Azure Learn the benefits of Qdrant Cloud on Azure. Manuel Meyer January 17, 2024 ](https://qdrant.tech/blog/qdrant-cloud-on-microsoft-azure/)[![Qdrant Updated Benchmarks 2024](https://qdrant.tech/blog/qdrant-benchmarks-2024/preview/preview.jpg) Qdrant Updated Benchmarks 2024 We've compared how Qdrant performs against the other vector search engines to give you a thorough performance analysis Sabrina Aquino January 15, 2024 ](https://qdrant.tech/blog/qdrant-benchmarks-2024/)[![Navigating challenges and innovations in search technologies](https://qdrant.tech/blog/navigating-challenges-innovations/preview/preview.jpg) Navigating challenges and innovations in search technologies Podcast on search and LLM with Datatalk.club Atita Arora January 12, 2024 ](https://qdrant.tech/blog/navigating-challenges-innovations/)[![Optimizing an Open Source Vector Database with Andrey Vasnetsov](https://qdrant.tech/blog/open-source-vector-search-engine-vector-database/preview/preview.jpg) Optimizing an Open Source Vector Database with Andrey Vasnetsov Learn key strategies for optimizing vector search from Andrey Vasnetsov, CTO at Qdrant. Dive into techniques like efficient indexing for improved performance. Demetrios Brinkmann January 10, 2024 ](https://qdrant.tech/blog/open-source-vector-search-engine-vector-database/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/8/)
+                    ## 📄 `https-qdrant-tech-blog-page-9.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Vector Search Complexities: Insights from Projects in Image Search and RAG - Noé Achache | Vector Space Talks](https://qdrant.tech/blog/vector-image-search-rag/preview/preview.jpg) Vector Search Complexities: Insights from Projects in Image Search and RAG - Noé Achache | Vector Space Talks Noé Achache shares insights on vector search complexities, discussing projects on image matching, document retrieval, and handling sensitive medical data with practical solutions and industry challenges. Demetrios Brinkmann January 09, 2024 ](https://qdrant.tech/blog/vector-image-search-rag/)[![How to Superpower Your Semantic Search Using a Vector Database Vector Space Talks](https://qdrant.tech/blog/semantic-search-vector-database/preview/preview.jpg) How to Superpower Your Semantic Search Using a Vector Database Vector Space Talks Unlock the secrets of supercharging semantic search with Nicolas Mauti's insights on leveraging vector databases. Discover advanced strategies. Demetrios Brinkmann January 09, 2024 ](https://qdrant.tech/blog/semantic-search-vector-database/)[![Building LLM Powered Applications in Production - Hamza Farooq | Vector Space Talks](https://qdrant.tech/blog/llm-complex-search-copilot/preview/preview.jpg) Building LLM Powered Applications in Production - Hamza Farooq | Vector Space Talks Hamza Farooq presents the future of large language models, complex search, and copilot, discussing real-world applications and the challenges of implementing these technologies in production. Demetrios Brinkmann January 09, 2024 ](https://qdrant.tech/blog/llm-complex-search-copilot/)[![Building a High-Performance Entity Matching Solution with Qdrant - Rishabh Bhardwaj | Vector Space Talks](https://qdrant.tech/blog/entity-matching-qdrant/preview/preview.jpg) Building a High-Performance Entity Matching Solution with Qdrant - Rishabh Bhardwaj | Vector Space Talks Rishabh Bhardwaj, a Data Engineer at HRS Group, discusses building a high-performance hotel matching solution with Qdrant, addressing data inconsistency, duplication, and real-time processing challenges. Demetrios Brinkmann January 09, 2024 ](https://qdrant.tech/blog/entity-matching-qdrant/)[![FastEmbed: Fast & Lightweight Embedding Generation - Nirant Kasliwal | Vector Space Talks](https://qdrant.tech/blog/fast-embed-models/preview/preview.jpg) FastEmbed: Fast & Lightweight Embedding Generation - Nirant Kasliwal | Vector Space Talks Nirant Kasliwal discusses the efficiency and optimization techniques of FastEmbed, a Python library designed for speedy, lightweight embedding generation in machine learning applications. Demetrios Brinkmann January 09, 2024 ](https://qdrant.tech/blog/fast-embed-models/)[![When music just doesn't match our vibe, can AI help? - Filip Makraduli | Vector Space Talks](https://qdrant.tech/blog/human-language-ai-models/preview/preview.jpg) When music just doesn't match our vibe, can AI help? - Filip Makraduli | Vector Space Talks Filip Makraduli discusses using human language and AI to capture music vibes, encoding text with sentence transformers, generating recommendations through vector spaces, integrating Streamlit and Spotify API, and future improvements for AI-powered music recommendations. Demetrios Brinkmann January 09, 2024 ](https://qdrant.tech/blog/human-language-ai-models/)[![Binary Quantization - Andrey Vasnetsov | Vector Space Talks](https://qdrant.tech/blog/binary-quantization/preview/preview.jpg) Binary Quantization - Andrey Vasnetsov | Vector Space Talks Andrey Vasnetsov, CTO of Qdrant, discusses the concept of binary quantization and its benefits in vector indexing, including the challenges and potential future developments of this technique. Demetrios Brinkmann January 09, 2024 ](https://qdrant.tech/blog/binary-quantization/)[![Loading Unstructured.io Data into Qdrant from the Terminal](https://qdrant.tech/blog/qdrant-unstructured/preview/preview.jpg) Loading Unstructured.io Data into Qdrant from the Terminal Learn how to simplify the process of loading unstructured data into Qdrant using the Qdrant Unstructured destination. Anush Shetty January 09, 2024 ](https://qdrant.tech/blog/qdrant-unstructured/)[![Chat with a codebase using Qdrant and N8N](https://qdrant.tech/blog/qdrant-n8n/preview/preview.jpg) Chat with a codebase using Qdrant and N8N Building a RAG-based chatbot using Qdrant and N8N to chat with a codebase on GitHub Anush Shetty January 06, 2024 ](https://qdrant.tech/blog/qdrant-n8n/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/page/9/)
+                    ## 📄 `https-qdrant-tech-blog-qdrant-1-13-x.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine
+  *     * [GPU Accelerated Indexing](https://qdrant.tech/blog/qdrant-1.13.x/#gpu-accelerated-indexing)
+      * [Benchmarks on Common GPUs](https://qdrant.tech/blog/qdrant-1.13.x/#benchmarks-on-common-gpus)
+      * [](https://qdrant.tech/blog/qdrant-1.13.x/#instructions--documentationdocumentationguidesrunning-with-gpu)[Instructions & Documentation](https://qdrant.tech/documentation/guides/running-with-gpu/)
+    * [Strict Mode for Operational Control](https://qdrant.tech/blog/qdrant-1.13.x/#strict-mode-for-operational-control)
+      * [Enable Strict Mode](https://qdrant.tech/blog/qdrant-1.13.x/#enable-strict-mode)
+    * [HNSW Graph Compression](https://qdrant.tech/blog/qdrant-1.13.x/#hnsw-graph-compression)
+    * [Filter by Named Vectors](https://qdrant.tech/blog/qdrant-1.13.x/#filter-by-named-vectors)
+      * [Create a Collection with Named Vectors](https://qdrant.tech/blog/qdrant-1.13.x/#create-a-collection-with-named-vectors)
+      * [Sample Request](https://qdrant.tech/blog/qdrant-1.13.x/#sample-request)
+    * [Custom Storage Engine](https://qdrant.tech/blog/qdrant-1.13.x/#custom-storage-engine)
+      * [Our New Storage Architecture](https://qdrant.tech/blog/qdrant-1.13.x/#our-new-storage-architecture)
+    * [Get Started with Qdrant](https://qdrant.tech/blog/qdrant-1.13.x/#get-started-with-qdrant)
+**GPU Accelerated Indexing:** Fast HNSW indexing with architecture-free GPU support.  
+**Strict Mode:** Enforce operation restrictions on collections for enhanced control.  
+**HNSW Graph Compression:** Reduce storage use via HNSW Delta Encoding.  
+**Named Vector Filtering:** New `has_vector` filtering condition for named vectors.  
+**Custom Storage:** For constant-time reads/writes of payloads and sparse vectors.  
+##  [](https://qdrant.tech/blog/qdrant-1.13.x/#get-started-with-qdrant)Get Started with Qdrant
+![get-started](https://qdrant.tech/blog/qdrant-1.13.x/image_1.png)
+The easiest way to reach that **Hello World** moment is to [**try vector search in a live cluster**](https://qdrant.tech/documentation/quickstart-cloud/). Our **interactive tutorial** will show you how to create a cluster, add data and try some filtering clauses.
+**New features, like named vector filtering, can be tested in the Qdrant Dashboard:**
+![qdrant-filtering-tutorial](https://qdrant.tech/articles_data/vector-search-filtering/qdrant-filtering-tutorial.png)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/qdrant-1.13.x/)
+                    ## 📄 `https-qdrant-tech-blog-qdrant-n8n-beyond-simple-similarity-search.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Automating Business Processes with Qdrant and n8n: Use Cases Beyond Simple Similarity Search
+  *     * [Setting Up Qdrant in n8n](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/#setting-up-qdrant-in-n8n)
+      * [Qdrant Cloud](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/#qdrant-cloud)
+      * [Local Mode](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/#local-mode)
+    * [Beyond Simple Similarity Search](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/#beyond-simple-similarity-search)
+      * [Recommendations](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/#recommendations)
+      * [Big Data Analysis](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/#big-data-analysis)
+    * [What’s Next?](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/#whats-next)
+Low-code automation tools make it easy to turn ideas into reality quickly. As AI becomes central to modern business, having low-code platforms with built-in AI capabilities is no longer optional—it’s essential. 
+Vector search has become a key building block in modern AI systems. While it’s often used as memory or a knowledge base for generative AI, its potential goes much further.
+In this blog, we explore combining a dedicated vector search engine like Qdrant with an AI automation platform like n8n, moving beyond basic Retrieval-Augmented Generation (RAG) use cases. We’ll show you how to use vector search for recommendations and big data analysis using ready-to-use n8n workflows.
+  1. Open the 
+  2. From the **Cluster Details** , copy the `Endpoint` address—this will be used as the `Qdrant URL` in n8n.
+  3. Navigate to the **API Keys** tab and copy your API key—this will be the `API Key` in n8n.
+For a walkthrough, see this 
+  1. Follow the instructions in the repository to install the AI Starter Kit.
+  2. Use the values from the `docker-compose.yml` file to fill in the connection details.
+Remember to update to the latest Qdrant Docker image using `docker-compose pull`.
+The default Qdrant configuration in AI Starter Kit’s `docker-compose.yml` looks like this:
+  1. **Dataset** : We use movie descriptions from the 
+  2. **Embedding Model** : We’ll use OpenAI `text-embedding-3-small`, but you can opt for any other suitable embedding model.
+**Workflow:**
+A 
+  1. **Movie Data Uploader** : Embeds movie descriptions and uploads them to Qdrant using the 
+  2. **AI Agent** : Uses the 
+  3. **Recommendations Tool** : A `text-embedding-3-small` and uses the Qdrant Recommendation API to get movie recommendations, which are passed back to the agent.
+To use Qdrant's functionality beyond [Qdrant API reference](https://api.qdrant.tech/api-reference) to n8n's 
+Set it up, run a chat and ask for “ _something about wizards but not Harry Potter_.” What results do you get?
+  1. Store vectorized images.
+  2. Identify a “center” (representative) for each crop cluster.
+  3. Define the borders of each cluster.
+  4. Check if new images fall within these boundaries. If an image does not fit within any cluster, it is flagged as anomalous. Alternatively, you can check if an image is anomalous to a specific cluster.
+![anomaly-detection](https://qdrant.tech/blog/qdrant-n8n-2/anomaly-detection.png)
+**Setup:**
+  1. **Dataset** : We use the 
+  2. **Embedding Model** : The 
+**1. Uploading Images to Qdrant**
+Since the 
+**Workflow:**
+_There are three workflows: (1) Uploading images to Qdrant (2) Setting up cluster centers and thresholds (3) Anomaly detection tool itself._
+An 
+  1. **Check Collection** : Verifies if a collection with the specified name exists in Qdrant. If not, it creates one.
+  2. **Payload Index** : Adds a [payload index](https://qdrant.tech/documentation/concepts/indexing/#payload-index) on the `crop_name` payload (metadata) field. This field stores crop class labels, and indexing it improves the speed of filterable searches in Qdrant. It changes the way a vector index is constructed, adapting it for fast vector search under filtering constraints. For more details, refer to this [guide on filtering in Qdrant](https://qdrant.tech/articles/vector-search-filtering/).
+  3. **Fetch Images** : Fetches images from Google Cloud Storage using the 
+  4. **Generate IDs** : Assigns UUIDs to each data point.
+  5. **Embed Images** : Embeds the images using the Voyage API.
+  6. **Batch Upload** : Uploads the embeddings to Qdrant in batches.
+**2. Defining a Cluster Representative**
+We used two approaches (it’s not an exhaustive list) to defining a cluster representative, depending on the availability of labeled data:
+Method | Description  
+---|---  
+**Medoids** | A point within the cluster that has the smallest total distance to all other cluster points. This approach needs labeled data for each cluster.  
+**Perfect Representative** | A representative defined by a textual description of the ideal cluster member—the multimodality of Voyage AI embeddings allows for this trick. For example, for cherries: _“Small, glossy red fruits on a medium-sized tree with slender branches and serrated leaves.”_ The closest image to this description in the vector space is selected as the representative. This method requires experimentation to align descriptions with real data.  
+![cluster-representative](https://qdrant.tech/blog/qdrant-n8n-2/cluster-representative.png)
+**Workflow:**
+Both methods are demonstrated in the 
+**Method** | **Steps**  
+---|---  
+**Medoids** | 1. Sample labeled cluster points from Qdrant.  
+2. Compute a **pairwise distance matrix** for the cluster using Qdrant’s [Distance Matrix API](https://qdrant.tech/documentation/concepts/explore/?q=distance+#distance-matrix). This API helps with scalable cluster analysis and data points relationship exploration. Learn more in [this article](https://qdrant.tech/articles/distance-based-exploration/).  
+3. For each point, calculate the sum of its distances to all other points. The point with the smallest total distance (or highest similarity for COSINE distance metric) is the medoid.  
+4. Mark this point as the cluster representative.  
+**Perfect Representative** | 1. Define textual descriptions for each cluster (e.g., AI-generated).  
+2. Embed these descriptions using Voyage.  
+3. Find the image embedding closest to the description one.  
+4. Mark this image as the cluster representative.  
+**3. Defining the Cluster Border**
+**Workflow:**
+The approach demonstrated in 
+  1. Within a cluster, identify the furthest data point from the cluster representative (it can also be the 2nd or Xth furthest point; the best way to define it is through experimentation—for us, the 5th furthest point worked well). Since we use COSINE similarity, this is equivalent to the most similar point to the 
+  2. Save the distance between the representative and respective furthest point as the cluster border (threshold).
+**4. Anomaly Detection Tool**
+**Workflow:**
+With the preparatory steps complete, you can set up the anomaly detection tool, demonstrated in the 
+Steps:
+  1. Choose the method of the cluster representative definition.
+  2. Fetch all the clusters to compare the candidate image against.
+  3. Using Voyage AI, embed the candidate image in the same vector space.
+  4. Calculate the candidate’s similarity to each cluster representative. The image is flagged as anomalous if the similarity is below the threshold for all clusters (outside the cluster borders). Alternatively, you can check if it’s anomalous to a particular cluster, for example, the cherries one.
+* * *
+Anomaly detection in image data has diverse applications, including:
+  * Moderation of advertisements.
+  * Anomaly detection in vertical farming.
+  * Quality control in the food industry, such as [detecting anomalies in coffee beans](https://qdrant.tech/articles/detecting-coffee-anomalies/).
+  * Identifying anomalies in map tiles for tasks like automated map updates or ecological monitoring.
+This tool is adaptable to these use cases and, when combined with n8n integrations, has the potential to become a production-level business solution.
+  1. **Dataset** : We’ll use the 
+  2. **Embedding Model** : As for anomaly detection, we’ll use the 
+Additionally, it’s good to have test and validation data to determine the optimal value of K for your dataset.
+**Workflow:**
+Uploading images to Qdrant can be done using the same workflow—
+The 
+  1. **Embed Image** : Embeds the candidate for classification using Voyage.
+  2. **Fetch neighbors** : Retrieves the K closest labeled neighbors from Qdrant.
+  3. **Majority Voting** : Determines the prevailing class in the neighborhood by simple majority voting.
+  4. **Optional: Ties Resolving** : In case of ties, expands the neighborhood radius.
+Of course, this is a simple solution, and there exist more advanced approaches with higher precision & no need for labeled data—for example, you could try [metric learning with Qdrant](https://qdrant.tech/articles/metric-learning-tips/).
+Though classification seems like a task that was solved in machine learning decades ago, it’s not so trivial to deal with in production. Issues like data drift, shifting class definitions, mislabeled data, and fuzzy differences between classes create unexpected problems, which require continuous adjustments of classifiers. Vector Search can be an unusual but effective solution, interesting due to its scalability.
+  * **Deduplication**
+  * **Dissimilarity search**
+  * **Diverse sampling**
+With Qdrant and n8n, there’s plenty of room to create something unique!
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/)
+                    ## 📄 `https-qdrant-tech-blog-qdrant-soc2-type2-audit.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Qdrant Attains SOC 2 Type II Audit Report
+  *     * [SOC 2 Type II: What Is It?](https://qdrant.tech/blog/qdrant-soc2-type2-audit/#soc-2-type-ii-what-is-it)
+    * [Key Audit Findings](https://qdrant.tech/blog/qdrant-soc2-type2-audit/#key-audit-findings)
+    * [Future Compliance](https://qdrant.tech/blog/qdrant-soc2-type2-audit/#future-compliance)
+    * [About Qdrant](https://qdrant.tech/blog/qdrant-soc2-type2-audit/#about-qdrant)
+At Qdrant, we are happy to announce the successful completion our the SOC 2 Type II Audit. This achievement underscores our unwavering commitment to upholding the highest standards of security, availability, and confidentiality for our services and our customers’ data.
+  * Security
+  * Confidentiality
+  * Availability
+These certifications are available today and automatically apply to your existing workloads. The full SOC 2 Type II report is available to customers and stakeholders upon request through the 
+##  [](https://qdrant.tech/blog/qdrant-soc2-type2-audit/#about-qdrant)About Qdrant
+Qdrant is a vector database designed to handle large-scale, high-dimensional data efficiently. It allows for fast and accurate similarity searches in complex datasets. Qdrant strives to achieve seamless and scalable vector search capabilities for various applications.
+For more information about Qdrant and our security practices, please visit our [website](http://qdrant.tech) or [reach out to our team directly](https://qdrant.tech/contact-us/).
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/qdrant-soc2-type2-audit/)
+                    ## 📄 `https-qdrant-tech-blog-satellite-vector-broadcasting.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Satellite Vector Broadcasting: Near-Zero Latency Retrieval from Space
+  *     * [📡 Qdrant Launches Satellite Vector Broadcasting for Near-Zero Latency Retrieval](https://qdrant.tech/blog/satellite-vector-broadcasting/#-qdrant-launches-satellite-vector-broadcasting-for-near-zero-latency-retrieval)
+      * [📊 Benchmark Results](https://qdrant.tech/blog/satellite-vector-broadcasting/#-benchmark-results)
+      * [🛰 Key Features](https://qdrant.tech/blog/satellite-vector-broadcasting/#-key-features)
+      * [💬 Field Reports](https://qdrant.tech/blog/satellite-vector-broadcasting/#-field-reports)
+      * [🛸 Coming Soon](https://qdrant.tech/blog/satellite-vector-broadcasting/#-coming-soon)
+      * [📡 Availability](https://qdrant.tech/blog/satellite-vector-broadcasting/#-availability)
+###  [](https://qdrant.tech/blog/satellite-vector-broadcasting/#-availability)📡 Availability
+Satellite Vector Broadcasting is now available in limited orbit. Each query costs **one launch credit** (or barter in moon rocks). Commercial adoption expected Q3 2025, pending space traffic regulations.
+Learn more at: [**Qdrant Vector Database**](https://qdrant.tech/qdrant-vector-database/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/satellite-vector-broadcasting/)
+                    ## 📄 `https-qdrant-tech-blog-static-embeddings.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Static Embeddings: should you pay attention?
+  *     * [What makes static embeddings different?](https://qdrant.tech/blog/static-embeddings/#what-makes-static-embeddings-different)
+    * [Static embeddings in Qdrant](https://qdrant.tech/blog/static-embeddings/#static-embeddings-in-qdrant)
+    * [Quantization of the static embeddings](https://qdrant.tech/blog/static-embeddings/#quantization-of-the-static-embeddings)
+    * [Who should use static embeddings?](https://qdrant.tech/blog/static-embeddings/#who-should-use-static-embeddings)
+      * [Customization of the static embeddings](https://qdrant.tech/blog/static-embeddings/#customization-of-the-static-embeddings)
+In the world of resource-constrained computing, a quiet revolution is taking place. While transformers dominate leaderboards with their impressive capabilities, static embeddings are making an unexpected comeback, offering remarkable speed improvements with surprisingly small quality trade-offs. **We evaluated how Qdrant users can benefit from this renaissance, and the results are promising**.
+  * **Mobile applications** - although many smartphones have powerful CPUs or even GPUs, the battery life is still a concern, and the static embeddings might be a good compromise between the quality and the power consumption. Moreover, the static embeddings can be used in the applications that require offline mode.
+  * **Web browser extensions** - running a transformer-based model in a web browser is usually not quite an option, but static embeddings might be a good choice, as they have fewer parameters and are faster to encode.
+  * **Embedded systems** - the static embeddings might be a good choice for the devices with limited computational power, such as IoT devices or microcontrollers.
+If you are one of the above, then you should definitely give static embeddings a try. **However, if the search quality is not the top of your priorities, then you might consider using static embeddings even in the high-performance environments**. The speedup in the encoding process might be a game-changer for you.
+###  [](https://qdrant.tech/blog/static-embeddings/#customization-of-the-static-embeddings)Customization of the static embeddings
+Last, but not least. The training pipeline published by **you can adjust it the specifics of your data easily**. This training process will also be way faster than for a transformer-based model, so you can even retrain it more often. Recomputing the embeddings is a bottleneck of the semantic search systems, and the static embeddings might be a good solution to this problem. Whether a custom static embedding model can beat a general pre-trained model remains an open question, but it’s definitely worth trying.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/static-embeddings/)
+                    ## 📄 `https-qdrant-tech-blog-webinar-crewai-qdrant-obsidian.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * How to Build Intelligent Agentic RAG with CrewAI and Qdrant
+  *     * [Background agents](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#background-agents)
+      * [The basic concepts of CrewAI](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#the-basic-concepts-of-crewai)
+      * [Email automation with CrewAI, Qdrant, and Obsidian notes](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#email-automation-with-crewai-qdrant-and-obsidian-notes)
+    * [Implementing the system](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#implementing-the-system)
+      * [CrewAI <> Qdrant integration](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#crewai--qdrant-integration)
+      * [Loading the Obsidian notes to Qdrant](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#loading-the-obsidian-notes-to-qdrant)
+      * [Drafting emails in Gmail Inbox](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#drafting-emails-in-gmail-inbox)
+      * [Working system](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#working-system)
+    * [Results](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#results)
+    * [Materials](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#materials)
+In a recent live session, we teamed up with 
+In this article, we’ll guide you through the process of setting up an AI-powered system that connects directly to your email inbox and knowledge base, enabling it to analyze incoming messages and existing content to generate contextually relevant response suggestions.
+##  [](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/#materials)Materials
+As usual, we prepared a video recording of the webinar, so you can watch it at your convenience:
+The source code of the demo is available on 
+Are you building agentic RAG applications using CrewAI and Qdrant? Please join 
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/)
+                    ## 📄 `https-qdrant-tech-blog-webinar-vibe-coding-rag.md`
+  * [Home](https://qdrant.tech/)
+  * /
+  * [Blog](https://qdrant.tech/blog/)
+  * /
+  * Vibe Coding RAG with our MCP server
+  *     * [Vibe coding](https://qdrant.tech/blog/webinar-vibe-coding-rag/#vibe-coding)
+    * [Understanding the Model Context Protocol (MCP)](https://qdrant.tech/blog/webinar-vibe-coding-rag/#understanding-the-model-context-protocol-mcp)
+    * [AI coding assistants](https://qdrant.tech/blog/webinar-vibe-coding-rag/#ai-coding-assistants)
+    * [Building the project](https://qdrant.tech/blog/webinar-vibe-coding-rag/#building-the-project)
+      * [Setting up the MCP server](https://qdrant.tech/blog/webinar-vibe-coding-rag/#setting-up-the-mcp-server)
+      * [Building the knowledge base of the DaisyUI components](https://qdrant.tech/blog/webinar-vibe-coding-rag/#building-the-knowledge-base-of-the-daisyui-components)
+      * [Scoping the project: YouTube In-Video Search](https://qdrant.tech/blog/webinar-vibe-coding-rag/#scoping-the-project-youtube-in-video-search)
+    * [The vibe coding session](https://qdrant.tech/blog/webinar-vibe-coding-rag/#the-vibe-coding-session)
+Another month means another webinar! This time 
+  1. Store and retrieve memories (code snippets, documentation, etc.)
+  2. Perform semantic searches across your codebase
+  3. Find the most relevant context for generating new code
+The server provides two primary tools:
+  * `qdrant-store`: Stores information with optional metadata in the Qdrant database
+  * `qdrant-find`: Retrieves relevant information using semantic search
+This architecture enables AI coding agents to maintain context awareness throughout your development process.
+  * Store code snippets, documentation, and implementation details using the `qdrant-store` tool
+  * Retrieve the most relevant information based on natural language queries with the `qdrant-find` tool
+For our live coding session, we configured Claude Code to work with this MCP server. When Claude needs to generate code, it can automatically search for relevant examples in our codebase and create new code based on the extracted examples. Moreover, when the assistant is done with generating the code, it can also store it in Qdrant for further reference. And if configured correctly, it will only do that when we accept the change.
+The latest version of the `mcp-server-qdrant` allows to specify the instructions for the AI agent, so it can understand when to use which of the tools. This way, the MCP server can not only be used for coding but virtually to any semantic search task, where the context is crucial. This is how we did that during the webinar:
+##  [](https://qdrant.tech/blog/webinar-vibe-coding-rag/#the-vibe-coding-session)The vibe coding session
+If you are interested to see how well Claude Code performed in action, you can watch the full webinar recording below:
+No matter if you build an MVP, or want to build a more complex application with the help of AI, it’s key to give your agent a reliable source of information. That’s why we’ve built our MCP server, so you can easily connect your documentation and codebase to Claude Code, Cursor, Windsurf or any other AI agent that supports the Model Context Protocol.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+Up!
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/webinar-vibe-coding-rag/)
+                    ## 📄 `https-qdrant-tech-blog.md`
+###### [HubSpot & Qdrant: Scaling an Intelligent AI Assistant Andre Zayarni March 24, 2025 ](https://qdrant.tech/blog/case-study-hubspot/)###### [Qdrant 1.13 - GPU Indexing, Strict Mode & New Storage Engine David Myriel January 23, 2025 ](https://qdrant.tech/blog/qdrant-1.13.x/)###### [Optimizing ColPali for Retrieval at Scale, 13x Faster Results Evgeniya Sukhodolskaya, Sabrina Aquino November 27, 2024 ](https://qdrant.tech/blog/colpali-qdrant-optimization/)
+[![Automating Business Processes with Qdrant and n8n: Use Cases Beyond Simple Similarity Search](https://qdrant.tech/blog/qdrant-n8n-2/preview/preview.jpg) Automating Business Processes with Qdrant and n8n: Use Cases Beyond Simple Similarity Search Build powerful agentic workflows for recommendations and large-scale data analysis with the combined capabilities of Qdrant and n8n. Evgeniya Sukhodolskaya April 04, 2025 ](https://qdrant.tech/blog/qdrant-n8n-beyond-simple-similarity-search/)[![Satellite Vector Broadcasting: Near-Zero Latency Retrieval from Space](https://qdrant.tech/blog/satellite-vector-broadcasting/preview/preview.jpg) Satellite Vector Broadcasting: Near-Zero Latency Retrieval from Space The future of vector search, featuring a constellation of CubeSats for ultra-low-latency vector retrieval. Complete with benchmark results and field reports from our beta testers. Qdrant Team April 01, 2025 ](https://qdrant.tech/blog/satellite-vector-broadcasting/)[![Vibe Coding RAG with our MCP server](https://qdrant.tech/blog/webinar-vibe-coding-rag/preview/preview.jpg) Vibe Coding RAG with our MCP server Check out how the MCP server can give you more control over the quality of vibe coding with AI agents like Cursor, and Claude Code! Kacper Łukawski March 21, 2025 ](https://qdrant.tech/blog/webinar-vibe-coding-rag/)[![How Deutsche Telekom Built a Multi-Agent Enterprise Platform Leveraging Qdrant](https://qdrant.tech/blog/case-study-deutsche-telekom/preview/preview.jpg) How Deutsche Telekom Built a Multi-Agent Enterprise Platform Leveraging Qdrant Learn about Deutsche Telekom's requirements for scaling enterprise AI agents, key AI stack considerations, and how the team built a Platform as a Service (PaaS) - LMOS (Language Models Operating System) — a multi-agent PaaS designed for high scalability and modular AI agent deployment. Manuel Meyer March 07, 2025 ](https://qdrant.tech/blog/case-study-deutsche-telekom/)[![Introducing Qdrant Cloud’s New Enterprise-Ready Vector Search](https://qdrant.tech/blog/enterprise-vector-search/preview/preview.jpg) Introducing Qdrant Cloud’s New Enterprise-Ready Vector Search Discover Qdrant Cloud's enterprise features: RBAC, SSO, granular API keys, advanced monitoring/observability. Daniel Azoulai March 04, 2025 ](https://qdrant.tech/blog/enterprise-vector-search/)[![Metadata automation and optimization - Reece Griffiths | Vector Space Talks](https://qdrant.tech/blog/metadata-deasy-labs/preview/preview.jpg) Metadata automation and optimization - Reece Griffiths | Vector Space Talks Metadata plays a critical role in vector search accuracy, yet it’s often overlooked. In this episode of Vector Space Talks, Reece Griffiths, CEO of Deasy Labs, explains why metadata automation is essential for scalable AI systems. He walks us through how Deasy Labs orchestrates metadata extraction, classification, and enrichment to boost retrieval efficiency. Sabrina Aquino February 24, 2025 ](https://qdrant.tech/blog/metadata-deasy-labs/)[![How to Build Intelligent Agentic RAG with CrewAI and Qdrant](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/preview/preview.jpg) How to Build Intelligent Agentic RAG with CrewAI and Qdrant Learn how to build an agentic RAG system to semi-automate email communication with CrewAI, Qdrant, and Obsidian. Kacper Łukawski January 24, 2025 ](https://qdrant.tech/blog/webinar-crewai-qdrant-obsidian/)[![Static Embeddings: should you pay attention?](https://qdrant.tech/blog/static-embeddings/preview/preview.jpg) Static Embeddings: should you pay attention? Static embeddings are a thing back! Is the encoding speedup worth a try? We checked that! Kacper Łukawski January 17, 2025 ](https://qdrant.tech/blog/static-embeddings/)[![Voiceflow & Qdrant: Powering No-Code AI Agent Creation with Scalable Vector Search](https://qdrant.tech/blog/case-study-voiceflow/preview/preview.jpg) Voiceflow & Qdrant: Powering No-Code AI Agent Creation with Scalable Vector Search Learn how Voiceflow builds scalable, customizable, no-code AI agent solutions for enterprises. Qdrant December 10, 2024 ](https://qdrant.tech/blog/case-study-voiceflow/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/blog/)
+                    ## 📄 `https-qdrant-tech-cloud.md`
+###### Pricing
+Visit our pricing page for more details on Qdrant’s free tier, managed cloud, and enterprise plans.
+[Learn More ](https://qdrant.tech/pricing/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/cloud/)
+                    ## 📄 `https-qdrant-tech-community.md`
+### Launch a new cluster today
+![](https://qdrant.tech/img/database.svg)
+Do you have further questions? We are happy to assist you.
+[Contact us ](https://qdrant.tech/contact-us/)[Contact us](https://qdrant.tech/contact-us/)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/community/)
+                    ## 📄 `https-qdrant-tech-contact-us.md`
+###### Talk to our Team
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/contact-us/)
+                    ## 📄 `https-qdrant-tech-customers.md`
+## Vector Space Wall
+![Avatar](https://qdrant.tech/img/customers/jonathan-eisenzopf.svg)
+Jonathan Eisenzopf
+Chief Strategy and Research Officer at Talkmap
+“With Qdrant, we found the missing piece to develop our own provider independent multimodal generative AI platform on enterprise scale.”
+![Avatar](https://qdrant.tech/img/customers/angel-luis-almaraz-sanchez.svg)
+Angel Luis Almaraz Sánchez
+Full Stack | DevOps
+Thank you, great work, Qdrant is my favorite option for similarity search.
+![Avatar](https://qdrant.tech/img/customers/shubham-krishna.svg)
+Shubham Krishna
+ML Engineer @ ML6
+Go ahead and checkout Qdrant. I plan to build a movie retrieval search where you can ask anything regarding a movie based on the vector embeddings generated by a LLM. It can also be used for getting recommendations.
+![Avatar](https://qdrant.tech/img/customers/kwok-hing-leon.svg)
+Kwok Hing LEON
+Data Science
+Check out qdrant for improving searches. Bye to non-semantic KM engines.
+![Avatar](https://qdrant.tech/img/customers/ankur-s.svg)
+Ankur S
+Building
+Quadrant is a great vector database. There is a real sense of thought behind the api!
+![Avatar](https://qdrant.tech/img/customers/yasin-salimibeni-view-yasin-salimibeni.svg)
+Yasin Salimibeni View Yasin Salimibeni’s profile
+AI Evangelist | Generative AI Product Designer | Entrepreneur | Mentor
+Great work. I just started testing Qdrant Azure and I was impressed by the efficiency and speed. Being deploy-ready on large cloud providers is a great plus. Way to go!
+![Avatar](https://qdrant.tech/img/customers/marcel-coetzee.svg)
+Marcel Coetzee
+Data and AI Plumber
+Using Qdrant as a blazing fact vector store for a stealth project of mine. It offers fantasic functionality for semantic search ✨
+![Avatar](https://qdrant.tech/img/customers/andrew-rove.svg)
+Andrew Rove
+Principal Software Engineer
+We have been using Qdrant in production now for over 6 months to store vectors for cosine similarity search and it is way more stable and faster than our old ElasticSearch vector index.  
+No merging segments, no red indexes at random times. It just works and was super easy to deploy via docker to our cluster.  
+It’s faster, cheaper to host, and more stable, and open source to boot!
+![Avatar](https://qdrant.tech/img/customers/josh-lloyd.svg)
+Josh Lloyd
+ML Engineer
+I'm using Qdrant to search through thousands of documents to find similar text phrases for question answering. Qdrant's awesome filtering allows me to slice along metadata while I'm at it! 🚀 and it's fast ⏩🔥
+![Avatar](https://qdrant.tech/img/customers/leonard-puttmann.svg)
+Leonard Püttmann
+data scientist
+Amidst the hype around vector databases, Qdrant is by far my favorite one. It's super fast (written in Rust) and open-source! At Kern AI we use Qdrant for fast document retrieval and to do quick similarity search for text data.
+![Avatar](https://qdrant.tech/img/customers/stanislas-polu.svg)
+Stanislas Polu
+Software Engineer & Co-Founder, Dust
+Qdrant's the best. By. Far.
+![Avatar](https://qdrant.tech/img/customers/sivesh-sukumar.svg)
+Sivesh Sukumar
+Investor at Balderton
+We're using Qdrant to help segment and source Europe's next wave of extraordinary companies!
+![Avatar](https://qdrant.tech/img/customers/saksham-gupta.svg)
+Saksham Gupta
+AI Governance Machine Learning Engineer
+Looking forward to using Qdrant vector similarity search in the clinical trial space! OpenAI Embeddings + Qdrant = Match made in heaven!
+![Avatar](https://qdrant.tech/img/customers/rishav-dash.svg)
+Rishav Dash
+Data Scientist
+awesome stuff 🔥
+### Get started for free
+Turn embeddings or neural network encoders into full-fledged applications for matching, searching, recommending, and more.
+Do you have further questions? We are happy to assist you.
+[Contact us ](https://qdrant.tech/contact-us/)[Contact us](https://qdrant.tech/contact-us/)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/customers/)
+                    ## 📄 `https-qdrant-tech-data-analysis-anomaly-detection.md`
+##### Metric Learning for Anomaly Detection
+Detecting Coffee Anomalies with Qdrant: Discover how Qdrant can be used for anomaly detection in green coffee quality control, transforming the industry's approach to sorting and classification.
+[Read Case Study](https://qdrant.tech/articles/detecting-coffee-anomalies/)
+![Preview](https://qdrant.tech/img/data-analysis-anomaly-detection/case-study.png)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/data-analysis-anomaly-detection/)
+                    ## 📄 `https-qdrant-tech-demo.md`
+### Interactive Tutorials
+Dive into the capabilities of Qdrant with our hands-on tutorials. Discover various methods to integrate vector search into your applications, enhancing functionality and user experience.
+[View All Tutorials](https://qdrant.tech/documentation/tutorials/)
+`...  
+"hnsw_config": {  
+"m": 64,  
+"ef_construct": 512,  
+"on_disk": true  
+}  
+...  
+`
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/demo/)
+                    ## 📄 `https-qdrant-tech-documentation-advanced-tutorials-code-search.md`
+  * [Understanding Vector Search in Qdrant](https://qdrant.tech/documentation/overview/vector-search/)
+[Local Quickstart](https://qdrant.tech/documentation/quickstart/)
+[API & SDKs](https://qdrant.tech/documentation/interfaces/)
+[Qdrant Web UI](https://qdrant.tech/documentation/web-ui/)
+  * [Collections](https://qdrant.tech/documentation/concepts/collections/)
+  * [Points](https://qdrant.tech/documentation/concepts/points/)
+  * [Vectors](https://qdrant.tech/documentation/concepts/vectors/)
+  * [Payload](https://qdrant.tech/documentation/concepts/payload/)
+  * [Search](https://qdrant.tech/documentation/concepts/search/)
+  * [Explore](https://qdrant.tech/documentation/concepts/explore/)
+  * [Hybrid Queries](https://qdrant.tech/documentation/concepts/hybrid-queries/)
+  * [Filtering](https://qdrant.tech/documentation/concepts/filtering/)
+  * [Optimizer](https://qdrant.tech/documentation/concepts/optimizer/)
+  * [Storage](https://qdrant.tech/documentation/concepts/storage/)
+  * [Indexing](https://qdrant.tech/documentation/concepts/indexing/)
+  * [Snapshots](https://qdrant.tech/documentation/concepts/snapshots/)
+[Guides](https://qdrant.tech/documentation/guides/installation/)
+  * [Installation](https://qdrant.tech/documentation/guides/installation/)
+  * [Administration](https://qdrant.tech/documentation/guides/administration/)
+  * [Running with GPU](https://qdrant.tech/documentation/guides/running-with-gpu/)
+  * [Capacity Planning](https://qdrant.tech/documentation/guides/capacity-planning/)
+  * [Optimize Performance](https://qdrant.tech/documentation/guides/optimize/)
+  * [Multitenancy](https://qdrant.tech/documentation/guides/multiple-partitions/)
+  * [Distributed Deployment](https://qdrant.tech/documentation/guides/distributed_deployment/)
+  * [Quantization](https://qdrant.tech/documentation/guides/quantization/)
+  * [Monitoring & Telemetry](https://qdrant.tech/documentation/guides/monitoring/)
+  * [Configuration](https://qdrant.tech/documentation/guides/configuration/)
+  * [Security](https://qdrant.tech/documentation/guides/security/)
+  * [Usage Statistics](https://qdrant.tech/documentation/guides/usage-statistics/)
+  * [Troubleshooting](https://qdrant.tech/documentation/guides/common-errors/)
+  * [Semantic Search 101](https://qdrant.tech/documentation/beginner-tutorials/search-beginners/)
+  * [Build a Neural Search Service](https://qdrant.tech/documentation/beginner-tutorials/neural-search/)
+  * [Setup Hybrid Search with FastEmbed](https://qdrant.tech/documentation/beginner-tutorials/hybrid-search-fastembed/)
+  * [Measure Search Quality](https://qdrant.tech/documentation/beginner-tutorials/retrieval-quality/)
+[Advanced Retrieval](https://qdrant.tech/documentation/advanced-tutorials/)
+  * [Search Through Your Codebase](https://qdrant.tech/documentation/advanced-tutorials/code-search/)
+  * [Build a Recommendation System with Collaborative Filtering](https://qdrant.tech/documentation/advanced-tutorials/collaborative-filtering/)
+  * [Scaling PDF Retrieval with Qdrant](https://qdrant.tech/documentation/advanced-tutorials/pdf-retrieval-at-scale/)
+[Using the Database](https://qdrant.tech/documentation/database-tutorials/)
+  * [Bulk Upload Vectors](https://qdrant.tech/documentation/database-tutorials/bulk-upload/)
+  * [Create & Restore Snapshots](https://qdrant.tech/documentation/database-tutorials/create-snapshot/)
+  * [Large Scale Search](https://qdrant.tech/documentation/database-tutorials/large-scale-search/)
+  * [Load a HuggingFace Dataset](https://qdrant.tech/documentation/database-tutorials/huggingface-datasets/)
+  * [Build With Async API](https://qdrant.tech/documentation/database-tutorials/async-api/)
+  * [Automate filtering with LLMs](https://qdrant.tech/documentation/database-tutorials/automate-filtering-with-llms/)
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/advanced-tutorials/code-search/)
+                    ## 📄 `https-qdrant-tech-documentation-advanced-tutorials-collaborative-filtering.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/advanced-tutorials/collaborative-filtering/)
+                    ## 📄 `https-qdrant-tech-documentation-advanced-tutorials-pdf-retrieval-at-scale.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/advanced-tutorials/pdf-retrieval-at-scale/)
+                    ## 📄 `https-qdrant-tech-documentation-advanced-tutorials.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/advanced-tutorials/)
+                    ## 📄 `https-qdrant-tech-documentation-agentic-rag-crewai-zoom.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/agentic-rag-crewai-zoom/)
+                    ## 📄 `https-qdrant-tech-documentation-beginner-tutorials-hybrid-search-fastembed.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/beginner-tutorials/hybrid-search-fastembed/)
+                    ## 📄 `https-qdrant-tech-documentation-beginner-tutorials-neural-search.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/beginner-tutorials/neural-search/)
+                    ## 📄 `https-qdrant-tech-documentation-beginner-tutorials-retrieval-quality.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/beginner-tutorials/retrieval-quality/)
+                    ## 📄 `https-qdrant-tech-documentation-beginner-tutorials-search-beginners.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/beginner-tutorials/search-beginners/)
+                    ## 📄 `https-qdrant-tech-documentation-beginner-tutorials.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/beginner-tutorials/)
+                    ## 📄 `https-qdrant-tech-documentation-cloud-authentication.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/cloud/authentication/)
+                    ## 📄 `https-qdrant-tech-documentation-cloud-backups.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/cloud/backups/)
+                    ## 📄 `https-qdrant-tech-documentation-cloud-cluster-scaling.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/cloud/cluster-scaling/)
+                    ## 📄 `https-qdrant-tech-documentation-cloud-qdrant-cloud-setup-enterprise-single-sign-on-sso.md`
+  * [Getting Started](https://qdrant.tech/documentation/cloud/getting-started/)
+  * [Account Setup](https://qdrant.tech/documentation/cloud/qdrant-cloud-setup/)
+  * [Create a Cluster](https://qdrant.tech/documentation/cloud/create-cluster/)
+  * [Authentication](https://qdrant.tech/documentation/cloud/authentication/)
+  * [Cluster Access](https://qdrant.tech/documentation/cloud/cluster-access/)
+  * [Scale Clusters](https://qdrant.tech/documentation/cloud/cluster-scaling/)
+  * [Monitor Clusters](https://qdrant.tech/documentation/cloud/cluster-monitoring/)
+  * [Upgrade Clusters](https://qdrant.tech/documentation/cloud/cluster-upgrades/)
+  * [Backup Clusters](https://qdrant.tech/documentation/cloud/backups/)
+  * [Billing & Payments](https://qdrant.tech/documentation/cloud/pricing-payments/)
+  * [Premium Tier](https://qdrant.tech/documentation/cloud/premium/)
+[Hybrid Cloud](https://qdrant.tech/documentation/hybrid-cloud/)
+  * [Setup Hybrid Cloud](https://qdrant.tech/documentation/hybrid-cloud/hybrid-cloud-setup/)
+  * [Create a Cluster](https://qdrant.tech/documentation/hybrid-cloud/hybrid-cloud-cluster-creation/)
+  * [Configure the Qdrant Operator](https://qdrant.tech/documentation/hybrid-cloud/operator-configuration/)
+  * [Networking, Logging & Monitoring](https://qdrant.tech/documentation/hybrid-cloud/networking-logging-monitoring/)
+  * [Deployment Platforms](https://qdrant.tech/documentation/hybrid-cloud/platform-deployment-options/)
+[Private Cloud](https://qdrant.tech/documentation/private-cloud/)
+  * [Setup Private Cloud](https://qdrant.tech/documentation/private-cloud/private-cloud-setup/)
+  * [Configuration](https://qdrant.tech/documentation/private-cloud/configuration/)
+  * [Managing a Cluster](https://qdrant.tech/documentation/private-cloud/qdrant-cluster-management/)
+  * [Backups](https://qdrant.tech/documentation/private-cloud/backups/)
+  * [Logging & Monitoring](https://qdrant.tech/documentation/private-cloud/logging-monitoring/)
+  * [API Reference](https://qdrant.tech/documentation/private-cloud/api-reference/)
+  * [Changelog](https://qdrant.tech/documentation/private-cloud/changelog/)
+[Cloud RBAC](https://qdrant.tech/documentation/cloud-rbac/)
+  * [Role Management](https://qdrant.tech/documentation/cloud-rbac/role-management/)
+  * [User Management](https://qdrant.tech/documentation/cloud-rbac/user-management/)
+  * [Permission Reference](https://qdrant.tech/documentation/cloud-rbac/permission-reference/)
+  * [Early Access FAQ](https://qdrant.tech/documentation/cloud-rbac/early-access-faq/)
+  * With an email address and passwordless login via email
+  * With a Google account
+  * With a GitHub account
+  * By connection an enterprise SSO solution
+Every account is tied to an email address. You can invite additional users to your account and manage their permissions.
+  * Active Directory/LDAP
+  * ADFS
+  * Azure Active Directory Native
+  * Google Workspace
+  * OpenID Connect
+  * Okta
+  * PingFederate
+  * SAML
+  * Azure Active Directory
+Enterprise Sign-On is available as an add-on for [Premium Tier](https://qdrant.tech/documentation/cloud/premium/) customers. If you are interested in using SSO, please [contact us](https://qdrant.tech/contact-us/).
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/cloud/qdrant-cloud-setup/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-collections.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/collections/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-explore.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/explore/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-filtering-full-text-match.md`
+###  [](https://qdrant.tech/documentation/concepts/filtering/#nested-object-filter)Nested object filter
+_Available as of v1.2.0_
+By default, the conditions are taking into account the entire payload of a point.
+For instance, given two points with the following payload:
+The following query would match both points:
+httppythontypescriptrustjavacsharpgo
+  * `gt` - greater than
+  * `gte` - greater than or equal
+  * `lt` - less than
+  * `lte` - less than or equal
+Can be applied to [float](https://qdrant.tech/documentation/concepts/payload/#float) and [integer](https://qdrant.tech/documentation/concepts/payload/#integer) payloads.
+###  [](https://qdrant.tech/documentation/concepts/filtering/#has-vector)Has vector
+_Available as of v1.13.0_
+This condition enables filtering by the presence of a given named vector on a point.
+For example, if we have two named vector in our collection.
+Some points in the collection might have all vectors, some might have only a subset of them.
+If your collection does not have named vectors, use an empty (`""`) name.
+This is how you can search for points which have the dense `image` vector defined:
+httppythontypescriptrustjavacsharpgo
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/filtering/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-filtering-geo-bounding-box.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/hybrid-queries/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-indexing-filtrable-index.md`
+  * `keyword` - for [keyword](https://qdrant.tech/documentation/concepts/payload/#keyword) payload, affects [Match](https://qdrant.tech/documentation/concepts/filtering/#match) filtering conditions.
+  * `integer` - for [integer](https://qdrant.tech/documentation/concepts/payload/#integer) payload, affects [Match](https://qdrant.tech/documentation/concepts/filtering/#match) and [Range](https://qdrant.tech/documentation/concepts/filtering/#range) filtering conditions.
+  * `float` - for [float](https://qdrant.tech/documentation/concepts/payload/#float) payload, affects [Range](https://qdrant.tech/documentation/concepts/filtering/#range) filtering conditions.
+  * `bool` - for [bool](https://qdrant.tech/documentation/concepts/payload/#bool) payload, affects [Match](https://qdrant.tech/documentation/concepts/filtering/#match) filtering conditions (available as of v1.4.0).
+  * `geo` - for [geo](https://qdrant.tech/documentation/concepts/payload/#geo) payload, affects [Geo Bounding Box](https://qdrant.tech/documentation/concepts/filtering/#geo-bounding-box) and [Geo Radius](https://qdrant.tech/documentation/concepts/filtering/#geo-radius) filtering conditions.
+  * `datetime` - for [datetime](https://qdrant.tech/documentation/concepts/payload/#datetime) payload, affects [Range](https://qdrant.tech/documentation/concepts/filtering/#range) filtering conditions (available as of v1.8.0).
+  * `text` - a special kind of index, available for [keyword](https://qdrant.tech/documentation/concepts/payload/#keyword) / string payloads, affects [Full Text search](https://qdrant.tech/documentation/concepts/filtering/#full-text-match) filtering conditions.
+  * `uuid` - a special type of index, similar to `keyword`, but optimized for [UUID values](https://qdrant.tech/documentation/concepts/payload/#uuid). Affects [Match](https://qdrant.tech/documentation/concepts/filtering/#match) filtering conditions. (available as of v1.11.0)
+Payload index may occupy some additional memory, so it is recommended to only use index for those fields that are used in filtering conditions. If you need to filter by many fields and the memory limits does not allow to index all of them, it is recommended to choose the field that limits the search result the most. As a rule, the more different values a payload value has, the more efficiently the index will be used.
+  * `word` - splits the string into words, separated by spaces, punctuation marks, and special characters.
+  * `whitespace` - splits the string into words, separated by spaces.
+  * `prefix` - splits the string into words, separated by spaces, punctuation marks, and special characters, and then creates a prefix index for each word. For example: `hello` will be indexed as `h`, `he`, `hel`, `hell`, `hello`.
+  * `multilingual` - special type of tokenizer based on `--features multiling-chinese,multiling-japanese,multiling-korean` flags.
+See [Full Text match](https://qdrant.tech/documentation/concepts/filtering/#full-text-match) for examples of querying with full-text index.
+  * `lookup`: enables support for direct lookup using [Match](https://qdrant.tech/documentation/concepts/filtering/#match) filters.
+  * `range`: enables support for [Range](https://qdrant.tech/documentation/concepts/filtering/#range) filters.
+The regular `integer` index assumes both `lookup` and `range` are `true`. In contrast, to configure a parameterized index, you would set only one of these filters to `true`:
+`lookup` | `range` | Result  
+---|---|---  
+`true` | `true` | Regular integer index  
+`true` | `false` | Parameterized integer index  
+`false` | `true` | Parameterized integer index  
+`false` | `false` | No integer index  
+The parameterized index can enhance performance in collections with millions of points. We encourage you to try it out. If it does not enhance performance in your use case, you can always restore the regular `integer` index.
+Note: If you set `"lookup": true` with a range filter, that may lead to significant performance issues.
+For example, the following code sets up a parameterized integer index which supports only range filters:
+httppythontypescriptrustjavacsharpgo
+  * `keyword`
+  * `integer`
+  * `float`
+  * `datetime`
+  * `uuid`
+  * `text`
+  * `geo`
+The list will be extended in future versions.
+  * A sparse vector index in Qdrant is exact, meaning it does not use any approximation algorithms.
+  * All sparse vectors added to the collection are immediately indexed in the mutable version of a sparse index.
+With Qdrant, you can benefit from a more compact and efficient immutable sparse index, which is constructed during the same optimization process as the dense vector index.
+This approach is particularly useful for collections storing both dense and sparse vectors.
+To configure a sparse vector index, create a collection with the following parameters:
+httppythontypescriptrustjavacsharpgo
+  * `on_disk: true` - The index is stored on disk, which lets you save memory. This may slow down search performance.
+  * `on_disk: false` - The index is still persisted on disk, but it is also loaded into memory for faster search.
+Unlike a dense vector index, a sparse vector index does not require a pre-defined vector size. It automatically adjusts to the size of the vectors added to the collection.
+**Note:** A sparse vector index only supports dot-product similarity searches. It does not support other distance metrics.
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/indexing/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-indexing-full-text-index.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/optimizer/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-payload-bool.md`
+  * `"2023-02-08T10:49:00Z"` (
+  * `"2023-02-08T11:49:00+01:00"` (
+  * `"2023-02-08T10:49:00"` (without timezone, UTC is assumed)
+  * `"2023-02-08T10:49"` (without timezone and seconds)
+  * `"2023-02-08"` (only date, midnight is assumed)
+Notes about the format:
+  * `T` can be replaced with a space.
+  * The `T` and `Z` symbols are case-insensitive.
+  * UTC is always assumed when the timezone is not specified.
+  * Timezone can have the following formats: `±HH:MM`, `±HHMM`, `±HH`, or `Z`.
+  * Seconds can have up to 6 decimals, so the finest granularity for `datetime` is microseconds.
+##  [](https://qdrant.tech/documentation/concepts/payload/#payload-indexing)Payload indexing
+To search more efficiently with filters, Qdrant allows you to create indexes for payload fields by specifying the name and type of field it is intended to be.
+The indexed fields also affect the vector index. See [Indexing](https://qdrant.tech/documentation/concepts/indexing/) for details.
+In practice, we recommend creating an index on those fields that could potentially constrain the results the most. For example, using an index for the object ID will be much more efficient, being unique for each record, than an index by its color, which has only a few possible values.
+In compound queries involving multiple fields, Qdrant will attempt to use the most restrictive index first.
+To create index for the field, you can use the following:
+REST API ([Schema](https://api.qdrant.tech/api-reference/indexes/create-field-index))
+httppythontypescriptrustjavacsharpgo
+The index usage flag is displayed in the payload schema with the [collection info API](https://api.qdrant.tech/api-reference/collections/get-collection).
+Payload schema example:
+  * Know which unique values exist for a payload key.
+  * Know the number of points that contain each unique value.
+  * Know how restrictive a filter would become by matching a specific value.
+Specifically, it is a counting aggregation for the values in a field, akin to a `GROUP BY` with `COUNT(*)` commands in SQL.
+These results for a specific field is called a “facet”. For example, when you look at an e-commerce search results page, you might see a list of brands on the sidebar, showing the number of products for each brand. This would be a facet for a `"brand"` field.
+In Qdrant you can facet on a field **only** if you have created a field index that supports `MatchValue` conditions for it, like a `keyword` index.
+To get the facet counts for a field, you can use the following:
+By default, the number of `hits` returned is limited to 10. To change this, use the `limit` parameter. Keep this in mind when checking the number of unique values a payload field contains.
+REST API ([Facet](https://api.qdrant.tech/v-1-13-x/api-reference/points/facet))
+httppythontypescriptrustjavacsharpgo
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/payload/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-payload-datetime.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/points/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-search-query-planning.md`
+  * Dot product: `Dot` - 
+  * Cosine similarity: `Cosine` - 
+  * Euclidean distance: `Euclid` - 
+  * Manhattan distance: `Manhattan`*- _*Available as of v1.7_
+The most typical metric used in similarity learning models is the cosine metric.
+![Embeddings](https://qdrant.tech/docs/cos.png)
+Qdrant counts this metric in 2 steps, due to which a higher search speed is achieved. The first step is to normalize the vector when adding it to the collection. It happens only once for each vector.
+The second step is the comparison of vectors. In this case, it becomes equivalent to dot production - a very fast operation due to SIMD.
+Depending on the query configuration, Qdrant might prefer different strategies for the search. Read more about it in the [query planning](https://qdrant.tech/documentation/concepts/search/#query-planning) section.
+  * `hnsw_ef` - value that specifies `ef` parameter of the HNSW algorithm.
+  * `exact` - option to not use the approximate search (ANN). If set to true, the search may run for a long as it performs a full scan to retrieve exact results.
+  * `indexed_only` - With this option you can disable the search in those segments where vector index is not built yet. This may be useful if you want to minimize the impact to the search performance whilst the collection is also being updated. Using this option may lead to a partial result if the collection is not fully indexed yet, consider using it only if eventual consistency is acceptable for your use case.
+Since the `filter` parameter is specified, the search is performed only among those points that satisfy the filter condition. See details of possible filters and their work in the [filtering](https://qdrant.tech/documentation/concepts/filtering/) section.
+Example result of this API would be
+  * `payload.nested_field` - for a nested field
+  * `payload.nested_array[].sub_field` - for projecting nested fields within an array
+Accessing array elements by index is currently not supported.
+##  [](https://qdrant.tech/documentation/concepts/search/#query-by-id)Query by ID
+Whenever you need to use a vector as an input, you can always use a [point ID](https://qdrant.tech/documentation/concepts/points/#point-ids) instead.
+httppythontypescriptrustjavacsharpgo
+The above example will fetch the default vector from the point with this id, and use it as the query vector.
+If the `using` parameter is also specified, Qdrant will use the vector with that name.
+It is also possible to reference an ID from a different collection, by setting the `lookup_from` parameter.
+httppythontypescriptrustjavacsharpgo
+  * planning is performed for each segment independently (see [storage](https://qdrant.tech/documentation/concepts/storage/) for more information about segments)
+  * prefer a full scan if the amount of points is below a threshold
+  * estimate the cardinality of a filtered result before selecting a strategy
+  * retrieve points using payload index (see [indexing](https://qdrant.tech/documentation/concepts/indexing/)) if cardinality is below threshold
+  * use filterable vector index if the cardinality is above a threshold
+You can adjust the threshold using a 
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/search/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-search.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/snapshots/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-storage.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/storage/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts-vectors.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/vectors/)
+                    ## 📄 `https-qdrant-tech-documentation-concepts.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/concepts/)
+                    ## 📄 `https-qdrant-tech-documentation-database-tutorials-async-api.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/database-tutorials/async-api/)
+                    ## 📄 `https-qdrant-tech-documentation-database-tutorials-automate-filtering-with-llms.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/database-tutorials/automate-filtering-with-llms/)
+                    ## 📄 `https-qdrant-tech-documentation-database-tutorials-bulk-upload.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/database-tutorials/bulk-upload/)
+                    ## 📄 `https-qdrant-tech-documentation-database-tutorials-create-snapshot.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/database-tutorials/create-snapshot/)
+                    ## 📄 `https-qdrant-tech-documentation-database-tutorials-huggingface-datasets.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/database-tutorials/huggingface-datasets/)
+                    ## 📄 `https-qdrant-tech-documentation-database-tutorials-large-scale-search.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/database-tutorials/large-scale-search/)
+                    ## 📄 `https-qdrant-tech-documentation-database-tutorials.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/database-tutorials/)
+                    ## 📄 `https-qdrant-tech-documentation-embeddings.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/embeddings/)
+                    ## 📄 `https-qdrant-tech-documentation-faq-database-optimization.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/faq/database-optimization/)
+                    ## 📄 `https-qdrant-tech-documentation-faq-qdrant-fundamentals.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/faq/qdrant-fundamentals/)
+                    ## 📄 `https-qdrant-tech-documentation-frameworks-autogen.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/frameworks/autogen/)
+                    ## 📄 `https-qdrant-tech-documentation-frameworks-crewai.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/frameworks/crewai/)
+                    ## 📄 `https-qdrant-tech-documentation-frameworks-langgraph.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/frameworks/langgraph/)
+                    ## 📄 `https-qdrant-tech-documentation-frameworks-swarm.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/frameworks/swarm/)
+                    ## 📄 `https-qdrant-tech-documentation-frameworks.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/frameworks/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-administration.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/administration/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-capacity-planning.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/capacity-planning/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-common-errors.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/common-errors/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-configuration.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/configuration/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-distributed-deployment.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/distributed_deployment/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-installation.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/installation/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-monitoring.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/monitoring/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-multiple-partitions.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/multiple-partitions/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-optimize.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/optimize/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-quantization-accuracy-tuning.md`
+  * OpenAI `text-embedding-ada-002` - 1536d tested with 
+  * Cohere AI `embed-english-v2.0` - 4096d tested on Wikipedia embeddings - 0.98 recall@50 with 2x oversampling
+Models with a lower dimensionality or a different distribution of vector components may require additional experiments to find the optimal quantization parameters.
+We recommend using binary quantization only with rescoring enabled, as it can significantly improve the search quality with just a minor performance impact. Additionally, oversampling can be used to tune the tradeoff between search speed and search quality in the query time.
+  * **All in RAM** - all vector, original and quantized, are loaded and kept in RAM. This is the fastest mode, but requires a lot of RAM. Enabled by default.
+  * **Original on Disk, quantized in RAM** - this is a hybrid mode, allows to obtain a good balance between speed and memory usage. Recommended scenario if you are aiming to shrink the memory footprint while keeping the search speed.
+This mode is enabled by setting `always_ram` to `true` in the quantization config while using memmap storage:
+httppythontypescriptrustjavacsharpgo
+  * **All on Disk** - all vectors, original and quantized, are stored on disk. This mode allows to achieve the smallest memory footprint, but at the cost of the search speed.
+It is recommended to use this mode if you have a large collection and fast storage (e.g. SSD or NVMe).
+This mode is enabled by setting `always_ram` to `false` in the quantization config while using mmap storage:
+httppythontypescriptrustjavacsharpgo
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/quantization/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-quantization-binary-quantization-as-hamming-distance.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/running-with-gpu/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-security.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/security/)
+                    ## 📄 `https-qdrant-tech-documentation-guides-usage-statistics.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/usage-statistics/)
+                    ## 📄 `https-qdrant-tech-documentation-guides.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/guides/)
+                    ## 📄 `https-qdrant-tech-documentation-hybrid-cloud.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/hybrid-cloud/)
+                    ## 📄 `https-qdrant-tech-documentation-interfaces-api-reference.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/interfaces/)
+                    ## 📄 `https-qdrant-tech-documentation-interfaces.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/overview/vector-search/)
+                    ## 📄 `https-qdrant-tech-documentation-overview.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/overview/)
+                    ## 📄 `https-qdrant-tech-documentation-quantization-setting-up-quantization-in-qdrant.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/quantization/)
+                    ## 📄 `https-qdrant-tech-documentation-quick-start.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/quick-start/)
+                    ## 📄 `https-qdrant-tech-documentation-quickstart-cloud.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/quickstart-cloud/)
+                    ## 📄 `https-qdrant-tech-documentation-quickstart.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/quickstart/)
+                    ## 📄 `https-qdrant-tech-documentation-search-query-planning.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/search/)
+                    ## 📄 `https-qdrant-tech-documentation-tutorials-multimodal-search-fastembed.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/tutorials/multimodal-search-fastembed/)
+                    ## 📄 `https-qdrant-tech-documentation-tutorials.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/tutorials/)
+                    ## 📄 `https-qdrant-tech-documentation-web-ui.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/web-ui/)
+                    ## 📄 `https-qdrant-tech-documentation.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/documentation/)
+                    ## 📄 `https-qdrant-tech-enterprise-solutions.md`
+##### Manual Infrastructure Management Overhead
+Enterprises often struggle to keep up with scaling demands. **Manual cluster provisioning and management** lead to slow deployments, human errors, and high operational costs.
+Enterprises like Bosch use Qdrant for unparalleled performance and massive-scale vector search. “With Qdrant, we found the missing piece to develop our own provider independent multimodal generative AI platform at enterprise scale.”
+![Jeremy Teichmann Avatar](https://qdrant.tech/img/customers/jeremy-t-daly-singh.svg)
+Jeremy Teichmann & Daly Singh
+Generative AI Expert & Product Owner
+![Logo](https://qdrant.tech/img/brands/bosch.svg)
+“Vector stores are definitely here to stay, the objects in the world around us from image, sound, video and text become easily universal and searchable thanks to the embedding models and vector stores. I personally recommend Qdrant. We have been using it for a while and couldn’t be happier.”
+![Hooman Sedghamiz Avatar](https://qdrant.tech/img/customers/hooman-sedghamiz.svg)
+Hooman Sedghamiz
+Director AI/ML, Bayer
+![Logo](https://qdrant.tech/img/brands/bayer.svg)
+Do you have further questions? We are happy to assist you.
+[Contact us ](https://qdrant.tech/contact-us/)[Contact us](https://qdrant.tech/contact-us/)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/enterprise-solutions/)
+                    ## 📄 `https-qdrant-tech-github-com-qdrant-landing-page-tree-master-qdrant-landing-content-articles-product-quantization-md.md`
+![Galaxy](https://qdrant.tech/img/404-galaxy.svg) ![Galaxy](https://qdrant.tech/img/404-galaxy-mobile.svg)
+Oops! We can't find the page you were looking for.
+[Go to Home ](https://qdrant.tech/)
+                    ## 📄 `https-qdrant-tech-github-com-qdrant-landing-page-tree-master-qdrant-landing-content-articles-scalar-quantization-md.md`
+#### Ready to get started with Qdrant?
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+×
+[ Powered by ](https://qdrant.tech/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/guides/distributed_deployment/)
+                    ## 📄 `https-qdrant-tech-hybrid-cloud.md`
+### Get started today
+Turn embeddings or neural network encoders into full-fledged applications for matching, searching, recommending, and more.
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/hybrid-cloud/)
+                    ## 📄 `https-qdrant-tech-legal-impressum.md`
+### Google Analytics
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (‘‘Google’’). Google Analytics verwendet sog. ‘‘Cookies’’, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten der Google in Verbindung bringen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/legal/impressum/)
+                    ## 📄 `https-qdrant-tech-legal-privacy-policy.md`
+  * Qdrant needs to perform a contract with you
+  * You have given Qdrant permission to do so
+  * Processing your personal information is in Qdrant legitimate interests
+  * Qdrant needs to comply with the law
+Qdrant will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us. In certain circumstances, you have the following data protection rights:
+  * The right to access, update or to delete the information we have on you.
+  * The right of rectification.
+  * The right to object.
+  * The right of restriction.
+  * The right to data portability
+  * The right to withdraw consent
+## Consent
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/legal/privacy-policy/)
+                    ## 📄 `https-qdrant-tech-legal-terms-and-conditions.md`
+### Contact Us
+If you have any questions about these Terms and Conditions, You can contact us:
+By email: 
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/legal/terms_and_conditions/)
+                    ## 📄 `https-qdrant-tech-misc-qdrant-security-public-key-asc.md`
+### Become a Certified Solutions Partner
+We partner with industry leaders to deliver innovative solutions and an exceptional customer experience.
+[Become a Partner](https://qdrant.tech/contact-us/)
+![](https://qdrant.tech/img/partner-banner.svg)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/partners/)
+                    ## 📄 `https-qdrant-tech-pricing.md`
+### Deploy Qdrant locally with Docker
+Get started with our [Quick Start Guide](https://qdrant.tech/documentation/quick-start/), or our main 
+`1 docker pull qdrant/qdrant  
+2 docker run -p 6333:6333 qdrant/qdrant  
+`
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/pricing/)
+                    ## 📄 `https-qdrant-tech-private-cloud.md`
+###### Qdrant Private Cloud offers a dedicated, on-premise solution that guarantees supreme data privacy and sovereignty.
+![Private cloud data privacy](https://qdrant.tech/img/private-cloud-data-privacy.svg)
+Designed for enterprise-grade demands, it provides a seamless management experience for your vector database, ensuring optimal performance and security for vector search and AI applications.
+To learn more about Qdrant Private Cloud, please contact our team.
+[Contact us ](https://qdrant.tech/contact-us/)[Contact us](https://qdrant.tech/contact-us/)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/private-cloud/)
+                    ## 📄 `https-qdrant-tech-qdrant-for-startups-form.md`
+# Qdrant for Startups
+Qdrant for Startups is committed to being the catalyst for the next generation of AI innovators.  
+Our program is specifically designed to provide AI-focused startups with the right resources to scale. If AI is at the heart of your startup, you're in the right place.
+[Apply Now](https://qdrant.tech/qdrant-for-startups/#form)
+![Qdrant for Startups](https://qdrant.tech/img/startups-program.svg)
+###### Who can I contact for more information about the program?
+After reading these FAQs in full, if you need more details or assistance, please contact 
+[Apply Now](https://qdrant.tech/qdrant-for-startups/#form)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/qdrant-for-startups/)
+                    ## 📄 `https-qdrant-tech-qdrant-for-startups.md`
+### Qdrant Cloud is the fastest way to get started with Qdrant.
+![](https://qdrant.tech/img/rocket.svg)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/qdrant-vector-database/)
+                    ## 📄 `https-qdrant-tech-rag-rag-evaluation-guide.md`
+  * Search precision
+  * Recall
+  * Contextual relevance
+  * Response accuracy.
+![Search text](https://qdrant.tech/icons/outline/search-text-blue.svg)
+### Read Qdrant’s Best Practices in RAG Evaluation guide for a deep dive into:
+![Case study](https://qdrant.tech/icons/outline/case-study-blue.svg)
+Why RAG evaluation is crucial for your AI's success
+![Similarity](https://qdrant.tech/icons/outline/similarity-blue.svg)
+Recommended frameworks for comprehensive assessment
+![Bug](https://qdrant.tech/icons/outline/bug-blue.svg)
+How to identify and solve common RAG performance issues
+![Cloud connections](https://qdrant.tech/icons/outline/cloud-connections-blue.svg)
+Techniques for working with custom datasets
+![Chart bar](https://qdrant.tech/icons/outline/chart-bar-blue.svg)
+Essential metrics to monitor during testing
+[Download the Guide](https://qdrant.tech/rag/rag-evaluation-guide/#form)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/rag/rag-evaluation-guide/)
+                    ## 📄 `https-qdrant-tech-rag.md`
+## Best Practices in RAG Evaluation
+Learn how to assess, calibrate, and optimize your RAG applications for long-term success.
+[Get the Guide](https://qdrant.tech/rag/rag-evaluation-guide/)
+![RAG guide](https://qdrant.tech/img/retrieval-augmented-generation-evaluation/guide-graphic.svg)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/rag/)
+                    ## 📄 `https-qdrant-tech-recommendations.md`
+##### Recommendation Engine with Qdrant Vector Database
+Dailymotion's Journey to Crafting the Ultimate Content-Driven Video Recommendation Engine with Qdrant Vector Database.
+[Read Case Study](https://qdrant.tech/blog/case-study-dailymotion/)
+![Preview](https://qdrant.tech/img/recommendations-use-cases/case-study.png)
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/recommendations/)
+                    ## 📄 `https-qdrant-tech-security-bug-bounty-program.md`
+  * *.cloud.qdrant.io Qdrant Cloud Application
+  * [qdrant.tech](http://qdrant.tech/) Website
+In most cases, we will only reward the following types of vulnerabilities:
+  * Arbitrary code execution and OS Command Injection
+  * Stored Cross-Site Scripting (Stored XSS)
+  * SQL injection
+  * File Upload
+  * Authentication bypass and privilege escalation (authentication / authorization circumvention)
+  * Significant Sensitive Data Exposure
+  * Server-Side Request Forgery (SSRF)
+  * Critical Business Logic Flaws
+  * Email: 
+  * PGP Key Fingerprint: [07E3 6646 E0D0 A3BF 0AFC B302 26C5 016B 97EB 804B](https://qdrant.tech/misc/qdrant-security-public-key.asc)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/security/bug-bounty-program/)
+                    ## 📄 `https-qdrant-tech-solutions.md`
+## Qdrant Vector Database Use Cases
+Explore the vast applications of the Qdrant vector database. From retrieval augmented generation to anomaly detection, advanced search, and recommendation systems, our solutions unlock new dimensions of data and performance.
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/solutions/)
+                    ## 📄 `https-qdrant-tech-stars.md`
+###### M K Pavan Kumar
+Data Scientist and Lead GenAI
+Kameshwara Pavan Kumar Mantha is a seasoned technology expert with 14 years of extensive experience in full stack development, cloud solutions, and artificial intelligence.  
+Specializing in Generative AI and Large Language Models, Pavan has established himself as a leader in these cutting-edge domains.
+![M K Pavan Kumar Photo](https://qdrant.tech/img/stars/m-k-pavan-kumar.jpg)
+![Robert Caulk Photo](https://qdrant.tech/img/stars/robert-caulk.jpg)
+### Are you contributing to our code, content, or community?
+![](https://qdrant.tech/img/stars.svg)
+[![Qdrant Logo](https://qdrant.tech/img/logo-white.png)](https://qdrant.tech/ "Go to Home Page")
+Powering the next generation of AI applications with advanced, high-performant vector similarity search technology.
+Products
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/stars/)
+                    ## 📄 `https-qdrant-tech-subscribe.md`
+##### Sign up for Qdrant Updates
+Stay up to date on product news, technical articles, and upcoming educational webinars.
+![Astronaut](https://qdrant.tech/img/subscribe.png) ![Astronaut](https://qdrant.tech/img/mobile/subscribe.png)
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy ](https://qdrant.tech/legal/privacy-policy/)[Impressum](https://qdrant.tech/legal/impressum/)
+                    ## 📄 `https-qdrant-tech.md`
+[Pricing](https://qdrant.tech/pricing/)
+Sign up for Qdrant updates
+We'll occasionally send you best practices for using vector data and similarity search, as well as product news.
+© 2025 Qdrant. All Rights Reserved
+[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)
+We use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.
+[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech)
+                    ## 📄 `https-try-qdrant-tech-5-minute-rag-hslang-en.md`
+  * Basic understanding of Python
+  * Enthusiasm for AI and natural language processing
+  * Familiarity with machine learning concepts is helpful, but not required
+[ Watch the recording ](https://try.qdrant.tech/5-minute-rag?hsLang=en#form)
+### Watch now
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=93ea8069-a8f9-4e5e-9dbf-61e2e5f00bb9&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2d38636-fd03-4d31-aaa8-1b4779598ef1&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2F5-minute-rag&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=93ea8069-a8f9-4e5e-9dbf-61e2e5f00bb9&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2d38636-fd03-4d31-aaa8-1b4779598ef1&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2F5-minute-rag&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=e5d44dad-1da4-47ef-9d68-369a3b6c5511&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2d38636-fd03-4d31-aaa8-1b4779598ef1&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2F5-minute-rag&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=e5d44dad-1da4-47ef-9d68-369a3b6c5511&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2d38636-fd03-4d31-aaa8-1b4779598ef1&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2F5-minute-rag&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-agentic-rag-crewai-hslang-en.md`
+  * AI/ML Engineers
+  * Solutions Architects  
+  * Software Developers  
+  * Technical Product Managers
+  * Basic understanding of vector databases and embeddings  
+  * Familiarity with Python 
+  * General knowledge of LLMs and their applications
+  * No specific CrewAI or Qdrant experience required  
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=0990c2e9-f1d8-4725-87e6-0ed49484838a&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1062e527-e040-4558-ae16-b861acdf42f7&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fagentic-rag-crewai&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=0990c2e9-f1d8-4725-87e6-0ed49484838a&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1062e527-e040-4558-ae16-b861acdf42f7&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fagentic-rag-crewai&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=488a467b-9985-4cd5-ae33-85ad7781d128&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1062e527-e040-4558-ae16-b861acdf42f7&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fagentic-rag-crewai&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=488a467b-9985-4cd5-ae33-85ad7781d128&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1062e527-e040-4558-ae16-b861acdf42f7&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fagentic-rag-crewai&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-ai-agents-webinar-hslang-en.md`
+  * to make the LLM produce consistent output in the required format
+  * to seamlessly integrate tools with AI agents
+  * debug and manage agentic pipelines
+all of which can be difficult. 
+### Speakers
+![Screenshot 2024-11-13 at 7.38.46 AM](https://try.qdrant.tech/hs-fs/hubfs/Screenshot%202024-11-13%20at%207.38.46%20AM.png?width=500&height=436&name=Screenshot%202024-11-13%20at%207.38.46%20AM.png)
+Max Tkacz 
+Senior Developer Advocate, n8n 
+![T027ADPGJUB-U07BZCSUM7H-70b6368e98ff-512](https://try.qdrant.tech/hs-fs/hubfs/Imported%20sitepage%20images/T027ADPGJUB-U07BZCSUM7H-70b6368e98ff-512.jpg?width=512&height=512&name=T027ADPGJUB-U07BZCSUM7H-70b6368e98ff-512.jpg)
+Jenny Sukhodolskaya
+Developer Advocate, Qdrant 
+[ Watch now ](https://try.qdrant.tech/ai-agents-webinar?hsLang=en)
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=14aed9bc-811d-4051-862e-df98a99e305a&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2efe3d48-60ae-4307-95c8-430b4ea647fa&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fai-agents-webinar&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=14aed9bc-811d-4051-862e-df98a99e305a&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2efe3d48-60ae-4307-95c8-430b4ea647fa&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fai-agents-webinar&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=9d1bab86-3b0f-4e60-9997-ae8b9e1c5006&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2efe3d48-60ae-4307-95c8-430b4ea647fa&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fai-agents-webinar&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=9d1bab86-3b0f-4e60-9997-ae8b9e1c5006&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2efe3d48-60ae-4307-95c8-430b4ea647fa&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fai-agents-webinar&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-build-advanced-agents-with-llamaindex-and-qdrant-hslang-en.md`
+### Watch now
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=d30dd01c-2815-4376-90a0-c922c3ff3388&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e4931397-d0bc-4c25-9255-6f9198961e64&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fbuild-advanced-agents-with-llamaindex-and-qdrant&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=d30dd01c-2815-4376-90a0-c922c3ff3388&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e4931397-d0bc-4c25-9255-6f9198961e64&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fbuild-advanced-agents-with-llamaindex-and-qdrant&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=14ef0320-d295-4858-b18c-2b2b00382e7f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e4931397-d0bc-4c25-9255-6f9198961e64&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fbuild-advanced-agents-with-llamaindex-and-qdrant&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=14ef0320-d295-4858-b18c-2b2b00382e7f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e4931397-d0bc-4c25-9255-6f9198961e64&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fbuild-advanced-agents-with-llamaindex-and-qdrant&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-colpali-webinar-hslang-en.md`
+# Using ColPali and Binary Quantization for Efficient Multimodal Retrieval  
+In this webinar, we explored the technical details of ColPali, an advanced multimodal retrieval approach that uses Vision Language Models (VLMs) to handle visually complex documents.
+Learn how ColPali uses **multivectors** to represent document images, capturing both local and global context.
+  * **Multivectors** : Representing documents as multiple embeddings to capture both local and global context, enhancing search accuracy.
+  * **Late Interaction** : Performing token-level comparisons between queries and document patches for precise relevance scoring.
+  * **MaxSim Pooling** : Aggregating the highest similarity scores from these comparisons to identify the most relevant document sections.
+  * **Binary Quantization** : Compressing vector data to optimize memory usage and accelerate search with minimal accuracy loss.
+Learn how these techniques can be applied for efficient multimodal retrieval for complex, visually-rich documents.
+### Watch the video
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=6c665b90-a288-4e23-b08e-5799633ae398&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dcdef2b9-950c-44d9-82ce-f71bc4984e48&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fcolpali-webinar&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=6c665b90-a288-4e23-b08e-5799633ae398&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dcdef2b9-950c-44d9-82ce-f71bc4984e48&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fcolpali-webinar&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=f635eb16-af84-4ee4-8be2-15153c26b5a1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dcdef2b9-950c-44d9-82ce-f71bc4984e48&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fcolpali-webinar&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=f635eb16-af84-4ee4-8be2-15153c26b5a1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dcdef2b9-950c-44d9-82ce-f71bc4984e48&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fcolpali-webinar&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-deepseek-hslang-en.md`
+  * Build privacy-first AI Agents
+  * Deploy DeepSeek models locally
+  * Secure vector search data with Qdrant
+  * Learn the benefits of optimized vector search
+  * Understand the cost and benefit of open-source infrastructure
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=7f4e1a20-9891-4f4c-8ce9-c4d8d9409c08&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=30e317f6-733f-494d-b3e9-c06d2e5e30d3&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeepseek&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=7f4e1a20-9891-4f4c-8ce9-c4d8d9409c08&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=30e317f6-733f-494d-b3e9-c06d2e5e30d3&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeepseek&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=9cffd099-2eb4-4a59-9020-a79a80a3fd97&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=30e317f6-733f-494d-b3e9-c06d2e5e30d3&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeepseek&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=9cffd099-2eb4-4a59-9020-a79a80a3fd97&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=30e317f6-733f-494d-b3e9-c06d2e5e30d3&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeepseek&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-deutsche-telekom-talk-hslang-en.md`
+# How Deutsche Telekom Scaled an Enterprise Multi-Agent Platform with Qdrant, Powering 2M+ Conversations
+Deutsche Telekom’s AI Competence Center (AICC) had a critical challenge: how do you efficiently and scalably deploy AI-powered assistants across a vast enterprise ecosystem?  
+The goal was to deploy GenAI for customer sales and service operations to resolve customer queries faster across the 10 countries where Deutsche Telekom operates in Europe.  
+In this Vector Space talk, Thierry from Qdrant and Arun from Deutsche Telekom talk about the key requirements for scaling enterprise AI agents, key AI stack considerations, and how the team built a Platform as a Service (PaaS) - LMOS (Language Models Operating System) — a multi-agent PaaS designed for high scalability and modular AI agent deployment.
+### Hear from:
+![Arun-Telekom](https://try.qdrant.tech/hs-fs/hubfs/Arun-Telekom.jpeg?width=800&height=800&name=Arun-Telekom.jpeg)
+Arun Joseph
+Engineering & Architecture Lead  
+AI Competence Center  
+Deutsche Telekom
+![IMG_2960-removebg-preview-2](https://try.qdrant.tech/hs-fs/hubfs/IMG_2960-removebg-preview-2.png?width=204&height=222&name=IMG_2960-removebg-preview-2.png)
+Thierry Damiba
+Developer Advocate  
+Qdrant
+Learn how Telekom's LMOS with Qdrant processes over 2 million conversations across three countries, and decreased the time required to develop a new agent from 15 days to just 2. 
+[ Watch now ](https://try.qdrant.tech/deutsche-telekom-talk?hsLang=en#form)
+![Deutsche-Telekom-Case-Study-A-cropped](https://try.qdrant.tech/hs-fs/hubfs/Deutsche-Telekom-Case-Study-A-cropped.jpg?width=2000&height=1241&name=Deutsche-Telekom-Case-Study-A-cropped.jpg)
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=50db269c-4582-46fe-bfb5-959596a59cee&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51b5441a-fc9e-43cb-ba7d-c6ae31b76d93&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeutsche-telekom-talk&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=50db269c-4582-46fe-bfb5-959596a59cee&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51b5441a-fc9e-43cb-ba7d-c6ae31b76d93&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeutsche-telekom-talk&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=47d83fa0-8acf-4d0f-99db-4c8e82499180&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51b5441a-fc9e-43cb-ba7d-c6ae31b76d93&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeutsche-telekom-talk&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=47d83fa0-8acf-4d0f-99db-4c8e82499180&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51b5441a-fc9e-43cb-ba7d-c6ae31b76d93&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fdeutsche-telekom-talk&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-events.md`
+### 
+Build with Qdrant
+Turn embeddings or neural network encoders into full-fledged applications for matching, searching, recommending, and more. You can start prototyping with your forever-free first cluster. 
+[ Try now ](https://qdrant.tech/)
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=d0b008c9-30ef-414d-ae4d-ae7b0905af60&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7ba862fc-bddb-4346-8f7d-50708b475974&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fevents&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=d0b008c9-30ef-414d-ae4d-ae7b0905af60&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7ba862fc-bddb-4346-8f7d-50708b475974&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fevents&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=ff6b84d7-6022-4859-b78e-8f8e8aca9613&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7ba862fc-bddb-4346-8f7d-50708b475974&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fevents&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=ff6b84d7-6022-4859-b78e-8f8e8aca9613&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7ba862fc-bddb-4346-8f7d-50708b475974&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fevents&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-llm-rag-hslang-en.md`
+  * Basic understanding of software development, particularly in frontend and backend frameworks.
+  * Familiarity with the concepts of RAG and vector search.
+  * Some experience with general programming concepts will be helpful.
+  * No prior knowledge of specific coding assistants like Cursor, Aider, or Claude required.
+[ Watch now ](https://try.qdrant.tech/llm-rag?hsLang=en#hero)
+All rights are reserved 
+![](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=ad6f5e8e-01a1-4243-9900-6ec69554d20f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1595c2b1-4e79-4f47-9546-7c16d007e970&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fllm-rag&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=2&event_id=ad6f5e8e-01a1-4243-9900-6ec69554d20f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1595c2b1-4e79-4f47-9546-7c16d007e970&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fllm-rag&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o81g6&type=javascript&version=2.3.31) ![](https://t.co/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=0fc00e21-c6f7-490c-96a3-7d28776e6763&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1595c2b1-4e79-4f47-9546-7c16d007e970&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fllm-rag&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%264%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=0fc00e21-c6f7-490c-96a3-7d28776e6763&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1595c2b1-4e79-4f47-9546-7c16d007e970&tw_document_href=https%3A%2F%2Ftry.qdrant.tech%2Fllm-rag&tw_iframe_status=0&txn_id=o81g6&type=javascript&version=2.3.31)
+                    ## 📄 `https-try-qdrant-tech-mcp-agent-interoperability-hslang-en.md`
   * What MCP is and why it's suddenly everywhere
   * The fundamentals of MCP: how it enables agent communication via a shared event bus
   * Setting up an MCP server and connecting multiple clients (OpenAI Agents, AugmentCode, custom tools)
