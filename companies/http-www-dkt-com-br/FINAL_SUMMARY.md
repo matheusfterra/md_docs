@@ -1,3 +1,4 @@
+```plaintext
 # Relatório de Prospecção para DKT South America
 
 ## Informações Gerais
@@ -39,7 +40,7 @@ A DKT foi pioneira no lançamento de preservativos femininos no Brasil e na intr
 - **Redes Sociais:** A DKT está ativa em redes sociais como Facebook, Instagram, YouTube e LinkedIn. O conteúdo pode incluir postagens voltadas à conscientização, promoções e interações com seguidores.
 
 ## Competidores
-- **Grupos Locais e Internacionais de Saúde Sexual:** Que atuam na mesma área, como Johnson & Johnson e marca de preservativos locais.
+- **Grupos Locais e Internacionais de Saúde Sexual:** Que atuam na mesma área, como Johnson & Johnson e marcas de preservativos locais.
 - **Startups de Produtos de Saúde Sexual:** Novas empresas que estão investindo no mercado de contraceptivos e saúde sexual, buscando inovação em produtos.
 
 ## Mensagens-chaves para o Copywriting
@@ -56,3 +57,4 @@ A compreensão das dores do público-alvo e a análise de oportunidades permitir
 - Desenvolvimento de um plano de contato inicial com potenciais influenciadores.
 - Criação de um grupo focado em marketing de influência para aprimorar as estratégias e monitorar métricas de engajamento.
 - Análise contínua da resposta do público e adaptação das campanhas conforme necessário.
+```
