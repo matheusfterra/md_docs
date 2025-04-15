@@ -28,13 +28,12 @@
 - **Posicionamento**: 
     - O Banco Fator se destaca como um banco múltiplo com diversas operações no setor financeiro, incluindo liderança em M&A no setor de utilities (ranking da Bloomberg 2021).
     - Ativos sob gestão de R$8,8 bilhões e R$1,1 bilhão na Fator Seguradora.
-
 - **Concorrência**:
-    - O Banco Fator atua em um ambiente altamente competitivo com outras instituições financeiras e bancos de investimento que oferecem produtos semelhantes. 
+    - O Banco Fator opera em um ambiente altamente competitivo com outras instituições financeiras e bancos de investimento que oferecem produtos semelhantes. 
 
 ## 5. Público-Alvo
 - **Segmento de Clientes**:
-    - Investidores institucionais e pessoas físicas, que buscam soluções personalizadas em investimentos e financiamentos.
+    - Investidores institucionais e pessoas físicas que buscam soluções personalizadas em investimentos e financiamentos.
     - Empresas que necessitam de serviços de M&A e gestão de ativos.
 
 ## 6. Dores e Desafios
@@ -44,7 +43,7 @@
 
 ## 7. Ocasiões Recentes
 - **Alerta de Fraude**: A empresa recentemente emitiu um comunicado sobre fraudes relacionadas ao uso indevido de sua marca.
-- **Estratégias de Inovação**: Fator busca constantemente inovações em seus serviços e produtos, principalmente através da Fator Innovation e Ahead Ventures.
+- **Estratégias de Inovação**: o Fator busca constantemente inovações em seus serviços e produtos, principalmente através da Fator Innovation e Ahead Ventures.
 
 ## 8. Valores e Missão
 - **Missão**: Criar valor para os clientes através de soluções personalizadas e eficazes.
@@ -58,9 +57,9 @@
 - Utilização de conteúdos educacionais e informativos para a construção de autoridade no mercado.
 
 ## 10. Oportunidades de Colaboração
-- **Marketing de Influência**: A estratégia de colaboração com influenciadores pode ajudar o Banco Fator a atingir um público mais jovem e diversificado, através de campanhas que destacam seus serviços de forma inovadora e acessível.
+- **Marketing de Influência**: A estratégia de colaboração com influenciadores pode ajudar o Banco Fator a atingir um público mais jovem e diversificado, através de campanhas que destaquem seus serviços de forma inovadora e acessível.
 
 ## 11. Considerações Finais
-A abordagem de marketing para o Banco Fator deve enfatizar sua longa história e expertise no mercado, juntamente com sua adaptabilidade em criar soluções personalizadas que atendem às necessidades de seus clientes. A proposta deve incluir como o Marketing de Influência pode auxiliar na construção de confiança e promoção de segurança em um setor cada vez mais desafiador.
+A abordagem de marketing para o Banco Fator deve enfatizar sua longa história e expertise no mercado, juntamente com sua adaptabilidade em criar soluções personalizadas que atendem às necessidades de seus clientes. A proposta deve incluir como o Marketing de Influência pode auxiliar na construção de confiança e promoção de segurança em um setor cada vez mais desafiante.
 
 Este relatório deve fornecer o embasamento necessário para criar uma comunicação personalizada e eficaz, destacando como nossa solução pode endereçar as necessidades e desafios do Banco Fator.
