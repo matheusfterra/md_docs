@@ -19,9 +19,9 @@ Este relatório foi elaborado para auxiliar o copywriter na criação de um emai
 
 ## Características do Mercado
 ### 📈 Tendências do Marketing de Influência
-- **Crescimento de Micro-influenciadores**: O uso crescente de micro-influenciadores que têm uma conexão mais autêntica com suas audências específicas.
-- **Análises de Dados**: Uso intenso de dados para segmentação e mensuração de resultados, com foco em conciliar a atuação dos influenciadores com os KPIs das empresas.
-- **Integração Multicanal**: Elevação na necessidade de integração entre diferentes plataformas para maximizar o impacto das campanhas.
+1. **Crescimento de Micro-influenciadores**: O uso crescente de micro-influenciadores que têm uma conexão mais autêntica com suas audiências específicas.
+2. **Análises de Dados**: Uso intenso de dados para segmentação e mensuração de resultados, com foco em conciliar a atuação dos influenciadores com os KPIs das empresas.
+3. **Integração Multicanal**: Aumento na necessidade de integração entre diferentes plataformas para maximizar o impacto das campanhas.
 
 ### 📊 Dados Relevantes
 - Estudo afirma que campanhas com influenciadores podem gerar até 11 vezes mais retorno sobre o investimento (ROI) comparado a campanhas tradicionais.
