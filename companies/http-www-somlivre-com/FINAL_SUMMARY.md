@@ -1,61 +1,52 @@
 # Relatório de Prospecção: Som Livre
 
-## 1. Informações Gerais da Empresa
+## Informações da Empresa
+
 - **Nome da Empresa:** Som Livre
-- **Setor:** Entretenimento / Música
-- **Website:** [somlivre.com](http://www.somlivre.com)
-- **Status do Website:** Em construção
-- **Redes Sociais:** Presente em plataformas relevantes, porém, perfil em construção.
-- **Logo da Empresa:** 
-  ![logo-som-livre](https://cdn-p.smehost.net/sites/dd69ece0b18047b2b844eebd9bc3f0a8/wp-content/uploads/2024/12/logo-som-livre-1.png)
+- **Segmento:** Música / Entretenimento
+- **Website:** [Som Livre](http://www.somlivre.com)
+- **Status do Site:** Em construção
 
-## 2. Descrição da Empresa
-A Som Livre é uma gravadora e produtora musical brasileira, conhecida por sua forte presença no mercado de entretenimento e pela conexão que realiza entre artistas e seu público. A empresa é reconhecida por vários sucessos no cenário musical nacional, abrangendo diversos gêneros e estilos.
+## Visão Geral da Empresa
 
-### 2.1. Missão
-Promover a música brasileira e facilitar o acesso de artistas ao mercado, ampliando suas audiências por meio de parcerias estratégicas.
+A Som Livre é uma das maiores gravadoras do Brasil, atuando no segmento de música e entretenimento. A empresa trabalha com uma vasta gama de artistas e possui um catálogo diversificado que abrange diversos gêneros musicais, incluindo MPB, sertanejo, pop e outros estilos populares. A Som Livre não apenas realiza a produção e distribuição de música, mas também está empenhada em promover artistas e suas obras por meio de estratégias contemporâneas de marketing.
 
-### 2.2. Visão
-Ser a principal gravadora de entretenimento no Brasil, reconhecida pela qualidade musical e pelo fortalecimento da carreira de seus artistas.
+## Informações Relevantes
 
-### 2.3. Valores
-- Inovação
-- Qualidade
-- Diversidade
-- Sustentabilidade
+- **Logo e Identidade Visual:** A identidade visual da Som Livre é moderna e remete a um espírito jovem e dinâmico. O logotipo é simples, mas impactante, o que facilita a identificação da marca.
 
-## 3. Análise de Mercado
-### 3.1. Público-Alvo
-- **Artistas emergentes** e consolidados que buscam visibilidade e apoio profissional.
-- **Consumidores de música** que valorizam a diversidade cultural e a música de qualidade.
-- **Empresas e marcas** que desejam se conectar com o público através de parcerias com influenciadores do segmento musical.
+- **Redes Sociais:** A presença nas redes sociais é vital para a Som Livre, já que a empresa conecta artistas e fãs em plataformas como Instagram, Facebook, Twitter e YouTube.
 
-### 3.2. Concorrência
-- Outras gravadoras e produtoras musicais no Brasil, como Warner Music Brasil, Universal Music Brasil e Deck Disc.
-- Plataformas de streaming e suas próprias iniciativas de marketing musical, como Spotify e Apple Music.
+- **Atividades de Marketing de Influência:** A Som Livre tem potencial para expandir sua atuação no marketing de influência, já que muitos de seus artistas estão associados a influenciadores relevantes, que poderiam atuar como embaixadores de suas músicas e projetos.
 
-## 4. Pontos de Dor (Dores)
-### 4.1. Para Artistas
-- Falta de exposição em meio a um mercado saturado.
-- Dificuldade em conectar-se com as audiências certas.
-- Necessidade de estratégias digitais robustas para promoção.
+## Possíveis Dores e Oportunidades
 
-### 4.2. Para Marcas
-- Desafio em encontrar influenciadores que se alinhem com seus valores e que ressoem com o público-alvo.
-- Competição intensa em criar campanhas publicitárias memoráveis que se destacam.
+1. **Visibilidade de Artistas Emergentes:** 
+   - Dificuldade de promover artistas novos em um mercado saturado.
+   - Oportunidade de colaborar com influenciadores para aumentar a visibilidade e gerar buzz nas redes sociais.
 
-## 5. Oportunidades de Marketing de Influência
-- **Parcerias Estratégicas:** Som Livre pode se beneficiar de colaborações com influenciadores que possuem um forte engajamento em redes sociais, para promover lançamentos e eventos ao vivo.
-- **Conteúdo Exclusivo:** Criação de campanhas que integrem lançamentos de músicas e histórias dos artistas, utilizando influenciadores para gerar buzz.
-- **Diversificação de Canais:** Exploração de plataformas novas e emergentes no segmento digital para se conectar com públicos de diferentes faixas etárias e interesses.
+2. **Engajamento com os Fãs:** 
+   - Necessidade de criar uma conexão mais forte entre os artistas e seus fãs.
+   - Influenciadores podem ser utilizados como intermediários para criar experiências personalizadas e interativas para os fãs.
 
-## 6. Contexto da Prospecção
-A Som Livre está buscando reforçar sua presença digital e explorar novas formas de engajamento com seu público. Com o site em construção, é um momento crítico para definir estratégias de marketing de influência que possam lançar um novo capítulo em sua história, conectando ainda mais os artistas com seus fãs.
+3. **Acompanhamento de Tendências:** 
+   - A música e a mídia social evoluem rapidamente, e a Som Livre precisa estar atenta às tendências emergentes.
+   - Uma estratégia de marketing de influência pode permitir que a empresa acompanhe essas tendências e se posicione como uma líder inovadora.
 
-## 7. Conclusão
-Esse relatório fornece uma visão abrangente da Som Livre, mapeando suas oportunidades e desafios dentro do mercado atual. A proposta de uma parceria focada em marketing de influência pode ser crucial para atender às necessidades comerciais e criativas da empresa, somando-se ao fortalecimento de sua marca e ao sucesso de seus artistas.
+4. **Construção de Campanhas Criativas:** 
+   - A necessidade de criar campanhas que se destaquem em meio a uma grande quantidade de conteúdo disponível online.
+   - Colaborações com influenciadores podem trazer criatividade e novas perspectivas para campanhas de lançamento de músicas.
 
----
+## Contexto do Mercado
 
-**Próximos Passos:**
-Preparar uma comunicação direcionada com base nas informações mapeadas, focando em como a nossa empresa pode ajudar a Som Livre a alcançar seus objetivos em marketing de influência.
+- **Crescimento do Streaming:** As plataformas de streaming estão em alta, e com isso, a competição para destacar novos lançamentos também se intensifica. As marcas precisam de estratégias que criem um retorno sólido sobre investimento.
+
+- **Relevância do Marketing Digital:** O marketing de influência se tornou uma das principais formas de promover marcas e artistas, especialmente num mundo onde a atenção é um recurso escasso.
+
+- **Mudança nos Hábitos de Consumo:** O público jovem tende a valorizar experiências únicas e autênticas, que muitas vezes são proporcionadas por influenciadores. A Som Livre pode capitalizar essa tendência.
+
+## Conclusão
+
+A Som Livre tem um grande potencial para alavancar suas estratégias de marketing através do uso eficaz de influenciadores. Com artistas em crescimento e um catálogo diversificado, a colaboração com influenciadores pode ajudar a aumentar a visibilidade, engajamento e a presença da marca no mercado.
+
+Para o próximo passo, sugiro que o copywriter elabore um e-mail estratégico abordando os pontos mencionados, destacando como nossa empresa pode ajudar a Som Livre a superar suas dores e amplificar seu impacto no mercado.
