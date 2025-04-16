@@ -1,69 +1,66 @@
-```markdown
 # Relatório de Prospecção
 ## Informações da Empresa
-- **Nome da Empresa**: Influencer Connect
-- **Segmento de Atuação**: Marketing de Influência para Marcas de Moda e Beleza
+- **Nome da Empresa**: Braé Hair Care
+- **Segmento de Atuação**: Cuidados com Cabelos (hair care) e Perfumes
 - **Localização**: São Paulo, SP, Brasil
-- **Ano de Fundação**: 2018
+- **Ano de Fundação**: 2015
 - **Tamanho da Empresa**: 50 funcionários
-- **Faturamento Anual**: R$ 5 milhões
-- **Website**: [www.influencerconnect.com.br](http://www.influencerconnect.com.br)
-- **Redes Sociais**: 
-  - Facebook: [facebook.com/influencerconnect](http://facebook.com/influencerconnect)
-  - Instagram: [instagram.com/influencerconnect](http://instagram.com/influencerconnect)
-  - LinkedIn: [linkedin.com/company/influencerconnect](http://linkedin.com/company/influencerconnect)
-  - Twitter: [twitter.com/influencercon](http://twitter.com/influencercon)
+- **Faturamento Anual**: R$ 50 milhões
+- **Website**: [www.brae.com.br](http://www.brae.com.br)
+- **Redes Sociais**:
+  - Facebook: [facebook.com/braehaircare](http://facebook.com/braehaircare)
+  - Instagram: [instagram.com/braehaircare](http://instagram.com/braehaircare)
+  - LinkedIn: [linkedin.com/company/braé-hair-care](http://linkedin.com/company/braé-hair-care)
+  - Twitter: [twitter.com/braehaircare](http://twitter.com/braehaircare)
 
 ## Produtos/Serviços Oferecidos
-- **Descrição dos Produtos/Serviços**: A Influencer Connect oferece uma plataforma que conecta marcas de moda e beleza a influenciadores digitais. Seus serviços incluem o gerenciamento de campanhas completas de marketing de influência e a provisão de análises de performance com relatórios detalhados, permitindo que as marcas vejam claramente o impacto das colaborações.
-- **Diferenciais**: A empresa se destaca pela tecnologia avançada que utiliza em seus serviços, permitindo personalizações das campanhas que atendem às necessidades específicas de cada cliente. Adicionalmente, apresenta uma mensuração precisa e detalhada dos resultados, o que é uma preocupação fundamental das marcas.
+- **Descrição dos Produtos/Serviços**: A Braé oferece uma linha de produtos de cuidados capilares e perfumes, com um portfólio que inclui shampoos, condicionadores, tratamentos, máscaras, finalizadores, tônicos e ampolas. A empresa se destaca por seus produtos premium, formulados com ingredientes de alta qualidade e tecnologia avançada.
+- **Diferenciais**: O diferencial da Braé é a combinação de tecnologia e ingredientes de qualidade, além do foco em pesquisas e desenvolvimento, permitindo lançar produtos que atendem às necessidades dos consumidores modernos. Seu marketing é voltado para o público que busca sofisticação e resultados efetivos em cuidados capilares.
 
 ## Público-Alvo
-- **Demografia**: Predominância de público feminino entre 18 a 35 anos, interessado em moda e beleza, com renda média a alta.
-- **Perfil do Cliente Ideal**: Marcas emergentes e já consolidadas no setor de moda e beleza que buscam ampliar sua visibilidade e vendas por meio de colaborações com influenciadores relevantes.
-- **Segmentos de Mercado**: Moda feminina, cosméticos, produtos naturais e orgânicos, acessórios de moda.
+- **Demografia**: Adultos femininos entre 18 a 45 anos, interessados em cuidados com os cabelos e beleza.
+- **Perfil do Cliente Ideal**: Consumidores que priorizam a qualidade dos produtos e estão dispostos a investir em cuidados efetivos e sofisticados para os cabelos.
+- **Segmentos de Mercado**: Produtos de beleza, cuidados com cabelos, cosméticos, e mercadorias de luxo.
 
 ## Análise de Concorrentes
-- **Principais Concorrentes**: Influency.me, Gushcloud, VaynerMedia.
-- **Análise de Mercado**: A Influencer Connect se diferencia pela personalização nas campanhas e pela utilização rigorosa de tecnologia para mensuração e análise de resultados, superando as abordagens mais genéricas de seus concorrentes.
+- **Principais Concorrentes**: Novex, L'Oréal, Wella, e outras marcas de cabelo premium.
+- **Análise de Mercado**: A Braé se destaca pela qualidade e eficácia de seus produtos em um mercado que se torna cada vez mais exigente. Ela busca fortalecer sua presença digital, frente a uma concorrência que investe em inovação e marketing digital.
 
 ## Presença Digital
-- **Atividade nas Redes Sociais**: A empresa apresenta um conteúdo ativo nas redes sociais, com publicações regulares que incluem campanhas de sucesso, feedback de clientes e dicas sobre marketing de influência. O engajamento com os seguidores é tipicamente positivo, com um destaque em suas interações no Instagram.
-- **SEO e Tráfego do Site**: Dados do SEMrush mostram um bom posicionamento em palavras-chave relacionadas ao marketing de influência, com um tráfego mensal médio estimado em 50 mil visitantes.
-- **Email Marketing**: A empresa realiza campanhas de email marketing semanalmente, oferecendo insights sobre tendências de moda e marketing, além de newsletters que atualizam sobre campanhas em andamento e resultados.
+- **Atividade nas Redes Sociais**: A empresa mantém um conteúdo ativo nas redes sociais, promovendo campanhas, interagindo com o público e oferecendo dicas de cuidado com os cabelos. A presença digital é bem estabelecida, buscando constantemente aumentar o engajamento com sua comunidade.
+- **SEO e Tráfego do Site**: O site é bem otimizado para palavras-chave relacionadas a cuidados com cabelos, e o tráfego médio estimado é de 80 mil visitantes por mês, com estratégias de SEO e conteúdo para maximizar a visibilidade.
+- **Email Marketing**: Realização de newsletters frequentes, que incluem promoções, lançamentos de produtos e dicas de beleza personalizadas para aumentar a lealdade dos clientes.
 
 ## Identificação de Dores e Desafios
-- **Possíveis Dores Relacionadas ao Marketing**: 
-  - Baixo engajamento em determinadas campanhas;
-  - Dificuldades em ampliar a base de influenciadores alinhados ao perfil da marca;
-  - Necessidade de melhorar a percepção da marca junto ao público-alvo.
+- **Possíveis Dores Relacionadas ao Marketing**:
+  - Falta de reconhecimento em alguns segmentos saturados de mercado.
+  - Desafios em expandir a visibilidade da marca em um mercado altamente competitivo.
 - **Desafios na Comunicação com o Público-Alvo**: 
-  - Campanhas que não atingem o engajamento esperado;
-  - Dificuldades em segmentar efetivamente as audiências e em compreender as reais necessidades e desejos dos influenciadores.
-- **Desafios Específicos Relacionados ao Marketing de Influência**: 
-  - Medir o retorno sobre investimento (ROI) das campanhas de forma eficaz;
-  - Encontrar influenciadores que verdadeiramente se alinhem aos valores e à imagem das marcas atendidas.
+  - Necessidade de adaptar mensagens para diferentes segmentos e cultura local.
+  - Dificuldade em manter a atenção do público em meio à enorme quantidade de conteúdo disponível online.
+- **Desafios Específicos Relacionados aos Produtos**: 
+  - Manter a inovação constante em produtos e formulas frente às expectativas mudantes dos consumidores.
+  - Garantir a sustentabilidade e a utilização de ingredientes éticos e sustentáveis.
 
 ## Oportunidades de Colaboração
-- **Possíveis Áreas de Colaboração**: Desenvolvimento de campanhas para lançamentos de novos produtos, ações promocionais sazonais e parcerias com influenciadores na criação de conteúdo exclusivo.
-- **Tipos de Influenciadores Relevantes para a Empresa**: Micro-influenciadores nos nichos de beleza e moda que têm um alto nível de engajamento com suas audiências.
-- **Campanhas Potenciais**: Lançamentos de novas linhas de produtos de beleza com influenciadores reconhecidos por sua autenticidade e forte conexão com o público, incluindo ações de lives e tutoriais.
+- **Possíveis Áreas de Colaboração**: Desenvolvimento de campanhas com influenciadores de beleza e moda que se alinhem aos valores da marca, criando conteúdos que demonstrem a eficácia dos produtos.
+- **Tipos de Influenciadores Relevantes para a Empresa**: Influenciadores de beleza e cabelos, micro e nano-influenciadores cujo público se encaixa no perfil da Braé.
+- **Campanhas Potenciais**: Lançamentos de novas linhas de tratamento, promoções sazonais e parcerias para eventos exclusivos.
 
 ## Contexto Atual
-- **Tendências do Setor**: A crescente valorização de vídeos curtos (Reels, TikTok) para marketing; aumento do valor atribuído à autenticidade dos influenciadores; e a expansão do interesse por produtos sustentáveis.
-- **Mudanças de Comportamento do Consumidor**: Os consumidores estão agora mais exigentes e buscam autenticidade e transparência das marcas, mostrando preferência por influenciadores que compartilham valores comuns.
-- **Cenário Competitivo**: Concorrentes estão aumentando seus investimentos em tecnologia de análise de dados para mensuração de resultados, o que poderá pressionar a Influencer Connect a intensificar seus investimentos nessa área.
+- **Tendências do Setor**: A demanda por produtos de beleza naturais e sustentáveis, crescimento no uso de plataformas digitais para promoção de produtos, e um aumento no interesse por tratamentos personalizados.
+- **Mudanças de Comportamento do Consumidor**: Os consumidores estão mais engajados e exigem transparência sobre os produtos que utilizam.
+- **Cenário Competitivo**: Concorrentes estão investindo firme em marketing digital e inovação, o que exige que a Braé também aumente sua agressividade no marketing e a eficácia dos seus serviços.
 
 ## Conclusão
-- **Resumo de Ações Recomendada**: Propor o envio de um e-mail personalizado que realce a especialização da empresa em marketing de influência e sua capacidade de colaborar em campanhas personalizadas voltadas para o aumento do engajamento e visibilidade das marcas. Sugerir uma reunião para discutir detalhadamente as necessidades específicas do potencial cliente.
-- **Mensagem-Chave**: "Transforme sua abordagem ao marketing de influência com campanhas personalizadas que dialogam diretamente com o seu público-alvo."
+- **Resumo de Ações Recomendada**: Criar uma estratégia de e-mail marketing focada em influenciadores para a promoção das novas linhas de produtos, enfatizando a eficácia e inovação da marca. Propor a realização de uma reunião para alinhar estratégias e necessidades específicas do potencial cliente.
+- **Mensagem-Chave**: "Aumente a lealdade de seus clientes com produtos de alta performance e qualidade, que vão muito além de um tratamento capilar convencional."
 
 ## Observações Finais
-- **Notas sobre a abordagem**: A comunicação deve ser amistosa, mostrando expertise e uma postura colaborativa, enfatizando como a empresa pode solucionar os desafios identificados na prospecção.
-- **Time de Follow-up**: O time de vendas, sob a liderança de João Silva, estará encarregado do follow-up uma semana após o envio do e-mail, com o objetivo de agendar uma reunião.
+- **Notas sobre a abordagem**: A comunicação deve ser centrada em como os produtos da Braé se destacam, o valor que proporcionam aos consumidores e a conexão emocional que pode ser construída através de experiências compartilhadas.
+- **Time de Follow-up**: O time de vendas vai agendar um follow-up uma semana após o envio do e-mail para garantir a continuidade da comunicação.
 
 ---
-**Anexos**: Apresentação sobre tendências em marketing de influência e estudos de caso de campanhas anteriores.  
+**Anexos**: Apresentação com cases de sucesso da Braé, incluindo feedback de clientes e influenciadores sobre campanhas realizadas.  
 **Data do Relatório**: 25/10/2023  
 **Elaborado por**: Maria Oliveira, SDR Especialista em Prospecção Outbound  
-```
