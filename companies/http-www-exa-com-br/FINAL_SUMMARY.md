@@ -4,11 +4,11 @@
 ---
 
 ### Informações Básicas da Empresa
-**Nome da Empresa:** EXA Serviços de Tecnologia S.A.  
-**Site Oficial:** [www.exa.com.br](http://www.exa.com.br)  
-**Segmento:** Segurança Digital e Marketing de Influência  
-**Localização:** Avenida Leonardo de Carvalho Castelo Branco nº 5895 - Salas 03 e 04, São Judas Tadeu, Parnaíba, Piauí, Brasil  
-**CNPJ:** 46.270.650/0001-58  
+- **Nome da Empresa:** EXA Serviços de Tecnologia S.A.  
+- **Site Oficial:** [www.exa.com.br](http://www.exa.com.br)  
+- **Segmento:** Segurança Digital e Marketing de Influência  
+- **Localização:** Avenida Leonardo de Carvalho Castelo Branco nº 5895 - Salas 03 e 04, São Judas Tadeu, Parnaíba, Piauí, Brasil  
+- **CNPJ:** 46.270.650/0001-58  
 
 ### Contato
 - **Email:** [marketing@exa.com.br](mailto:marketing@exa.com.br)
@@ -16,10 +16,9 @@
 - **Horário de Atendimento:** Segunda a sexta, das 8h às 18h (exceto feriados)
 
 ### Descrição da Empresa
-A EXA é reconhecida como o maior ecossistema de proteção digital do Brasil, oferecendo soluções integradas que garantem a segurança de dados e dispositivos. Resultando de uma parceria estratégica entre a FS Security e a operadora TIM, a empresa atua em ambos os mercados: B2C e B2B.
-
+A EXA é reconhecida como o maior ecossistema de proteção digital do Brasil, oferecendo soluções integradas que garantem a segurança de dados e dispositivos. Resultando de uma parceria estratégica entre a FS Security e a operadora TIM, a empresa atua nos mercados B2C e B2B.
 #### Serviços Oferecidos:
-- **EXA Segurança:** App voltado para a navegação segura e proteção contra vírus.
+- **EXA Segurança:** App voltado para navegação segura e proteção contra vírus.
 - **EXA Cloud:** Soluções para armazenamento seguro de documentos, fotos e vídeos.
 - **EXA Seguros:** Coberturas para dispositivos e seguros digitais, com todos os processos 100% digitais.
 - **Gestão Digital:** Funcionalidades de localização em tempo real e gestão de dispositivos.
@@ -35,14 +34,14 @@ A EXA é reconhecida como o maior ecossistema de proteção digital do Brasil, o
 
 ### Características do Produto
 **EXA Segurança App:**
-- **Proteção em tempo real:** Contra ameaças digitais, como vírus e malware, com um conjunto de funcionalidades avançadas.
+- **Proteção em tempo real:** Contra ameaças digitais, como vírus e malware, com funcionalidades avançadas.
 - **Planos acessíveis:** Opções variando de serviços gratuitos a premium (R$ 9,99 a R$ 12,99/mês).
 
 **EXA Seguros:**
 - **Proteção contra roubos e danos:** Cobertura nacional sem carência e com contratação 100% digital.
 
 ### Problemas/Desafios enfrentados pela Empresa
-- **Golpes Online:** Cerca de 24% dos brasileiros relataram ter sido vítimas de fraudes, o que aumenta a necessidade por soluções de segurança digital.
+- **Golpes Online:** Cerca de 24% dos brasileiros relataram ter sido vítimas de fraudes, aumentando a necessidade por soluções de segurança digital.
 - **Necessidade de Expansão:** Busca pela ampliação do seu portfólio de soluções e pela conquista de um público maior em um mercado competitivo.
 - **Educação do Consumidor:** Necessidade de aumentar a conscientização sobre a importância da cibersegurança entre usuários.
 
