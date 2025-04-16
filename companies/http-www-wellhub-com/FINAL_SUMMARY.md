@@ -1,54 +1,62 @@
-# Relatório de Prospecção para Wellhub
+# Relatório de Prospecção: Wellhub
 
-## Visão Geral da Empresa
+## 1. Informações Gerais da Empresa
 **Nome da Empresa:** Wellhub  
 **Website:** [wellhub.com](http://www.wellhub.com)  
-**Segmento de Atuação:** Saúde e Bem-Estar Corporativo  
-**Modelo de Negócio:** Plataforma que conecta empresas e seus colaboradores a opções de saúde e bem-estar, incluindo academias, estúdios de fitness, aplicativos de saúde e bem-estar, e serviços de treinadores pessoais virtuais.
+**Segmento:** Marketing de Influência / Wellness & Fitness  
 
-## Informações Gerais
-### Proposta de Valor
-O Wellhub oferece planos de bem-estar acessíveis e abrangentes que conectam os colaboradores a uma rede diversificada de serviços e recursos de saúde. A plataforma proporciona opções flexíveis para fitness, nutrição, meditação e sono, atendendo às necessidades dos colaboradores em qualquer lugar, seja no trabalho, em casa ou em trânsito.
+**Descrição:**  
+Wellhub é uma plataforma que conecta empresas e colaboradores a uma rede abrangente de opções de bem-estar, incluindo fitness, nutrição, mindfulness e sono. Através de uma assinatura acessível, oferece soluções que visam a melhoria da saúde e bem-estar dos colaboradores, resultando em empresas mais saudáveis e engajadas.
 
-### Dados Relevantes
-- **61%** dos colaboradores não tinham adesão a uma academia antes da Wellhub.
-- **35%** de redução nos custos anuais de saúde dos colaboradores.
-- **43%** de melhoria na retenção de colaboradores.
+---
 
-### Principais Ofertas
-- Planos para empresas e colaboradores com opções personalizadas que se adaptam tamanho da equipe.
-- Acesso a **50,000+** academias e estúdios presenciais.
-- **2,500+** treinadores pessoais virtuais.
-- **70+** aplicativos de saúde premium.
+## 2. Pilares da Proposta
+### a. Para Empresas:
+- **Planos de Bem-Estar Adaptáveis:** Wellhub oferece opções de planos que variam de acordo com o tamanho da empresa e a necessidade dos colaboradores.
+- **Redução de Custos:** A empresa promete uma redução significativa nos custos anuais com saúde, com um estudo indicando uma redução de 35% nos custos de saúde dos colaboradores.
+- **Retenção e Engajamento:** A plataforma foi associada a um aumento de 43% na retenção de funcionários, um aspecto fundamental em um mercado de trabalho competitivo.
 
-## Análise de Mercado
-### Tamanho do Mercado
-- A demanda por soluções de bem-estar corporativo está crescendo à medida que as empresas se tornam mais conscientes da importância de manter a saúde e o bem-estar dos colaboradores.
-- As empresas estão cada vez mais procurando soluções que ajudem na redução de custos com saúde e na retenção de talentos.
-
-### Concorrência
-Competidores incluem outras plataformas de bem-estar corporativo, como Gympass e ClassPass, que oferecem serviços similares, mas a Wellhub se destaca pela sua vasta rede e pelo foco em personalização dos serviços de acordo com as necessidades dos colaboradores.
-
-## Potenciais Dores do Cliente
-- **Alto custo com saúde:** Muitas empresas enfrentam um aumento nas despesas com saúde, especialmente em um ambiente pós-pandemia.
-- **Retenção de Talentos:** As empresas estão lutando para reter talentos em um mercado competitivo onde os benefícios relacionados ao bem-estar são cada vez mais valorizados.
-- **Baixa Adesão a Programas de Saúde:** Programas de saúde tradicionais muitas vezes não têm alta adesão, resultando em desperdício de recursos.
+### b. Para Colaboradores:
+- **Acesso a Múltiplas Opções:** Colaboradores podem acessar mais de 50.000 academias e estúdios, 2.500 treinadores pessoais virtuais e 70+ aplicativos de bem-estar premium.
+- **Planos Personalizados:** Funcionários têm a liberdade de escolher planos que melhor se adequem às suas rotinas e preferências.
   
-## Proposta de Comunicação
-### Sugerida para o Copywriter
-1. **Abertura:** Após apresentar a Wellhub, destaque a realidade atual do mercado e a crescente necessidade de soluções de bem-estar corporativo.
-2. **Proposta de Valor:** Explique como a Wellhub pode ajudar a reduzir custos e aumentar a satisfação dos colaboradores.
-3. **Depoimentos e Estudos de Caso:** Inclua anedotas e dados concretos que demonstrem a eficácia da Wellhub.
-4. **Chamada para Ação:** Incentive um contato direto para discutir como Wellhub pode ser implementada na empresa do lead prospectado.
+---
 
-## Estrutura do Email
-### Assunto do Email
-"Transforme o bem-estar da sua equipe com Wellhub"
+## 3. Dados Impactantes
+- **61%** dos funcionários não tinham nenhuma associação a academias antes de utilizarem Wellhub.
+- Wellhub declara que as empresas que adotam seus serviços observam um ROI significativo, com aumento no engajamento e um ambiente de trabalho mais saudável.
 
-### Corpo do Email
-1. **Introdução Personalizada:** Mencionar o nome do contato e alguma informação específica que mostre que você pesquisou sobre a empresa.
-2. **Apresentação da Wellhub:** Breve descrição e como ela pode ajudar a resolver dores específicas da empresa.
-3. **Dados e Benefícios:** Reforçar com dados e estatísticas que suportam a proposta.
-4. **Oferta de Demonstração/Consultoria:** Convidar para uma reunião ou demonstração do produto.
+---
 
-Este relatório fornecerá ao copywriter todas as informações necessárias para criar uma comunicação relevante e personalizada que impulsione a chance de conversão da prospecção.
+## 4. Perfis de Clientes
+**Clientes Notáveis:**
+- Unilever
+- Aflac
+- Activision Blizzard
+- Brookfield
+
+Essas empresas demonstram um comprometimento com a saúde e o bem-estar dos seus colaboradores, oferecendo Wellhub como uma solução acessível e eficaz.
+
+---
+
+## 5. Contexto de Prospecção
+### a. Dores Potenciais da Empresa
+- **Baixo Engajamento dos Funcionários:** Muitas empresas lutam para manter os colaboradores motivados e engajados. A plataforma Wellhub pode oferecer uma solução que promove a saúde e o bem-estar, aspectos significativos que afetam a produtividade.
+- **Custos de Saúde Elevados:** Empresas que enfrentam altos custos com saúde podem se beneficiar da proposta de redução de despesas que Wellhub oferece.
+- **Desafios na Retenção de Talentos:** Com a competição acirrada por talentos, Wellhub pode ser um diferencial que ajuda a manter os melhores profissionais no quadro.
+
+---
+
+## 6. Competição e Diferencial
+- **Diferencial:** Wellhub se destaca pela enorme rede de opções de bem-estar, variedade de planos e a facilidade de uso da plataforma. O acesso a múltiplas instalações e opções é um atrativo que supera a maioria das opções de bem-estar no mercado.
+  
+---
+
+## 7. Conclusão
+Wellhub apresenta uma proposta robusta e inovadora voltada para a promoção da saúde e bem-estar dos colaboradores, podendo ser decisiva para empresas que buscam melhorar a retenção e engajamento e reduzir custos com saúde. Este relatório forneceu uma visão abrangente das oportunidades e dores que Wellhub pode resolver, permitindo que a equipe de copywriting desenvolva uma abordagem personalizada e impactante na prospecção.
+
+---
+
+## 8. Próximos Passos
+- Elaborar um e-mail de prospecção utilizando as informações acima para despertar o interesse da empresa prospectada em um potencial relacionamento com Wellhub.
+- Agendar uma reunião com o cliente potencial para discutir como Wellhub pode integrar-se à estratégia de bem-estar da empresa.
