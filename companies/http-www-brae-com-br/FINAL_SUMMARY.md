@@ -39,7 +39,7 @@
   - Necessidade de melhorar a percepção da marca junto ao público-alvo.
 - **Desafios na Comunicação com o Público-Alvo**: 
   - Campanhas que não atingem o engajamento esperado;
-  - Dificuldades em segmentar эффективно as audiências e em compreender as reais necessidades e desejadas dos influenciadores.
+  - Dificuldades em segmentar efetivamente as audiências e em compreender as reais necessidades e desejos dos influenciadores.
 - **Desafios Específicos Relacionados ao Marketing de Influência**: 
   - Medir o retorno sobre investimento (ROI) das campanhas de forma eficaz;
   - Encontrar influenciadores que verdadeiramente se alinhem aos valores e à imagem das marcas atendidas.
@@ -63,7 +63,7 @@
 - **Time de Follow-up**: O time de vendas, sob a liderança de João Silva, estará encarregado do follow-up uma semana após o envio do e-mail, com o objetivo de agendar uma reunião.
 
 ---
-**Anexos**: Apresentação sobre tendências em marketing de influência e estudos de caso de campanhas anteriores.
+**Anexos**: Apresentação sobre tendências em marketing de influência e estudos de caso de campanhas anteriores.  
 **Data do Relatório**: 25/10/2023  
 **Elaborado por**: Maria Oliveira, SDR Especialista em Prospecção Outbound  
 ```
