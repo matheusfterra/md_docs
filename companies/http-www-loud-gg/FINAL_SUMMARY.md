@@ -8,7 +8,6 @@
 
 ## Produtos e Serviços
 A Loud.gg é uma marca reconhecida por sua linha de roupas e acessórios que incorporam a cultura streetwear, especificamente para jovens engajados com games e eSports. Os principais produtos incluem:
-
 - **Camisetas:** Estilos atuais que refletem a cultura pop e gamer, variando de cortes básicos a roupagens oversized.
 - **Moletons:** Confortáveis e com designs atraentes, ideais para o uso diário, especialmente em ambientes gamers.
 - **Calças e Bermudas:** Compõem uma linha que une conforto e estilo, perfeita para o dia a dia.
@@ -34,7 +33,6 @@ A Loud.gg é uma marca reconhecida por sua linha de roupas e acessórios que inc
 
 ## Potencial de Colaboração com Influenciadores
 As colaborações com influenciadores são essenciais para a Loud.gg, trazendo vantagens como:
-
 1. **Aumentar a Visibilidade da Marca:** Influenciadores podem promover novos lançamentos e coleções, ajudando a marcar presença nas redes sociais.
 2. **Gerar Conteúdo Autêntico:** Parcerias permitem que os influenciadores criem conteúdo que humaniza a marca.
 3. **Ampliar o Alcance em Nichos Específicos:** Trabalhar com influenciadores que dialoguem diretamente com a base de fãs pode garantir uma conexão mais forte com o público.
