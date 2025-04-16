@@ -1,14 +1,14 @@
 # Relatório de Prospecção - Empresa: EXA Serviços de Tecnologia S.A.
-## Semana de Prospecção: [DATA]
 
+## Semana de Prospecção: [DATA]
 ---
 
 ### Informações Básicas da Empresa
-- **Nome da Empresa:** EXA Serviços de Tecnologia S.A.  
-- **Site Oficial:** [www.exa.com.br](http://www.exa.com.br)  
-- **Segmento:** Segurança Digital e Marketing de Influência  
-- **Localização:** Avenida Leonardo de Carvalho Castelo Branco nº 5895 - Salas 03 e 04, São Judas Tadeu, Parnaíba, Piauí, Brasil  
-- **CNPJ:** 46.270.650/0001-58  
+- **Nome da Empresa:** EXA Serviços de Tecnologia S.A.
+- **Site Oficial:** [www.exa.com.br](http://www.exa.com.br)
+- **Segmento:** Segurança Digital e Marketing de Influência
+- **Localização:** Avenida Leonardo de Carvalho Castelo Branco nº 5895 - Salas 03 e 04, São Judas Tadeu, Parnaíba, Piauí, Brasil
+- **CNPJ:** 46.270.650/0001-58
 
 ### Contato
 - **Email:** [marketing@exa.com.br](mailto:marketing@exa.com.br)
@@ -17,8 +17,9 @@
 
 ### Descrição da Empresa
 A EXA é reconhecida como o maior ecossistema de proteção digital do Brasil, oferecendo soluções integradas que garantem a segurança de dados e dispositivos. Resultando de uma parceria estratégica entre a FS Security e a operadora TIM, a empresa atua nos mercados B2C e B2B.
+
 #### Serviços Oferecidos:
-- **EXA Segurança:** App voltado para navegação segura e proteção contra vírus.
+- **EXA Segurança:** Aplicativo voltado para navegação segura e proteção contra vírus.
 - **EXA Cloud:** Soluções para armazenamento seguro de documentos, fotos e vídeos.
 - **EXA Seguros:** Coberturas para dispositivos e seguros digitais, com todos os processos 100% digitais.
 - **Gestão Digital:** Funcionalidades de localização em tempo real e gestão de dispositivos.
