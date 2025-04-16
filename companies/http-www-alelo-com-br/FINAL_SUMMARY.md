@@ -1,59 +1,55 @@
-# Relatório de Prospecção - Alelo
+# Relatório de Prospecção: Alelo
 
-## Informações Gerais
-**Nome da Empresa:** Alelo  
-**Website:** [www.alelo.com.br](http://www.alelo.com.br)  
-**Segmento:** Benefícios e soluções corporativas  
-**Tamanho da Empresa:** 150 mil empresas-clientes conectadas e 10 milhões de pessoas.  
-**Sede:** Brasil  
-**Ano de Fundação:** 2013  
+## 1. Informações Gerais
 
-### Descrição da Empresa
-A Alelo é uma empresa que atua na oferta de benefícios e soluções para empresas, liderando o setor de benefícios no Programa de Alimentação do Trabalhador (PAT). A empresa oferece uma gama de soluções como vale-refeição, vale-alimentação, vale-combustível, vale-transporte, e serviços de gestão de despesas corporativas.
+- **Nome da Empresa**: Alelo
+- **Website**: [www.alelo.com.br](http://www.alelo.com.br)
+- **Segmento**: Benefícios e soluções financeiras para empresas, focando em alimentação, transporte, cultura, e multi-benefícios.
+- **Ano de Fundação**: 2013
+- **Localização**: Brasil
+- **Objetivos**: Conectar empresas a soluções de benefícios que aumentam a motivação e retenção de colaboradores, oferecendo agilidade na gestão de despesas corporativas.
+- **Fatos Relevantes**: A empresa possui uma vasta rede de estabelecimentos parceiros e é uma das líderes no mercado de benefícios no país, principalmente no Programa de Alimentação do Trabalhador (PAT).
 
-## Produtos e Serviços
-1. ** cartões válidos para benefícios:**
-   - Alelo Refeição
-   - Alelo Alimentação
-   - Alelo Pod
-   - Alelo Multibenefícios
-   - Alelo Premiação
-   - Alelo Natal
-   - Alelo Pagamentos
-   - Alelo Gestão de Transporte
+## 2. Produtos e Serviços
 
-2. **Aplicativo Meu Alelo:**
-   - Controle de saldo e extrato
-   - Consulta de onde aceitar cartões
-   - Descontos em farmácias e outros estabelecimentos
-   - Funcionalidade para bloqueio e desbloqueio de cartões
+### 2.1 Benefícios oferecidos
+- **Alelo Tudo**: Cartão modular que oferece diversos benefícios de forma flexível e adaptável às necessidades de cada empresa, abrangendo alimentação, transporte, e outros auxílios.
+- **Vale-Refeição e Vale-Alimentação**: Cartões específicos que garantem promoções em restaurantes e supermercados, além de isenção de encargos sociais.
+- **Vale-Transporte**: Gerenciamento online do vale-transporte, reduzindo burocracia e otimizando processos.
+- **Alelo Multibenefícios**: Cartão que oferece limite adicional em supermercados e outros estabelecimentos, com descontos diretamente na folha de pagamento.
+- **Alelo Premiação**: Modalidades de premiação para colaboradores, em formatos como cargos únicos ou restrictivos a determinadas ações, como lazer.
+- **Alelo Despesas**: Cartões pré-pagos para gerenciar despesas administrativas, simplificando processos de reembolso e controle financeiro.
+- **Veloe GoFrota**: Ferramenta para gerenciamento de despesas automotivas, abarcando combustível, manutenção e outros custos.
 
-## Dores do Cliente
-- Necessidade de oferecer benefícios que aumentem a satisfação e retenção de talentos.
-- Dificuldades na gestão de benefícios e despesas corporativas.
-- Pressão para reduzir custo sem comprometer o bem-estar dos colaboradores.
-- Aclimatamento ao uso de tecnologia em processos de benefícios.
+### 2.2 Aplicativo Meu Alelo
+- **Funcionalidades**: Inclusão de saldo e extrato, bloqueio e desbloqueio de cartão, consulta da rede de aceitação, e solicitações de segunda via.
+- **Descontos e Vantagens**: Parcerias com farmácias, supermercados e outros setores que oferecem descontos exclusivos.
 
-## Vantagens Competitivas
-- Grande rede de aceitação em milhares de estabelecimentos em todo o Brasil.
-- Aplicativo fácil de usar com vários serviços disponíveis na palma da mão.
-- Ofertas e promoções significativas através do Meu Alelo, que podem aumentar o engajamento.
-- Flexibilidade na escolha dos benefícios, permitindo personalização conforme as necessidades da empresa.
-- Credibilidade e experiência no mercado de benefícios, aumentando a confiança dos clientes.
+## 3. Diferenciais Competitivos
 
-## Público-Alvo
-- Pequenas, médias e grandes empresas que buscam melhorar o engajamento e a satisfação dos colaboradores através de benefícios.
-- Estabelecimentos que podem se credenciar para aceitar os cartões Alelo e ampliar seu público-alvo.
+- **Rede de Aceitação**: Aceito em mais de 700 mil estabelecimentos em todo o Brasil, destacando um grande alcance e flexibilidade para os colaboradores das empresas.
+- **Facilidade de Gestão**: Portal exclusivo que simplifica as operações de solicitação e controle dos benefícios.
+- **Contratação Digital**: Processo 100% digital para a contratação de produtos, além de simplicidade para a antecipação do saque-aniversário do FGTS.
 
-## Mensagem a ser enviada
-**Objetivo:** Apresentar a Alelo como uma solução eficaz e personalizada para aumentar a satisfação dos colaboradores através de benefícios. 
+## 4. Dores e Desafios no Setor
 
-**Estratégia de conteúdo:**
-- Apresentar os produtos disponíveis e como podem resolver as dores específicas do cliente.
-- Focar nos benefícios de ter uma solução integrada para gestão de benefícios.
-- Destacar a flexibilidade e a personalização oferecidas pela Alelo.
-- Mostrar dados de satisfação de clientes existentes e como a Alelo impactou positivamente a cultura organizacional.
+- **Retenção de Talentos**: Empresas enfrentam desafios para manter colaboradores satisfeitos e motivados, um aspecto crucial em um cenário de alta concorrência por talentos.
+- **Gestão de Despesas**: A burocracia e ineficiências na gestão de despesas e benefícios corporativos requerem soluções que agilizem processos e garantam transparência.
+- **Mudanças no Comportamento do Consumidor**: As necessidades dos colaboradores mudaram, especialmente devido à pandemia, com um aumento na demanda por soluções digitais e flexíveis.
+
+## 5. Contexto para Abordagem
+
+Com a inclusão de soluções financeiras inovadoras e flexíveis como os cartões Alelo, sua empresa pode não apenas acompanhar as tendências do mercado, mas também criar um ambiente de trabalho mais saudável e motivador para seus colaboradores. Ao abordar suas dores, como a dificuldade de manter talentos e simplificar a gestão de despesas, podemos apresentar a Alelo como um parceiro estratégico que traz soluções efetivas a longo prazo.
+
+## 6. Propostas para Prospecção
+
+### 6.1 Estratégia de Comunicação
+- **Assunto do e-mail**: Descubra como transformar a gestão de benefícios na sua empresa
+- **Conteúdo**: Desenvolver um e-mail que destaque os produtos, as facilidades de gestão e como eles se traduzem em maior sucesso com a equipe, com foco nas consequências positivas que a contratação desses serviços pode trazer.
+
+### 6.2 Ação de Follow-Up
+Após o envio do e-mail, um follow-up deve ser realizado em até uma semana para discutir qualquer dúvida ou interesse que o potencial cliente possa ter sobre as soluções oferecidas pela Alelo.
 
 ---
 
-Este relatório serve como base para que o copywriter desenvolva um e-mail personalizado, abordando diretamente as necessidades da empresa prospectada e destacando soluções que a Alelo pode oferecer.
+Este relatório oferece uma base sólida para a criação de uma comunicação direcionada e impactante com os prospects. Ao alinharmos as soluções da Alelo com as dores enfrentadas pelas empresas, potencializamos nossas chances de sucesso em futuras conversas e fechamentos.
