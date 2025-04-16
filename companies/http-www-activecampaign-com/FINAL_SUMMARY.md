@@ -1,48 +1,42 @@
-## Relatório de Prospecção
+# Relatório de Prospecção - ActiveCampaign
 
-### Informações Gerais da Empresa: ActiveCampaign
-- **Website**: [ActiveCampaign](https://www.activecampaign.com)
-- **Segmento**: Marketing de Influência e Automação de Marketing
-- **Descrição**: ActiveCampaign é uma plataforma de automação de marketing que ajuda empresas a crescer através de campanhas por e-mail personalizadas e automações alimentadas por inteligência artificial. A plataforma conecta empresas, influenciadores e clientes através de experiências de marketing aprimoradas.
+## Informações Gerais da Empresa
+- **Nome da Empresa:** ActiveCampaign
+- **Website:** [ActiveCampaign](https://www.activecampaign.com)
+- **Setor:** Tecnologia, Software de Automação de Marketing
+- **Localização:** Sede em Chicago, Illinois, EUA
+- **Público-Alvo:** Pequenas a médias empresas, grandes corporações, agências de marketing, criadores de conteúdo e influenciadores.
+- **Serviços Oferecidos:** Automação de marketing, CRM, marketing de e-mail, SMS marketing, gerenciamento de audiência, e integração com mais de 900 ferramentas.
 
-### Características da Empresa
-- **Serviços Oferecidos**:
-  - Automação de Marketing
-  - Email Marketing
-  - Gestão de Clientes (CRM)
-  - Integrações com mais de 900 ferramentas
-  - Marketing Omnichannel (e-mail, SMS, redes sociais)
-- **Público-Alvo**: PME (Pequenas e Médias Empresas) e grandes organizações em diversos segmentos, incluindo e-commerce, educação, saúde e serviços de consultoria.
+## Características e Propostas de Valor
+1. **Automação de Marketing:** Solução robusta com automações baseadas em IA, permitindo personalizar e validar campanhas de marketing.
+    - Exemplos: Automação para e-mails de boas-vindas, recuperação de carrinhos abandonados, entre outros.
+  
+2. **Email Marketing:** Criação de campanhas de e-mail altamente personalizadas com templates prontos e capacidade de segmentação avançada.
+3. **Marketing Omnicanal:** Integração de campanhas de marketing através de e-mail, SMS, redes sociais e anúncios, alcançando clientes em múltiplos canais.
+4. **Gestão de Audiência:** Segmentação avançada e ferramentas de personalização para entender e engajar os clientes de maneira mais eficaz.
+5. **Relatórios e Análises:** Acompanhamento de análises detalhadas sobre performance de campanhas, permitindo ajustes e otimizações em tempo real.
+6. **CRM Integrado:** Acompanhamento de leads e gestão de vendas, facilitando o foco em ações que geram resultados.
 
-### Diferenciais
-- Flexibilidade de automações que permitem personalizar mensagens e segmentar públicos.
-- Capacidade de sincronizar campanhas em múltiplos canais, incluindo e-mail, SMS e redes sociais.
-- Ferramentas integradas de análise e relatórios que ajudam a medir o impacto das campanhas.
-- Suporte ao cliente e recursos de comunidade ativos.
+## Dores e Desafios do Cliente Potencial
+- **Dificuldade em Gerar e Engajar Leads:** Muitas empresas não estão conseguindo atrair e converter leads adequadamente devido à falta de ferramentas de automação e personalização.
+- **Baixas Taxas de Abertura em E-mails:** A falta de segmentação e personalização resulta em taxas de abertura e engajamento mais baixas.
+- **Necessidade de Integração de Múltiplos Canais:** Com o crescimento da comunicação multicanal, as empresas exigem uma solução que una e automatize suas mensagens através de diferentes plataformas.
+- **Gestão Ineficiente de Audiência:** Falhas na coleta e análise de dados sobre os clientes, resultando em comunicações menos direcionadas e efetivas.
 
-### Dores Potenciais
-1. **Dificuldade em Engajar Clientes**:
-   - Empresas que lutam para manter a comunicação clara e relevante com seus clientes, resultando em baixas taxas de abertura de e-mails e relacionamento ruim com o cliente.
+## Contexto do Setor
+- O marketing de influência está crescendo rapidamente, e as marcas buscam se conectar com influenciadores que ressoem com seus públicos-alvo.
+- Empresas estão cada vez mais demandando soluções que ofereçam personalização em grande escala para atender às suas diversas audiências.
+- A automação não é apenas uma vantagem competitiva, mas uma necessidade no mercado atual para aumentar a eficiência e a eficácia das campanhas de marketing.
 
-2. **Gerenciamento Ineficiente de Leads**:
-   - Muitas empresas ainda dependem de processos manuais para acompanhar leads e clientes, o que pode resultar em perda de oportunidades e tempo.
+## Oportunidades para Proposta
+- **Colaboração com Influenciadores:** Propor a ActiveCampaign uma estratégia de marketing de influência que possibilite a utilização de suas plataformas de automação para gerenciar campanhas de influenciadores.
+- **Aumentar a Receita através de Email Marketing:** Destacar casos de sucesso de empresas que aumentaram suas receitas usando campanhas de e-mail com a ActiveCampaign, como Pit Boss Grills, que gerou mais de $76,000 de uma única campanha.
+- **Uso de Automação Inteligente:** Destacar a capacidade da ActiveCampaign de não apenas automatizar mas também personalizar campanhas com IA, permitindo engajamento profundo e conversão de leads.
 
-3. **Falta de Integração entre Ferramentas**:
-   - Muitas organizações usam várias ferramentas de marketing que não se comunicam entre si, dificultando uma visão unificada dos clientes e de suas interações.
+## Informações para o Copywriter
+- Criação de um e-mail que destaque a importância da automação em marketing e sua capacidade de conectar marcas a influenciadores.
+- Enfatizar a personalização e como a ActiveCampaign pode resolver as dores do cliente, oferecendo soluções que tragam resultados mensuráveis.
+- Incluir exemplos reais de sucesso entre clientes da ActiveCampaign em segmentos similares.
 
-### Contexto do Segmento de Prospecção
-- A automação do marketing é uma tendência crescente entre empresas que buscam ampliar suas operações e aumentar suas receitas. A conexão com influenciadores se torna ainda mais relevante em um cenário onde a comunicação direta e autêntica com o consumidor se tornou crucial.
-- A ActiveCampaign posiciona-se como uma solução abrangente que não apenas facilita o marketing digital, mas também permite uma personalização que é vital na era do cliente.
-
-### Informações Específicas para o Copywriter
-- **Abordagem Ideal**: Iniciar mencionando a crescente necessidade de personalização no marketing e como a ActiveCampaign resolve exatamente essa questão com suas soluções. Referenciar casos de sucesso, como o aumento de receita de clientes que utilizaram automação para engajar melhor com seus leads.
-- **Chamar a Atenção para o Futuro**: Enfatizar como a inteligência artificial da ActiveCampaign pode otimizar campanhas e preencha as lacunas do marketing atual, como segmentação e automação de mensagens.
-- **Fechamento Invocativo**: Oferecer uma demonstração gratuita da plataforma, chamando o lead para experimentar como pode facilitar a transformação da maneira que se comunica e converte.
-
-### Sugestões de Assuntos para E-mail
-1. "Transforme seu Marketing com Personalização: Conheça a ActiveCampaign"
-2. "Melhore sua Comunicação com Clientes Usando Automação de Marketing"
-3. "Case de Sucesso: Como Mais de 76.000 em Vendas Foram Gerados Com Apenas Um E-mail"
-
-### Conclusão
-A ActiveCampaign é uma solução poderosa para empresas que buscam não apenas automatizar, mas personalizar suas comunicações de marketing para se destacarem em um mercado competitivo. A abordagem centrada no cliente e a capacidade de captura de dados tornam essa plataforma uma opção atrativa para influenciadores e marcas que desejam se conectar de forma mais significativa com seu público.
+Com essas informações estruturadas, o copywriter terá um entendimento abrangente das necessidades da ActiveCampaign e poderá criar uma abordagem de e-mail persuasiva e direta, que se conecte efetivamente com a audiência prospectada.
