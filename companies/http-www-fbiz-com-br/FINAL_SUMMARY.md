@@ -1,3 +1,12 @@
+```plaintext
+├── FINAL_SUMMARY.md
+└── http-www-fbiz-com-br.md
+```
+
+---
+
+## 📄 `FINAL_SUMMARY.md`
+```md
 # Relatório de Prospecção: Fbiz
 
 ## Informações Gerais da Empresa
@@ -45,3 +54,12 @@ A Fbiz está bem posicionada para explorar as oportunidades de marketing de infl
 
 ## Conclusão
 A Fbiz possui um grande potencial para uma colaboração frutífera em estratégias de marketing de influência. A proposta deve enfatizar como nossa plataforma pode ajudar a Fbiz a expandir sua rede de influenciadores, personalizar campanhas e oferecer relatórios que fortaleçam a conexão com seus clientes. Este relatório serve como base sólida para o copywriter elaborar um email impactante e personalizado que aborde estas questões e proponha oportunidades de colaboração.
+```
+
+---
+
+## 📄 `http-www-fbiz-com-br.md`
+```md
+# http://www.fbiz.com.br
+![Manifesto Fbiz](http://www.fbiz.com.br/Manifesto.png)
+```
