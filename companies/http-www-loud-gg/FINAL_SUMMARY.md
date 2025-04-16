@@ -41,7 +41,6 @@ A colaboração com influenciadores apresenta uma oportunidade estratégica para
 - **Nerds Clothing**
 - **Era Uma Vez**
 - **Toxic**
-
 Essas marcas competem diretamente no segmento de moda streetwear voltada para o público jovem.
 
 ## Contexto do Mercado
