@@ -6,17 +6,23 @@
 - **Website:** [agora.site](https://agora.site/)
 - **Segmento:** Consultoria de assuntos públicos e comunicação estratégica.
 - **Localização:** Presente em cinco cidades da América Latina (Buenos Aires, Bogotá, Cidade do México, São Paulo, Medellín).
+- **Contatos:**
+  - **Buenos Aires:** Monroe 899, C1428BKC, Tel. +54 11 5279-9000
+  - **Bogotá:** Calle 80 No. 10 – 43, Edificio de Profesionales, Oficina 601, Tel. +57 1 756 0585
+  - **Cidade do México:** Barranca del muerto 210 PB 1B, Colonia Guadalupe Inn, Álvaro Obregón, CP01020, Tel. 5511638867
+  - **São Paulo:** Rua Bruxelas, 188, 1º andar, Tel. +55 11 5990-3906
+  - **Medellín:** Calle 13 # 36 A 156 (902), El Poblado, Tel. +57 310 874 1817
 
 ## 2. Descrição da Empresa
 A Ágora é uma consultoria que se destaca em comunicação e gestão de reputação, oferecendo suporte a marcas e organizações para gerenciar a imagem e as relações em um ambiente multifacetado, com diversas vozes e opiniões. Com um reconhecimento crescente na indústria, a Ágora foi finalista do prestigiado prêmio "Melhor Agência da LATAM" no PRWeek Global Awards 2022, refletindo sua posição de destaque no setor.
 
 ## 3. Serviços Oferecidos
-A Ágora oferece um conjunto robusto de serviços que inclui:
-- **Gestão de Reputação**
-- **Comunicações e Relações Públicas**
-- **Assuntos Públicos**
-- **Advocacy e Impacto Social**
-- **Conteúdo Digital e Engajamento**
+A Ágora oferece um conjunto robusto de serviços, incluindo:
+- **Gestão de Reputação:** Habilidades para proteger e valorizar a imagem de marcas em ambientes desafiadores.
+- **Comunicações e Relações Públicas:** Estratégias para promover comunicação eficaz com stakeholders e público.
+- **Assuntos Públicos:** Abordagens proativas para engajar com políticas e legislação que afetam os negócios dos clientes.
+- **Advocacy e Impacto Social:** Apoio na promoção de causas sociais que estejam alinhadas com os valores da marca.
+- **Conteúdo Digital e Engajamento:** Desenvolvimento de conteúdo que fomenta interações significativas online.
 
 Esses serviços são essenciais para marcas que desejam fortalecer sua presença e reputação, especialmente em períodos de instabilidade política ou mudanças sociais. O marketing de influência pode ser complementado de modo a integrar-se com essas ofertas, promovendo interações mais autênticas e impactantes.
 
@@ -40,16 +46,16 @@ Esses setores apresentam um alto potencial para campanhas de marketing de influ�
 
 ## 5. Contexto e Desafios
 ### Possíveis Dores das Marcas:
-- **Gerenciamento da Reputação:** A gestão da reputação é um desafio constante, com marcas lutando para manter uma avaliação positiva em meio a críticas e desconfiança do consumidor.
-- **Conexão com o Público:** A dificuldade em construir relacionamentos autênticos num cenário saturado de informações.
-- **Engajamento Social:** A necessidade de conteúdo que não apenas informe, mas que envolva e ressoe com a audiência de forma significativa.
+- **Gerenciamento da Reputação:** Desafio constante em manter avaliações positivas em meio a críticas e desconfiança do consumidor.
+- **Conexão com o Público:** Dificuldade em construir relacionamentos autênticos num cenário saturado de informações.
+- **Engajamento Social:** Necessidade de conteúdo que não apenas informe, mas que envolva e ressoe com a audiência de forma significativa.
 
 ### Tendências do Mercado:
-Acompanhar relatórios e análises da Ágora sobre o ambiente político e econômico da América Latina é crucial para as marcas, pois isso revela tendências que devem ser levadas em consideração ao desenvolver estratégias de comunicação e marketing de influência.
+Acompanhar relatórios e análises da Ágora sobre o ambiente político e econômico da América Latina é crucial para as marcas, pois isso revela tendências que devem ser consideradas ao desenvolver estratégias de comunicação e marketing de influência.
 
 ## 6. Estratégia de Prospecção
 ### Abordagem Inicial:
-- Personalizar a comunicação para estabelecer como o marketing de influência pode apoiar a gestão da reputação e o engajamento social da Ágora.
+- Personalizar a comunicação para mostrar como o marketing de influência pode apoiar a gestão da reputação e o engajamento social da Ágora.
 - Oferecer um complemento aos serviços existentes através de uma rede diversificada de influenciadores alinhados aos valores da marca.
 
 ### Elementos de Mensagem:
