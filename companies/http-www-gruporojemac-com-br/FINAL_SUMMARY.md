@@ -1,62 +1,57 @@
 # Relatório de Prospecção - Grupo Rojemac
 
-## Informações Gerais da Empresa
-- **Nome:** Grupo Rojemac
-- **CNPJ:** 03.764.657/0001-13
-- **Endereço:** Av. Ádamo Zambelli, 25 - Parque Res. Jordanésia - Caieiras/SP - CEP: 07750-000
-- **Setor:** Utilidades Domésticas, Presentes e Decoração
-- **Ano de Fundação:** 2000
-- **Funcionários:** Mais de 1.000
-- **Produtos:** Mais de 8.000 itens
-- **Marcas:** Wolff e Lyor
+## Dados da Empresa
+- **Nome da Empresa**: Grupo Rojemac
+- **Site**: [www.gruporojemac.com.br](http://www.gruporojemac.com.br/)
+- **CNPJ**: 03.764.657/0001-13
+- **Endereço**: Av. Ádamo Zambelli, 25 - Parque Res. Jordanésia, Caieiras/SP - CEP: 07750-000
+- **Valor Mínimo do Pedido**: R$ 1.500,00
+- **Setores de Atuação**:
+  - Utilidades Domésticas
+  - Presentes
+  - Decoração
 
-## Descrição da Empresa
-O Grupo Rojemac se posicionou como uma referência nacional no segmento de utilidades domésticas, presentes e decoração, operando com duas marcas renomadas: **Wolff** e **Lyor**. Com uma trajetória de mais de 24 anos, a empresa atende mais de 14.000 pontos de venda em todo o Brasil, incluindo grandes redes varejistas e lojas especializadas, além de possuir um forte e-commerce.
+## Breve História
+- **Ano de Fundação**: 2000
+- **Experiência**: Com mais de 24 anos de trajetória, o Grupo Rojemac se consolidou como referência nacional, atuando com marcas renomadas como Wolff e Lyor.
+- **Portfólio**: Mais de 8.000 itens disponíveis, distribuídos em mais de 14.000 pontos de venda pelo Brasil.
 
-### Marcas
-- **Wolff:** Famosa por seus produtos de alta qualidade e design, ideal para lojistas que buscam sofisticação.
-- **Lyor:** Oferece uma gama completa de itens para a casa, priorizando funcionalidade e estética.
-
-## Público-Alvo
-- **Varejistas:** Lojas de utilidades e decoração, e-commerce, grandes redes varejistas.
-- **Setor Hoteleiro e Restaurantes:** Necessidade constante de renovação de produtos e itens de decoração.
-- **Distribuidores:** CNPJ que necessitam de soluções em utilidades e decoração.
-
-## Produtos e Serviços
-- **Categorias:**
-  - Mesa posta
-  - Utensílios de cozinha
-  - Organização e decoração
-  - Equipamentos para bar
-  - Panelas e frigideiras
-- **Serviços Oferecidos:**
-  - Atendimento personalizado via WhatsApp
-  - Portal do Cliente com soluções de autoatendimento
-
-## Política Comercial
-A nova política comercial do Grupo Rojemac, que se estabelecerá em 2025, foca em:
-
-1. **Foco no Cliente:** Compreensão profunda das necessidades dos clientes para oferecer soluções personalizadas.
-2. **Benefícios Exclusivos:** Vantagens e condições diferenciadas a partir de 2025 para fomentar a fidelização.
-3. **Expansão e Diversificação:** Inserção em novos nichos de mercado.
-4. **Capacitação:** Investimentos em treinamento dos colaboradores.
-5. **Parcerias Estratégicas:** Fortalecimento das colaborações existentes e criação de novas parcerias.
-
-## Possíveis Dores e Desafios
-- **Concorrência:** A constante pressão de marcas concorrentes e a necessidade de inovação contínua.
-- **Logística:** Desafios relacionados à entrega e distribuição de produtos em todo o Brasil.
-- **Atendimento ao Cliente:** A importância de manter um alto nível de serviço para reter clientes e manter a reputação.
-- **Adaptação às Novas Tendências:** Necessidade de acompanhar as tendências do mercado e as preferências dos consumidores, especialmente considerando a popularidade crescente do e-commerce e das compras online.
-
-## Contexto para Prospecção
-Dada a trajetória e o sucesso do Grupo Rojemac, a empresa está em uma fase de crescimento e adaptação, buscando continuamente entender melhor as necessidades de seus parceiros comerciais. O uso estratégico de influenciadores pode ajudá-los a ampliar sua visibilidade, especialmente no e-commerce, onde tendências mudam rapidamente e as opiniões dos consumidores são cruciais.
-
-## Estrutura de Diretrizes para Contato
-- **Objetivo do Email:** Apresentar como a conexão com influenciadores pode alavancar campanhas e melhorar a visibilidade da marca da empresa.
-- **Pontos a Destacar:**
-  - A importância de contar com influenciadores reconhecidos que correspondam ao perfil da marca.
-  - Exemplos de campanhas bem-sucedidas em setores semelhantes.
-  - Propostas de conexão direta com influenciadores que possam se alinhar aos produtos do Grupo Rojemac.
+## Marcas e Produtos
+- **Marcas**:
+  - **Wolff**: Mais de 5.000 itens, com foco em elegância e sofisticação. Ideal para lojistas que buscam agregar produtos de decoração.
+  - **Lyor**: Oferece mais de 3.000 produtos que vão desde itens de cozinha a soluções de organização. Focada em tornar ambientes mais funcionais e aconchegantes.
   
+## Política Comercial
+- **Objetivos**:
+  - Criação de soluções personalizadas e assertivas.
+  - Vantagens e condições diferenciadas para clientes.
+  - Expansão do portfólio para atender novos nichos de mercado.
+  - Capacitação contínua da equipe.
+
+## CNAEs Atendidos
+1. **Comércio Varejista**:
+   - Artigos de cama, mesa e banho
+   - Utilidades domésticas
+   - Móveis
+2. **Ramo HORECA**:
+   - Restaurantes, lanchonetes e serviços de alimentação.
+3. **Decoração e Presentes**:
+   - Artigos de decoração, plantas e flores, bijuterias.
+4. **E-commerce**:
+   - Comércio atacadista de produtos variados, incluindo eletrônicos e itens pessoais.
+
+## Dores e Desafios
+- **Concorrência no setor de utilidades domésticas e decoração**, onde a diferenciação de produtos e preço pode ser um fator decisivo para a decisão de compra.
+- **Necessidade de inovação constante** para atender uma clientela que busca produtos diferenciados.
+- **Logística**: A entrega eficiente e pontual dos produtos para os parceiros de negócios.
+
+## Contexto de Prospecção
+O Grupo Rojemac é uma empresa bem consolidada no mercado brasileiro, buscando fortalecer ainda mais as relações comerciais com seus parceiros. Num cenário de crescimento da demanda por decoração e itens de utilidades, a proposta de marketing de influência pode ajudá-los a aumentar sua visibilidade no mercado, claramente alinhando-se ao perfil de empresas que buscam capitalizar a força dos influenciadores no segmento de lifestyle e decoração.
+
+## Sugestões de Abordagem
+1. **Foco na Segmentação**: Abordar especificamente o departamento de marketing do Grupo Rojemac, destacando como a marketing de influência se alinha a suas metas de expansão e inovação.
+2. **Capacitação e Treinamento**: Propor soluções de treinamento para os representantes da equipe de vendas, mostrando como a experiência dos influenciadores pode otimizar seus resultados.
+3. **Parcerias Estratégicas**: Abordar a importância de criar colaborações com influenciadores que compartilham os mesmos valores de qualidade e sofisticação que o Grupo Rojemac preza.
+
 ## Conclusão
-O Grupo Rojemac é uma empresa sólida no segmento de utilidades domésticas e, com o uso de estratégias de marketing de influência, pode fortalecer ainda mais sua marca e expandir sua presença no mercado. A prospecção deve se concentrar em como a colaboração com influenciadores pode ser uma solução personalizada para suas necessidades comerciais e desafios atuais.
+A abordagem ao Grupo Rojemac deve focar em como a marketing de influência pode trazer soluções inovadoras, personalizadas e eficientes que solidifiquem a presença da marca no mercado e promovam o engajamento de seus clientes através de estratégias diferenciadas. A análise detalhada de suas dores e necessidades permitirá uma comunicação mais eficaz e envolvente, incentivando um relacionamento comercial mais produtivo.
