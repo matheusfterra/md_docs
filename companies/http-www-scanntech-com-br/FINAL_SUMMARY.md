@@ -1,3 +1,4 @@
+```plaintext
 # Relatório de Prospecção - Scanntech
 
 ## Informações Gerais da Empresa
@@ -18,7 +19,7 @@
 - **Informação em D-2 (dois dias após a venda)**
 
 ## Produtos e Serviços Oferecidos
-Scanntech oferece várias soluções focadas em diferentes áreas do mercado de alimentos e bebidas. Algumas delas incluem:
+Scanntech oferece uma gama de soluções focadas em diversas áreas do mercado de alimentos e bebidas. Algumas delas incluem:
 1. **Scann View:** Insights acionáveis sobre preços, mix e distribuição.
 2. **Scann Scale:** Insights sobre vendas de itens de peso variável.
 3. **Scann E-commerce:** Análise de vendas online comparativas.
@@ -27,26 +28,26 @@ Scanntech oferece várias soluções focadas em diferentes áreas do mercado de 
 6. **Clube de Promoções:** Conexão entre varejo e indústria para promoções reembolsadas.
 
 ## Contexto de Mercado
-A Scanntech atua em um mercado em transformação, onde os consumidores apresentam um comportamento de compra cada vez mais orientado para a agilidade e a impulsividade. Recentemente, a pesquisa indicou:
-- **Mudança nos Hábitos de Compras:** Os consumidores estão fazendo compras menores, frequentando supermercados e atacados com mais regularidade.
-- **Participação de Compras Impulsivas:** As compras impulsivas representam 65,4% das transações, com várias análises indicando a necessidade de soluções que ajudem os varejistas a gerenciar essas mudanças.
+A Scanntech atua em um mercado em transformação, com consumidores apresentando um comportamento de compra mais ágil e impulsivo. Dados recentes revelam que:
+- **Mudança nos Hábitos de Compras:** Os consumidores estão fazendo compras menores e visitando supermercados e atacados com mais frequência.
+- **Participação de Compras Impulsivas:** Compras impulsivas representam 65,4% das transações, evidenciando a necessidade de soluções que auxiliam os varejistas a gerenciar essas mudanças.
 
 ### Desafios Identificados
-- **Lacunas no Canal Indireto:** Os distribuidores e atacadistas representam 52% das vendas no setor alimentar, mas muitos enfrentam dificuldades na padronização e análise de dados operacionais.
-- **Necessidade de Insights Rápidos:** Os varejistas e indústrias requerem informações rápidas e precisas para tomar decisões que possam impactar diretamente a disponibilidade de produtos nas prateleiras.
+- **Lacunas no Canal Indireto:** Distribuidores e atacadistas respondem por 52% das vendas no setor alimentar, mas muitos enfrentam dificuldades em padronização e análise de dados operacionais.
+- **Necessidade de Insights Rápidos:** Varejistas e indústrias precisam de informações rápidas e precisas para decisões que impactem diretamente a disponibilidade de produtos nas prateleiras.
 
-### Recentes desenvolvimentos e Tendências
-- Scanntech afirmou sua presença no **APAS SHOW 2024**, apresentando inovações em tecnologia e estratégia de retail.
-- A crescente tendência de promoção de produtos com atributos de saúde que estão crescendo mais rapidamente do que os alimentos convencionais.
+### Recentes Desenvolvimentos e Tendências
+- A Scanntech participou do **APAS SHOW 2024**, apresentando inovações tecnológicas e estratégicas para o varejo.
+- Há uma crescente demanda por produtos com atributos de saúde, que estão se expandindo mais rapidamente do que os alimentos convencionais.
 
 ## Oportunidades de Parceria
-1. **Educação e Capacitação:** Oferecer webinars e workshops sobre a eficácia do marketing de influência no setor de varejo alimentar.
+1. **Educação e Capacitação:** Promover webinars e workshops sobre a eficácia do marketing de influência no setor de varejo alimentar.
 2. **Colaboração em Campanhas:** Utilizar a plataforma de influenciadores para promover insights de vendas e estratégias de preço.
-3. **Conteúdo Agregado:** Criação de conteúdo que destaque a importância dos dados na otimização das campanhas de marketing de influência.
+3. **Conteúdo Agregado:** Criar conteúdo que destaque a importância dos dados na otimização das campanhas de marketing de influência.
 
 ## Proposta de Valor para a Scanntech
-Convidamos a Scanntech a explorar parcerias com influenciadores que atuam em nichos relevantes ao seu público-alvo. Acreditamos que a divulgação dos dados e insights dela, combinados com o marketing de influência, poderá potencializar significativamente suas vendas e fortalecer sua presença no mercado.
+Convidamos a Scanntech a explorar parcerias com influenciadores que atuam em nichos relevantes ao seu público-alvo. Acreditamos que a combinação de seus dados e insights com marketing de influência poderá potencializar significativamente suas vendas e fortalecer sua presença no mercado.
 
 ---
-
-**Este relatório tem como objetivo fornecer uma visão abrangente da Scanntech para auxiliar nossa equipe de copywriting a desenvolver comunicações personalizadas e eficazes, focadas nas necessidades e oportunidades da empresa.**
+**Este relatório pretende fornecer uma visão abrangente da Scanntech, apoiando nossa equipe de copywriting na criação de comunicações personalizadas e eficazes, focadas nas necessidades e oportunidades da empresa.**
+```
