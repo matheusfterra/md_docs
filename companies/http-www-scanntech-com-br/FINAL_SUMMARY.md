@@ -8,10 +8,10 @@
 **Missão:** Ser a plataforma que mapeia, executa e mede as atividades de compra, fortalecendo as parcerias e gerando valor entre varejo, indústria, distribuidor e consumidor.  
 **Visão:** Ser reconhecida como a principal plataforma de inteligência de dados e execução no varejo.  
 **Valores:** Excelência, Inovação, Trabalho em equipe, Orientação aos resultados, Compromisso.  
-**Sede:** São Paulo, SP, Brasil
+**Sede:** São Paulo, SP, Brasil  
 
 ## Números Relevantes
-- **Dados Anuais:** R$ 1 tri de vendas lidas
+- **Dados Anuais:** R$ 1 trilhão de vendas lidas
 - **Cobertura de Varejo:** 74% de leitura do canal alimentar
 - **Clientes:** 55.000 pontos de venda no Brasil
 - **Tickets Mensais Lidos:** 10 bilhões
@@ -37,15 +37,15 @@ A Scanntech atua em um mercado em transformação, onde os consumidores apresent
 
 ### Recentes desenvolvimentos e Tendências
 - Scanntech afirmou sua presença no **APAS SHOW 2024**, apresentando inovações em tecnologia e estratégia de retail.
-- Tendência crescente de promoção de produtos com atributos de saúde que estão crescendo mais rapidamente do que os alimentos convencionais.
+- A crescente tendência de promoção de produtos com atributos de saúde que estão crescendo mais rapidamente do que os alimentos convencionais.
 
 ## Oportunidades de Parceria
 1. **Educação e Capacitação:** Oferecer webinars e workshops sobre a eficácia do marketing de influência no setor de varejo alimentar.
 2. **Colaboração em Campanhas:** Utilizar a plataforma de influenciadores para promover insights de vendas e estratégias de preço.
-3. **Conteúdo Agrelado:** Criação de conteúdo que destaque a importância dos dados na otimização das campanhas de marketing de influência.
+3. **Conteúdo Agregado:** Criação de conteúdo que destaque a importância dos dados na otimização das campanhas de marketing de influência.
 
 ## Proposta de Valor para a Scanntech
-Convidamos a Scanntech a explorar parcerias com influenciadores que atuam em nichos relevantes ao seu público-alvo. Acreditamos que a divulgação dos dados e insights dela, combinados com o marketing de influência, poderá potencializar significativamente a suas vendas e fortalecer sua presença no mercado.
+Convidamos a Scanntech a explorar parcerias com influenciadores que atuam em nichos relevantes ao seu público-alvo. Acreditamos que a divulgação dos dados e insights dela, combinados com o marketing de influência, poderá potencializar significativamente suas vendas e fortalecer sua presença no mercado.
 
 ---
 
