@@ -8,7 +8,7 @@
 - **Contatos**:
   - **Telefone**: 213-748-3980
   - **Email**: marketing.us@byd.com
-- **Descrição**: A BYD é uma líder global em tecnologia, focando em inovações para uma vida melhor. Ela é renomada por suas soluções de energia limpa e seu compromisso com a sustentabilidade, oferecendo produtos nas áreas de eletrônicos, automotivos, energia renovável e transporte ferroviário.
+- **Descrição**: A BYD é uma empresa líder em tecnologia, focando em inovações para uma vida melhor. É renomada por suas soluções de energia limpa e seu compromisso com a sustentabilidade, oferecendo produtos nas áreas de eletrônicos, automotivos, energia renovável e transporte ferroviário.
 
 ## 2. Áreas de Atuação
 - **Automotivo**: Veículos elétricos e híbridos, incluindo o modelo de destaque, o **BYD HAN**.
@@ -26,12 +26,12 @@
 - **Vendas**: Em setembro de 2022, a BYD vendeu quase 2.68 milhões de veículos de nova energia globalmente, evidenciando seu crescimento no mercado de veículos elétricos.
 
 ## 5. Diferenciais Competitivos
-- **Compromisso com a Sustentabilidade**: BYD se dedica à redução de emissões, tendo evitado a emissão de mais de 14 bilhões de kg de carbono até outubro de 2022, contribuições significativas para mitigar as mudanças climáticas.
+- **Compromisso com a Sustentabilidade**: A BYD se dedica à redução de emissões, tendo evitado a emissão de mais de 14 bilhões de kg de carbono até outubro de 2022, contribuindo significativamente para mitigar as mudanças climáticas.
 - **Inovação Contínua**: Com uma equipe de mais de 300 designers globais, o centro de design da BYD utiliza tecnologia de ponta para desenvolver veículos que não só atendem, mas superam as expectativas dos consumidores.
 
 ## 6. Características da Comunicação e Marketing
-- **Estrategia de Comunicação**: A empresa busca continuamente a inovação em suas estratégias de marketing, adaptando-se às novas tendências digitais e utilizando influenciadores nos segmentos de automóveis verdes e tecnologia.
-- **Notícias e Lançamentos**: Frequentes anúncios sobre novos modelos e inovações, destacando sua liderança em novos mercados e seu compromisso com a sustentabilidade.
+- **Estratégia de Comunicação**: A empresa busca continuamente a inovação em suas estratégias de marketing, adaptando-se às novas tendências digitais e utilizando influenciadores nos segmentos de automóveis verdes e tecnologia.
+- **Notícias e Lançamentos**: Anúncios frequentes sobre novos modelos e inovações, destacando sua liderança em novos mercados e seu compromisso com a sustentabilidade.
 
 ## 7. Possíveis Dores e Desafios
 - **Concorrência Crescente**: O mercado de veículos elétricos está se tornando cada vez mais competitivo, com novos jogadores e tecnologias surgindo constantemente.
