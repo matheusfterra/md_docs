@@ -1,67 +1,58 @@
 # Relatório de Prospecção - Webmotors
 
-## 1. Informações da Empresa
-**Nome da Empresa:** Webmotors  
-**Website:** [www.webmotors.com.br](https://www.webmotors.com.br)  
-**Segmento:** Marketplace de veículos (carros e motos)  
-**Fundação:** 1995  
-**CNPJ:** 03.347.828/0001-09  
-**Presença Digital:**  
-- Redes sociais: Instagram, Facebook, Twitter, YouTube LinkedIn
-- Blog com conteúdo informativo sobre compra, venda e manutenção de veículos.  
-- E-commerce para compra e venda de veículos novos e usados.
+## Informações Gerais da Empresa
+- **Nome**: Webmotors
+- **Site**: [www.webmotors.com.br](https://www.webmotors.com.br)
+- **Segmento**: Marketplace de compra e venda de veículos (carros e motos)
+- **Ano de Fundação**: 1995
+- **CNPJ**: 03.347.828/0001-09
 
-## 2. Produtos e Serviços
-### **Principal oferta:**
-- **Marketplace de Veículos:**
-  - Carros novos e usados
-  - Motos novas e usadas
-  - Vendas diretas (plataforma para vendedores pessoais e concessionárias)
-  
-### **Serviços adicionais:**
-- Webmotors Serviços: Funilaria, manutenção, serviços de oficinas.
-- Financiamento de veículos (opções de parcelamento e análise de crédito).
-- Tabela FIPE e Tabela Webmotors (valores de veículos).
-- Carros por Assinatura (modelos com opção de contrato de assinatura para utilização).
-- Comparativo de veículos e dicas de compra através de conteúdo educacional.
+## Estrutura do Site
+### Principais Seções do Site
+1. **Comprar**:
+   - Carros Usados: [Link Carros Usados](https://www.webmotors.com.br/carros-usados/estoque?lkid=1000)
+   - Carros Novos: [Link Carros Novos](https://www.webmotors.com.br/carros-novos/estoque?lkid=1001)
+   - Motos Usadas: [Link Motos Usadas](https://www.webmotors.com.br/motos-usadas/estoque?lkid=1002)
+   - Motos Novas: [Link Motos Novas](https://www.webmotors.com.br/motos-novas/estoque?lkid=1003)
+   - Oportunidades Vistoriadas: [Vistoriados](https://www.webmotors.com.br/carros/estoque?Oportunidades=Vistoriado&lkid=1576)
 
-### **Diferenciais:**
-- Grande volume de ofertas: Cerca de 350.311 ofertas disponíveis.
-- Boa reputação no mercado e forte presença digital.
-- Especialização em ajudar consumidores a encontrarem as melhores opções de veículos, tanto para compra quanto para venda.
+2. **Vender**:
+   - Vendendo carros: [Vender Carro](https://www.webmotors.com.br/vender?lkid=1006)
+   - Vendendo motos: [Vender Moto](https://www.webmotors.com.br/vender/moto?lkid=1007)
 
-## 3. Público-Alvo
-- **Compradores:** Pessoas que buscam adquirir um veículo, seja novo ou usado, na faixa etária de 18 a 50 anos, com interesse em automobilismo, transporte e economia.
-- **Vendedores:** Proprietários de veículos que desejam vender seus carros ou motos, incluindo concessionárias e revendedores.
-- **Marcas e Concessionárias:** Parceiros que desejam anunciar seus produtos em um marketplace ativo e bem estabelecido.
+3. **Assinatura**:
+   - Comparar e encontrar melhores ofertas de carros por assinatura: [Carros por Assinatura](https://www.webmotors.com.br/assinar-carro?lkid=3798)
 
-## 4. Dores e Desafios
-### **Para Compradores:**
-- Dificuldade em encontrar ofertas transparentes e confiáveis.
-- Preocupações com a qualidade e o estado do veículo usado.
-- Necessidade de informações sobre financiamento e manutenção.
+4. **Serviços**:
+   - Tabela FIPE: [Tabela FIPE](https://www.webmotors.com.br/tabela-fipe/?lkid=1010)
+   - Financiamento: [Financiamento](https://www.webmotors.com.br/financiamento?lkid=1011)
+   - Webmotors Serviços (funilaria, manutenção): [Webmotors Serviços](https://www.webmotors.com.br/solutions/webmotors-servicos/?lkid=2473)
 
-### **Para Vendedores:**
-- Competência para diferenciar-se em um marketplace saturado.
-- Dificuldades em mensurar o valor real de revenda de veículos.
-- Necessidade de um processo de venda mais rápido e seguro.
+5. **Conteúdo e Notícias**:
+   - WM1 (Notícias e conteúdo relacionado a veículos): [Notícias WM1](https://www.webmotors.com.br/wm1)
 
-### **Para Marcas:**
-- Dificuldades em se conectar efetivamente com seus consumidores.
-- Necessidade de aumentar a visibilidade no segmento automotivo com campanhas eficazes.
+## Características do Mercado e Da Empresa
+### Contexto do Setor
+- **Crescente Adopteração Digital**: A compra e venda de veículos está se tornando cada vez mais digital, impulsionada pela pandemia e pela necessidade de conveniência.
+- **Concorrência**: O mercado tem competidores como OLX, iCarros, entre outros, que também oferece plataformas de compra/venda de veículos.
+- **Segmentação**: O site oferece funcionalidades para diferentes públicos, desde compras privadas até concessionárias, com opções para carros e motos.
 
-## 5. Contexto de Mercado
-O mercado de veículos no Brasil continua a crescer e evoluir, impulsionado pela crescente demanda por automóveis e uma maior consciência do consumidor na comparação entre preços e qualidade. O cenário atual também é caracterizado por mudanças nas preferências dos consumidores, com um forte aumento na busca por alternativas sustentáveis, como carros elétricos.
+### Possíveis Dores da Empresa
+- **Aumentar a visibilidade**: É vital se destacar em um setor saturado e altamente competitivo.
+- **Engajamento do Cliente**: Aumentar a interação com os usuários e proporcionar uma melhor experiência de compra.
+- **Conversão de Vendas**: Criar estratégias eficazes para converter visitantes em compradores reais.
+- **Educacional sobre Novas Tecnologias**: O setor automotivo está se adaptando a novas tecnologias, como carros elétricos, e a Webmotors pode precisar educar seu público sobre isso.
 
-Além disso, o uso de tecnologias digitais para compra e venda de veículos está em alta, tornando essencial para empresas como a Webmotors manter e expanding sua presença online e suas operações digitais.
+## Proposta de Valor de Marketing de Influência
+- **Aumentar a Autenticidade**: Utilize influenciadores para gerar conteúdo autêntico que ressoe com o público, aumentando a confiança do consumidor.
+- **Segmentação de Nicho**: Alcançar audiências específicas, como entusiastas de carros elétricos, utilizando influenciadores desse nicho.
+- **Conteúdo Relacionado**: Criar engajamento através de conteúdos que informam e educam, como análises de veículos, dicas de compra e manutenção.
 
-## 6. Oportunidades para Marketing de Influência
-- **Parcerias com Influenciadores:** Influenciadores do segmento de automóveis e estilo de vida podem gerar conteúdo relevante, apresentando novos modelos e ofertas para suas audiências.
-- **Conteúdo Educacional:** Influenciadores podem ajudar a educar os consumidores sobre o processo de compra e venda, compartilhando experiências e dicas práticas.
-- **Promoções e Lançamentos:** Colaboração em campanhas para o lançamento de novos modelos ou promoções de veículos com influenciadores que estejam alinhados à imagem da marca.
+## Recomendações para a Equipe de Copywriting
+1. **Personalização do Email**: Abordar especificamente as dores de aumentar a visibilidade e engajamento.
+2. **Destaque para Resultados**: Mencionar casos de sucesso e estatísticas de campanhas que trouxeram retorno significativo.
+3. **Propostas de Colaboração**: Sugestões de como influenciadores podem se integrar à estratégia de marketing da Webmotors.
+4. **Soluções de Conteúdo**: Propor colaborações que não apenas promovam vendas, mas também informem e eduquem o consumidor.
 
-## 7. Próximos Passos
-- **Estratégia de Abordagem:** Desenvolver uma abordagem personalizada focando nas necessidades e dores específicas do público-alvo da Webmotors, propondo soluções através de marketing de influência e campanhas digitais.
-- **Mapeamento de influenciadores:** Identificar influenciadores relevantes que possam potencialmente colaborar com a Webmotors e seus produtos.
-
-Este relatório deve proporcionar uma visão detalhada e estratégica que permitirá uma comunicação assertiva e potencialmente bem-sucedida na prospecção da Webmotors.
+## Conclusão
+A estrutura e o posicionamento no mercado da Webmotors oferecem uma ótima oportunidade para vias de marketing de influência. Um contato bem elaborado e personalizado poderá chamar a atenção da empresa e possivelmente abrir portas para uma colaboração frutífera.
