@@ -1,52 +1,80 @@
 # Relatório de Prospecção - Privalia
 
-## Resumo da Empresa
+## 1. Informações Gerais da Empresa
+
 **Nome da Empresa:** Privalia  
-**Segmento:** E-commerce de moda e eletrônicos, com descontos significativos, especialmente em marcas renomadas.  
-**Website:** [privalia.com](https://br.privalia.com/)  
-**Localização:** Brasil, com presença também na Europa (Espanha e Itália).
+**Site:** [privalia.com](https://br.privalia.com)  
+**Segmento:** E-commerce (vendas privadas) - moda e produtos de consumo a preços com desconto.  
+**Operacional:** Presença em múltiplos países, incluindo Brasil, Espanha e Itália.
 
-### O que ela faz
-Privalia é uma plataforma de compras online que oferece vendas de produtos de marcas renomadas com descontos de até 70%. Os usuários precisam se registrar para acessar ofertas exclusivas, que mudam diariamente. A empresa se destaca por suas promoções em moda, acessórios, equipamentos para a casa e eletronics.
+---
 
-### Público-Alvo
-- **Idade:** Atraí um público amplo, mas foca em jovens adultos e famílias.
-- **Interesses:** Compras online, moda, tecnologia, estilo de vida e bem-estar.
+## 2. Contexto da Prospecção
 
-## Informações Relevantes
-### Análise do Mercado
-1. **Cenário do E-commerce no Brasil:** O e-commerce tem crescido constantemente, especialmente no setor de moda e lifestyle. A demanda por descontos e promoções atrai muitos consumidores, principalmente em épocas festivas como Dia das Mães, Black Friday, etc.
+### 2.1 Descrição do Negócio
+Privalia é uma plataforma de e-commerce que oferece produtos de marcas renomadas com descontos significativos, geralmente entre 30% e 70%. A empresa é conhecida por suas vendas flash e por proporcionar uma experiência de compra diferenciada para os consumidores. A plataforma se destaca por envolver marcas de moda, beleza, casa e decoração, e também por disponibilizar viagens e gastronomia em suas campanhas promocionais.
+
+### 2.2 Objetivos
+Mapear como Privalia poderia se beneficiar de marketing de influência e estabelecer parcerias com influenciadores que possam engajar mais os consumidores.
+
+---
+
+## 3. Análise do Público-Alvo
+
+### 3.1 Demografia
+- **Clientes:** Principalmente moradores de grandes centros urbanos.
+- **Faixa Etária:** Foco em adultos jovens e de meia-idade (18-45 anos).
+- **Gênero:** Predominantemente feminino, mas com crescente apelo masculino.
+
+### 3.2 Comportamento
+- Consumidores em busca de produtos com desconto e ofertas especiais.
+- Interesse em produtos de moda, beleza e decoração.
+- Usuário com alguma confiança e experiência em compras online.
+
+---
+
+## 4. Campanhas Recentes
+
+### 4.1 Campanha de Dia das Mães 
+- **Tema:** Promoções especiais em produtos para o Dia das Mães.
+- **Estratégia:** Vendas relâmpago com influenciadores que compartilham experiências e recomendações de produtos.
+
+### 4.2 Lançamento de Perfume
+- Promovido através de anúncios visuais e em redes sociais, incentivando a experiência do consumidor.
+
+### 4.3 Lançamento de Coleções
+- Exposição de coleções de marcas como Arezzo e Lilica Ripilica em campanhas sazonais.
+
+---
+
+## 5. Dores Potenciais e Oportunidades
+
+### 5.1 Dores das Marcas
+- O desafio em alcançar o público-alvo específico de forma eficaz.
+- A necessidade de se destacar em um mercado saturado de promoções.
+- A dificuldade em manter clientes engajados após a compra inicial.
+
+### 5.2 Oportunidades
+- Colaborações com influenciadores relevantes para atingir um público mais amplo e engajado.
+- Criação de campanhas de marketing personalizadas focadas nas compras por influenciadores.
+- Fortalecimento da presença de marca através de histórias visuais autênticas e envolventes em plataformas sociais.
+
+---
+
+## 6. Sugestões de Ações a Serem Tomadas
+
+- **Identificação de Influenciadores:** Realizar uma pesquisa para identificar influenciadores que compartilham valores semelhantes à Privalia e que têm um público alinhado.
   
-2. **Desafios do Setor:**
-   - Concorrência acirrada com outras plataformas de e-commerce.
-   - Necessidade de se destacar através de campanhas promocionais e fidelização dos clientes.
-   - Aumento das expectativas dos consumidores por experiências de compra personalizadas.
+- **Campanhas Personalizadas:** Desenvolver campanhas específicas para produtos de moda e beleza com influenciadores, aproveitando sazonalidades (como o Dia das Mães) para engajar consumidores.
+  
+- **Conteúdo de Vídeo e Reviews:** Produzir conteúdo dinâmico através de vídeos em plataformas como Instagram e TikTok, onde os influenciadores fazem unboxing, reviews e promoções dos produtos.
 
-3. **Oportunidades:**
-   - Explorar mais a interatividade com influenciadores nas mídias sociais para aumentar a alcança a um público maior.
-   - Campanhas de marketing direcionadas a segmentos específicos, como jovens mães, que estão frequentemente buscando ofertas em moda infantil.
+---
 
-### Dores Possíveis
-- **Experiência do Cliente:** Melhorar a navegação e funcionalidade mobile para evitar abandono de carrinho.
-- **Competitividade:** Lidar com a concorrência de outros e-commerces que oferecem produtos similares com preços agressivos.
-- **Sazonalidade das Vendas:** Planejar promoções mais estratégicas durante todo o ano, não apenas em épocas específicas.
+## 7. Conclusão
 
-## Contexto para Criação de Copys
-### Abordagem para Campanha de E-mail
-Utilizando dados que apontam um crescimento no uso das redes sociais para e-commerce, sugere-se enfatizar a importância do Marketing de Influência durante a configuração dos e-mails de vendas, destacando como Privalia pode se beneficiar de uma colaboração com influenciadores relevantes, que podem ajudar a transmitir confiança e aumentar as taxas de conversão.
+A colaboração com influenciadores pode não só aumentar o engajamento da loja Privalia, como também reforçar a construção de uma comunidade de clientes fiéis. Focando em segmentos específicos e em campanhas diárias e sazonais, a Privalia pode continuar a expandir seu alcance e suas vendas. Através deste relatório, a equipe de copywriting pode criar uma abordagem personalizada que se comunique eficazmente com a Privalia e suas necessidades de marketing de influência. 
 
-**Sugestões de Mensagens de E-mail:**
-1. **Título:** "Transforme sua marca em um sucesso das vendas!"
-   - Mensagem: "Com as promoções do Privalia em curso, podemos explorar a sua marca através de influenciadores de estilo que se alinham com seus valores, visando atrair mais consumidores em potencial."
+--- 
 
-2. **Título:** "Impulsione sua visibilidade com Privalia"
-   - Mensagem: "Imagine a sua marca vista pelos influenciadores que mais se fala! Juntos, podemos maximizar a eficácia de campanhas utilizando redes sociais e o marketing de influência."
-
-## Conclusão
-A Privalia apresenta uma plataforma inovadora no e-commerce com um forte apelo promocional. Utilizando influenciadores, a empresa pode não apenas aumentar sua visibilidade, mas também construir um relacionamento mais sólido com seus consumidores-alvo e mitigar os desafios do mercado.
-
-## Próximos Passos
-- **Pesquisa de Influenciadores:** Identificar influenciadores que ressoam com a marca Privalia, com base em seus produtos e público-alvo.
-- **Estratégia de Contato:** Elaborar um plano de outreach personalizando as comunicações com base nas informações aqui apresentadas.
-
-Com esse relatório, o copywriter terá um panorama claro e detalhado que facilitará a elaboração de uma comunicação eficaz e direcionada para a Privalia.
+Esse relatório deve servir como um guia para a criação de uma estratégia de abordagem envolvente e eficaz para a colaboração entre a nossa empresa e a Privalia.
