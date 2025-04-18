@@ -1,67 +1,67 @@
 # Relatório de Prospecção: Will Bank
 
-## 1. Informações Gerais da Empresa
-- **Nome**: Will Bank
-- **Segmento**: Fintech/Banco Digital
-- **Website**: [www.willbank.com.br](http://www.willbank.com.br)
-- **CNPJ**: 23.862.762/0001-00
-- **Localização**: Rua Eugênio de Medeiros, nº 303, 10º andar, Cj. 1001, bairro de Pinheiros, São Paulo-SP, CEP: 05425-000.
+## Informações Gerais da Empresa
+- **Nome da Empresa:** Will Bank
+- **Segmento:** Fintech / Banco Digital
+- **Localização:** São Paulo, SP, Brasil
+- **CNPJ:** 23.862.762/0001-00
+- **Website:** [www.willbank.com.br](http://www.willbank.com.br)
+- **Central de Relacionamento:** 3003-2593 (8h às 20h, todos os dias)
+- **SAC:** 0800 772 1026 (8h às 20h, todos os dias)
+- **Ouvidoria:** 0800 945 2265 (8h às 17h, dias úteis)
 
-## 2. Proposta de Valor
-O Will Bank é uma instituição financeira que oferece serviços de conta digital e cartão de crédito sem tarifas. Seu objetivo principal é proporcionar uma experiência financeira descomplicada e acessível, com destaque para:
-- **Ausência de tarifas**: Sem tarifas de manutenção ou anuidade.
-- **Facilidades de uso**: Pagamentos via aproximação, cartão virtual, recargas e transferências ilimitadas, entre outros.
-- **Rendimento do saldo**: A conta digital oferece rendimento superior à poupança.
+## Produtos e Serviços
+1. **Cartão de Crédito Will**
+   - **Características:** 
+     - Sem tarifas
+     - Internacional
+     - Pagamento por aproximação (contactless)
+     - Cartão virtual para compras online
+   - **Funcionalidades:** 
+     - Monitoramento de todas as movimentações pelo app
+     - Parcelamento de faturas e descontos ao antecipar parcelas
+     - Limite emergencial disponível
 
-## 3. Produtos e Serviços
-### 3.1 Conta Digital
-- **Rendimento**: O dinheiro separado em "Separar dinheiro" tem rendimento superior ao CDI.
-- **Funcionalidades**:
-  - Pix ilimitados
-  - Recarga de celular
-  - Pagar boletos com facilidade
-  - Cartão de débito
-  - Sistema de segurança robusto
-  - Opções de investimentos como CDB
+2. **Conta Digital Will**
+   - **Características:** 
+     - Sem tarifas de manutenção
+     - Rendimento superior à poupança
+   - **Funcionalidades:**
+     - Transferências ilimitadas via Pix
+     - Recarregamento de celular
+     - Pagamento de boletos
+     - Opção de separação de dinheiro para metas
 
-### 3.2 Cartão de Crédito
-- **Características**:
-  - Sem tarifas e anuidade
-  - Aceito internacionalmente
-  - Pagamentos por aproximação
-  - Cartão adicional gratuito
+3. **Segurança e Prevenção de Fraudes**
+   - Políticas de segurança robustas para evitar golpes e fraudes
+   - Bloqueio e desbloqueio de cartões diretamente pelo aplicativo
+   - Orientações para uso seguro das plataformas digitais
 
-## 4. Dores do Cliente
-Ao prospectar o Will Bank, é importante entender as dores comuns que os clientes enfrentam com instituições financeiras:
-- **Taxas escondidas**: Clientes estão cada vez mais cientes da importância de produtos financeiros sem taxas.
-- **Complicações em serviços**: Dificuldades em gerir suas contas e entender tarifas ou negativas de empréstimos.
-- **Problemas de segurança**: Medo de fraudes, golpes, e a necessidade de ferramentas que ofereçam proteção ao seu dinheiro.
+## Proposta de Valor
+Will Bank tem como proposta transformar a experiência do cliente em serviços financeiros, oferecendo praticidade e transparência através de sua plataforma digital.
 
-## 5. Perfil de Cliente Ideal
-O perfil de cliente ideal inclui:
-- **Jovens adultos e millennials**: Pessoas que buscam soluções bancárias acessíveis e digitais.
-- **Trabalhadores autônomos**: Que necessitam de flexibilidade e controle financeiro além do convencional.
-- **Público que valoriza inclusão e diversidade**: Alinhado às práticas de inclusão que o Will Bank adota em sua equipe.
+## Público-Alvo
+O público-alvo da Will Bank inclui jovens adultos, profissionais liberais, e empreendedores que buscam alternativas financeiras sem taxas elevadas e com um gerenciamento próximo de seus gastos.
 
-## 6. Estratégia de Marketing de Influência
-### 6.1 Oportunidades
-- **Parcerias com influenciadores**: Colaboração com criadores de conteúdo que falam sobre finanças pessoais, tecnologia e estilo de vida digital.
-- **Campanhas de engajamento**: Desenvolver campanhas centradas em mostrar a facilidade e segurança dos serviços do Will Bank.
+## Dores e Necessidades Identificadas
+1. **Transparência nas Taxas:** A maioria dos consumidores busca serviços financeiros sem tarifas escondidas ou abusivas.
+2. **Facilidade e Controle:** O público deseja acesso rápido às suas finanças e a possibilidade de controle total pelo celular.
+3. **Segurança:** Com o aumento das fraudes online, os clientes exigem soluções financeiras que priorizem a segurança de suas informações.
 
-### 6.2 Mensagens Chave
-- **Acesso à liberdade financeira**: Destacar a experiência livre de tarifas, segurança e crescimento financeiro que o Will oferece.
-- **Pequenos passos, grandes resultados**: Como a utilização do Will Bank pode transformar a rotina financeira de seus usuários.
+## Contexto de Mercado
+A crescente adesão aos serviços de fintechs no Brasil sugere um mercado em expansão, onde clientes preferem soluções práticas e econômicas em detrimento dos bancos tradicionais. Essas empresas têm se mostrado mais ágeis na adaptação às necessidades do público jovem, que é mais familiarizado com tecnologia.
 
-## 7. Informações sobre a Cultura da Empresa
-O Will Bank enfatiza a diversidade e inclusão em suas práticas de emprego, com porcentagens significativas de liderança composta por pessoas negras e LGBTQIA+. Essa ênfase na diversidade pode ser uma mensagem importante em campanhas de marketing em mídias sociais.
+## Oportunidades de Colaboração
+- **Campanhas de Marketing de Influência:** Utilizar influenciadores para apresentar experiências positivas com os produtos Will Bank, ampliando a visibilidade da marca e alcançando diferentes nichos de mercado.
+- **Conteúdo Educativo:** Produzir conteúdos que ajudem os clientes potenciais a entender melhor os produtos financeiros e a importância da gestão financeira.
 
-## 8. Canais de Comunicação
-- **Website**: [willbank.com.br](http://www.willbank.com.br)
-- **Redes sociais**: Presença ativa nas principais plataformas (Instagram, Facebook, etc.).
+## Conclusão
+A Will Bank é uma empresa inovadora no setor financeiro que se destaca pela ausência de tarifas e pela plataforma acessível, ideal para jovens e profissionais que buscam mais controle em suas finanças. Uma campanha de marketing de influência pode gerar um grande retorno, posicionando a Will Bank como líder em transparência e eficiência financeira no Brasil.
 
-## 9. Considerações Finais
-Este relatório reúne informações fundamentais que podem ser utilizadas para criar comunicações personalizadas e aprofundadas na prospecção do Will Bank. Utilizar a abordagem de influenciadores e destacar as dores que enfrentam pode resultar em uma conexão mais significativa com a marca, atraindo novos clientes e aumentando a conscientização sobre seus serviços.
+## Sugestões para o Copywriter
+Para o e-mail a ser enviado, considere enfatizar:
+- A proposta de valor única da Will Bank.
+- Histórias de sucesso de usuários que melhoraram sua vida financeira através do uso do app.
+- Incentivo à interação com influenciadores que representam a marca, promovendo o engajamento e a confiança.
 
---- 
-
-Esse formato fornece uma visão abrangente da organização, ajudando a equipe de copywriting a criar uma abordagem que ressoe com potenciais clientes através de um email altamente personalizado.
+Esse relatório é uma ferramenta essencial para a equipe de vendas e marketing, permitindo uma abordagem personalizada e eficaz para conquistar a Will Bank como um cliente satisfeito.
