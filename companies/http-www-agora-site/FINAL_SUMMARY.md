@@ -1,75 +1,61 @@
-# Relatório de Prospecção da Empresa Ágora 
+# Relatório de Prospecção: ágora – Marketing de Influência
 
-## 1. Informações Gerais
-- **Nome da Empresa:** Ágora
-- **Fundação:** 2014
+## **Informações Gerais da Empresa:**
+- **Nome:** ágora
 - **Website:** [agora.site](https://agora.site/)
-- **Segmento:** Consultoria de assuntos públicos e comunicação estratégica.
-- **Localização:** Presente em cinco cidades da América Latina (Buenos Aires, Bogotá, Cidade do México, São Paulo, Medellín).
-- **Contatos:**
-  - **Buenos Aires:** Monroe 899, C1428BKC, Tel. +54 11 5279-9000
-  - **Bogotá:** Calle 80 No. 10 – 43, Edificio de Profesionales, Oficina 601, Tel. +57 1 756 0585
-  - **Cidade do México:** Barranca del muerto 210 PB 1B, Colonia Guadalupe Inn, Álvaro Obregón, CP01020, Tel. 5511638867
-  - **São Paulo:** Rua Bruxelas, 188, 1º andar, Tel. +55 11 5990-3906
-  - **Medellín:** Calle 13 # 36 A 156 (902), El Poblado, Tel. +57 310 874 1817
+- **Fundação:** 2014
+- **Localização:** 
+  - **Argentina (Buenos Aires)**: Monroe 899, C1428BKC
+  - **Brasil (São Paulo)**: Rua Bruxelas, 188, 1º andar
+  - **Colômbia (Bogotá)**: Calle 80 No. 10 - 43, Edificio de Profissionais, Oficina 601
+  - **Colômbia (Medellín)**: Calle 13 # 36 A 156 (902), El Poblado
+  - **México (Cidade do México)**: Barranca del muerto 210 PB 1B, Colonia Guadalupe Inn
 
-## 2. Descrição da Empresa
-A Ágora é uma consultoria renomada no campo da comunicação e gestão de reputação, oferecendo suporte a marcas e organizações na construção e manutenção de sua imagem em um ambiente complexo. Reconhecida no setor, a Ágora foi finalista do "Melhor Agência da LATAM" no PRWeek Global Awards 2022, demonstrando seu comprometimento com a excelência nos serviços prestados.
+## **Serviços Oferecidos:**
+- **Gestão de Reputação**
+- **Comunicação e Relações Públicas**
+- **Assuntos Públicos**
+- **Advocacy e Impacto Social**
+- **Conteúdo Digital e Engajamento**
 
-## 3. Serviços Oferecidos
-A Ágora oferece uma gama abrangente de serviços, que podem se beneficiar de uma estratégia de marketing de influência como complemento, incluindo:
-- **Gestão de Reputação:** Ferramentas para proteger a imagem de marcas.
-- **Comunicações e Relações Públicas:** Desenvolvimento de estratégias de comunicação eficazes.
-- **Assuntos Públicos:** Engajamento proativo com legisladores e políticas.
-- **Advocacy e Impacto Social:** Promoção de causas sociais alinhadas aos interesses das marcas.
-- **Conteúdo Digital e Engajamento:** Criação de conteúdo que fomenta interações significativas.
+## **Experiência e Clientes:**
+- **Setor de Atuação:** Consultoria de relações públicas e comunicação estratégica, com forte presença nas Américas.
+- **Principais Clientes:** 
+  - BP Bunge
+  - Diageo
+  - Havaianas
+  - Netflix
+  - Pfizer
+  - Starbucks
+  - entre outros.
 
-## 4. Segmento de Clientes
-A Ágora atende marcas de vários setores:
-- **Marcas de consumo**
-- **Indústria farmacêutica**
-- **Serviços**
-- **Infraestrutura**
-  
-### Cliente Destaque
-Os clientes incluem grandes nomes como:
-- BP Bunge
-- Diageo
-- L'Oréal
-- Netflix
-- Starbucks
-- Pfizer
+## **Diferenciais Competitivos:**
+- Reconhecida como finalista do “Best Agency in LATAM” nos PRWeek Global Awards 2022.
+- Presença estratégica na Europa e América do Norte através de parcerias.
+- Abordagem multidisciplinar que combina criatividade, estratégia, dados e pesquisa.
+- Expertise em um leque variado de indústrias, incluindo bens de consumo, farmacêuticos e infraestrutura.
 
-Esses setores apresentam um potencial significativo para campanhas de marketing de influência, onde a construção de conexões autênticas é vital.
+## **Público-Alvo e Mercado:**
+- **Segmentos de Mercado:** Empresas de médio a grande porte, que buscam fortalecer sua presença em comunicação estratégica e gestão de reputação.
+- **Desafios Identificados:** Empresas estão cada vez mais expostas à opinião pública e precisam proteger sua reputação em um ambiente repleto de vozes divergentes e críticas rápidas.
 
-## 5. Contexto e Desafios
-### Possíveis Dores das Marcas:
-- **Gerenciamento da Reputação**: Necessidade constante de manter avaliações positivas.
-- **Conexão com o Público**: Desafios em construir relacionamentos genuínos em um mercado saturado.
-- **Engajamento Social**: Demanda por conteúdo que ressoe com o público de maneira significativa.
+## **Dores Potenciais:**
+1. **Gestão de Crises:** Com a rápida disseminação da informação, marcas enfrentam dificuldades para gerenciar crises de reputação.
+2. **Engajamento com o Público:** Necessidade de construir uma comunicação mais autêntica e alinhada aos interesses do público, especialmente nas redes sociais.
+3. **Medidas de Impacto:** Identificar e implementar ações que gerem impacto social positivo, integrando responsabilidade corporativa na estratégia de comunicação.
+4. **Acompanhamento e Análise de Tendências:** O acompanhamento contínuo das tendências do mercado e da opinião pública é fundamental para que empresas se mantenham relevantes.
 
-### Tendências do Mercado:
-A fiscalização constante do ambiente político e econômico da América Latina é crucial para as empresas, ajudando-as a adaptar suas estratégias de comunicação de forma eficaz.
+## **Proposta de Valor do Serviço de Marketing de Influência:**
+- A atuação em Marketing de Influência se torna fundamental para a construção de reputação e engajamento de marcas. Influenciadores são vozes autênticas que podem ajudar a transmitir mensagens de forma mais eficaz para novos públicos, aumentando a credibilidade da marca.
 
-## 6. Estratégia de Prospecção
-### Abordagem Inicial:
-- Personalizar a comunicação para mostrar como o marketing de influência pode complementar os esforços da Ágora em gestão de reputação e engajamento.
-- Oferecer uma rede diversificada de influenciadores com os quais as marcas já colaboram, alinhados aos seus valores.
+## **Contexto e Oportunidade:**
+- A ágora tem um portfólio robusto e conhecimento em setores variados que podem se beneficiar imensamente de estratégias de Marketing de Influência, especialmente em tempos de transformação digital onde as interações online têm maior peso sobre as decisões dos consumidores.
 
-### Elementos de Mensagem:
-- Destacar a experiência da Ágora e sugerir nosso serviço como um parceiro estratégico que pode solidificar sua proposta de valor.
-- Incluir exemplos concretos de campanhas de marketing de influência que resultaram em melhorias de reputação e engajamento.
+## **Sugestões para Abordagem:**
+- **Email de Prospecção Personalizado:**
+  - Focar nos desafios identificados, como gestão de crises e engajamento com o público.
+  - Destacar casos de sucesso em que a ágora ajudou a construir reputações sólidas e melhorar a presença digital de marcas.
+  - Propor uma reunião para discutir como integrar estratégias de Marketing de Influência aos serviços atuais, potencializando a conexão com influenciadores que refletem os valores da marca.
 
-## 7. Equipe e Liderança
-A equipe é composta por profissionais experientes incluindo:
-- **Everton Schultz** - Presidente e Parceiro (Brasil)
-- **Patricia Ávila** - Diretora Regional & Diretora Geral (Brasil)
-- **Rogelio Blanco** - Presidente e Parceiro (México)
-
-Esses líderes valorizam a inovação e a colaboração, sendo objetivos ideais para uma abordagem personalizada no contato.
-
-## 8. Análises e Relatórios
-A Ágora gera análises sobre tendências sociais, políticas e mercadológicas, utilizando relatórios como o "Ágora Thinking" para fornecer insights valiosos que informam decisões estratégicas.
-
-## 9. Conclusão
-A Ágora está posicionada como uma oportunidade significativa para colaboração no setor de marketing de influência. Um plano de colaboração detalhando o valor agregado de nossos serviços poderia melhorar significativamente suas iniciativas existentes, ajudando a construir uma reputação sólida e uma comunicação integrada e engajada com seus públicos-alvo. Este relatório fornece uma base robusta para futuras interações e desenvolvimentos estratégicos.
+## **Conclusão:**
+Vale a pena unir forças e oferecer à ágora o suporte em campanhas de Marketing de Influência que podem amplificar ainda mais seu impacto no mercado, proporcionando soluções inovadoras que se alinham às suas necessidades estratégicas.
