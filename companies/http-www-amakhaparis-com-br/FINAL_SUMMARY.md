@@ -2,48 +2,51 @@
 
 ## 1. Informações Gerais da Empresa
 - **Nome da Empresa:** Amakha Paris
-- **Site:** [amakha.com.br](http://www.amakhaparis.com.br/)
+- **Website:** [amakha.com.br](http://www.amakhaparis.com.br/)
 - **Segmento:** Cosméticos, Perfumaria e Nutracêuticos
 - **Localização:**
   - **Sede:** Rua do Sacramento, 522, Rudge Ramos, São Bernardo do Campo, SP
 - **CNPJ:** 28.707.475/0001-31
+- **Missão:** Garantir produtos de extrema qualidade em perfumes, cosméticos e nutracêuticos através de cuidado, dedicação e estudo técnico.
 
 ## 2. Produtos e Serviços
-A Amakha Paris oferece uma ampla gama de produtos nos seguintes segmentos:
+A Amakha Paris oferece uma ampla gama de produtos, incluindo:
 - **Perfumes:**
-  - Diversas linhas de fragrâncias para adultos e crianças, incluindo opções femininas, masculinas e unissex.
+  - Linhas variadas de fragrâncias para adultos e crianças, incluindo opções femininas, masculinas e unissex.
 - **Cuidados com o Cabelo:**
   - Shampoos, condicionadores, máscaras de tratamento e finalizadores.
 - **Cuidados com o Corpo:**
   - Hidratantes, desodorantes, esfoliantes e sabonetes.
 - **Nutracêuticos:**
-  - Suplementos alimentares voltados para beleza, saúde e bem-estar, com foco em nutrição e cuidados de dentro para fora.
+  - Suplementos alimentares voltados para beleza, saúde e bem-estar, focando em nutrição e cuidados de dentro para fora.
 
 ## 3. Público-Alvo
-O público-alvo da Amakha Paris é diversificado, compreendendo:
-- Homens e mulheres adultos que buscam produtos de qualidade em cosméticos e perfumaria.
-- Pais em busca de produtos seguros e saudáveis para crianças.
-- Consumidores interessados em nutrição e suplementos para melhorar a saúde e a estética.
+O público-alvo da Amakha Paris é diversificado e inclui:
+- **Homens e Mulheres Adultos:** Buscam produtos de qualidade em cosméticos e perfumaria.
+- **Pais:** À procura de produtos seguros e saudáveis para crianças.
+- **Consumidores em Busca de Saúde:** Interesse crescente por produtos que promovam a saúde interna e o bem-estar.
 
 ## 4. Proposta de Valor
-A Amakha Paris se posiciona como uma marca que une qualidade, sofisticação e acessibilidade, oferecendo produtos inspirados em marcas renomadas a preços competitivos. A proposta de valor inclui:
-- **Inovação e Qualidade:** Produtos que utilizam matérias-primas de alta qualidade.
-- **Variedade:** Uma ampla gama de opções que atendem a diferentes necessidades e gostos.
-- **Acessibilidade:** Preços competitivos, promoções e frete grátis em compras acima de determinados valores.
+A Amakha Paris se posiciona como uma marca acessível que destaca:
+- **Qualidade e Sofisticação:** Produtos feitos com matérias-primas de alta qualidade.
+- **Variedade:** Ampla gama de produtos adaptados a diferentes necessidades e gostos.
+- **Preços Competitivos:** Promoções e frete grátis em compras acima de um determinado valor.
 
 ## 5. Dores e Necessidades do Público
-- **Necessidade de Produtos de Qualidade:** Consumidores buscam cosméticos e perfumes que se destaquem pela qualidade e durabilidade.
-- **Variedade de Produtos:** A demanda por opções que atendam diferentes gostos, ocasiões e necessidades.
-- **Saúde e Bem-Estar:** Interesse crescente por produtos que promovam não apenas a beleza exterior, mas também a saúde interna.
+As principais dores e necessidades do público incluem:
+- **Necessidade de Produtos de Alta Qualidade:** Compradores buscam cosméticos e perfumes duráveis.
+- **Variedade:** Desejo por opções que atendam a diferentes ocasiões e preferências.
+- **Saúde e Bem-Estar:** Maior interesse por produtos que promovam a saúde interna tanto quanto a beleza externa.
 
 ## 6. Contexto Atual
-- **Tendências de Mercado:** Cada vez mais consumidores estão optando por produtos que alinhem sustentabilidade, naturalidade e eficácia.
-- **Concorrência:** O mercado de cosméticos é altamente competitivo, com marcas já consolidadas e novas startups em constante ascensão.
+- **Tendências de Mercado:** A demanda por produtos alinhados com sustentabilidade e naturalidade está aumentando.
+- **Concorrência:** Competição intensa entre marcas consolidadas e novas startups no mercado de cosméticos.
 
 ## 7. Estratégias de Marketing de Influência Recomendada
-- **Parcerias com Influenciadores:** Identificar influenciadores no segmento de beleza e saúde que ressoem com a imagem da marca.
-- **Conteúdo Personalizado:** Criar campanhas que destaquem as qualidades dos produtos e história da marca em colaboração com influenciadores.
-- **Ações de Experiência:** Criar experiências de unboxing e resenhas com influenciadores, incentivando a interação e engajamento com seus seguidores.
+Sugestões para potencializar a conexão da Amakha Paris com influenciadores:
+- **Parcerias com Influenciadores de Beleza e Saúde:** Identificar vozes autênticas que resonem com o valor da marca.
+- **Conteúdo Personalizado:** Desenvolver campanhas que exaltem os diferenciais dos produtos e a história da marca em colaborações.
+- **Experiências de Influenciadores:** Criar experiências de unboxing, resenhas e conteúdos interativos para aumentar engajamento.
 
 ## 8. Links Relevantes
 - **Página Principal:** [Amakha Paris](http://www.amakhaparis.com.br/)
@@ -54,4 +57,4 @@ A Amakha Paris se posiciona como uma marca que une qualidade, sofisticação e a
 
 ---
 
-Este relatório contém todas as informações necessárias para que o copywriter da equipe possa elaborar uma mensagem aprofundada e personalizada para a Amakha Paris, focando em suas características, desafios e como a parceria com influenciadores pode agregar valor à marca.
+Este relatório contém informações essenciais para que o copywriter elabore um email personalizado focando nas características, desafios e como uma parceria com influenciadores pode agregar valor à marca Amakha Paris.
