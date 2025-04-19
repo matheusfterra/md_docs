@@ -1,7 +1,6 @@
 # Relatório de Prospecção - Cora
 
 ## Informações Gerais sobre a Empresa
-
 - **Nome da Empresa:** Cora  
 - **Segmento:** Fintech/Banco Digital  
 - **Localização:** Rua Frei Caneca, 1246, 3º andar, sala 31, Consolação – São Paulo/SP  
@@ -21,7 +20,6 @@ A Cora é uma conta digital projetada para facilitar a gestão financeira de peq
 - **Gestão de Fluxo de Caixa:** Acompanhamento em tempo real das entradas e saídas financeiras.
 
 ## Características da Empresa
-
 ### Público-Alvo
 A Cora atende principalmente pequenas e médias empresas (PMEs), autônomos e profissionais liberais que buscam uma gestão financeira prática e acessível.
 
@@ -37,7 +35,6 @@ A Cora atende principalmente pequenas e médias empresas (PMEs), autônomos e pr
 - **Falta de Integração:** Necessidade por soluções que unifiquem diferentes serviços financeiros em uma única plataforma.
 
 ## Contexto do Mercado
-
 ### Tendências
 O mercado financeiro tem se deslocado em direção a soluções digitais que tornam a gestão financeira mais acessível, especialmente para pequenos empreendedores. A demanda por serviços bancários descomplicados está em crescimento.
 
@@ -47,13 +44,13 @@ O mercado financeiro tem se deslocado em direção a soluções digitais que tor
 
 ## Sugestões para Atração de Clientes
 O e-mail de prospecção pode incluir:
-- Diferenciação das soluções da Cora em relação ao setor de fintechs e métodos tradicionais.
-- Estudos de caso de clientes que reduziram suas despesas ao migrar para a Cora.
+- Diferenciação das soluções da Cora em relação ao setor de fintechs e métodos tradicionais, destacando a isenção de taxas e a atuação direcionada para PMEs.
+- Estudos de caso de clientes que reduziram suas despesas ao migrar para a Cora, ressaltando a eficiência financeira e a desburocratização dos processos.
 - Demonstrações do impacto positivo que uma gestão financeira descomplicada pode ter na saúde e eficiência das PMEs.
 
 ## Conclusão
-Com um foco em desburocratizar a gestão financeira, a Cora se posiciona como uma solução sólida e atrativa para pequenas e médias empresas, oferecendo ferramentas para simplificar transações financeiras e melhorar o fluxo de caixa. Esse perfil torna a Cora uma oportunidade excelente para captação de leads em campanhas de marketing de influência.
+Com um foco em desburocratizar a gestão financeira, a Cora se posiciona como uma solução sólida e atrativa para pequenas e médias empresas, oferecendo ferramentas para simplificar transações financeiras e melhorar o fluxo de caixa. Esse perfil torna a Cora uma oportunidade excelente para captação de leads em campanhas de marketing de influência. 
 
---- 
+---
 
 Esse relatório fornecerá uma base abrangente e detalhada sobre a Cora, permitindo que o copywriter refine a estratégia de comunicação para a captação de novos clientes através de e-mails personalizados.
