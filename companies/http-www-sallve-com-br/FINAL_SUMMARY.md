@@ -1,61 +1,57 @@
 # Relatório de Prospecção - Sallve
 
-## 1. Informações Gerais da Empresa
+## Informações Gerais da Empresa
+
 - **Nome da Empresa:** Sallve
-- **Segmento:** Dermocosméticos (Skincare)
 - **Website:** [sallve.com.br](http://www.sallve.com.br)
-- **Localização:** Rua Cônego Eugênio Leite, 767 - São Paulo/SP - CEP: 05414-012, Brasil
-- **CNPJ:** 32.124.385/0001-95
+- **Segmento:** Dermocosméticos, com foco em produtos para cuidados com a pele.
+- **Missão:** Criar fórmulas inovadoras e seguras que atendam às necessidades reais da pele brasileira, baseadas em ciência e feedback da comunidade.
+- **Modelo de Negócio:** Venda direta através do e-commerce e presença em farmácias, quiosques e marketplaces.
 
-## 2. Visão Geral da Marca
-A Sallve é uma marca que combina ciência e comunidade na criação de produtos de skincare. Nativa digital, a marca tem um foco forte em pesquisa, inovação e escuta ativa das necessidades dos consumidores. Seus produtos são desenvolvidos para atender a problemas de pele comuns, como oleosidade, acne e sinais de envelhecimento. A marca enfatiza práticas seguras e eficazes com produtos dermatologicamente testados.
+## Público-Alvo
 
-## 3. Produtos e Catálogo
-A Sallve oferece uma gama diversificada de produtos, incluindo:
+- **Demografia:** Pessoas com diferentes tipos de pele (oleosa, seca, sensível, mista) e preocupações dermatológicas.
+- **Idade:** Principalmente adultos jovens e adultos (18-40 anos).
+- **Comportamento:** Consumidores que buscam produtos de skincare eficazes, naturais e com benefícios claros, preocupados com a saúde da pele e a eficácia dos produtos.
 
-### 3.1. Categorias de Produtos
-- **Hidratação:** Produtos para pele seca ou oleosa.
-- **Proteção Solar:** Protetores solares em formatos inovadores como bastões.
-- **Tratamentos:** Produtos para acne, oleosidade e rejuvenescimento.
-- **Limpeza:** Limpeza facial que respeita o pH da pele.
-- **Acessórios e Kits:** Kits diversos que incluem combinações de produtos.
+## Produtos e Propostas de Valor
 
-### 3.2. Produtos em Destaque
-- **Bastão Antioleosidade:** Controla a produção de sebo e proporciona efeito matte.
-- **Hidratante Antioleosidade:** Hidratação leve com controle de oleosidade.
-- **Sérum Antiacne:** Tratamento intensivo para acne com Ácido Salicílico e Niacinamida.
-- **Protetor Solar Bastão com Cor:** Proteção solar com coloração e benefícios antimanchas.
+### Linhas de Produtos
+1. **Linha Super Ativos:** Focados em resultados efetivos utilizando ingredientes de alta performance.
+2. **Linha Antioleosidade:** Para controle da oleosidade, com fórmulas como o Bastão Antioleosidade e o Hidratante Antioleosidade.
+3. **Linha Antiacne:** Destinada a peles com acne, com produtos como o Sérum Antiacne e Limpador Antiacne.
+4. **Linha Antioxidante:** Produtos que utilizam ingredientes como vitamina C e ácido hialurônico.
+5. **Produtos Multifuncionais:** Como o Bastão Antiolheiras e o Protetor Solar, combinando eficácia e facilidade de uso.
 
-## 4. Público-Alvo
-A empresa foca principalmente em jovens adultos e adultos que buscam soluções eficazes e práticas para cuidados com a pele, especialmente aqueles que enfrentam problemas específicos como oleosidade e acne.
+### Destaques e Diferenciais
+- **Fórmulas testadas:** Produtos dermatologicamente e clinicamente testados, garantindo segurança e eficácia.
+- **Foco em inovação:** Colaboração com a comunidade para co-criação de produtos, garantindo que os lançamentos atendam às reais necessidades dos consumidores.
+- **Formato prático:** Muitos produtos em formato de bastão, que são fáceis de transportar e aplicar.
 
-### 4.1. Características do Público
-- **Idade:** Principalmente entre 18-35 anos.
-- **Interesse por Skincare:** Consumidores que valorizam produtos dermatologicamente testados e seguros.
-- **Digitalmente Ativos:** Usuários frequentes de redes sociais, o que possibilita campanhas de marketing digital e parcerias com influenciadores.
+## Dores e Desafios do Segmento
 
-## 5. Análise de Concorrência
-Sallve enfrenta concorrência de marcas como:
-- **La Roche-Posay:** Focada em produtos hipoalergênicos e dermatologicamente testados.
-- **Bioré:** Marca que se destaca em limpeza facial e proteção solar.
-- **The Ordinary:** Conhecida por sua transparência em ingredientes e preços acessíveis.
+- **Concorrência:** O mercado de dermocosméticos é bastante concorrido, com várias marcas oferecendo produtos similares.
+- **Education do Consumidor:** É crucial educar o consumidor sobre a importância de adaptar a rotina de cuidados de acordo com as necessidades pessoais e o tipo de pele.
+- **Integração Digital:** A necessidade de manter um forte online presence e engajamento com os consumidores nas mídias sociais.
 
-## 6. Possíveis Dores/Desafios do Cliente
-- **Controle de Oleosidade:** Muitas pessoas enfrentam dificuldades em encontrar produtos que ajudem a controlar a oleosidade sem comprometer a hidratação da pele.
-- **Necessidade de Produtos Práticos:** A rotina corrida de muitos consumidores leva à busca por produtos fáceis de usar e que possam ser transportados com praticidade.
-- **Preocupações com Ingredientes:** Consumidores estão cada vez mais preocupados com a composição dos produtos, buscando soluções que não causem irritações e que sejam sustentáveis.
+## Possíveis Oportunidades
 
-## 7. Oportunidades de Parceria
-- **Campanhas de Influenciadores:** A Sallve poderia se beneficiar de parcerias estratégicas com influenciadores que falam sobre skincare, saúde e beleza, aumentando seu alcance no público jovem adulto.
-- **Ações de Co-Criação:** Como a empresa já realiza colaborações com a comunidade, ações que envolvam influenciadores no desenvolvimento de novos produtos podem fortalecer essa relação e promover engajamento.
+1. **Parcerias com Influenciadores:** Colaboração com influenciadores do segmento de skincare e beleza para criação de conteúdos autênticos e engajantes.
+2. **Expansão de Linhas de Produtos:** Desenvolver novas linhas que atendam nichos específicos ou tendências emergentes no mercado de beleza e saúde.
+3. **Conteúdo Educacional:** Aumento de esforços na produção de conteúdo educacional que ajude o consumidor a entender seu tipo de pele e como usar os produtos Sallve de forma eficaz.
 
-## 8. Mensagem Chave para Prospecção
-Ao comunicar com a Sallve, destaque como a colaboração com a sua empresa pode potencializar suas campanhas de marketing de influência, alcançando um público mais amplo e reforçando a imagem de inovação e eficácia dos seus produtos.
+## Proposta de Abordagem
 
-## 9. Contato
-- **E-mail para contato:** [contato@sallve.com.br](mailto:contato@sallve.com.br)
-- **Horário de Atendimento:** Segunda à sexta - 08h às 20h; Sábado - 08h às 18h
+### Sugestão de Mensagem
 
----
+**Assunto:** Descubra a verdadeira beleza da sua pele com Sallve
 
-Este relatório deve fornecer uma base sólida para que o copywriter crie uma comunicação personalizada e impactante para a Sallve, destacando como sua abordagem de marketing de influência pode atender às necessidades e objetivos da marca.
+**Corpo do E-mail:**
+- Iniciar reconhecendo a importância que a empresa dá para o cuidado da pele de seus consumidores.
+- Destacar a inovação e os testes clínicos que asseguram a eficácia e segurança dos produtos.
+- Mencionar a importância da colaboração com influenciadores para fortalecer a presença da marca no mercado.
+- Oferecer uma proposta para discutir como a Sallve pode se beneficiar de uma campanha de marketing de influência, aproveitando a conexão emocional que influencers têm com seus seguidores.
+
+## Conclusão
+
+A Sallve é uma marca inovadora no segmento de dermocosméticos que se destaca por seus produtos de alta qualidade, baseados em ciência e desenvolvimento que prioriza a participação da comunidade. A proposta de implementar uma estratégia de marketing de influência pode ser uma oportunidade valiosa para expandir seu alcance e se conectar ainda mais com seu público-alvo. Com o suporte certo, a Sallve pode potencializar sua presença no mercado e alcançar resultados ainda mais expressivos.
