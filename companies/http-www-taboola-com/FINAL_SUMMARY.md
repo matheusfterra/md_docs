@@ -1,57 +1,59 @@
-# Relatório de Prospecção para Taboola
+# Relatório de Prospecção - Taboola
 
-## Informações Gerais da Empresa
+## Informações Gerais
 
-**Nome da Empresa:** Taboola  
-**Website:** [www.taboola.com](http://www.taboola.com)  
-**Segmento:** Publicidade Digital, Marketing de Influência, Advertising Technology  
-**Objetivo Principal:** Conectar marcas com conteúdos relevantes que geram engajamento e conversão.
+- **Nome da Empresa:** Taboola
+- **Segmento:** Marketing de Influência e Publicidade Digital
+- **Website:** [www.taboola.com](http://www.taboola.com)
+- **Modelo de Negócio:** Plataforma de publicidade e marketing de conteúdo, que conecta marcas a editores e influenciadores através de tecnologia de publicidade orientada por dados.
 
-## Principais Características
+## Descrição e Valores da Empresa
 
-### Produtos e Serviços:
-1. **Performance Marketing:** Especialização em tecnologia publicitária que oferece resultados mensuráveis além da busca e das mídias sociais.
-2. **AI de Performance:** Utilização de inteligência artificial para impulsionar conversões e ações.
-3. **Dados de Primeira Parte:** Coleta e análise de dados para segmentação eficaz das audiências.
-4. **Experiências Publicitárias:** Adaptação de criativos para atender objetivos de marketing dos anunciantes, incluindo automação de criação com a GenAI Ad Maker.
+### Missão
+A Taboola tem como missão ajudar marcas a alcançar seu público-alvo de maneira eficaz usando tecnologia de publicidade de performance que oferece resultados mensuráveis. Eles buscam otimizar campanhas através de dados próprios e inteligência artificial para garantir o máximo retorno sobre investimento (ROI).
 
-### Indústrias Atendidas:
-- eCommerce
-- Grandes Marcas
-- Agências de Publicidade
+### Visão
+A visão da empresa é ser a referência em publicidade digital, especialmente em performance e engajamento, oferecendo soluções que não só geram cliques, mas também ações concretas como conversões e fidelização de clientes.
 
-### Casos de Sucesso:
-- **eToro:** Aumento da taxa de conversão de 30% e redução de CPM em 40% ao entrar no canal de aquisição da Taboola.
-- **Bosch:** Aumento significativo de tráfego e comparação competitiva com campanhas sociais.
-- **Hyundai:** Redução de 30% no custo por sessão e 26% no custo por lead.
-- **Basic Bananas:** Aumento de 20% nas inscrições para workshops marketing.
+## Principais Características da Empresa
 
-### Diferenciais Competitivos:
-- Ampla rede de publisher de mídia.
-- Oferta de soluções de anúncios baseadas em dados que otimizam o custo e o desempenho.
-- Capacidade de atingir públicos altamente segmentados através da análise de sinais em tempo real.
+### Produtos e Serviços
+- **Publicidade de Performance:** A Taboola oferece uma plataforma que se destaca em anúncios que impulsionam ações, como compras e leads qualificados. 
+- **Dados de Primeira Mão:** Utiliza dados coletados de interações dos usuários para uma segmentação mais precisa.
+- **Inteligência Artificial:** Implementa IA para otimizar campanhas e ajudar na criação de anúncios eficazes, além de facilitar a gestão das campanhas através de ferramentas intuitivas.
 
-## Possíveis Dores da Empresa
+### Case Studies de Sucesso
+1. **eToro:** 30% de conversão em registros para usuários pagantes.
+2. **Bosch:** Aumento significativo no tráfego e redução em métricas como CPC e CTR.
+3. **Hyundai:** Redução de 30% no custo por sessão e melhor performance em comparação a outros canais.
 
-1. **Concorrência Intensa em Publicidade Digital:** A luta para se destacar em um espaço saturado de ad tech.
-2. **Desafios na Conversão de Leads:** Necessidade de otimizar o funil de vendas e converter tráfego em clientes pagantes.
-3. **Expectativas de ROI Elevadas:** Os anunciantes exigem resultados rápidos e mensuráveis, aumentando a pressão sobre as campanhas.
-4. **Acompanhamento e Análise de Dados:** A complexidade na interpretação de dados de campanhas e suas implicações para ajustes de estratégia.
+### Algoritmo e Tecnologia
+A empresa emprega um algoritmo sofisticado que utiliza dados de publishers para maximizar a eficiência dos anúncios. Esse sistema permite que os anunciantes explorem audiências baseadas nos interesses mais relevantes.
 
-## Contexto de Prospecção
+## Possíveis Dores e Necessidades
 
-### Cenário Atual:
-Taboola se posiciona como uma plataforma de descoberta que conecta marcas a novos públicos por meio de conteúdo nativo e propagandas pagas. Sua tecnologia permite acesso a dados únicos, resultando em campanhas publicitárias personalizadas e eficazes. A empresa possui um portfólio impressionante de casos de sucesso que demonstram seu impacto positivo em diversas indústrias.
+### Dores Comuns
+- **Desempenho de Campanhas:** Marcas frequentemente enfrentam desafios em garantir que suas campanhas alcancem o público certo e convertam sem comprometer o orçamento.
+- **Saturação de Anúncios Virtuais:** Com a competição crescente, é difícil para as marcas se destacarem usando métodos tradicionais de publicidade.
+- **Falta de Dados Reais:** Muitas empresas lutam para obter insights acionáveis a partir de dados de audiência.
 
-### Estratégia de Comunicação:
-A proposta para a equipe de copywriting deve enfatizar como a Taboola pode ajudar a resolver as dores mencionadas, destacando a eficácia da sua tecnologia e suas capacidades de segmentação. Utilizar dados de sucesso de casos relevantes ajudará a construir credibilidade e urgência na comunicação.
+### Necessidades de Marketing
+- **Aumento de Leads Qualificados:** Existe uma demanda crescente por estratégias que não apenas aumentem o tráfego, mas que também convertam visitantes em clientes em potencial.
+- **Melhoria na Retenção de Clientes:** Estratégias de retargeting e engajamento contínuo são importantes para as marcas que buscam reter clientes.
+- **Mensuração de Resultados:** As empresas precisam de métricas claras e quantificáveis para analisar a performance dos seus investimentos em anúncios.
 
-## Ações Recomendadas
-1. **Personalização da Abordagem:** Criar conteúdos que falem diretamente sobre as necessidades da marca em questão, apresentando possíveis soluções oferecidas pela Taboola.
-2. **Destaque de Resultados:** Usar provas sociais de resultados já comprovados em segmentos similares ao da empresa prospectada.
-3. **Convite à Ação:** Incluir um convite para uma demonstração ou conversa para explorar como a Taboola pode especificamente atender às necessidades da empresa prospectada.
+## Contexto do Mercado
 
-## Considerações Finais
-Taboola não é apenas uma plataforma de publicidade; é uma ferramenta estratégica que equipará marcas para navegar em um mundo digital dinâmico e competitivo. Com seu compromisso em gerar resultados e otimizar campanhas publicitárias, a empresa está bem posicionada para expandir suas parcerias e alcance.
+### Tendências no Marketing de Influência
+- O crescimento do consumo de conteúdo digital e a confiança dos consumidores em recomendações online têm impulsionado a importância do marketing de influência.
+- Com o aumento da regulamentação e da proteção de dados, o uso de dados de primeira mão se torna cada vez mais importante para entender e segmentar o público correto.
 
-**Contato:** Seguir com um convite por e-mail para discutir as considerações e personalizar propostas que se adequem às dores e necessidades específicas da empresa.
+### Oportunidades para Taboola
+- Conexões entre marcas e influenciadores podem ser potencializadas através de campanhas orientadas por dados que aumentam o ROI.
+- Expansão para novos nichos de mercado onde a publicidade de performance ainda está subexplorada.
+
+## Conclusão
+
+A Taboola possui um forte posicionamento no mercado de marketing digital, com uma proposta de valor clara que se alinha às necessidades contemporâneas de anunciantes em busca de resultados tangíveis. Utilizando um enfoque baseado em dados e tecnologia, a empresa está bem posicionada para ajudar marcas a maximizar seu impacto digital na era da publicidade moderna. 
+
+Este relatório fornecerá aos copywriters as informações necessárias para gerar uma comunicação direcionada e que ressoe com as dores e necessidades da empresa, ao apresentar como a associação com influenciadores através da Taboola pode servir como uma solução eficaz para seus desafios de marketing.
