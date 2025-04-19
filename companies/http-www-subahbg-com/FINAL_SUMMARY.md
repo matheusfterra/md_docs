@@ -1,39 +1,63 @@
-# Relatório de Prospecção - Suba Event Space
+# Relatório de Prospecção para a Suba
 
-## Informações Gerais
-- **Nome da Empresa:** Suba Event Space
-- **Localização:** 272 North Street, Harrisburg, PA 17101
-- **Website:** [www.subahbg.com](http://www.subahbg.com)
-- **Contatos:**
-  - E-mail: Staci@mangiaqui.com
-  - Telefone: 717-233-7358
+## Informações Gerais da Empresa
+- **Nome da Empresa:** Suba
+- **Endereço:** 272 North Street, Harrisburg, PA 17101
+- **Contato:** 717-233-7358
+- **Email:** Staci@mangiaqui.com
+- **Website:** [subahbg.com](http://www.subahbg.com/)
 
-## Descrição do Negócio
-O Suba Event Space é um espaço para eventos localizado em Harrisburg, PA, anteriormente conhecido como um restaurante de tapas. Atualmente, a empresa se especializa na realização de eventos privados, como festas de aniversário, jantares de ensaio, recepções, reuniões de negócios e eventos corporativos. O local é descrito como uma ambientação íntima e elegante com excelentes recursos de tecnologia, como capacidades de áudio/vídeo e internet Wi-Fi.
+## Descrição da Empresa
+A Suba é um espaço de eventos que oferece um ambiente elegante e acolhedor para festas privadas, celebrações e reuniões de negócios. Inicialmente um restaurante de tapas, foi transformado em um espaço para eventos que comporta até 25 pessoas. Destacam-se os menus personalizáveis que preservam a herança gastronômica da empresa, como os buffets em estilo tapas.
 
-### Destaques do Serviço
-- **Capacidade:** Grupos de até 25 pessoas.
-- **Ambiente:** Estilo rústico, com tijolos expostos, bar privado e vistas deslumbrantes.
-- **Opções de Menu:** Menus personalizáveis, incluindo buffets de estilo tapas.
-- **Feedback Positivo:** Testemunhos de clientes ressaltam a qualidade da comida e serviço, indicando uma manutenção de altos padrões em satisfação do cliente.
+### Objetivos e Missão
+A missão da Suba é proporcionar um espaço acolhedor e sofisticado que ofereça uma experiência gastronômica de alta qualidade para eventos privados. Eles se esforçam para criar memoráveis experiências de eventos enquanto mantêm um compromisso com um excelente atendimento ao cliente.
 
-## Análise de Posicionamento
-O Suba Event Space se destaca por sua decoração sofisticada e ambiente acolhedor, o que o torna uma escolha preferida para eventos privados menores, especialmente aqueles que exigem um toque sofisticado. O foco em eventos privados pode indicar uma necessidade de maior visibilidade em canais digitais e uma conexão mais forte com influenciadores que compartilham experiências gastronômicas e eventos sociais.
+## Segmento de Atuação
+- **Tipo de Negócio:** Espaço para eventos privados e pequenas reuniões.
+- **Setor:** Gastronomia/Serviços de Alimentação e Eventos.
 
-## Potenciais Dores
-- **Visibilidade e Publicidade:** Aumento da concorrência na área de eventos, reforçando a necessidade de promover a marca e os serviços desenvolvidos.
-- **Conexão com o Cliente:** Buscando novos meios de engajar os clientes e criar uma experiência memorável que os incentive a compartilhar nas redes sociais.
-- **Menos Papéis como Restaurante:** A transição de um restaurante para um espaço de eventos pode gerar confusão sobre a nova identidade da marca e a necessidade de uma comunicação clara.
+## Características da Oferta
+- **Capacidade:** Até 25 pessoas.
+- **Ambiente:** A Suba oferece um espaço íntimo, com paredes de tijolo exposto, bar privado e vistas deslumbrantes do capitólio.
+- **Infraestrutura:** Equipamentos audiovisuais, Wi-Fi, e telas apropriadas para apresentações.
+- **Cardápio:** Opções de menus personalizáveis que incluem buffets em estilo tapas.
 
-## Oportunidades
-- **Marketing de Influência:** Colaborar com influenciadores locais ou nacionais que podem ressoar com o público-alvo e a experiência do Suba. Influenciadores da área de eventos, gastronomia e estilo de vida podem gerar maior interesse em seus serviços.
-- **Eventos Temáticos e Promoções:** Poderia ser interessante desenvolver eventos sazonais ou temáticos que possam ser compartilhados por influenciadores e nas redes sociais, criando uma narrativa em torno do espaço.
-- **Parcerias Estratégicas:** Buscar parcerias com outras empresas de eventos, como fotógrafos ou planejadores de casamentos, podendo oferecer pacotes de serviços integrados.
+### Propostas de Valor
+- Experiência gastronômica de alta qualidade.
+- Ambiente sofisticado e bem apresentado.
+- Flexibilidade nos menus para atender a diferentes preferências e necessidades.
+
+## Dores Potenciais
+1. **Concorrência Aumentada:**
+   - Com a crescente popularidade de espaços para eventos, a Suba pode enfrentar desafios para se destacar entre os concorrentes.
+
+2. **Engajamento de Clientes:**
+   - Pode haver uma necessidade de melhorar a visibilidade online e atrair mais clientes para eventos, especialmente em um mercado saturado.
+
+3. **Promoção de Eventos:**
+   - Assim como muitos lugares, pode lutar com a promoção eficaz da sua oferta de eventos, alcançando novos públicos e reforçando a fidelidade dos clientes existentes.
+
+## Possíveis Estratégias de Marketing de Influência
+1. **Colaboração com Influenciadores Locais:**
+   - Parcerias com influenciadores que atuam na gastronomia e eventos para criar conteúdos atraentes que apresentem a experiência na Suba.
+
+2. **Promoção de Eventos:**
+   - Lançamento de campanhas com influenciadores para promover eventos especiais e destacá-los nas redes sociais.
+
+3. **Conteúdo Visual Atraente:**
+   - Produção de vídeos e fotos que capturem a experiência gastronômica na Suba, resultando em conteúdo compartilhável e que ressoe com potenciais clientes.
+
+4. **Histórias de Clientes Satisfeitos:**
+   - Uso de depoimentos e histórias de eventos realizados para mostrar a experiência positiva de clientes passados.
 
 ## Contexto do Mercado
-- **Crescimento da Demanda por Eventos Privados:** O cenário atual indica um retorno a eventos presenciais, com muitos consumidores buscando espaços únicos e personalizados para suas celebrações.
-- **Tendência para Experiências:** Clientes estão cada vez mais em busca de experiências memoráveis que possam ser facilmente compartilhadas nas redes sociais, o que cria uma oportunidade para o Suba se posicionar como um fornecedor de experiências de eventos.
-- **Inovações em Social Media Marketing:** Aumentar a presença digital através de redes sociais e colaborações com influenciadores pode ser essencial para alcançar novos clientes e engajar os existentes.
+- **Tendências em Gastronomia e Eventos:**
+  - O mercado de eventos está em constante evolução, com uma demanda crescente por experiências personalizadas e locais únicos para celebrações.
+- **Crescimento do Marketing Digital:**
+  - O uso de plataformas digitais e influenciadores nas redes sociais é fundamental para alcançar e engajar o público-alvo atual.
 
 ## Conclusão
-O Suba Event Space possui um grande potencial para se destacar no mercado de eventos privados em Harrisburg, PA. Focando em suas qualidades únicas e explorando melhores estratégias de marketing digital e marketing de influência, a empresa pode aumentar sua visibilidade, atrair novos clientes e solidificar sua posição como um espaço desejável para eventos exclusivos. Recomendamos um contato personalizado para discutir como podemos auxiliar na construção de sua presença digital através de influenciadores.
+A Suba apresenta uma proposta atraente com seu espaço aconchegante e experiência gastronômica única. Porém, deve aprimorar sua estratégia de marketing, especialmente através de ações no marketing de influência, para aumentar sua visibilidade e atrair mais eventos. Através de parcerias estratégicas e uma promoção efetiva, a Suba pode superar desafios e se destacar no mercado de eventos. 
+
+Esse relatório fornece um panorama completo que poderá ser utilizado pelo copywriter para desenvolver um e-mail personalizado e impactante direcionado à equipe da Suba, ressaltando a importância das colaborações de marketing de influência.
