@@ -1,53 +1,71 @@
-```plaintext
-# Relatório de Prospecção - Scanntech
+# Relatório de Prospecção: Scanntech
 
-## Informações Gerais da Empresa
-**Nome:** Scanntech  
-**Website:** [scanntech.com.br](http://scanntech.com.br)  
-**Segmento:** Inteligência de mercado para o varejo alimentar  
-**Ano de Fundação:** 1992  
-**Missão:** Ser a plataforma que mapeia, executa e mede as atividades de compra, fortalecendo as parcerias e gerando valor entre varejo, indústria, distribuidor e consumidor.  
-**Visão:** Ser reconhecida como a principal plataforma de inteligência de dados e execução no varejo.  
-**Valores:** Excelência, Inovação, Trabalho em equipe, Orientação aos resultados, Compromisso.  
-**Sede:** São Paulo, SP, Brasil  
+## 1. Informações Gerais da Empresa
+- **Nome da Empresa:** Scanntech
+- **Website:** [scanntech.com.br](http://scanntech.com.br/)
+- **Localização:** 
+  - Brasil: Rua Arizona 491, Andar 21º - Brooklin, São Paulo, SP, Brasil - CEP 04567-001
+  - Outros países: Presença em Uruguai, Argentina, Peru e México.
 
-## Números Relevantes
-- **Dados Anuais:** R$ 1 trilhão de vendas lidas
-- **Cobertura de Varejo:** 74% de leitura do canal alimentar
-- **Clientes:** 55.000 pontos de venda no Brasil
-- **Tickets Mensais Lidos:** 10 bilhões
-- **Informação em D-2 (dois dias após a venda)**
+## 2. Descrição da Empresa
+Scanntech é uma plataforma de inteligência de mercado, que conecta indústrias e varejistas em soluções de análise e eficiência, especificamente para o setor de alimentos e bebidas. Utiliza tecnologia de ponta para oferecer insights acionáveis, permitindo que os clientes identifiquem oportunidades de vendas e otimizem suas operações na cadeia de distribuição.
 
-## Produtos e Serviços Oferecidos
-Scanntech oferece uma gama de soluções focadas em diversas áreas do mercado de alimentos e bebidas. Algumas delas incluem:
-1. **Scann View:** Insights acionáveis sobre preços, mix e distribuição.
-2. **Scann Scale:** Insights sobre vendas de itens de peso variável.
-3. **Scann E-commerce:** Análise de vendas online comparativas.
-4. **JBP 360º:** Desempenho de vendas e benchmark de mercado.
-5. **Scann&OP Varejo:** Otimização de estoques no varejo.
-6. **Clube de Promoções:** Conexão entre varejo e indústria para promoções reembolsadas.
+### Missão
+Ser a plataforma que mapeia, executa e mede as atividades de compra, fortalecendo as parcerias e gerando valor entre varejo, indústria, distribuidor e consumidor.
 
-## Contexto de Mercado
-A Scanntech atua em um mercado em transformação, com consumidores apresentando um comportamento de compra mais ágil e impulsivo. Dados recentes revelam que:
-- **Mudança nos Hábitos de Compras:** Os consumidores estão fazendo compras menores e visitando supermercados e atacados com mais frequência.
-- **Participação de Compras Impulsivas:** Compras impulsivas representam 65,4% das transações, evidenciando a necessidade de soluções que auxiliam os varejistas a gerenciar essas mudanças.
+### Visão
+Ser reconhecida como a principal plataforma de inteligência de dados (do estratégico ao acionável) e execução, por trazer eficiência, visibilidade, transparência e agilidade.
 
-### Desafios Identificados
-- **Lacunas no Canal Indireto:** Distribuidores e atacadistas respondem por 52% das vendas no setor alimentar, mas muitos enfrentam dificuldades em padronização e análise de dados operacionais.
-- **Necessidade de Insights Rápidos:** Varejistas e indústrias precisam de informações rápidas e precisas para decisões que impactem diretamente a disponibilidade de produtos nas prateleiras.
+### Valores
+- Excelência
+- Inovação
+- Trabalho em equipe
+- Orientação aos resultados
+- Compromisso 
 
-### Recentes Desenvolvimentos e Tendências
-- A Scanntech participou do **APAS SHOW 2024**, apresentando inovações tecnológicas e estratégicas para o varejo.
-- Há uma crescente demanda por produtos com atributos de saúde, que estão se expandindo mais rapidamente do que os alimentos convencionais.
+## 3. Público-Alvo
+- **Indústrias:** fabricantes que desejam otimizar suas vendas e distribuição.
+- **Varejistas:** supermercados e lojas que buscam entender o comportamento do consumidor e melhorar a gestão de estoques e promoções.
+- **Distribuidores:** empresas que fazem a intermediação de produtos entre fabricantes e pontos de varejo.
 
-## Oportunidades de Parceria
-1. **Educação e Capacitação:** Promover webinars e workshops sobre a eficácia do marketing de influência no setor de varejo alimentar.
-2. **Colaboração em Campanhas:** Utilizar a plataforma de influenciadores para promover insights de vendas e estratégias de preço.
-3. **Conteúdo Agregado:** Criar conteúdo que destaque a importância dos dados na otimização das campanhas de marketing de influência.
+## 4. Produtos e Soluções Oferecidos
+Scanntech oferece uma variedade de soluções, incluindo:
 
-## Proposta de Valor para a Scanntech
-Convidamos a Scanntech a explorar parcerias com influenciadores que atuam em nichos relevantes ao seu público-alvo. Acreditamos que a combinação de seus dados e insights com marketing de influência poderá potencializar significativamente suas vendas e fortalecer sua presença no mercado.
+- **Scann View:** Insights sobre o desempenho de venda e distribuição.
+- **Scann Scale:** Acesso a dados de vendas em tempo real.
+- **Scann E-commerce:** Comparação de vendas online e físicas.
+- **JBP 360º:** Indicadores de desempenho com benchmark do mercado.
+- **Clube de Promoções:** Plataforma que conecta varejo à indústria oferecendo promoções.
+- **Scann&OP:** Optimização de estoques.
 
----
-**Este relatório pretende fornecer uma visão abrangente da Scanntech, apoiando nossa equipe de copywriting na criação de comunicações personalizadas e eficazes, focadas nas necessidades e oportunidades da empresa.**
-```
+## 5. Contexto do Mercado
+A empresa atua no setor de alimentos e bebidas, onde a transformação nas compras e na frequência de visitas aos supermercados revela uma mudança significativa no comportamento do consumidor. 
+
+Dentre as tendências analisadas:
+- Crescimento nas vendas unitárias de produtos perecíveis e bebidas.
+- Aumento do consumo em pequenas compras, representando 65.4% das transações.
+- Necessidade crescente de soluções que ofereçam insights em tempo real para a eficiência da cadeia de suprimentos.
+
+## 6. Principais Dores e Desafios
+- **Dificuldade na gestão eficiente de estoques** para evitar faltas e excessos.
+- **Demora na análise de dados**, levando a decisões menos assertivas.
+- **Necessidade de adaptações rápidas** às mudanças de comportamento dos consumidores, como a busca por compras menores e mais frequentes.
+
+## 7. Proposta de Valor
+Scanntech se posiciona como uma solução essencial para indústrias e varejistas que necessitam de informações rápidas e precisas. Através de tecnologia de inteligência artificial e análises de dados, a empresa pode ajudar seus parceiros a:
+- Aumentar a eficiência das vendas.
+- Tomar decisões mais assertivas com base em dados concretos.
+- Reduzir a ruptura de produtos e otimizar a distribuição.
+
+## 8. Informações de Contato
+- **Telefone:** +55 (11) 3027-1700
+- **Email:** [scanntech@loures.com.br](mailto:scanntech@loures.com.br)
+
+## 9. Insights e Oportunidades para Prospecção
+A abordagem para a prospecção deveria focar nas seguintes áreas:
+- Oferecer soluções específicas que ajudem as empresas a se adaptarem às novas tendências de consumo.
+- Mostrar casos de sucesso onde a Scanntech ajudou a aumentar a eficiência das vendas e reduzir custos operacionais.
+- Destacar a importância da coleta e análise de dados em tempo real na otimização das operações comerciais.
+
+### Conclusão
+A Scanntech detém uma posição privilegiada no mercado de inteligência para o setor de alimentos e bebidas, e sua expertise em dados pode fornecer às empresas parceiras as informações necessárias para navegar num ambiente de varejo em constante mudança. A abordagem de prospecção deve ser alinhada aos desafios enfrentados por cada indústria ou varejista para maximizar a relevância e a eficácia da comunicação.
