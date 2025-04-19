@@ -1,56 +1,71 @@
-# Relatório de Prospecção - ScanSource Brasil
+# Relatório de Prospecção - ScanSource
 
-## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** ScanSource Brasil
+## 1. Informações Gerais sobre a Empresa
+- **Nome da Empresa:** ScanSource
+- **Fundação:** 1992
+- **Sede:** Greenville, Carolina do Sul, EUA
 - **CNPJ:** 05.607.657/0001-35
-- **Ano de Fundação:** 1992
-- **Localização da Sede:** Greenville, Carolina do Sul – EUA
-- **Filiais no Brasil:** São Paulo, Espírito Santo, Paraná, Santa Catarina, Pernambuco.
-- **Número de Colaboradores:** Mais de 1421
-- **Tempo de Mercado:** Mais de 30 anos
-
-## 2. Segmento de Atuação
-- **Área Principal:** Distribuição de Tecnologia
-- **Soluções Oferecidas:**
-  - Identificação Automática e Captura de Dados (AIDC)
-  - Cloud (soluções em nuvem)
-  - Pagamentos (soluções de terminais de pagamento)
-  - Redes e Infraestrutura
-  - Data Center e Virtualização
-  - Segurança da Informação
-  - Comunicação e Colaboração
-
-## 3. Proposta de Valor
-ScanSource se posiciona como um distribuidor de valor agregado que conecta empresas a tecnologias e serviços de múltiplos fabricantes. Oferece soluções completas, atendendo a diferentes segmentações do mercado, como Varejo, Indústria, Saúde, Educação, Transporte, Logística e Governo.
-
-## 4. Estrutura de Atendimento e Diferenciais
-- **Equipes Especializadas e Segmentadas**: Cada equipe focada em atender um nicho de mercado específico, proporcionando consultoria e suporte.
-- **Treinamentos e Capacitação**: Disponibilização de cursos e webinars para revendedores.
-- **Programas de Parceria**: Programa Elite Partner Program (EPC) oferecendo benefícios exclusivos.
-- **Compromisso com Sustentabilidade e Responsabilidade Social**: Realiza ações voltadas para a inclusão e diversidade.
-- **Certificação ISO 9001-2000**: Garantia de padrões elevados de qualidade.
+- **Número de Colaboradores:** +385
+- **Presença Nacional:** Distribuição em todo o Brasil com centros de distribuição em São Paulo, Espírito Santo, Paraná e Santa Catarina.
   
-## 5. Competências e Foco
-ScanSource é reconhecida pela sua capacidade de inovar no fornecimento de soluções tecnológicas que agilizem e aprimorem a eficiência operacional de seus parceiros. A empresa tem uma forte posição no mercado de TI ao oferecer um portfólio amplo e diversificado de serviços, focando na excelência e na adaptação às necessidades específicas dos clientes.
+## 2. Descrição da Empresa
+A ScanSource é uma distribuidora de tecnologia que conecta empresas e pessoas ao redor do mundo, fornecendo soluções end-to-end de mais de 100 fabricantes, reforçando seu conceito de fornecedor "one-stop-shop". A empresa visa impulsionar o sucesso de seus parceiros e empresas oferecendo soluções nas áreas de Identificação Automática e Captura de Dados (AIDC), Cloud, Segurança, Data Center e muito mais.
 
-## 6. Contexto e Dores Potenciais dos Clientes
-As empresas enfrentam desafios constantes em relação à:
-- Adaptabilidade às transformações digitais emergentes.
-- Segurança cibernética em tempos de crescente digitalização.
-- Necessidade de soluções integradas e eficientes que atendam a um mercado dinâmico.
-- Gestão de custos em TI, buscando reduzir despesas sem comprometer a qualidade do serviço.
-  
-## 7. Competição e Mercado
-A ScanSource atua em um mercado competitivo, onde é essencial oferecer soluções diferenciadas e que agreguem valor. Seus principais concorrentes são outras distribuidoras de tecnologia, mas seu diferencial está na capacidade de ser um “one-stop-shop” para soluções tecnológicas.
+### Missão
+Ser o centro das soluções que conecta empresas e pessoas ao redor do globo.
 
-## 8. Materiais Relevantes
-- **Blog e Recursos**: O blog da ScanSource contém informações sobre tendências de tecnologia, dicas para adoção de serviços, e atualizações sobre soluções do mercado (ex: [Blog ScanSource](https://scansource.com.br/blog/)).
-- **Guia de Marca**: [Download da Marca](https://scansource.com.br/brand-center/) para uso de materiais de marketing.
+### Visão
+Ser reconhecida como uma das empresas mais admiradas do mundo.
 
-## 9. Contatos Importantes
+### Valores
+- Valorização dos clientes e fornecedores.
+- Funcionários orientados a resultados e experiência.
+- Inovação e criatividade.
+- Respeito e valorização da diversidade.
+
+## 3. Produtos e Serviços Oferecidos
+### Principais Soluções
+- **AIDC (Identificação Automática e Captura de Dados)**: Leitores de códigos de barras, coletores de dados e impressoras de etiquetas.
+- **Cloud**: Plataforma Scansource Cloud que oferece serviços de nuvem.
+- **Payments**: Terminais de pagamento e soluções financeiras.
+- **Segurança**: Soluções para proteção contra perdas de dados e danos a equipamentos.
+- **Rede e Infraestrutura**: Integração de hardware e software para rede.
+- **Data Center e Virtualização**: Soluções para aumentar a eficiência e escalabilidade das operações.
+
+### Segmentos atendidos
+- Varejo
+- Indústria
+- Transporte e Logística
+- Educação
+- Saúde
+- Governo
+
+## 4. Características e Diferenciais da Empresa
+- **Reconhecimento de mercado**: Nomeada pela oitava vez como uma das empresas mais admiradas do mundo pela revista Fortune.
+- **Experiência no setorial**: Mais de 30 anos de atuação no mercado.
+- **Capacidade logística**: Quatro centros de distribuição para garantir qualidade e agilidade nas entregas.
+- **Dedicado a parceiros**: Programa "Seja um parceiro" que oferece benefícios exclusivos e soluções personalizadas.
+
+## 5. Dores e Desafios do Segmento
+- **Necessidade de adaptação tecnológica**: Com a rápida evolução das tecnologias e a crescente demanda por inteligência artificial, as empresas enfrentam o desafio de se manter atualizadas e competitivas.
+- **Segurança da informação**: Com o aumento de ciberataques, a proteção dos dados sensíveis se tornou fundamental, pressionando as empresas a investirem em soluções de segurança.
+- **Crescimento e escalabilidade**: Em um ambiente de negócios em rápida mudança, a eficiência operacional e a capacidade de escalar rapidamente os serviços são cruciais.
+
+## 6. Contexto e Oportunidades
+O mercado de tecnologia está em constante evolução, e a transformação digital é um imperativo. Através de suas soluções, a ScanSource está bem posicionada para atender as necessidades emergentes de seus clientes, especialmente em um cenário pós-pandemia onde a digitalização se torna cada vez mais prevalente.
+
+## 7. Contatos
 - **Televendas:** (11) 3049-0310
-- **Canal de Denúncia:** 0800-591-2083
-- **Email para Parcerias:** marketing.br@scansource.com
+- **WhatsApp de Pós-venda:** Atendimento disponível para clientes.
+- **E-mail de Sugestões:** garantiadaqualidade@scansource.com
+- **Página de Contato:** [ScanSource Contato](https://scansource.com.br/contato/)
 
-## 10. Conclusão
-ScanSource Brasil representa uma oportunidade robusta para parcerias em marketing de influência, onde a sinergia entre a distribuição de tecnologia e campanhas de influência pode impulsionar a visibilidade e os negócios de ambas as partes. A proposta de valor clara e os diferenciais competitivos tornam a ScanSource um potencial parceiro estratégico valioso a ser considerado em campanhas de marketing de influência.
+## 8. Links Úteis
+- **Website Principal:** [scansource.com.br](http://www.scansource.com.br)
+- **Blog:** [Blog ScanSource](https://scansource.com.br/blog/)
+- **Brand Center:** [Brand Center](https://scansource.com.br/brand-center/)
+- **Seja um Parceiro:** [Torne-se um parceiro](https://scansource.com.br/seja-um-parceiro/)
+
+---
+
+Este relatório contém informações detalhadas sobre a empresa ScanSource e pode servir como um guia para a elaboração de uma abordagem personalizada durante a comunicação com a empresa, focando em suas necessidades e desafios específicos no mercado de tecnologia.
