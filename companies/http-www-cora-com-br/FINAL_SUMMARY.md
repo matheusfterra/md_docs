@@ -49,8 +49,6 @@ O e-mail de prospecção pode incluir:
 - Demonstrações do impacto positivo que uma gestão financeira descomplicada pode ter na saúde e eficiência das PMEs.
 
 ## Conclusão
-Com um foco em desburocratizar a gestão financeira, a Cora se posiciona como uma solução sólida e atrativa para pequenas e médias empresas, oferecendo ferramentas que simplificam transações financeiras e melhoram o fluxo de caixa. Esse perfil torna a Cora uma oportunidade excelente para campanhas de marketing de influência.
+Com um foco em desburocratizar a gestão financeira, a Cora se posiciona como uma solução sólida e atrativa para pequenas e médias empresas, oferecendo ferramentas que simplificam transações financeiras e melhoram o fluxo de caixa. Desde a emissão de boletos a notificações via WhatsApp, a Cora busca facilitar a vida financeira dos empreendedores, o que representa uma excelente oportunidade para campanhas de marketing de influência.
 
----
-
-Esse relatório fornece uma base abrangente e detalhada sobre a Cora, permitindo que o copywriter refine a estratégia de comunicação para a captação de novos clientes através de e-mails personalizados.
+Este relatório fornece uma base abrangente e detalhada sobre a Cora, permitindo que o copywriter refine a estratégia de comunicação para a captação de novos clientes através de e-mails personalizados.
