@@ -1,62 +1,49 @@
-## Relatório de Prospecção: Integral Médica
+# Relatório de Prospecção: Integralmédica
 
-### Informações Gerais da Empresa
-- **Nome da Empresa:** Integral Médica
-- **Website:** [integralmedica.com.br](http://www.integralmedica.com.br/)
-- **Segmento:** Suplementos alimentares e nutrição esportiva
-- **Localização:** Embu Guaçu, São Paulo, Brasil
-- **CNPJ:** 57.235.426/0003-03
-- **Contato:** 
-  - **Telefone Nutricionista:** (11) 3003-7887
-  - **Telefone Pedidos:** (11) 3254-0454
+## Informações Gerais
+- **Empresa:** Integralmédica
+- **Segmento:** Suplementos alimentares, com foco em proteínas, aminoácidos e hipercalóricos
+- **Website:** [integralmedica.com.br](http://www.integralmedica.com.br)
 
-### Produtos e Serviços
-#### Categorias de Produtos
-1. **Creatina**
-   - Aumento de força e potência muscular.
-   - Destaca-se pela variedade de sabores.
-  
-2. **Whey Protein**
-   - Diversos tipos (concentrado, isolado, hipercalórico).
-   - Indicado para recuperação muscular e ganho de massa.
-  
-3. **Glutamina**
-   - Importante para recuperação muscular e imunidade.
+### Produtos Principais
+- **Whey Protein** (Concentrado, Isolado e Hidrolisado)
+- **Creatina**
+- **Hipercalóricos**
+- **Aminoácidos** (incluindo Glutamina)
+- **Barrinhas de Proteína**
+- **Kits de Suplementação**
 
-4. **Hipercalóricos**
-   - Suplementos para ganho de peso e força.
+### Ofertas e Promoções
+- **Frete Grátis:** Compras acima de R$280
+- **Descontos:** Pagamento via PIX recebe 5% de desconto
+- **Promoções Especiais:** Diversas promoções com brindes e descontos variáveis, como "R$20 Off na Primeira Compra com PIX".
 
-5. **Acessórios e Vestuário**
-   - Itens complementares para a prática esportiva.
+## Características e Diferenciais da Empresa
+1. **Variedade de Produtos:** Amplia sua gama de produtos para atender diferentes necessidades nutricionais e objetivos de emagrecimento e ganho de massa muscular.
+2. **Inovação em Sabor e Formato:** Oferece produtos com sabores variados e opções práticas, como barras de proteína e kits.
+3. **Foco na Saúde e Performance:** Os produtos são desenvolvidos para atender tanto atletas quanto pessoas em busca de uma alimentação saudável.
+4. **Educação Nutricional:** O site e as redes sociais da empresa trazem informações sobre os benefícios dos suplementos, promovendo um consumo consciente.
 
-#### Lançamentos Recentes
-- **Barra de Proteína Ovomaltine:** Novo snack proteico lançado, proporciona manutenção da massa muscular.
+## Análise do Público-Alvo
+- **Atletas e Praticantes de Atividades Físicas:** Buscam suplementação para melhora de performance, recuperação muscular e ganho de massa.
+- **Pessoas em Dieta:** Podem se beneficiar dos produtos voltados para emagrecimento e manutenção de massa magra.
+- **Jovens Adultos e Adultos (18-45 anos):** Tendem a consumir produtos de fitness e saúde, e que buscam praticidade em suas dietas.
 
-#### Promoções e Benefícios
-- **Integral Club:** Programa de benefícios que oferece cashback.
-- **Frete Grátis:** Para compras acima de R$280,00.
-- **Desconto nos pagamentos via Pix:** 5% de desconto.
+## Possíveis Dores
+- **Falta de Confiabilidade nos Produtos:** Consumidores podem ter dúvidas sobre a qualidade e eficiência dos suplementos.
+- **Dificuldade em Atender a Um Estilo de Vida Ativo:** Necessidade de soluções práticas para a alimentação diária que complementem o treinamento ou a dieta.
+- **Manter uma Dieta Nutricionalmente Equilibrada:** Dúvidas sobre como integrar suplementos à dieta sem comprometer a saúde.
 
-### Análise de Mercado
-- **Target:** Atletas, praticantes de musculação e pessoas que buscam saúde e bem-estar.
-- **Concorrência:** Mercado robusto com empresas já estabelecidas, mas há espaço para marcas que investem em marketing de influência e conteúdo online.
-  
-### Dores do Cliente
-- **Falta de conscientização quanto à suplementação:** Muitos potenciais clientes podem não entender a importância e os benefícios de utilizar suplementos.
-- **Confiança em marcas:** A percepção de qualidade e confiabilidade pode influenciar a decisão de compra.
-- **Variedade de produtos:** Clientes buscam por diversidade e opções que atendam suas necessidades específicas.
+## Preparação para Contato
+- **Estratégias de Comunicação:**
+  - Ressaltar a qualidade e eficácia dos produtos com estudos e provas sociais.
+  - Comunicar a versatilidade dos produtos, como a facilidade em integrá-los ao dia a dia.
+  - Destacar as vantagens financeiras, como promoções e frete grátis, para incentivar a compra.
 
-### Estratégias de Marketing
-- **Marketing de Influência:** Utilize influenciadores relevantes na área de fitness e nutrição para promover produtos e criar confiança.
-- **Conteúdo Educacional:** Criar posts em blogs e conteúdos que expliquem os benefícios dos produtos e dicas de utilização.
-- **Campanhas de Mídia Social:** Usar estratégias em plataformas populares para alcançar um público maior e mais engajado.
+## Pontos para o Copywriting
+1. **Atraente e Informativo:** Utilize uma abordagem que destaque benefícios e valor agregado dos produtos.
+2. **Testemunhos e Estudos:** Incluir feedback de atletas e profissionais de saúde para aumentar a credibilidade.
+3. **Chamada para Ação (CTA):** Incentivar visitas ao site, inscrições na newsletter e uso de códigos de desconto.
 
-### Considerações Finais
-A Integral Médica tem um portfólio robusto de produtos com alta aceitação entre os consumidores, o que facilita a abordagem via marketing de influência. O foco em promover a educação sobre nutrição e suplementação, aliado ao uso de influenciadores, pode ser uma estratégia eficaz para aumentar a visibilidade e atratividade da marca no mercado. 
-
-### Próximas Ações
-1. **Construir uma lista de influenciadores** que podem ressoar com a marca e o público-alvo.
-2. **Elaborar um plano de conteúdo** que aborde as dores e interesses do público, focando na importância da suplementação.
-3. **Analisar feedbacks e avaliações** para ajustar as ofertas e melhorar a experiência do cliente. 
-
-Este relatório proporciona uma visão detalhada das oportunidades de marketing e ajuda a basear as próximas ações de prospecção e abordagem.
+## Conclusão
+A Integralmédica é uma empresa bem posicionada no mercado de suplementos, com um portfólio de produtos que atende uma ampla gama de consumidores. A personalização do contato comercial e as estratégias de comunicação focalizadas em suas dores e necessidades específicas são fundamentais para a prospecção e conversão em vendas.
