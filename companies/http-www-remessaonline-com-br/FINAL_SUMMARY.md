@@ -8,15 +8,15 @@
 - **Segmento:** Finanças, Transferências internacionais, Câmbio, Serviços financeiros digitais.
 
 ## 2. Produtos/Serviços
-- **Transferências internacionais:** Envio e recebimento de dinheiro para e do exterior com taxas mais competitivas que bancos tradicionais.
+- **Transferências Internacionais:** Envio e recebimento de dinheiro para e do exterior com taxas mais competitivas que bancos tradicionais.
 - **Conta Global:** Permite realizar saques e compras em moeda estrangeira sem anuidade.
 - **Cartão Global:** Cartão internacional que pode ser utilizado para pagar no exterior, oferecendo taxas reduzidas.
-- **APIs de câmbio:** Soluções para empresas que necessitam de integração de serviços financeiros.
+- **APIs de Câmbio:** Soluções para empresas que necessitam de integração de serviços financeiros.
 
 ## 3. Proposta de Valor
-- **Facilidade e agilidade:** Plataforma totalmente digital, que permite transferências rápidas e seguras, sem necessidade de ir a uma agência.
-- **Taxas menores:** Até 80% de economia em comparação com bancos tradicionais em taxas de transferência.
-- **Apoio ao cliente:** Atendimento em português, com uma equipe disponível para auxiliar em todos os passos.
+- **Facilidade e Agilidade:** Plataforma totalmente digital, que permite transferências rápidas e seguras, sem necessidade de ir a uma agência.
+- **Taxas Menores:** Até 80% de economia em comparação com bancos tradicionais em taxas de transferência.
+- **Apoio ao Cliente:** Atendimento em português, com uma equipe disponível para auxiliar em todos os passos.
 
 ## 4. Público-Alvo
 - **Pessoas Físicas:** Brasileiros que desejam enviar dinheiro para o exterior, pagar serviços, estudar fora ou receber pagamentos.
@@ -28,19 +28,19 @@
 - **Diferenciais da Remessa Online:** Transparência em custos, suporte em português, alta taxa de aprovação de transações e foco em tecnologia.
 
 ## 6. Principais Dores do Cliente
-- **Altas taxas e tarifas:** Cansaço dos clientes em relação a taxas ocultas e altíssimas cobradas por bancos tradicionais.
-- **Burocracia:** Processos mais simples necessários para registro e envio de dinheiro.
-- **Segurança nas transações:** Preocupações com fraudes e regulamentações de transferência internacional.
+- **Altas Taxas e Tarifas:** Cansaço dos clientes em relação a taxas ocultas e altíssimas cobradas por bancos tradicionais.
+- **Burocracia:** Necessidade de processos mais simples para registro e envio de dinheiro.
+- **Segurança nas Transações:** Preocupações com fraudes e regulamentações de transferência internacional.
 
 ## 7. Oportunidades Identificadas
-- **Expansão geográfica:** Possibilidade de inclusão de novos países e moedas na plataforma.
-- **Parcerias estratégicas:** Criação de colaborações com empresas e freelancers que realizam transferências regulares.
-- **Educação do usuário:** Criar conteúdo informativo que explique o funcionamento das transferências online e aumente a confiança dos usuários.
+- **Expansão Geográfica:** Inclusão de novos países e moedas na plataforma.
+- **Parcerias Estratégicas:** Criação de colaborações com empresas e freelancers que realizam transferências regulares.
+- **Educação do Usuário:** Criação de conteúdo informativo que explique o funcionamento das transferências online e aumente a confiança dos usuários.
 
 ## 8. Contexto do Mercado
 - **Digitalização:** O movimento de digitalização acelerado pela pandemia trouxe um aumento na demanda por soluções online de transferência bancária.
-- **Trabalho remoto:** O aumento de colaboradores remotos está criando uma nova demanda por serviços de transferências eficazes.
-- **Crescimento de clientes do exterior:** Aumento no número de brasileiros vivendo fora do país e enviando remessas para suas famílias.
+- **Trabalho Remoto:** O aumento de colaboradores remotos está criando uma nova demanda por serviços de transferências eficazes.
+- **Crescimento de Clientes do Exterior:** Aumento no número de brasileiros vivendo fora do país e enviando remessas para suas famílias.
 
 ## 9. Dicas para Personalização do Conteúdo de E-mail
 - **Reconhecer a dor do cliente:** "Você está cansado de pagar tarifas escondidas em suas transferências internacionais?"
