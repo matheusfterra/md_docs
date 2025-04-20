@@ -1,37 +1,53 @@
-## Relatório de Prospecção - Mosaico
+# Relatório de Prospecção - Mosaico
 
-### Informações Gerais
-- **Nome da empresa**: Mosaico
-- **Website**: [mosaico.com.br](http://www.mosaico.com.br)
-- **Segmento**: Marketing Digital/Comércio Eletrônico
-- **Principal produto/serviço**: Plataforma de conteúdo e originação de vendas
-- **Missão**: Transformar a jornada de consumo em uma experiência simples e encantadora, ajudando os consumidores em sua jornada de compra online.
+## Informações Gerais da Empresa:
+- **Nome da Empresa:** Mosaico
+- **Website:** [mosaico.com.br](http://www.mosaico.com.br)
+- **Segmento:** Marketing de Influência / Plataforma de conteúdo e originação de vendas para e-commerce
+- **Localização:** Brasil
+- **Propósito:** Transformar a jornada de consumo em uma experiência simples e encantadora, atuando como um verdadeiro aliado do consumidor.
 
-### Visão Geral da Empresa
-Mosaico se posiciona como a maior plataforma de conteúdo e originação de vendas para e-commerce no Brasil. Seu objetivo é atuar como um intermediário na compra de produtos, proporcionando uma experiência diferenciada ao consumidor. A empresa se apresenta como a "amiga do consumidor" e foca em entender as necessidades do cliente, entrega soluções customizadas e oferece um suporte que visa a construção de relacionamentos duradouros.
+## Descrição do Negócio:
+A Mosaico é posicionada como a maior plataforma de conteúdo e originação de vendas para e-commerce no Brasil. Seu foco está em ajudar consumidores na jornada de compra online, através da criação de conteúdos que orientem e facilitem essa experiência. Seu mantra é "Não vendemos. Ajudamos a comprar", refletindo um forte compromisso com a educação do consumidor e a experiência de compra.
 
-### Características e Diferenciais
-- **Foco no consumidor**: Mosaico propõe que não vende produtos, mas sim facilita e ajuda os consumidores a realizarem suas compras.
-- **Transparência e Ética**: A empresa se compromete com a ética e integridade através de um programa de compliance robusto, demonstrando preocupação com a prevenção de irregularidades.
-- **Inovação tecnológica**: Utiliza tecnologia não apenas para facilitar compras, mas para criar um serviço mais eficiente, enriquecendo a jornada do cliente.
-- **Cultura de encantamento**: Busca cultivar um ambiente onde consumidores, colaboradores e parceiros se sintam valorizados e bem atendidos.
+## Produtos/Serviços:
+- Conexão entre marcas e consumidores através de conteúdo digital.
+- Estratégias de marketing de influência.
+- Serviços que garantem a otimização da jornada de compra dos usuários.
 
-### Dores Potenciais
-1. **Concorrência**: Em um mercado cheio de plataformas de e-commerce, Mosaico precisa se destacar através de um marketing de influência coerente e atraente.
-2. **Desafios na conversão**: Com tantas opções disponíveis, transformações em clientes podem ser desafiadoras; a empresa pode ter necessidade de aumentar suas taxas de conversão.
-3. **Construção de autoridade de marca**: Precisam constantemente fortalecer sua presença e credibilidade no mercado, o que pode ser um desafio na construção de relacionamentos com influenciadores.
-4. **Percepção da marca**: Como marketplace, precisam garantir que a experiência do cliente seja coesa e satisfatória ao longo do estágio de decisão de compra.
+## Público-Alvo:
+- Fashion e e-commerce brands (marcas de moda e comércio eletrônico).
+- Consumidores que buscam informações honestas e relevantes antes de realizar compras online.
 
-### Contexto e Conteúdo de Envolvimento
-- **Na linha da comunicação**: Elaborar uma abordagem que destaca como o marketing de influência pode melhorar a conexão da Mosaico com seus consumidores, aproveitando sua plataforma já poderosa.
-- **Apoio em iniciativas éticas**: Envolver Mosaico em discussões sobre como a transparência e a ética em marketing digital (que são valores da empresa) podem ser parte central dos conteúdos desenvolvidos com influenciadores.
-- **Desafios de e-commerce**: Proporcionar insights sobre como influenciadores podem ser usados para melhorar a percepção da marca, entendendo e abordando os desafios de conversão diretamente.
+## Características e Valores da Empresa:
+- **Ética e Transparência:** Compromisso com princípios éticos, adequação à legislação e promoção de um ambiente de trabalho honesto.
+- **Cultura de Encantamento:** A Mosaico acredita na construção de relacionamentos reais, não apenas em vendas. A experiência do consumidor é central em todos os seus processos.
+- **Diversidade e Inclusão:** A empresa é comprometida com a igualdade salarial e o respeito à diversidade, colocando a meritocracia em destaque.
 
-### Links Úteis
+## Pontos de Dor:
+1. **Saturação de Conteúdo:** O mercado de marketing digital está saturado, dificultando a diferenciação entre marcas.
+2. **Confiança do Consumidor:** A necessidade de construir e manter a confiança do cliente em um cenário em que há desconfiança em relação a influenciadores.
+3. **Medir Resultados:** Dificuldade em avaliar de forma precisa o impacto de campanhas de influência nas vendas diretas e no engajamento do público.
+4. **Engajamento Efetivo:** Necessidade de se conectar de maneira significativa com os consumidores, em vez de simplesmente expor produtos.
+
+## Oportunidades:
+1. **Expansão do Marketing de Influência:** Aumento no uso de influenciadores como canais de vendas, reconhecendo sua importância para engajamento e conversão.
+2. **Educação do Consumidor:** Oferecer conteúdos que não apenas promovem, mas educam o consumidor sobre escolhas de compra.
+3. **Parcerias Estratégicas:** Colaboração com marcas que visam ampliar sua presença no mercado digital por meio de conteúdo relevante.
+
+## Estrutura de Comunicação:
+- **Tom da Comunicação:** Amigável, acolhedor e educativo.
+- **Mensagem Chave:** "Estamos aqui para ajudar você a fazer compras de forma mais consciente e agradável".
+
+## Links Úteis:
 - [Ética e Integridade](https://www.mosaico.com.br/eticaeintegridade)
 - [Manifesto](https://www.mosaico.com.br/manifesto)
 - [Trabalhe Conosco](https://www.mosaico.com.br/entre-no-time)
 - [Relatório de Transparência e Igualdade Salarial](https://www.mosaico.com.br/relatrio-de-transparncia-e-igualdade-salarial)
 
-### Conclusão
-A Mosaico é uma plataforma com potencial significativo para campanhas de marketing de influência, tendo uma sólida base ética e compromisso com a transparência. A personalização na comunicação pode focar em como influenciadores podem amplificar a missão de ser o "melhor amigo do consumidor", alinhando suas estratégias de engajamento para fortalecer cada vez mais sua posição no mercado.
+## Contexto Atual:
+A Mosaico vem se consolidando como um referencial no segmento de marketing digital e influência no Brasil. Com um compromisso sólido com a ética e a construção de experiências significativas para o consumidor, a empresa enfrenta desafios comuns do setor que, se abordados com estratégias eficazes, podem se transformar em grandes oportunidades de crescimento.
+
+---
+
+Esse relatório oferece uma visão abrangente sobre a Mosaico, ajudando o copywriter a criar um e-mail personalizado que aborda suas necessidades e como a nossa solução pode atendê-las.
