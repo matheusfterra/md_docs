@@ -1,5 +1,5 @@
+```markdown
 # Relatório de Prospecção - NSC Comunicação
-
 ### 1. Informações Gerais
 - **Nome da Empresa:** NSC Comunicação
 - **Website:** [nsccomunicacao.com.br](http://www.nsccomunicacao.com.br) *(Nota: O site apresentou dificuldades de acesso durante a pesquisa)*
@@ -56,3 +56,4 @@
 
 ---
 Esse relatório oferece uma base sólida e abrangente para que o copywriter elabore um email direcionado à NSC Comunicação, alinhando-se com suas necessidades e características específicas de mercado.
+```
