@@ -1,70 +1,48 @@
 # Relatório de Prospecção: Edge
 
 ## Informações Gerais
-**Nome da Empresa:** Edge  
-**Segmento:** Energia, com foco em Gás Natural e Biometano  
-**Localização:** Av. Brigadeiro Faria Lima, 4100 / 4° andar, Itaim Bibi, São Paulo – SP  
-**Website:** [edge.com.vc](https://www.edge.com.vc)  
-**Última Atualização do Site:** várias páginas até outubro de 2023
+- **Nome da Empresa:** Edge
+- **Segmento:** Energia, com foco em Gás Natural e Biometano
+- **Localização:** Av. Brigadeiro Faria Lima, 4100 / 4° andar, Itaim Bibi, São Paulo – SP
+- **Website:** [edge.com.vc](https://www.edge.com.vc)
+- **Última Atualização do Site:** várias páginas até outubro de 2023
 
 ---
 
 ## Descrição da Empresa
-A Edge é uma empresa que está focada em romper barreiras na transição energética, oferecendo soluções flexíveis e sustentáveis para o mercado de gás natural. Seu modelo de operação inclui:
+A Edge é uma empresa dedicada a promover a transição energética no Brasil, oferecendo soluções sustentáveis e flexíveis no mercado de gás natural. Seus principais ativos incluem:
 
-- **Terminal de Regaseificação de GNL (Gás Natural Liquefeito)**: Localizado no Porto de Santos, com alta capacidade de armazenamento e regaseificação, atendendo indústrias que não estão conectadas à malha de gasodutos.
-  
-- **Produção e Fornecimento de Biometano**: A empresa tem uma planta de purificação em Paulínia/SP, com contratos de longo prazo assegurados, e prevê iniciar operações em 2025.
-
-- **Comercialização de GNL e Biometano**: A empresa gerencia contratos de oferta e demanda, propondo soluções competitivas para seus clientes.
-
----
+- **Terminal de Regaseificação de GNL (Gás Natural Liquefeito):** Localizado no Porto de Santos, com capacidade de armazenamento e regaseificação, atendendo indústrias fora da malha de gasodutos.
+- **Produção e Fornecimento de Biometano:** Planta de purificação em Paulínia/SP com contratos de longo prazo e operações programadas para 2025.
+- **Comercialização de GNL e Biometano:** Gestão de contratos, oferecendo soluções competitivas a clientes.
 
 ## Características e Diferenciais
-- **Compromisso com Sustentabilidade**: A Edge promove a transição energética no Brasil, contribuindo para um futuro energético mais sustentável.
-
-- **Flexibilidade e Confiabilidade**: As soluções são adaptáveis às necessidades específicas dos clientes, combinando segurança e eficiência.
-
-- **Inovação Tecnológica**: Ótima abordagem na utilização de Modalidades de distribuição do GNL, além da parceria com a Orizon para biometano.
-
----
+- **Compromisso com a Sustentabilidade:** Promove a transição energética e oferece soluções com menor impacto ambiental.
+- **Flexibilidade e Confiabilidade:** Soluções adaptáveis às necessidades específicas dos clientes.
+- **Inovação Tecnológica:** Abordagem moderna na distribuição de GNL e parcerias estratégicas (ex. com a Orizon para biometano).
 
 ## Dores e Desafios
-- **Segmento de Mercado**: Operar em um setor que está em transformação, com uma demanda crescente por fontes de energia renováveis e sustentáveis.
-
-- **Concorrência**: Muitas empresas estão se mobilizando para seguir o mesmo caminho, o que torna necessário destacar os diferenciais da Edge.
-
-- **Educação do Cliente**: Convencer indústrias ainda dependentes de fontes de energia tradicionais sobre a viabilidade e as vantagens do GNL e biometano.
-
----
+- **Segmento de Mercado:** Atuação em um setor em transformação, com demanda crescente por energia renovável.
+- **Concorrência:** Aumento da concorrência no setor e a necessidade de destacar os diferenciais da Edge.
+- **Educação do Cliente:** Desafios na capacitação de indústrias tradicionais sobre as vantagens do GNL e biometano.
 
 ## Público-Alvo
-- **Indústrias** que necessitam de soluções energéticas sustentáveis e competitivas, especialmente aquelas fora da rede de distribuição de gás.
-
-- **Investidores** interessados na transição energética e em empreendimentos sustentáveis.
-
----
+- **Indústrias** que buscam soluções energéticas sustentáveis e competitivas, especialmente fora da rede de gás.
+- **Investidores** interessados em energia renovável e futuros sustentáveis.
 
 ## Oportunidades de Parceria
-- **Influenciadores do setor energético**: Conectar a Edge com influenciadores e formadores de opinião que possam ajudar a educar o público sobre as vantagens do gás natural e biometano.
-
-- **Campanhas de Conscientização**: Colaborar com influenciadores que têm um foco em sustentabilidade e inovação tecnológica para promover as soluções da Edge.
-
----
+- **Influenciadores do Setor Energético:** Conexão com influenciadores que podem ajudar a educar o público sobre as vantagens do gás natural e biometano.
+- **Campanhas de Conscientização:** Colaboração com influenciadores focados em sustentabilidade para promover as soluções da Edge.
 
 ## Informações de Contato
-- **Endereço de Comunicação**: Av. Brigadeiro Faria Lima, 4100 / 4° andar, Itaim Bibi, São Paulo – SP  
-- **Canal de Comunicação**: [Fale Conosco](https://www.edge.com.vc/comunicacao-e-imprensa/fale-conosco)
-
----
+- **Endereço de Comunicação:** Av. Brigadeiro Faria Lima, 4100 / 4° andar, Itaim Bibi, São Paulo – SP
+- **Canal de Comunicação:** [Fale Conosco](https://www.edge.com.vc/comunicacao-e-imprensa/fale-conosco)
 
 ## Contexto para Abordagem
-Ao elaborar uma comunicação para a Edge, é essencial ressaltar a importância da transição energética e como a empresa está posicionada para liderar essa mudança. Abordar:
+Ao redigir uma comunicação para a Edge, é fundamental destacar a importância da transição energética e como a empresa está bem posicionada para liderar essa mudança. O e-mail deve abordar:
 
-- Como a Edge poderia se beneficiar de uma estratégia de marketing de influência para aumentar a conscientização sobre seus produtos.
-- Destacar a necessidade de educar o mercado a respeito das alternativas sustentáveis e competitivas oferecidas pela empresa.
-- Enfatizar a flexibilidade e inovatividade da empresa como um diferencial em um mercado em rápida transformação.
+- **Benefícios de uma Estratégia de Marketing de Influência:** Como a Edge pode aumentar a conscientização sobre suas soluções.
+- **Educação do Mercado:** Enfatizar a necessidade de educar indústrias sobre as alternativas sustentáveis e competitivas oferecidas pela Edge.
+- **Inovação e Flexibilidade:** Destacar como esses diferenciais podem ser uma vantagem em um mercado em transformação.
 
----
-
-Esse relatório de prospecção detalhado fornece todas as informações necessárias para que o copywriter elabore uma comunicação personalizada e atrativa para a Edge, focando em suas dores, necessidades e as oportunidades que uma parceria em marketing de influência pode trazer.
+Este relatório proporciona um entendimento abrangente da Edge, suas características, desafios e oportunidades, permitindo que o copywriter crie uma comunicação envolvente e personalizada.
