@@ -52,7 +52,7 @@
 - **Gestão de Vendas:** A dificuldade em acompanhar as negociações em tempo real e priorizar leads quentes de forma eficaz.
 
 ## Contexto do Setor de Influência
-O marketing de influência está crescendo exponencialmente. As marcas estavam se adaptando às novas ferramentas que sustentam o uso dos influenciadores para construir conexões genuínas com seus clientes. A análise de dados torna-se vital para otimizar relacionamentos e maximizar engajamento efetivo em campanhas.
+O marketing de influência está crescendo exponencialmente. As marcas estão se adaptando às novas ferramentas que sustentam o uso dos influenciadores para construir conexões genuínas com seus clientes. A análise de dados torna-se vital para otimizar relacionamentos e maximizar engajamento efetivo em campanhas.
 
 ## Conclusão e Estratégia
 A RD Station oferece soluções que atendem diretamente as dores comuns enfrentadas por empresas na área de marketing digital, especialmente em relação ao trabalho com influenciadores. A crescente demanda por campanhas inovadoras requer automação, centralização da comunicação e a capacidade de análise de dados com agilidade e eficiência.
