@@ -5,7 +5,7 @@
 - **Website:** [www.contabilizei.com.br](http://www.contabilizei.com.br)
 - **Descrição do Serviço:** Contabilidade online e gestão completa para empresas, com foco na abertura de CNPJ, contabilidade mensal e benefícios adicionais como planos de saúde, consultas online e acesso a academias.
 
-## 2. Segmentação e Proposta de Valor 
+## 2. Segmentação e Proposta de Valor
 A Contabilizei se destaca como uma empresa de contabilidade online, voltada para micro e pequenas empresas (MPEs). Seu diferencial é a modernização e desburocratização do serviço contábil, utilizando uma plataforma digital que torna o processo mais simples e eficiente para o empreendedor.
 
 ### Proposta de Valor:
@@ -17,7 +17,10 @@ A Contabilizei se destaca como uma empresa de contabilidade online, voltada para
 ## 3. Características do Target
 - **Público-alvo:** Micro e pequenas empresas, principalmente empresários e empreendedores que buscam eficiência e modernidade no serviço contábil.
 - **Necessidades:** Busca por simplicidade, redução de custos, suporte online e benefícios que contribuam para o seu bem-estar e o de seus colaboradores.
-- **Dores:** Burocracia no processo de abertura de empresas, falta de suporte personalizado, dificuldade em gerenciar as obrigações fiscais e contábeis.
+- **Dores:** 
+  - Burocracia no processo de abertura de empresas;
+  - Falta de suporte personalizado;
+  - Dificuldade em gerenciar as obrigações fiscais e contábeis.
 
 ## 4. Concorrência
 - **Concorrentes Diretos:** Escritórios de contabilidade tradicionais, serviços de contabilidade online, plataformas de gestão financeira.
@@ -28,19 +31,19 @@ A Contabilizei se destaca como uma empresa de contabilidade online, voltada para
 
 ## 5. Análise SWOT
 ### Pontos Fortes:
-- Líder em abertura de CNPJ no Brasil.
-- Equipe de mais de 1.200 contadores especializados.
+- Líder em abertura de CNPJ no Brasil;
+- Equipe de mais de 1.200 contadores especializados;
 - Avaliações positivas de clientes destacando praticidade e eficiência.
 
 ### Pontos Fracos:
 - Dependência de tecnologia, o que pode afastar usuários menos familiarizados com plataformas digitais.
-  
+
 ### Oportunidades:
-- Crescimento do empreendedorismo no Brasil, especialmente em tempos de crise econômica.
+- Crescimento do empreendedorismo no Brasil, especialmente em tempos de crise econômica;
 - Expansão dos serviços e benefícios oferecidos.
 
 ### Ameaças:
-- Concorrência crescente de outros serviços de contabilidade online.
+- Concorrência crescente de outros serviços de contabilidade online;
 - Mudanças na legislação tributária que podem impactar o mercado.
 
 ## 6. Contexto do Mercado
