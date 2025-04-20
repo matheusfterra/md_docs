@@ -1,57 +1,55 @@
 # Relatório de Prospecção - Leo Burnett
 
 ## 1. Informações Gerais da Empresa
-**Nome da Empresa:** Leo Burnett  
-**Website:** [leoburnett.com.br](http://www.leoburnett.com.br)  
-**Localização:** São Paulo, Brasil  
-**Setor:** Publicidade e Marketing  
-**Ano de Fundação:** 1935  
-**Proprietário:** Publicis Groupe  
-**Equipe:** 15.000 talentos em 90 países  
+- **Nome da Empresa:** Leo Burnett  
+- **Website:** [leoburnett.com.br](http://www.leoburnett.com.br)  
+- **Localização:** São Paulo, Brasil  
+- **Setor:** Publicidade e Marketing  
+- **Ano de Fundação:** 1935  
+- **Proprietário:** Publicis Groupe  
+- **Equipe:** 15.000 talentos em 90 países  
 
 ## 2. Descrição da Empresa
-A Leo Burnett é uma agência de publicidade consolidada, conhecida pela sua abordagem inovadora que une criatividade e tecnologia. Recentemente renomeada como "Leo", a agência busca humanizar sua marca e modernizar sua imagem. Em 2025, uniu-se à rede global Leo Constellation, ampliando sua atuação e integração com insights humanos em meio à era da inteligência artificial (IA).
+A Leo Burnett, renomeada como "Leo", é uma agência de publicidade reconhecida por sua abordagem criativa que une inovação e tecnologia. Recentemente, a agência passou a integrar a rede global Leo Constellation, intensificando a utilização de insights humanos na era da inteligência artificial (IA). O foco está na criação de campanhas impactantes que conectem marcas ao público, utilizando criatividade estratégica para enriquecer a relevância das marcas no mercado.
 
 ### **Foco da Agência:**
-- Desenvolvimento de campanhas que conectem marcas ao público de maneira impactante.
-- Aumento da relevância das marcas no mercado através de criatividade estratégica.
-- Criação de experiências autênticas e envolventes para os consumidores.
+- Desenvolvimento de campanhas impactantes.
+- Aumento da relevância de marcas no comércio através de criatividade e inovação.
+- Criação de experiências autênticas e envolventes para consumidores.
 
 ## 3. Campanhas e Ativações Recorrentes
-A Leo Burnett realiza campanhas notórias, incluindo:
-
-- **Campanha "Ligue o Modo Oreo":** Personalização e conexão com o público por meio de campanhas segmentadas.
-- **Parceria com a FIAT:** Inclui campanhas sociais e de branding durante eventos culturais, como o Carnaval. Ativações criativas, como a substituição do carrinho de compras por uma picape FIAT em e-commerce.
-- **Campanha "Destrave a Boca" com Trident:** Envolvimento em eventos culturais, como o Carnaval, através de parcerias com influenciadores e ações interativas.
+Celebra a criatividade através campanhas memoráveis, como:
+- **Campanha "Ligue o Modo Oreo"**: Personalização em massa, usando formatos segmentados para comunidades específicas.
+- **Parceria com a FIAT**: Com diversas ativações, incluindo a presença em eventos culturais como o Carnaval.
+- **Campanha "Destrave a Boca" com Trident**: Envolvimento em feriados e festividades, utilizando influenciadores para criar experiências interativas.
 
 ## 4. Dores e Desafios Identificados
-- **Mudança nas Preferências do Consumidor:** Necessidade de adaptação constante às expectativas e comportamentos do consumidor modernos, principalmente no comércio eletrônico.
-- **Concorrência Intensa:** O mercado de publicidade é altamente competitivo, necessitando de diferenciação constante.
-- **Inovação Necessária:** A expectativa de criar campanhas criativas e impactantes, especialmente em um cenário de alta dispersão da atenção.
+- **Mudança nas Preferências do Consumidor**: A necessidade de acompanhar o comportamento do consumidor e tendências emergentes.
+- **Concorrência Intensa**: O mercado de publicidade exige diferenciação constante.
+- **Inovação Necessária**: A necessidade de manter campanhas criativas em um ambiente de atenção dispersa.
 
 ## 5. Oportunidades Potenciais
-- **Integrar Marketing de Influência:** A Leo pode explorar o Marketing de Influência para aumentar o engajamento e atingir consumidores de forma mais autêntica.
-- **Aprimoramento Digital:** Investir em capacidades digitais e análise de dados para segmentação mais precisa e campanhas personalizadas.
-- **Parcerias Estratégicas:** Ampliar alianças com marcas que valorizam a inovação e criatividade nas campanhas.
+- **Integrar Marketing de Influência**: A Leo pode utilizar influenciadores para aumentar o alcance e o engajamento.
+- **Inovação Digital**: Ampliação da capacidade digital e de análise para segmentação e campanhas personalizadas.
+- **Parcerias Estratégicas**: Criar alianças que valorizam a inovação criativa nas campanhas.
 
 ## 6. Perfil de Clientes
-**Indústria:** Foco em setores como automotivo, alimentos e bebidas, e varejo.  
-**Marcas Notáveis:**
+A agência foca em setores como automotivo, alimentos e bebidas, e varejo, trabalhando com marcas notáveis como:
 - FIAT
 - Oreo
 - Trident
 - Samsung
-- Casas Bahia 
+- Casas Bahia
 
 ## 7. Conteúdo e Mensagem
-A Leo Burnett centra sua proposta de valor na criação de campanhas que vão além da mera venda de produtos, priorizando a construção de conexões emocionais. O uso de storytelling relevante e envolvimento com a cultura pop é fundamental para estabelecer essa conexão.
+A comunicação da Leo Burnett se concentra em construir conexões emocionais, utilizando storytelling e cultura pop como formas de engajamento com o público, destacando a importância de experiências significativas.
 
 ## 8. Considerações para Proposta
-Ao abordar a Leo Burnett, é importante ressaltar como o Marketing de Influência pode fortalecer suas iniciativas, ampliando o alcance e aumentando o engajamento. A proposta deve abordar as dores identificadas e explorar as oportunidades presentadas, destacando como a colaboração com influenciadores pode resultar em campanhas significativas e impactantes.
+Ao abordar a Leo Burnett, ressalte como o Marketing de Influência pode amplificar suas iniciativas. A proposta deve evidenciar as dores identificadas e as oportunidades apresentadas, destacando a colaboração com influenciadores como meio de tornar campanhas mais significativas e impactantes.
 
 ### Mensagem Principal:
-"Como a Leo Burnett procura incessantemente pela inovação e conexão genuína com o público, apresento uma parceria em Marketing de Influência, que amplifique essa missão e crie experiências mais memoráveis e impactantes."
+*"Como a Leo Burnett busca constantemente pela inovação e conexão genuína com o público, propomos uma parceria em Marketing de Influência que potencialize essa missão, criando experiências memoráveis e impactantes."*
 
 ---
 
-Com essas informações, o copywriter terá uma base sólida para elaborar um email estratégico e altamente personalizado para a Leo Burnett.
+Este relatório fornece uma base sólida para uma abordagem estratégica e personalizada ao contatar a Leo Burnett. Com essas informações, o copywriter será capaz de criar um email que capture a atenção da agência, sublinhando a relevância da proposta em Marketing de Influência.
