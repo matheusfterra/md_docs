@@ -3,10 +3,13 @@
 ## Visão Geral da Empresa
 ### Nome:
 ND Mais
+
 ### Segmento:
 Marketing de Influência / Mídia Digital
+
 ### Localização:
 Santa Catarina, Brasil
+
 ### Descrição:
 O ND Mais é uma empresa de comunicação e jornalismo que produz conteúdo digital, incluindo notícias, programas de TV, podcasts e eventos. A empresa é focada em diversas áreas, como saúde, segurança, política, economia e turismo, e tem uma forte presença no agronegócio, promovendo tendências e informações relevantes deste setor.
 
@@ -15,6 +18,7 @@ O ND Mais é uma empresa de comunicação e jornalismo que produz conteúdo digi
 - Profissionais do agronegócio.
 - Consumidores de notícias.
 - Turistas e entusiastas da cultura e do setor agro de Santa Catarina.
+
 ### Diferenciais:
 - **Conteúdo Diversificado:** Produção de conteúdos em múltiplas áreas, permitindo o engajamento com diversos públicos.
 - **Expertise em Agronegócio:** Oferece conteúdo especializado, o que é um diferencial significativo para Santa Catarina.
@@ -22,7 +26,7 @@ O ND Mais é uma empresa de comunicação e jornalismo que produz conteúdo digi
 
 ## Análise de Mercado
 ### Panorama do Marketing de Influência:
-O marketing de influência tem crescido exponencialmente, com marcas em busca de maneiras autênticas de engajar o público. As redes sociais são plataformas-chave, com comunidades digitais altamente participativas.
+O marketing de influência tem crescido exponencialmente, com marcas em busca de maneiras autênticas de engajar o público. As redes sociais são plataformas chave, com comunidades digitais altamente participativas.
 
 ### Oportunidades:
 - **Crescimento do Interesse em Agronegócio:** O aumento do setor apresenta uma demanda crescente por campanhas de marketing direcionadas a esse público.
