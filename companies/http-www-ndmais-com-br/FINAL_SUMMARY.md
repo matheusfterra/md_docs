@@ -15,7 +15,6 @@ O ND Mais é uma empresa de comunicação e jornalismo que produz conteúdo digi
 - Profissionais do agronegócio.
 - Consumidores de notícias.
 - Turistas e entusiastas da cultura e do setor agro de Santa Catarina.
-
 ### Diferenciais:
 - **Conteúdo Diversificado:** Produção de conteúdos em múltiplas áreas, permitindo o engajamento com diversos públicos.
 - **Expertise em Agronegócio:** Oferece conteúdo especializado, o que é um diferencial significativo para Santa Catarina.
@@ -31,7 +30,7 @@ O marketing de influência tem crescido exponencialmente, com marcas em busca de
 - **Interação Direcionada:** Parcerias entre marcas e influenciadores que promovem interações autênticas com as comunidades.
 
 ## Possíveis Dores da Empresa
-- **Visibilidade em um Mercado Saturado:** Dificuldade em se destacar em meio a alta concorrência de influenciadores e conteúdo.
+- **Visibilidade em um Mercado Saturado:** Dificuldade em se destacar em meio à alta concorrência de influenciadores e conteúdo.
 - **Autenticidade nas Interações:** Lidar com a necessidade de se conectar de forma genuína com o público em um cenário que valoriza a transparência.
 - **Adaptação às Novas Mídias:** Manter-se atualizado com as tendências e plataformas emergentes.
 
@@ -41,7 +40,7 @@ O marketing de influência tem crescido exponencialmente, com marcas em busca de
 - O aumento do turismo rural e do enoturismo está promovendo o desenvolvimento de vinícolas e experiências culturais.
 
 ### Exemplos de Iniciativas:
-- **Cultivo da Uva Goethe:** A cultura e produção da uva Goethe, que fortalece o turismo e a economia local.
+- **Cultivo da Uva Goethe:** A cultura e produção da uva Goethe que fortalecem o turismo e a economia local.
 - **Agro Saúde e Cooperação:** Iniciativas que incentivam a colaboração entre diferentes atores do agronegócio.
 
 ## Estratégia de Prospecção
