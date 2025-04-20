@@ -10,44 +10,44 @@
 - **Equipe:** 15.000 talentos em 90 países  
 
 ## 2. Descrição da Empresa
-A Leo Burnett, renomeada como "Leo", é uma agência de publicidade reconhecida por sua abordagem criativa que une inovação e tecnologia. Recentemente, a agência passou a integrar a rede global Leo Constellation, intensificando a utilização de insights humanos na era da inteligência artificial (IA). O foco está na criação de campanhas impactantes que conectem marcas ao público, utilizando criatividade estratégica para enriquecer a relevância das marcas no mercado.  
+A Leo Burnett, conhecida simplesmente como "Leo", é uma agência de publicidade destacada por sua abordagem inovadora que combina criatividade e tecnologia. Recentemente, a agência passou a integrar a rede global Leo Constellation, ampliando sua utilização de insights humanos através da inteligência artificial (IA). A missão da Leo é desenvolver campanhas que estabeleçam conexões impactantes entre marcas e consumidores, promovendo experiências autênticas e envolventes.
+
 ### **Foco da Agência:**
-- Desenvolvimento de campanhas impactantes.
-- Aumento da relevância de marcas no comércio através de criatividade e inovação.
-- Criação de experiências autênticas e envolventes para consumidores.
+- Criação de campanhas impactantes.
+- Aumentar a relevância das marcas por meio de criatividade e inovação.
+- Construção de experiências de consumo autênticas.
 
 ## 3. Campanhas e Ativações Recorrentes
-Celebra a criatividade através de campanhas memoráveis, como:
-- **Campanha "Ligue o Modo Oreo"**: Personalização em massa, usando formatos segmentados para comunidades específicas.
-- **Parceria com a FIAT**: Com diversas ativações, incluindo a presença em eventos culturais como o Carnaval.
-- **Campanha "Destrave a Boca" com Trident**: Envolvimento em feriados e festividades, utilizando influenciadores para criar experiências interativas.
+Dentre as campanhas memoráveis decorreram:
+- **"Ligue o Modo Oreo"**: Uma estratégia de personalização em massa, adaptando conteúdo a diferentes perfis de consumidores.
+- **Parcerias com a FIAT**: Incluindo ativações no Carnaval, engajando o público de maneira culturalmente relevante.
+- **"Destrave a Boca" com Trident**: Foco na interação durante as festividades, utilizando influenciadores para maximizar o engajamento.
 
 ## 4. Dores e Desafios Identificados
-- **Mudança nas Preferências do Consumidor**: Uma necessidade de acompanhar o comportamento do consumidor e tendências emergentes.
-- **Concorrência Intensa**: O mercado de publicidade exige diferenciação constante.
-- **Inovação Necessária**: A necessidade de manter campanhas criativas em um ambiente de atenção dispersa.
+- **Mudança nas Preferências do Consumidor**: Necessidade contínua para adaptar-se a novas tendências e comportamentos.
+- **Concorrência Intensa**: Aumento da concorrência exigindo inovação constante para se destacar no mercado.
+- **Inovação Necessária**: Necessidade de manter campanhas criativas em um ambiente de atenção dispersa.
 
 ## 5. Oportunidades Potenciais
-- **Integrar Marketing de Influência**: A Leo pode utilizar influenciadores para aumentar o alcance e o engajamento.
-- **Inovação Digital**: Ampliar a capacidade digital e de análise para segmentação e campanhas personalizadas.
-- **Parcerias Estratégicas**: Criar alianças que valorizam a inovação criativa nas campanhas.
+- **Marketing de Influência**: Integrar mais influenciadores nas campanhas para amplificar o alcance e garantir um maior engajamento.
+- **Inovação Digital**: Ampliar a capacidade de análise e segmentação digital para uma personalização ainda mais impactante.
+- **Parcerias Estratégicas**: Criar colaborações que valorizem a inovação em campanhas de longo prazo.
 
 ## 6. Perfil de Clientes
-A agência foca em setores como automotivo, alimentos e bebidas, e varejo, trabalhando com marcas notáveis como:
-- FIAT
-- Oreo
-- Trident
-- Samsung
-- Casas Bahia
+A Leo Burnett atende uma variedade de setores, incluindo:
+- **Automotivo**: Trabalhando com marcas como FIAT.
+- **Alimentos e Bebidas**: Com clientes como Oreo e Trident.
+- **Varejo**: Incluindo Casas Bahia e Samsung, entre outros.
 
 ## 7. Conteúdo e Mensagem
-A comunicação da Leo Burnett se concentra em construir conexões emocionais, utilizando storytelling e cultura pop como formas de engajamento com o público, destacando a importância de experiências significativas.
+A comunicação da Leo destaca conexões emocionais, utilizando storytelling e referências culturais como formas de envolver o público-alvo com autenticidade e relevância.
 
 ## 8. Considerações para Proposta
-Ao abordar a Leo Burnett, ressalte como o Marketing de Influência pode amplificar suas iniciativas. A proposta deve evidenciar as dores identificadas e as oportunidades apresentadas, destacando a colaboração com influenciadores como meio de tornar campanhas mais significativas e impactantes.  
+Ao abordar a Leo Burnett, é crucial ressaltar como o Marketing de Influência pode potencializar suas iniciativas criativas já existentes. A proposta deve ser estruturada para evidenciar os desafios identificados e as oportunidades de colaboração, focando na entrega de experiências memoráveis e impactantes através de parcerias com influenciadores.
+
 ### Mensagem Principal:
-*"Como a Leo Burnett busca constantemente por inovação e conexão genuína com o público, propomos uma parceria em Marketing de Influência que potencialize essa missão, criando experiências memoráveis e impactantes."*
+*"Como a Leo Burnett busca constantemente inovação e conexões genuínas com o público, propomos uma colaboração em Marketing de Influência que amplifique essa missão, criando experiências de consumo ainda mais memoráveis e impactantes."*
 
 ---
 
-Este relatório fornece uma base sólida para uma abordagem estratégica e personalizada ao contatar a Leo Burnett. Com essas informações, o copywriter será capaz de criar um email que capture a atenção da agência, sublinhando a relevância da proposta em Marketing de Influência.
+Este relatório oferece uma visão abrangente da Leo Burnett, posicionando a empresa como um ambiente propício para ações em Marketing de Influência, e serve como base sólida para uma abordagem estratégica na prospecção.
