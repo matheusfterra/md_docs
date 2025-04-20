@@ -3,7 +3,7 @@
 ## 1. Informações Gerais da Empresa
 - **Nome da Empresa:** Froneri Brasil
 - **Website:** [www.froneri.com.br](http://www.froneri.com.br)
-- **Descrição:** Froneri é uma multinacional especializada na fabricação de sorvetes e sobremesas congeladas. Surge da joint venture entre a Nestlé e a R&R, combinando marcas icônicas e uma forte competência em distribuição.
+- **Descrição:** Froneri é uma multinacional especializada na fabricação de sorvetes e sobremesas congeladas. Surgiu da joint venture entre a Nestlé e a R&R, unindo marcas icônicas e uma forte competência em distribuição.
 - **Sede:** Reino Unido, com operações em mais de 20 países, incluindo o Brasil.
 - **Fábrica no Brasil:** Localizada em Jacarepaguá, Rio de Janeiro.
 
@@ -33,11 +33,11 @@
 - **Concorrência Aumentada:** O mercado de sorvetes é altamente competitivo, com várias marcas disputando o mesmo público.
 - **Sustentabilidade:** A pressão para reduzir o uso de plásticos e garantir práticas sustentáveis em toda a cadeia de suprimentos.
 - **Inovação constante:** Necessidade de inovar em sabores e formatos para se destacar no mercado.
-- **Regulamentações:** Atender a legislação local sobre alimentos e segurança alimentar.
+- **Regulamentações:** Necessidade de atender à legislação local sobre alimentos e segurança alimentar.
 
 ## 5. Contexto de Mercado
 - **Setor de Alimentos:** O mercado de sorvetes e sobremesas congeladas está em crescimento, especialmente entre consumidores que buscam opções indulgentes.
-- **Tendências de Consumo:** A demanda por produtos sustentáveis e saudáveis está em alta. A Froneri está alinhada com esses desejos, mas deve continuar a se adaptar e inovar.
+- **Tendências de Consumo:** A demanda por produtos sustentáveis e saudáveis está em alta. A Froneri está alinhada com esses desejos, porém deve continuar a se adaptar e inovar.
 
 ## 6. Iniciativas e Sustentabilidade
 - **Compromissos Ambientais:** 
@@ -47,15 +47,15 @@
   - Uso de palitos e embalagens sustentáveis.
 
 ## 7. Proposta de Valor da Mensagem
-- **Foco em parcerias:** A Froneri busca constantemente inovações e interações com seu público. Uma abordagem de marketing de influência pode trazer autenticidade e conexão emocional com os consumidores.
-- **Personalização da Proposta:** Como a Froneri está constantemente buscando crescimento e inovação, uma estratégia de marketing de influência pode realçar as novas campanhas e produtos, aumentando a visibilidade e engajamento de marca.
+- **Foco em parcerias:** A Froneri está sempre buscando inovações e interações com seu público. Uma abordagem de marketing de influência pode trazer autenticidade e conexão emocional com os consumidores.
+- **Personalização da Proposta:** Considerando que a Froneri busca constantemente crescimento e inovação, uma estratégia de marketing de influência pode amplificar as novas campanhas e produtos, aumentando a visibilidade e o engajamento da marca.
 
 ## 8. Contato e Interação
 - **Contato Sac:** [sac@br.froneri.com](mailto:sac@br.froneri.com)
 - **Trabalhe Conosco:** Oportunidades abertas para colaborações e parcerias, especialmente em marketing e publicidade.
 
 ## 9. Conclusão
-A Froneri é uma empresa dinâmica que combina tradição com inovação. Estabelecer uma parceria de marketing de influência pode ajudar a marca a se conectar melhor com seu público-alvo, além de solidificar sua presença no mercado competitivo de sorvetes. Os insights sobre suas operações e valores podem ser utilizados para criar um email muito bem direcionado e relevante.
+A Froneri é uma empresa dinâmica que combina tradição com inovação. Estabelecer uma parceria de marketing de influência pode ajudar a marca a se conectar melhor com seu público-alvo, além de solidificar sua presença no mercado competitivo de sorvetes. Os insights sobre suas operações e valores podem ser utilizados para criar um e-mail muito bem direcionado e relevante.
 
 ---
 
