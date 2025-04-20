@@ -4,15 +4,15 @@
 - **Nome da Empresa:** Wellhub
 - **Website:** [wellhub.com](http://www.wellhub.com)
 - **Segmento:** Marketing de Influência - Conexões entre empresas e influenciadores
-- **Localização:** Presença internacional, atuando em países como Estados Unidos, Brasil, Canadá, Alemanha, Espanha, México, e Irlanda.
-
+- **Localização:** Presença internacional, atuando em países como Estados Unidos, Brasil, Canadá, Alemanha, Espanha, México e Irlanda.
+  
 ## 2. Visão Geral da Empresa
-Wellhub é uma plataforma que conecta empregados a uma vasta rede de opções de bem-estar, incluindo atividades de fitness, nutrição e saúde mental, através de uma única assinatura. Seu foco é proporcionar uma experiência de bem-estar abrangente que visa reduzir custos de saúde e aumentar a retenção de funcionários. 
+A Wellhub é uma plataforma que conecta empregados a uma vasta rede de opções de bem-estar, incluindo atividades de fitness, nutrição e saúde mental, através de uma única assinatura. Seu foco é proporcionar uma experiência de bem-estar abrangente que visa reduzir custos de saúde e aumentar a retenção de funcionários.
 
 ### 2.1 Propostas de Valor
 - **Redução de Custos:** Até 35% de redução nos custos anuais de saúde dos empregados.
 - **Retenção de Funcionários:** Aumento de 43% na retenção de colaboradores.
-- **Acesso Amplo:** Rede com mais de 50.000 academias e estúdios, 2.500 treinadores pessoais virtuais, e 70 aplicativos de bem-estar premium.
+- **Acesso Amplo:** Rede com mais de 50.000 academias e estúdios, 2.500 treinadores pessoais virtuais e 70 aplicativos de bem-estar premium.
 
 ## 3. Público-Alvo
 - **Empresas:** Organizações que buscam melhorar o bem-estar dos colaboradores e reduzir custos com saúde.
@@ -41,3 +41,10 @@ O aumento da preocupação com o bem-estar mental e físico tem levado várias o
 
 ## 9. Considerações Finais
 A Wellhub está bem posicionada para se tornar uma líder no setor de bem-estar corporativo, com uma proposta de valor clara e impactante. Sua combinação de resultados positivos em saúde e métodos inovadores de engajamento cria uma plataforma robusta para futuras colaborações. Este relatório fornece ao copywriter informações abrangentes e contextualizadas, permitindo a elaboração de e-mails de prospecção profundos e personalizados, focando nas necessidades e desafios específicos da Wellhub.
+
+### Dados Relevantes
+- **61%** dos funcionários não tinham associação a academias antes de Wellhub.
+- **35%** de redução nos custos anuais de saúde dos funcionários.
+- **43%** de melhoria na retenção de funcionários. 
+
+Este relatório será fundamental para a criação de uma abordagem personalizada e impactante na prospecção da Wellhub, considerando suas características, dores e contextos específicos.
