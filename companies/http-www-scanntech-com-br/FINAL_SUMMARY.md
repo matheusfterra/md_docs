@@ -44,12 +44,13 @@ Scanntech opera no setor de alimentos e bebidas, onde as tendências incluem:
 - Crescente necessidade de soluções que ofereçam insights em tempo real para melhorar a eficiência da cadeia de suprimentos.
 
 ## 6. Principais Dores e Desafios
-- Dificuldade em gerenciar estoques de forma eficiente para evitar faltas e excessos.
-- Demora na análise de dados, resultando em decisões menos precisas.
-- Necessidade de adaptação rápida às novas mudanças de comportamento do consumidor, como preferências por compras menores e frequentes.
+- **Gestão de Estoques:** Dificuldade em gerenciar estoques de forma eficiente para evitar faltas e excessos, além da demanda crescente por itens com atributos de saúde.
+- **Análise de Dados:** Demora na análise de dados, resultando em decisões menos precisas e perdas financeiras.
+- **Adaptação ao Comportamento do Consumidor:** Necessidade de adaptação rápida às novas mudanças de comportamento do consumidor, incluindo a preferência por lojas e compras menores.
 
 ## 7. Proposta de Valor
 Scanntech se posiciona como uma solução essencial para indústrias e varejistas em busca de informações rápidas e precisas. Através de inteligência artificial e análises de dados, a empresa ajuda parceiros a:
+
 - Aumentar a eficiência nas vendas.
 - Tomar decisões mais assertivas, baseando-se em dados.
 - Reduzir rupturas de produtos e otimizar a distribuição.
@@ -59,10 +60,10 @@ Scanntech se posiciona como uma solução essencial para indústrias e varejista
 - **Email:** [scanntech@loures.com.br](mailto:scanntech@loures.com.br)
 
 ## 9. Insights e Oportunidades para Prospecção
-Ao abordar Scanntech, é importante focar nas áreas:
-- Oferecer soluções que ajudem as empresas a se adaptarem rapidamente às novas tendências de consumo.
-- Compartilhar casos de sucesso onde a Scanntech melhorou a eficiência das vendas e reduziu custos operacionais.
-- Destacar a importância da coleta e análise de dados em tempo real na otimização das operações comerciais.
+Ao abordar a Scanntech, é importante focar nas áreas:
+- **Adaptação Acelerada:** Apresentar soluções que ajudem as empresas a se adaptarem rapidamente às novas tendências de consumo.
+- **Casos de Sucesso:** Compartilhar casos de sucesso onde a Scanntech melhorou a eficiência das vendas e reduziu custos operacionais.
+- **Importância da Análise de Dados Real-Time:** Em um cenário onde as decisões devem ser tomadas rapidamente, realçar a importância da coleta e análise de dados em tempo real.
 
 ### Conclusão
-Scanntech ocupa uma posição estratégica no mercado de inteligência para o setor de alimentos e bebidas, sua experiência em dados pode proporcionar às empresas parceiras as informações necessárias para navegar em um ambiente de varejo em constante evolução. A prospecção deve ser personalizada de acordo com os desafios enfrentados por cada cliente, para maximizar a relevância e eficácia do contato.
+Scanntech ocupa uma posição estratégica no mercado de inteligência para o setor de alimentos e bebidas. Sua experiência em dados pode proporcionar às empresas parceiras as informações necessárias para navegar em um ambiente de varejo em constante evolução. A prospecção deve ser personalizada de acordo com os desafios enfrentados por cada cliente, para maximizar a relevância e eficácia do contato.
