@@ -1,59 +1,71 @@
-# Relatório de Prospecção: Cortex Intelligence
+# Relatório de Prospecção - Cortex Intelligence
 
-## Informações Gerais
+## Informações Gerais da Empresa
+- **Nome da Empresa:** Cortex Intelligence
+- **Segmento:** Inteligência de Go-to-Market
+- **Website:** [cortex-intelligence.com](https://www.cortex-intelligence.com)
+- **Localização:** Vila Olímpia, São Paulo, SP
+- **Telefone Administrativo:** 10h às 18h
+- **Telefone Comercial:** 9h às 18h
+- **Investidores:** SoftBank Group, Riverwood Capital, Redpoint Eventures, C2 Capital Partners, Endeavor Catalyst
 
-**Nome da empresa:** Cortex Intelligence  
-**Website:** [Cortex Intelligence](http://www.cortex-intelligence.com)  
-**Segmento:** Inteligência de Go-to-Market e Geomarketing  
-**Localização:** Ed. Central Vila Olímpia, Al. Vicente Pinzon, 51 - 6º Andar, Vila Olímpia, SP
+## Ofertas de Produtos/Serviços
+A Cortex oferece várias soluções baseadas em dados e inteligência artificial para ajudar empresas a impulsionar suas estratégias de marketing, comunicação e vendas. As principais ofertas incluem:
 
-**Descrição da Empresa:**  
-A Cortex Intelligence é líder em inteligência de Go-to-Market na América Latina, oferecendo soluções que ajudam empresas a otimizarem suas estratégias de comunicação, marketing e vendas. Com uma plataforma que utiliza Inteligência Artificial e Big Data, a Cortex promove processos de expansão de mercado e análise de performance.
+1. **Geofusion Intelligence**: Focada na estratégia de expansão de varejistas, oferecendo dados precisos sobre potencial de mercado e localização.
+   - [Conheça a solução](https://www.cortex-intelligence.com/geofusion-intelligence?hsLang=pt-br)
 
-## Características e Soluções Oferecidas
+2. **PR Intelligence**: Solução voltada para monitorar e melhorar a reputação da marca em tempo real, integrando métricas essenciais.
+   - [Conheça a solução](https://www.cortex-intelligence.com/comunicacao-estrategica-e-reputacao?hsLang=pt-br)
 
-### Principais Soluções:
-1. **GTM Intelligence para B2B e B2B2C:**
-   - Identificação de mercados e PDVs com maior potencial.
-   - Mapeamento do Buying Committee.
-   - Priorização de contas.
-   - Mensuração de resultados e eficiência de Go-to-Market.
+3. **GTM Intelligence para B2B**: A proposta é tornar o processo de Go-to-Market mais eficiente usando dados e inteligência artificial.
+   - [Conheça a solução](https://www.cortex-intelligence.com/inteligencia-de-vendas-b2b?hsLang=pt-br)
 
-2. **Geofusion Intelligence:**
-   - Análise e melhoria da operação geográfica.
-   - Identificação de locais para abertura e expansão de unidades.
-   - Dimensionamento do potencial de retorno de cada unidade.
+4. **GTM Intelligence para B2B2C**: Identifica novos PDVs e mercados não atendidos, facilitando a conexão entre marcas e consumidores.
+   - [Conheça a solução](https://www.cortex-intelligence.com/solucao-mercado-e-vendas?hsLang=pt-br)
 
-3. **PR Intelligence:**
-   - Monitoramento da exposição da marca nas mídias.
-   - Gestão e análise da reputação e desempenho da comunicação.
+## Características e Benefícios da Cortex
+### Diferenciais Competitivos
+- **Inteligência Artificial:** Uso de algoritmos avançados para análise de dados e previsão de resultados.
+- **Cobertura Global:** Fornece informações firmográficas e geográficas abrangentes.
+- **Interface Amigável:** Plataforma que permite análises rápidas e construção de painéis de gestão.
 
-### Desafios Identificados:
-- Dificuldade na escolha do local certo para abrir novos pontos de venda, levando a prejuízos.
-- Falta de dados precisos para estratégias de expansão e gestão eficiente de ativos.
-- Monitoramento da reputação e exposição da marca em tempo real frente à concorrência.
+### Resultados Esperados
+- Aumento da precisão nas análises e decisões estratégicas.
+- Melhoria da eficiência nas ações de marketing e vendas.
+- Redução de custos e maximização de oportunidades de mercado.
 
-## Possíveis Dores que a Cortex Resolve:
-- **Desempenho Desequilibrado:** Dificuldades em identificar as melhores práticas para maximizar a operação e a performance das unidades existentes.
-- **Visibilidade Limitada:** Baixa entendimento sobre o potencial de novos mercados, resultando em decisões não otimizadas.
-- **Tempo Perdido:** Equipes gastando tempo em leads de baixa qualidade.
+## Dores e Desafios do Cliente
+A Cortex busca ajudar as empresas a solucionar problemas comuns de gestão de marketing e vendas, tais como:
+- **Falta de Dados Práticos:** Dificuldades em identificar oportunidades de mercado e perfis de clientes.
+- **Gestão de Reputação:** Monitoramento e avaliação da imagem da marca em tempo real.
+- **Eficiência em Expansão:** Análises insuficientes para decisões sobre novos PDVs ou regiões de expansão.
+
+## Contexto do Mercado
+Com a crescente demanda por soluções baseadas em dados, o marketing de influência se tornou uma área estratégica, onde a Cortex pode incorporar influenciadores e outras verticais para potencializar a presença de marca em canais relevantes. A combinação de soluções de mídia, análise de dados e insights de mercado apresenta uma proposta atraente para empresas que buscam otimizar sua comunicação e expandir suas operações.
 
 ## Público-Alvo
-- Empresas em setores como Varejo, Alimentos e Bebidas, Farmácia, Tecnologia, entre outros.
-- Profissionais nas áreas de marketing, vendas, expansão de negócios e comunicação corporativa.
+As principais indústrias atendidas pela Cortex incluem:
+- Varejo
+- Farmácias
+- Alimentação
+- Mídia OOH (Out Of Home)
+- Ensino e Educação
 
-## Contexto Atual
-A Cortex se posiciona como uma solução perfeita para empresas que enfrentam a crescente complexidade e concorrência nos mercados. A utilização de dados e analytics permite decisões embasadas, enquanto o serviço proporciona insights em tempo real, essenciais para manter a relevância e competitividade.
+### Casos de Uso
+A Cortex já demonstrou eficácia em vários segmentos, oferecendo serviços adaptados a diferentes necessidades, como:
+- **Recrutamento e Seleção**: Aumentando as oportunidades de negócios em empresas com vagas ativas.
+- **Tecnologias de Pagamento Online**: Além de fornecer insights sobre consumidores no espaço digital.
 
-## Competidores
-- Empresas que oferecem soluções similares em inteligência de marketing e vendas, como consultorias de marketing digital e plataformas de análise de dados.
+## Objetivos de Prospecção
+1. Conectar empresas que necessitam de melhorias em sua estratégia de vendas e marketing, apresentando a Cortex como uma solução poderosa.
+2. Oferecer demonstrações personalizadas para mostrar a eficácia do uso de dados e IA na otimização de resultados.
+3. Aumentar a adesão a serviços que promovam a reputação da brand em um mercado competitivo.
 
-## Casos de Sucesso
-A Cortex já estabeleceu parcerias com marcas renomadas como Carrefour, Moura e Linx, que podem servir de referência no email de apresentação.
+## Ações Recomendadas para Prospecção
+- **Email Personalizado:** Elaborar mensagens que abordem diretamente as dores e necessidades específicas de cada empresa.
+- **Demonstrações:** Agendar apresentações ou workshops para expor as soluções em ação.
+- **Conteúdo Relevante:** Compartilhar matérias, estudos de caso e outros recursos que ajudem a educar o mercado sobre a importância do uso de dados e análise na estratégia de marketing.
 
-## Mensagem Personalizada para Prospecção
-Com base nas informações e dores levantadas, o email pode ressaltar como uma melhoria na comunicação e análise de dados instantânea pode impactar diretamente na estratégia de mercado da empresa prospectada. Apontar casos de sucesso e como esses resultados podem ser replicados.
-
----
-
-Esse relatório serve como base para que o copywriter produza um email profundo, contextualizado e relevante, que ressoe com a dor do potencial cliente, demonstrando a expertise da Cortex Intelligence em oferecer soluções eficazes para os desafios encontrados no segmento de marketing e vendas.
+## Conclusão
+A Cortex Intelligence é uma empresa líder no fornecimento de inteligência de mercado que pode revolucionar a maneira como as marcas abordam suas estratégias de marketing e vendas. Este relatório serve como base para que a equipe de copywriting desenvolva comunicações efetivas que ressoem com as necessidades do público-alvo e ajudem na conversão de leads.
