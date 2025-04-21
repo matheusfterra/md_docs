@@ -50,7 +50,6 @@ Scanntech opera no setor de alimentos e bebidas, onde as tendências incluem:
 
 ## 7. Proposta de Valor
 Scanntech se posiciona como uma solução essencial para indústrias e varejistas em busca de informações rápidas e precisas. Através de inteligência artificial e análises de dados, a empresa ajuda parceiros a:
-
 - Aumentar a eficiência nas vendas.
 - Tomar decisões mais assertivas, baseando-se em dados.
 - Reduzir rupturas de produtos e otimizar a distribuição.
