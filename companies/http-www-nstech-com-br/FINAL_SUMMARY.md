@@ -1,56 +1,57 @@
-# Relatório de Prospecção: nstech
+# Relatório de Prospecção - nstech
 
 ## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** nstech  
-- **Website:** [nstech.com.br](http://www.nstech.com.br)  
-- **Segmento de Atuação:** Tecnologia para logística  
-- **Localização:** Av. Magalhães de Castro 4800 - Continental Tower - Conjunto 301 - Jardim Panorama - SP, Brasil  
-- **Modelo de Negócio:** B2B (Business to Business)
+- **Nome da Empresa:** nstech
+- **Website:** [nstech.com.br](http://www.nstech.com.br)
+- **Segmento:** Tecnologia para Logística
+- **Localização:** Av Magalhães de Castro 4800 - Continental Tower - Conjunto 301 - Jardim Panorama - SP, Brasil
+- **Investidores:** Niche Partners / TARPON e Greenbridge
 
-## 2. Produtos e Serviços Oferecidos
-A nstech oferece uma plataforma integrada com mais de 100 soluções tecnológicas focadas na otimização do Supply Chain. Os principais serviços incluem:
-- **TMS (Transport Management System):** Para embarcadores e transportadores.
-- **YMS (Yard Management System):** Para gerenciamento de pátios.
-- **Gestão de documentos e emissão de NFes, CTes, MDFes.**
-- **Cálculos de rotas e pedágios.**
-- **Gestão de entregas e fretamento.**
-- **Soluções para transporte de produtos químicos e perigosos.**
-- **Educação e formação continuada em logística.**
+## 2. Produtos e Soluções
+A nstech oferece mais de 100 soluções integradas para toda a cadeia logística, com enfoque em:
+- **TMS (Transportation Management System)** para embarcadores e transportadores
+- **YMS (Yard Management System)**
+- **Roteirização** para otimizar a logística
+- **Gestão de Pátios** e **Armazéns**
+- **Gestão de Vale-Pedágio** e **Pagamento Eletrônico de Frete**
+- **Gestão de Risco** e **Prevenção de Acidentes**
+- **ERP Mobilidade** e soluções para educação e conteúdo no setor logístico.
 
-## 3. Público-Alvo e Clientes
-A nstech atende um público diversificado, com mais de 75 mil clientes, incluindo:
-- Embarcadores, transportadores e operadores logísticos.
-- Empresas dos segmentos agro (fertilizantes, carnes, laticínios, bebidas).
-- Grandes players do mercado como JBS, Cargill e Bunge.
+## 3. Segmentos de Atuação
+A nstech atende diversos segmentos, incluindo:
+- Agronegócio
+- Alimentício
+- Varejo
+- E-commerce
+- Transportadoras
+- Bens de Consumo
+- Químico e Siderurgia
 
-## 4. Dores e Desafios do Mercado
-Os principais desafios enfrentados pelas empresas no setor de logística que a nstech busca resolver incluem:
-- **Redução de custos operacionais:** Necessidade constante de corte de gastos com logística.
-- **Eficiência nas operações:** Complexidade que exige soluções integradas e ágeis.
-- **Gestão de riscos e conformidade regulatória:** Segurança e legalidade nas operações.
-- **Monitoramento e gerenciamento de frotas:** Controle em tempo real para evitar desperdícios.
+## 4. Clientes e Market Share
+- **Mais de 75.000** clientes, abrangendo embarcadores, transportadores e operadores logísticos.
+- Entre os principais clientes estão grandes empresas como Cargill, JBS, Amaggi, e Lactalis.
 
-## 5. Evidências de Resultados
-A nstech apresentou casos de sucesso que comprovam sua eficácia em atender as necessidades do mercado:
-- **Lactalis:** Redução de 47% nos prejuízos por sinistralidade no transporte de laticínios.
-- **Transgires:** Crescimento significativo após implementação de soluções que segmentaram sua operação.
-- **Estatísticas Relevantes:**
-  - Valor total da carga monitorada: R$ 15,5 trilhões.
-  - Frete total no TMS: R$ 360 bilhões.
-  - Mais de 2,5 milhões de motoristas cadastrados.
+## 5. Benefícios e Diferenciais
+- **Economia de 26% nos custos de VPO** com a pessoalização dos processos logísticos.
+- **Integração total com sistemas de gestão** (TMS, ERP).
+- **Monitoramento em tempo real** para aumentar a eficiência e mitigar riscos (Gestão de Risco).
+- Casos de sucesso bem documentados, demonstrando impacto positivo nas operações logísticas dos clientes.
 
-## 6. Estratégias de Engajamento
-### Uso de Influenciadores
-A nstech pode explorar influenciadores no setor de logística e supply chain para aumentar a consciência sobre suas soluções e desafios que ajudam a resolver.
+## 6. Possíveis Dores/Desafios Identificados
+As empresas que buscam soluções logísticas frequentemente enfrentam:
+- Altos custos operacionais.
+- Complexidade na gestão de processos logísticos.
+- Necessidade de conformidade regulatória, principalmente no que diz respeito a transporte de bens, especialmente alimentos e produtos químicos.
+- Falta de visibilidade nas operações logísticas e rastreamento de carga.
 
-### Personalização de Conteúdos
-Criar material educativo e de sucesso que se conecte com as necessidades específicas de empresas em diferentes segmentos, gerando engajamento mais efetivo.
+## 7. Contexto do Mercado
+O mercado de logística no Brasil está em crescimento, impulsionado pela necessidade de digitalização e eficiência. A nstech se posiciona como um player-chave, oferecendo soluções que não apenas atendem à demanda por eficiência e redução de custos, mas também ajudam empresas a se adaptarem às novas regulamentações e desafios logísticos.
 
-## 7. Contatos e Comunicação
-**Canais para contato:**  
-- **Formulário de contato:** [Fale com um especialista](http://www.nstech.com.br/#formContact)  
-- **Redes sociais:** Ativa em plataformas onde constrói uma comunidade e compartilha insights sobre logística.
+## 8. Estruturas e Recursos
+- **Blog da nstech:** Fonte de conhecimento e materiais educativos sobre logística.
+- **Cases de sucesso:** Histórias de clientes que utilizaram as soluções nstech para obter melhorias significativas em seus processos logísticos.
 
----
+## 9. Conclusão
+A nstech se destaca no mercado por suas soluções integradas e flexíveis, adequadas para diferentes setores e tamanhos de empresas. O foco em tecnologia e inovação permite à nstech resolver as dores mais comuns do setor logístico, tornando-a uma opção atrativa para empresas que buscam otimizar suas operações. 
 
-Essas informações servirão para criar um e-mail profundamente personalizado para a prospecção outbound na nstech, focando nas dores conhecidas e nas soluções que a nstech oferece para corrigi-las. O engajamento com os influenciadores do setor e a personalização do conteúdo são táticas que reforçarão a abordagem e aumentarão as chances de eficácia na comunicação.
+Recomendo que o copywriter utilize esses pontos para criar um e-mail envolvente e personalizado, destacando como a nstech pode trazer valor às operações da empresa prospectada.
