@@ -1,67 +1,90 @@
-# Relatório de Prospecção - Empresa [Nome da Empresa]
+Claro, aqui está um modelo detalhado de relatório de prospecção que um SDR poderia utilizar ao mapear informações relevantes sobre uma empresa no contexto de Marketing de Influência.
 
-## 1. Informações Gerais da Empresa
+# Relatório de Prospecção
+
+## Informações Básicas da Empresa
+
 - **Nome da Empresa:** [Nome da Empresa]
-- **Website:** [URL do site]
-- **Segmento/Setor:** [Setor em que a empresa atua, ex: moda, tecnologia, beleza, saúde, etc.]
-- **Localização:** [Cidade, Estado, País]
-- **Ano de Fundação:** [Ano]
-- **Tamanho da Empresa:** [Quantidade de funcionários ou categorias, ex: pequena, média, grande]
-- **Modelo de Negócio:** [B2C, B2B, etc.]
-  
-## 2. Público-Alvo
-- **Demografia:** [Idade, gênero, localização, nível socioeconômico]
-- **Psicografia:** [Interesses, comportamentos, estilo de vida]
-- **Persona Primária:** [Descrever a persona mais representativa do público-alvo]
+- **Endereço:** [Endereço Completo]
+- **Website:** [URL do Site]
+- **Telefone:** [Número de Telefone]
+- **Email de Contato:** [Email de Contato Principal]
 
-## 3. Presença Digital 
-- **Redes Sociais:**
-  - Facebook: [URL]
-  - Instagram: [URL]
-  - Twitter: [URL]
-  - LinkedIn: [URL]
-  - TikTok: [URL]
-- **Engajamento:** [Nº de seguidores, taxa de engajamento, comentários, compartilhamentos, etc.]
-- **Blog/Conteúdo:** [Temas abordados, frequência de postagens, popularidade dos posts]
+## Informações do Mercado
 
-## 4. Estrutura de Marketing
-- **Estratégia de Marketing Atual:** [Como a empresa promove seus produtos/serviços, campanhas, etc.]
-- **Canais Utilizados:** [Marketing digital, eventos, parcerias, etc.]
-- **Histórico de Colaboração com Influenciadores:** [Quais influenciadores já trabalharam com a empresa? Quais resultados tiveram?]
+- **Segmento de Atuação:** [Descrever o segmento de atuação da empresa, como moda, beleza, tecnologia, etc.]
+- **Posicionamento no Mercado:** [Informações sobre como a empresa é percebida em seu segmento, qual sua proposta de valor, etc.]
+- **Concorrência Direta:** [Listar principais concorrentes e suas práticas de marketing de influência, se disponíveis.]
 
-## 5. Concorrência
-- **Principais Concorrentes:** 
-  - [Nome do concorrente 1] - [Diferenciais e estratégia]
-  - [Nome do concorrente 2] - [Diferenciais e estratégia]
-  - [Nome do concorrente 3] - [Diferenciais e estratégia]
-- **Análise Comparativa:** [Como a empresa se posiciona em relação aos concorrentes em termos de marketing de influência e engajamento].
+## Dados da Equipe
 
-## 6. Possíveis Dores e Desafios
-- **Desafios Identificados no Segmento:**
-  - [Ex: dificuldade em alcançar o público-alvo, baixo engajamento em campanhas, etc.]
-- **Possíveis Dores Relacionadas ao Marketing de Influência:**
-  - [Ex: falta de conhecimento sobre como selecionar influenciadores, dificuldade em medir ROI, etc.]
-  
-## 7. Oportunidades
-- **Tendências do Mercado:** [Oportunidades de crescimento no segmento de influência, mudanças no comportamento do consumidor]
-- **Áreas que Podem Ser Exploradas:** [Ex: setores onde a empresa pode se expandir através de campanhas de influenciadores]
+- **Nome do Contato Principal:** [Nome]
+- **Cargo:** [Cargo do Contato]
+- **Experiência Profissional:** [Breve descrição das experiências anteriores do contato, se possível.]
+- **Interesses e Hobbies:** [Informações pessoais que podem ajudar na personalização do contato.]
 
-## 8. Mensagem Personalizada para Prospecção
-- **Gatilhos em Potenciais Conversas:**
-  - [Ex: “Vi que vocês têm um histórico de campanhas bem-sucedidas com a [Nome de Influenciador]. Você estaria aberto a explorar parcerias com outros influenciadores para aumentar ainda mais sua presença no mercado?”]
-- **Solução Oferecida:**
-  - [Descrição breve de como a sua empresa pode resolver as dores identificadas e trazer ROI através do marketing de influência]
+## Análise da Presença Online
 
-## 9. Próximos Passos
-- **Ações Recomendadas:**
-  - [Realizar follow-up, enviar email personalizado, marcar reunião, etc.]
-- **Ponto de Contato:** [Nome e cargo da pessoa a ser contatada inicialmente]
+1. **Website:**
+   - Análise da navegação e estética.
+   - Avaliação da seção de blogs ou recursos.
+   - Identificação de áreas de destaque na oferta de produtos/serviços.
 
----
+2. **Mídias Sociais:**
+   - **Instagram:** (Número de seguidores, tipo de conteúdo postado, engajamento)
+   - **Facebook:** (Número de curtidas, postagens frequentes)
+   - **LinkedIn:** (Conexões, tipo de conteúdo relacionado a negócios)
+   - **Twitter:** (Número de seguidores, postagens relevantes)
 
-**Notas Adicionais:**
-- [Espaço para observações relevantes ou insights durante a pesquisa]
+3. **Artigos e Publicações:**
+   - [Listar artigos relevantes sobre a empresa em mídias externas, blogs ou notícias.]
 
----
+## Dores e Desafios Identificados
 
-Esse relatório poderá ser utilizado pela equipe de copywriting para elaborar um e-mail impactante e personalizado, que chame a atenção da empresa prospectada.
+- **Dores Possíveis:**
+  - Dificuldade em atingir o público-alvo efetivamente.
+  - Baixo engajamento em campanhas de mídia social.
+  - Necessidade de melhorar a percepção de marca.
+  - Falta de conexão genuína com o público.
+
+- **Desafios Atuais:**
+  - [Descrever os desafios específicos atuais da empresa em relação ao marketing e à presença online, baseando-se em dados disponíveis.]
+
+## Oportunidades de Marketing de Influência
+
+- **Influenciadores Potenciais:**
+  - [Listar perfis de influenciadores que se alinham com a marca, incluindo engajamento e público-alvo.]
+
+- **Campanhas Sazonais:**
+  - [Descrever campanhas que podem ser relevantes para a empresa, como datas comemorativas ou lançamentos de produtos.]
+
+- **Possíveis Colaborações:**
+  - [Sugerir colaborações ou ações que poderiam ser vantajosas e atraentes para a empresa.]
+
+## Concorrência Analisada
+
+- **Principais Concorrentes:**
+  - [Nome 1]
+    - Estratégia de Influência
+    - Resultados ou campanhas de destaque
+  - [Nome 2]
+    - Estratégia de Influência
+    - Resultados ou campanhas de destaque
+
+## Mensagem Personalizada para o Copywriter
+
+**Resumo:**  
+Com base nos dados coletados, a mensagem a ser elaborada deve focar em como o Marketing de Influência pode ser a solução para as dores da empresa, destacando a relevância da autencidade e como isso cria uma conexão mais forte com o público. Além disso, o copy deve mencionar influenciadores específicos que já se alinham à marca, demonstrando uma abordagem estratégica que não só atinge o público certo como também melhora a imagem da empresa no mercado.
+
+### Exemplos de Tópicos para o Email:
+- Como influenciadores podem resolver problemas de engajamento e branding.
+- Casos de sucesso de empresas semelhantes.
+- Sugestões personalizadas de influenciadores.
+
+## Conclusão
+
+Esse relatório deve fornecer um panorama completo da empresa alvo para que o copywriter consiga elaborar uma comunicação de alta relevância e engajamento. As informações devem ser constantemente atualizadas com novas descobertas e insights para garantir assertividade na abordagem. 
+
+--- 
+
+Sinta-se à vontade para preencher os detalhes específicos com as informações coletadas sobre a empresa a ser prospectada!
