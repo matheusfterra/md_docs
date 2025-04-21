@@ -1,7 +1,8 @@
 # Relatório de Prospecção - Tera Treinamentos Profissionais S.A.
+
 ## Informações da Empresa
 - **Nome da Empresa**: Tera Treinamentos Profissionais S.A.
-- **Website**: [www.somostera.com](http://www.somostera.com)
+- **Website**: [somostera.com](https://somostera.com)
 - **CNPJ**: 19.873.194/0001-68
 - **Ano de Fundação**: 2023
 
@@ -36,9 +37,9 @@ A Tera oferece uma variedade de cursos, entre os quais se destacam:
 4. **Networking Significativo**: Construção de redes de contatos que suportem o crescimento profissional.
 
 ## Oportunidades
-- **Parcerias com Influenciadores**: Atraindo estudantes por meio de recomendações de figuras relevantes da industria.
-- **Expansão da Oferta**: Introdução de cursos sobre novas tendências, como marketing de influência.
-- **Conteúdo Valioso**: Desenvolvimento de materiais que contem histórias de sucesso, inspirando novos alunos.
+- **Parcerias com Influenciadores**: Atraindo estudantes por meio de recomendações de figuras relevantes da indústria.
+- **Expansão da Oferta**: Introdução de novos cursos sobre tendências emergentes, como marketing de influência.
+- **Conteúdo Valioso**: Desenvolvimento de matérias que contem histórias de sucesso, inspirando novos alunos.
 
 ## Concorrência
 A Tera compete com plataformas como Alura, Udacity e Coursera. A diferenciação se dará pela qualidade do ensino e pela conexão com especialistas da indústria.
@@ -46,7 +47,11 @@ A Tera compete com plataformas como Alura, Udacity e Coursera. A diferenciação
 ## Argumentos para Abordagem
 - **Expertise do Setor**: Alunos têm acesso a ensinamentos de profissionais com experiência em empresas como Rapha, Nubank e iFood.
 - **Metodologia Prática**: O ensino prático responde à demanda por experiência real.
-- **Flexibilidade e Acessibilidade**: Diversos métodos de pagamento e ofertas de cursos a preços competitivos para todas as faixas sociais.
+- **Flexibilidade e Acessibilidade**: Diversos métodos de pagamento e ofertas de cursos a preços competitivos para diferentes faixas sociais.
 
 ## Conclusão
-A Tera não é apenas uma plataforma de cursos; é uma comunidade de aprendizado e colaboração. Alinhar cursos às exigências do mercado atual com um foco em abordagens práticas oferece uma oportunidade única para os que buscam se destacar no cenário profissional. Este relatório servirá para criar estratégias de prospecção e comunicação, com um enfoque orientado para resultados com a Tera.
+A Tera não é apenas uma plataforma de cursos; é uma comunidade de aprendizado e colaboração. Alinhar cursos às exigências do mercado atual, com foco em abordagens práticas, oferece uma oportunidade única para os que buscam se destacar no cenário profissional. Este relatório servirá para criar estratégias de prospecção e comunicação orientadas a resultados com a Tera. 
+
+---
+
+Este relatório abrange as informações mais relevantes sobre a Tera Treinamentos Profissionais S.A. e pode ser utilizado para elaboração de uma comunicação efetiva e personalizada na prospecção.
