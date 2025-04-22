@@ -1,6 +1,5 @@
 ```markdown
 # Relatório de Prospecção - Marketing de Influência
-
 ## 1. Informações Gerais da Empresa
 - **Nome da Empresa:** Beleza Natural
 - **Segmento de Atuação:** Beleza e Cuidados Pessoais
@@ -18,7 +17,6 @@
   - **Linha de Cabelos:** Focada em cabelos cacheados e crespos, enfatizando hidratação e definição.
   - **Maquiagem:** Produtos desenvolvidos para diferentes tons de pele, com uma abordagem inclusiva.
   - **Cuidados com a Pele:** Linha de produtos naturais voltados para hidratação e proteção da pele.
-  
 - **Diferenciais Competitivos:** 
   - Foco em um nicho crescente de produtos para cabelos cacheados e crespos.
   - Campanhas que favorecem diversidade e inclusão.
@@ -40,14 +38,12 @@
   - [Twitter](http://www.twitter.com/beleazanatural)
   - [TikTok](http://www.tiktok.com/@beleazanatural)
   - [YouTube](http://www.youtube.com/c/BelezaNatural)
-  
 - **Blog ou Artigos:** Contém posts sobre tendências de beleza, cuidados com cabelos cacheados e guias de maquiagem inclusiva.
 
 ## 6. Dados de Mercado
 - **Tendências do Setor:** 
   - Aumento da demanda por produtos de beleza que atendam necessidades específicas, como cabelos cacheados.
   - Crescimento do uso de marketing de influência como ferramenta de engajamento e vendas.
-  
 - **Concorrência:** 
   - **O Boticário:** Forte presença no mercado, mas com foco mais amplo.
   - **Natura:** Reconhecida por sua abordagem sustentável, mas menos focada em nichos específicos.
