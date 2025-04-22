@@ -1,60 +1,50 @@
-# Relatório de Prospecção - ImpulseUP
+# Relatório de Prospecção: ImpulseUP
 
-## 1. Informações Gerais da Empresa
-- **Nome da Empresa**: ImpulseUP
-- **Segmento**: Tecnologia em gestão de pessoas, focado em avaliações de desempenho, OKRs e engajamento de colaboradores.
-- **Website**: [www.impulseup.com](https://www.impulseup.com)
-- **Contato**: fale@impulseup.com
-- **CNPJ**: 46.743.554/0001-80
+## Dados Gerais da Empresa
+- **Nome da Empresa:** ImpulseUP
+- **Segmento:** Tecnologia de Gestão de Desempenho e Avaliação
+- **Website:** [ImpulseUP](https://www.impulseup.com/)
+- **CNPJ:** 46.743.554/0001-80
 
-## 2. Descrição dos Produtos e Serviços
-### 2.1 Avaliação de Desempenho
-A plataforma permite livrar-se de planilhas e sistemas complexos, oferecendo:
-- Avaliações, feedbacks e planos de desenvolvimento individual (PDI).
-- Avaliação 360°, 180° e 90°.
-- Flexibilidade em definir critérios, escalas e pesos na avaliação.
+## Ofertas de Produtos e Serviços
+1. **Avaliação de Desempenho**
+   - Plataforma que busca facilitar avaliações com feedback contínuo, plano de desenvolvimento individual (PDI), e análises por competências.
+   - Proposta de valor: não há mensalidades; pagamento somente por avaliação realizada.
+   - Foco em gestão de talentos, visando alinhar colaboradores aos objetivos estratégicos da empresa.
 
-### 2.2 OKRs e Metas
-- Gerenciamento e acompanhamento de objetivos individuais e coletivos.
-- Integração de resultados de OKRs com avaliações de desempenho.
-- Interface para engajamento dos colaboradores e relatórios de performance.
+2. **OKRs e Metas**
+   - Ferramenta para definirem e acompanharem metas de desempenho, com integração a avaliações de desempenho.
+   - Metodologias flexíveis (OKRs, metas SMART, etc.), permitindo personalização.
 
-### 2.3 Pesquisa e Engajamento
-- Realização de pesquisas de clima organizacional e feedbacks contínuos.
-- Ferramentas para análise de satisfação e engajamento dos colaboradores.
+3. **Pesquisas e Engajamento**
+   - Soluções para impulsionar o engajamento dos colaboradores através de pesquisas de clima e satisfação.
 
-## 3. Público-Alvo
-Empresas de diversos segmentos que possuem mais de 60 colaboradores e desejam otimizar suas práticas de gestão de desempenho e engajamento.
+## Público-Alvo
+- **Perfis de Cliente:**
+   - Empresas com mais de 60 colaboradores.
+   - Departamentos de Recursos Humanos buscando otimizar a gestão de talentos e desempenho.
+   - Gestores que procuram ferramentas que facilitem feedbacks e desenvolvimento contínuo.
 
-## 4. Proposta de Valor
-- **Flexibilidade**: Sem mensalidades, pagamento por avaliação realizada.
-- **Consultoria e Suporte**: Cada cliente conta com consultores especializados em gestão de desempenho.
-- **Soluções Personalizadas**: Ajustes de acordo com as necessidades específicas de cada cliente.
+## Diferenciais Competitivos
+- Flexibilidade nos modelos de pagamento (pago por avaliação em vez de mensalidade).
+- Consultoria especializada para implementação de processos.
+- Interface amigável e funcionalidades que permitem gestão ágil e engajante.
 
-## 5. Dores que o Produto Resolve
-1. **Eficiência**: Substitui planilhas e processos manuais que consomem tempo.
-2. **Engajamento**: Melhora a comunicação e feedback entre líderes e colaboradores.
-3. **Desenvolvimento**: Facilita a construção de uma cultura de feedbacks contínua e planos de desenvolvimento.
+## Problemas e Dores Comuns do Público-Alvo
+- **Desorganização em Processos de Avaliação:** Muitas empresas ainda utilizam planilhas e e-mails para avaliações, o que resulta em perda de tempo e falta de análise de dados.
+- **Falta de Engajamento:** Muitas vezes, colaboradores não se sentem motivados a participar do processo de avaliação tradicional.
+- **Dificuldades na Gestão de Talentos:** Empresas podem ter dificuldades em identificar e reter talentos, o que afeta a performance geral.
+- **Necessidade de Feedback Contínuo:** Processos de feedback tradicionais são pouco práticos e não proporcionam a agilidade necessária em ambientes dinâmicos.
 
-## 6. Testemunhos de Clientes
-- "A pandemia em nada nos atrapalhou, pois conseguimos ter bastante apoio e colocar nosso projeto de Avaliação de Desempenho rodando a todo vapor." - Karla Porto, Consultor de RH.
-- "O Impulseup foi fundamental para a tomada de decisão. Criamos um Comitê de Pessoas para analisar os dados, e os gestores ficaram encantados!" - Alexsandra Borges, Gerente de Pessoas.
+## Contexto
+Atualmente, a transformação digital está mudando a forma como as empresas gerenciam suas equipes. Ferramentas que integradas como as oferecidas pela ImpulseUP são fundamentais para melhorar a eficiência, engajamento e satisfação dos colaboradores. A gestão de desempenho e o alinhamento de OKRs são cada vez mais valorizados como parte do crescimento organizacional, especialmente em tempos de rápidas mudanças nas dinâmicas de trabalho.
 
-## 7. Contexto de Mercado
-O mercado de gestão de pessoas tem acompanhado uma transformação digital, especialmente desde a pandemia, levando empresas a buscarem soluções mais práticas e eficientes para gerenciar o desempenho e engajamento de seus colaboradores.
+## Coletas de Dados e Conhecimentos da Concorrência
+Pesquisas de mercado mostram que empresas que adotam sistemas de avaliação e feedback contínuo conseguem melhorar a performance de suas equipes e reduzir turnover. Em contrapartida, organizações que não utilizam essas ferramentas podem enfrentar sérios problemas de engajamento e desafios no acompanhamento do desempenho individual e coletivo.
 
-## 8. Concorrentes
-- **Gupy**: Plataforma de gestão de recrutamento e seleção.
-- **Leme**: Focada em feedbacks e desenvolvimento de funcionários.
-- **Sólides**: Gestão de pessoas e cultura organizacional.
-
-## 9. Chamadas para Ação
-- **Teste Grátis**: Incentivar a experimentação da plataforma com uma oferta de 14 dias grátis, sem necessidade de cartão de crédito.
-- **Agendamento**: Disponibilizar a possibilidade de agendar uma demonstração personalizada com um consultor.
-
-## 10. Conclusão
-A ImpulseUP se posiciona como uma solução inovadora e prática para empresas que buscam melhorar a gestão de desempenho e engajamento de suas equipes. A comunicação deve ser centrada em como os produtos podem resolver as dores específicas dos clientes, melhorar processos e engajar colaboradores.
+## Considerações Finais
+Com base nas informações reunidas, o e-mail de prospecção pode ser elaborado ressaltando como a ImpulseUP pode endereçar as principais dores do cliente, com ênfase nos benefícios de uma plataforma integrada, flexível e escalável, que permite melhor gestão de talentos e resultados otimizados.
 
 ---
 
-Esse relatório está estruturado para fornecer uma base completa e detalhada para a criação de uma estratégia de prospecção outbound, facilitando a personalização da mensagem de marketing.
+**Nota:** Garanta que o copywriter da equipe utilize um tom personalizado e se adapte ao contexto específico de cada empresa que será abordada. Isso é crucial para maximizar as chances de resposta positiva na prospecção.
