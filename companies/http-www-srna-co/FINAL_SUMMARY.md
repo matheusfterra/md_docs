@@ -1,62 +1,49 @@
-# Relatório de Prospecção para a Empresa Serena
+# Relatório de Prospecção - Serena
 
-## Informações Gerais
+## **Informações da Empresa**
+**Nome da Empresa:** Serena (anteriormente Omega Energia)  
+**Website:** [srna.co](http://www.srna.co/)  
+**Atuação:** Geração e comercialização de energia limpa e sustentável, com ênfase em energia solar e eólica.  
+**Ano de Fundação:** 15 anos de história, reformulada para começar uma nova fase como Serena.  
+**Localização:** Brasil e EUA.
 
-- **Nome da Empresa**: Serena (antiga Omega Energia)
-- **Website**: [srna.co](http://www.srna.co)
-- **Setor**: Energia Renovável e Sustentabilidade
-- **Localização**: Brasil e EUA
-- **Tempo de Mercado**: 15 anos
-- **Responsável pela Prospecção**: [Nome do SDR]
-- **Data da Prospecção**: [Data]
+## **Missão e Visão**
+- **Missão:** Levar desenvolvimento por meio de soluções energéticas limpas e acessíveis, contribuindo para a sustentabilidade e a prosperidade da sociedade e do meio ambiente.
+- **Visão:** Acreditar que a energia limpa é uma forma de proporcionar um futuro sustentável para todos.
 
-## Breve Descrição da Empresa
+## **Serviços Oferecidos**
+- **Energia para Empresas:** Planos voltados para diferentes perfis de consumo, oferecendo economia e eficiência.
+- **Energia para Residências:** Propostas para o consumidor comum, também focando na redução de custos com energia.
+- **Infraestrutura para AI e computação de alto desempenho**: Fornecimento de infraestrutura para setores que demandam alta capacidade de computação.
 
-A Serena se destaca como uma das principais geradoras e comercializadoras de energia renovável na América Latina, com um forte comprometimento com a sustentabilidade. A empresa oferece soluções de energia limpa, aproveitando fontes eólicas e solares, e tem investido em tecnologias inovadoras para democratizar o acesso à energia sustentável. A transição da marca Omega Energia para Serena reflete uma nova fase e estratégia, focando em um futuro mais sustentável e rentável.
+## **Diferenciais Competitivos**
+- Proposta de **contratação digital** sem necessidade de instalação de placas solares; a energia é gerada por ativos próprios e entregues pelas distribuidoras.
+- **Modelo de cobrança transparente:** O cliente paga apenas pelo que consome, promovendo economia de até 30%.
+- Garantia de **energia 100% limpa**, proveniente de fontes renováveis.
+- **Foco na comunidade**: Oferece condições para reduzir emissões de CO₂ usando créditos de carbono e certificados.
 
-## Características da Empresa
+## **Dados Relevantes**
+- **Capacidade instalada:** 2.804 MW em ativos renováveis.
+- **Impacto ambiental:** 3,2 milhões de toneladas de CO₂ evitadas desde o IPO em 2017.
+- **Clientes atendidos:** Fornecimento de energia equivalente para mais de 4,2 milhões de domicílios.
+- **Retorno social:** R$ 6,51 por cada R$ 1,00 investido em projetos sociais.
 
-### Produtos e Serviços
+## **Testemunhos de Clientes**
+- **Thiago Gomes (Cliente residencial):** "Enquanto procurava formas de economizar, encontrei a Serena e percebi que não precisaria ter o custo de instalar placas solares."
+- **Ilson Mateus (Presidente do Grupo Mateus):** "Estamos falando de energia limpa, renovável e com custo competitivo, que permite apoiar nosso crescimento operacional."
+- **Guilherme Lopes Sobral (Novos Negócios - Santa Luzia):** "Os preços sempre foram competitivos e o atendimento de confiança foi crucial na renovação do nosso contrato energético."
 
-- **Mercado Livre de Energia**: Oferece aos clientes a liberdade de escolha de fornecedores de energia, permitindo negociação de preços, quantidades e prazos.
-- **Energia Renovável**: 100% das soluções oferecidas são baseadas em fontes eólicas e solares.
-- **Programas Sociais**: A empresa investe na educação e desenvolvimento sustentável através de iniciativas como o Instituto Janela para o Mundo.
+## **Contexto do Mercado**
+A demanda por energia limpa e soluções sustentáveis está crescendo, impulsionada por mudanças climáticas e regulações que favorecem a energia renovável. Empresas buscam reduzir seus custos operacionais com energia e atender suas metas de sustentabilidade.
 
-### Público-Alvo
+## **Possíveis Dores (Pains)**
+1. **Altos custos de energia:** Muitas empresas buscam maneiras de reduzir suas contas de energia, especialmente com a alta volatilidade dos preços.
+2. **Sustentabilidade e Responsabilidade Social:** A pressão por práticas empresariais sustentáveis está aumentando, e as empresas precisam urgentemente encontrar maneiras de reduzir suas emissões.
+3. **Complexidade na contratação de energia:** O processo pode ser complicado, com falta de clareza sobre custos, fornecimento e opções disponíveis.
 
-- **Residências**: Famílias que buscam soluções de energia mais econômicas e sustentáveis.
-- **Empresas**: Negócios de todos os portes que desejam reduzir custos com energia e alinhar suas operações às práticas de sustentabilidade.
-- **Comunidades**: Iniciativas que promovem a construção de comunidades sustentáveis através do uso coletivo de energia renovável.
+## **Chaves para Abordagem**
+- Enfatizar a **economia** que a contratação dos seus serviços pode oferecer às empresas.
+- Destacar o **compromisso com a sustentabilidade**, uma exigência crescente do consumidor e da legislação atual.
+- A simplicidade do processo de **contratação digital**, que elimina as dores de cabeça frequentemente associadas à energia renovável.
 
-## Dores e Desafios
-
-1. **Altos Custos de Energia**: Empresas e residências enfrentam custos crescentes com energia convencional, afetando suas margens de lucro e orçamento.
-2. **Necessidade de Sustentabilidade**: Cada vez mais, empresas precisam demonstrar seu compromisso com a sustentabilidade devido a pressões do mercado e dos consumidores.
-3. **Falta de Conhecimento sobre o Mercado Livre de Energia**: Muitos consumidores ainda não entendem como podem fazer a transição para um fornecedor de energia mais econômico e sustentável.
-4. **Instalação de Equipamentos**: A preocupação com o custo e a logística envolvendo a instalação de sistemas de energia solar pode ser um empecilho para a adoção de energia renovável.
-
-## Contexto e Oportunidades
-
-- **Tendência de Sustentabilidade**: Há um crescimento contínuo na demanda por soluções de energia limpa e sustentável, tanto por consumidores individuais quanto por empresas.
-- **Regulamentação Favorável**: A legislação brasileira em relação ao Mercado Livre de Energia tem se tornado mais favorável, permitindo que mais consumidores tenham acesso à energia renovável.
-- **Inovação Tecnológica**: O avanço em tecnologias de gestão de energia e plataformas digitais facilita a adesão ao conceito de energia limpa sem a necessidade de investimento em infraestrutura física.
-
-## Concorrentes Principais
-
-1. **Enel**: Grande player no mercado de energia elétrica que também tem promovido iniciativas de sustentabilidade.
-2. **Iberdrola**: Uma das líderes em energia renovável, com forte presença no Brasil.
-3. **Engie Brasil**: Aposta na diversificação de fontes de energia, incluindo soluções sustentáveis.
-
-## Recomendações para o Copywriter
-
-1. **Abordagem Personalizada**: Inicie com uma narrativa que destaque a importância da energia limpa e como a Serena pode ajudar a empresa a enfrentar os desafios atuais.
-  
-2. **Destaque os Benefícios**: Realçar os benefícios econômicos e sustentáveis da energia renovável, fazendo comparação com o custo atual da energia convencional.
-   
-3. **Chamada à Ação**: Incentivar uma conversa inicial para discutir como a transição para energia renovável pode ser feita de forma simples e sem custos de instalação.
-
-4. **Use Testemunhos**: Integrar depoimentos de clientes que conseguiram economizar e se beneficiar da mudança para a energia sustentável pode fortalecer a mensagem.
-
-## Conclusão
-
-A Serena representa uma oportunidade valiosa para empresas e residências que buscam soluções de energia sustentáveis. Com uma abordagem focada em resultados e compromisso com a inovação, a empresa está bem posicionada para capturar uma fatia do crescente mercado de energia limpa no Brasil e nos EUA. O foco em educar os consumidores sobre as vantagens do Mercado Livre de Energia e a acessibilidade das soluções que oferecem é fundamental para sua expansão no mercado.
+Esse relatório visa fornecer uma base rica em detalhes para suportar a equipe de copywriters na formação de comunicações personalizadas que atendam as necessidades específicas e dores dos clientes potenciais.
