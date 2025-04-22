@@ -1,52 +1,74 @@
-# Relatório de Prospecção - Cora
+# Relatório de Prospecção: Cora - Gestão de Cobranças e Conta PJ
 
-## Informações Gerais sobre a Empresa
-- **Nome da Empresa**: Cora
-- **Segmento**: Fintech/Banco Digital
-- **Localização**: Rua Frei Caneca, 1246, 3º andar, sala 31, Consolação – São Paulo/SP
-- **CNPJ**: 37.880.206/0001-63
-- **Website**: [cora.com.br](https://www.cora.com.br)
+## Informações Gerais da Empresa
 
-## Descrição da Cora
-A Cora é uma conta digital focada em pequenas e médias empresas (PMEs), tendo como principal objetivo facilitar a gestão financeira de seus clientes. A empresa se destaca por sua proposta de eliminar burocracias, taxas escondidas ou altas, possibilitando que os empreendedores concentrem seus esforços na expansão dos negócios.
+- **Nome da Empresa:** Cora Sociedade de Crédito, Financiamento e Investimento S.A.
+- **CNPJ:** 37.880.206/0001-63
+- **Endereço:** Rua Frei Caneca, 1246, 3º andar, sala 31, Consolação – São Paulo/SP
+- **Website:** [Cora](http://www.cora.com.br)
+- **Segmento:** FinTech / Conta Digital PJ
+- **Serviços Oferecidos:** A Cora oferece uma plataforma digital que permite a gestão de contas PJ, incluindo emissão de boletos, transferências via Pix, gestão de cobranças e cartões PJ.
 
-## Produtos e Serviços Oferecidos
-1. **Conta PJ**: Conta digital sem taxas de manutenção ou mensalidades, que permite pagamentos, cobranças e a gestão financeira em um único aplicativo.
-2. **Cartão PJ**: Cartão internacional sem anuidade, com múltiplos cartões virtuais para gestão de despesas.
-3. **Gestão de Cobranças**: Funcionalidades para emissão de boletos, notificações automáticas e relatórios financeiros.
-4. **Pix PJ**: Transferências ilimitadas e gratuitas.
-5. **Link de Pagamento**: Facilita vendas online com geradores de link e parcelamento.
-6. **Nota Fiscal Eletrônica (NFS-e)**: Emissão automática de notas fiscais de serviço integradas à gestão de cobranças.
-7. **Gestão de Fluxo de Caixa**: Acompanhamento em tempo real das entradas e saídas financeiras.
+## Produtos e Funcionalidades
 
-## Características da Empresa
-### Público-Alvo
-A Cora atende principalmente pequenas e médias empresas (PMEs), autônomos e profissionais liberais que buscam uma gestão financeira prática e acessível.
+1. **Conta PJ**
+   - **Descrição:** Conta digital sem tarifas, com diversas funcionalidades para facilitar a gestão financeira de pequenas e médias empresas.
+   - **Destaques:**
+     - Emissão gratuita de boletos
+     - Transferências via Pix ilimitadas e gratuitas
+     - Integração com ERPs e sistemas contábeis
+     - Gestão de fluxo de caixa automatizada
 
-### Vantagens Competitivas
-- **Gratuidade**: Muitas funcionalidades, como conta e emissão de boletos, são gratuitas até um certo limite.
-- **Facilidade de Abertura**: Processo de abertura de conta simplificado, que pode ser feito em menos de 5 minutos.
-- **Inovação Tecnológica**: Propõe soluções que se destacam em relação às instituições financeiras tradicionais.
-- **Suporte ao Cliente**: Atendimento digital disponível pelo aplicativo.
+2. **Gestão de Cobranças**
+   - **Descrição:** Ferramenta para gerenciar boletos e cobranças de forma eficiente.
+   - **Funcionalidades:**
+     - Emissão de boletos avulsos, parcelados e recorrentes
+     - Configuração de juros e descontos
+     - Notificações automáticas de cobrança
+     - Acompanhamento em tempo real dos recebimentos
 
-### Dores Potenciais dos Clientes
-- **Altos Custos**: A imposição de taxas elevadas por bancos tradicionais é uma grande barreira para PMEs.
-- **Gestão Financeira Complexa**: A dificuldade em lidar com múltiplas instituições financeiras e suas burocracias.
-- **Falta de Integração**: Necessidade de uma plataforma que unifique serviços financeiros.
+3. **Cartão PJ**
+   - **Descrição:** Cartão empresarial para facilitar transações e controle de despesas.
+   - **Benefícios:**
+     - Sem anuidade
+     - Múltiplos cartões virtuais
+     - Controle de limites e categorização de despesas
 
-## Contexto do Mercado
-### Tendências
-O mercado financeiro está em transição para soluções digitais que simplificam a gestão financeira e aumentam a acessibilidade para pequenos empreendedores. A demanda por serviços bancários descomplicados está crescendo, especialmente entre novos empreendedores.
+4. **Link de Pagamento**
+   - **Descrição:** Facilita a venda de produtos e serviços online através de links enviados aos clientes.
+   - **Destaques:**
+     - Parcela em até 12x
+     - Simplicidade na geração e compartilhamento de links
 
-### Concorrência
-- **Outros Bancos Digitais**: Concorrentes como Nubank e Inter oferecem produtos semelhantes.
-- **Instituições Tradicionais**: Continuam a manter modelos burocráticos e tarifas elevadas, que são incapazes de se adaptar à nova realidade digital.
+## Possíveis Dores e Necessidades
 
-## Sugestões para Atração de Clientes
-O e-mail de prospecção pode incluir:
-- **Diferenciação das soluções da Cora** em relação ao setor de fintechs e métodos tradicionais, ressaltando a isenção de taxas e foco em PMEs.
-- **Estudos de caso de clientes** que reduziram despesas ao migrar para a Cora, destacando eficiência financeira e desburocratização.
-- **Demonstrações do impacto positivo** que uma gestão financeira simplificada pode ter na saúde e eficiência das PMEs.
+1. **Aproximação com Clientes:**
+   - Necessidade de um sistema que agilize a comunicação e a cobrança de clientes. Dores relacionadas a pagamentos atrasados e inadimplência podem ser sanadas através das funcionalidades de notificação automática.
 
-## Conclusão
-A Cora se posiciona como uma solução sólida e atraente para pequenas e médias empresas, oferecendo ferramentas que simplificam transações financeiras e melhoram o fluxo de caixa. A capacidade de emitir boletos, gerenciar cobranças e controlar despesas de maneira prática apresenta uma excelente oportunidade para campanhas de marketing de influência. O relatório fornece uma base abrangente e detalhada sobre a Cora, permitindo que o copywriter refine a comunicação para a captação de novos clientes por meio de e-mails personalizados.
+2. **Gestão Financeira Complexa:**
+   - Empresas buscam soluções que simplifiquem a gestão financeira. A Cora oferece uma plataforma integrada que promete redução de burocracia e eliminação de tarifas, algo que pode ser muito atrativo para pequenas e médias empresas.
+
+3. **Eficácia em Vendas:**
+   - A dificuldade em receber pagamentos em tempo hábil pode impactar o fluxo de caixa. O uso de links de pagamento e do Pix permite recebimentos rápidos e envia um forte incentivo à manutenção de um fluxo financeiro saudável.
+
+## Ponto de Dor no Mercado
+
+- A burocracia e as altas taxas bancárias ainda são um grande empecilho para as pequenas empresas no Brasil. A Cora se posiciona como uma solução prática e acessível, liberando os empreendedores para focarem em seu crescimento em vez de se perderem em trâmites bancários.
+
+## Estrategia de Prospecção
+
+### Alvo
+- *Segmentos-alvo:* Pequenas e médias empresas que enfrentam desafios nas suas finanças e gestão de cobranças.
+
+### Mensagem Personalizada
+- Abordar a gestão eficiências de cobranças e a redução de inadimplência como benefícios diretos da utilização dos serviços oferecidos pela Cora.
+
+### Proposta de Valor
+- Destaque benefícios como a gratuidade na abertura de conta PJ, ausência de tarifas de manutenção e ferramentas úteis para a gestão financeira.
+
+### Call to Action
+- Incentivar o agendamento de uma demonstração ou a abertura da conta gratuita como um primeiro passo para experimentar as soluções Cora.
+
+---
+
+Após a coleta de informações e análise, este relatório fornece uma linha de base sólida para o desenvolvimento de uma abordagem de prospecção eficaz que destaca os benefícios diretos que a empresa pode esperar ao se conectar com a Cora.
