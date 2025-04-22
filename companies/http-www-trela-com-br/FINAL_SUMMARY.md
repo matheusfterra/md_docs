@@ -61,7 +61,7 @@
   - "Conectamos a XYZ Soluções Digitais a influenciadores alinhados com seus valores e expertise em marketing digital, garantindo um engajamento autêntico. Nossos influenciadores possuem um público fiel que confia em suas recomendações, o que pode levar a resultados mensuráveis e um aumento na conscientização da marca."
   - Exemplo de caso de sucesso: ajudamos a empresa ABC a aumentar em 40% o engajamento em uma campanha com influenciadores do setor de tecnologia.
 
-## Toma de Decisão
+## Tomada de Decisão
 - **Quem são os decisores?**:
   - Ana Silva - Diretora de Marketing
   - João Oliveira - Gerente de Projetos
@@ -75,6 +75,7 @@
   - Número de respostas ao email enviado, reuniões marcadas, e futuras colaborações que possam ocorrer.
 
 ---
+
 **Notas Finais**:
 - É importante ressaltar a relevância das métricas de sucesso, como engajamento e ROI, ao abordar a XYZ. Enfatizar que o marketing de influência pode ser uma extensão natural de suas atuais estratégias digitais pode despertar o interesse da equipe.
 
