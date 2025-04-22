@@ -1,6 +1,5 @@
 ```markdown
 # Relatório de Prospecção - Trela
-
 ## Informações Gerais da Empresa
 - **Nome da Empresa**: Trela
 - **Website**: [www.trela.com.br](http://www.trela.com.br)
@@ -24,12 +23,11 @@
 - **Público-Alvo**: Consumidores preocupados com saúde e alimentação, incluindo famílias e indivíduos que valorizam produtos frescos, orgânicos e de alta qualidade.
 
 ## Contexto de Marketing
-- **Estratégias de Marketing Atuais**: A Trela utiliza marketing digital, SEO, e-mail marketing, e redes sociais para se conectar com seu público. A empresa também realiza campanhas promocionais e divulga ofertas diárias para aumentar as vendas. 
+- **Estratégias de Marketing Atuais**: A Trela utiliza marketing digital, SEO, e-mail marketing, e redes sociais para se conectar com seu público. A empresa também realiza campanhas promocionais e divulga ofertas diárias para aumentar as vendas.
 - **Canais de Mídia Preferidos**: 
   - Facebook: utilizado para compartilhar receitas e dicas sobre alimentação saudável.
   - Instagram: onde a empresa apresenta seus produtos frescos através de fotos atraentes de pratos preparados.
   - LinkedIn: para networking e parcerias B2B, assim como artigos sobre tendências no setor de alimentação.
-  
 - **Campanhas Passadas**: Trela lançou promoções bem-sucedidas que resultaram em aumento significativo na taxa de conversão. Campanhas de engajamento nas mídias sociais, como concursos e giveaways, têm gerado um aumento significativo no número de seguidores e engajamento.
 
 ## Presença Digital
@@ -39,22 +37,20 @@
   - [Twitter: www.twitter.com/trela | 2.000 seguidores]
   - [LinkedIn: www.linkedin.com/company/trela | 5.000 seguidores]
   - [TikTok: Não está presente]
-
-- **Blog/Site de Conteúdo**: Possui um blog ativo que oferece receitas, dicas de saúde e nutrição, e artigos sobre a importância de uma alimentação balanceada e os benefícios de consumir produtos frescos.
+- **Blog/Site de Conteúdo**: A empresa possui um blog ativo que oferece receitas, dicas de saúde e nutrição, e artigos sobre a importância de uma alimentação balanceada e os benefícios de consumir produtos frescos.
 
 ## Análise da Concorrência
-- **Principais concorrentes**: 
+- **Principais concorrentes**:
   - Mercado Livre
   - Pão de Açúcar
   - Rappi
-  Trela se diferencia pela localidade, frescor e qualidade dos produtos, além de um atendimento personalizado e ágil.
+Trela se diferencia pela localidade, frescor e qualidade dos produtos, além de um atendimento personalizado e ágil.
 
 ## Identificação de Dores e Oportunidades
 - **Desafios identificados**: 
   - Necessidade de expandir a conscientização da marca e a presença online.
   - Dificuldade em alcançar um público mais jovem que valoriza produtos frescos e orgânicos.
   - Manter a fidelidade do cliente em um mercado competitivo em constante mudança.
-
 - **Oportunidades de melhoria**: 
   - Implementar uma estratégia de marketing de influência para atingir o público mais jovem, utilizando influenciadores que falem sobre alimentação saudável e estilo de vida.
   - Criar campanhas que integrem influenciadores como embaixadores da marca, aumentando a autenticidade e a confiança na marca.
@@ -74,7 +70,7 @@
 - **Sugestão de abordagem**: 
   - Realizar um primeiro contato via email abordando insights sobre como o marketing de influência pode ajudar a Trela a expandir seu alcance, incluindo uma proposição clara de como podemos ajudar a integrar influenciadores ao seu portfólio de estratégias de marketing digital.
 - **KPIs de Sucesso**: 
-  - Medir o número de respostas ao email enviado, reuniões agendadas, e colaborações futuras que possam surgir.
+  - Medir o número de respostas ao email enviado, reuniões agendadas e colaborações futuras que possam surgir.
 
 ---
 
