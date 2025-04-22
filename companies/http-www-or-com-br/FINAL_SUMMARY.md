@@ -17,7 +17,6 @@
   - **Linha de Cabelos:** Especializada em cabelos cacheados e crespos, com ênfase em hidratação e definição.
   - **Maquiagem:** Itens desenvolvidos para diferentes tons de pele, focando na abordagem inclusiva.
   - **Cuidados com a Pele:** Linha de produtos naturais voltados para hidratação e proteção.
-  
 - **Diferenciais Competitivos:** 
   - Foco em um nicho crescente de produtos para cabelos cacheados e crespos.
   - Campanhas que favorecem diversidade e inclusão.
@@ -39,14 +38,13 @@
   - [Twitter](http://www.twitter.com/beleazanatural)
   - [TikTok](http://www.tiktok.com/@beleazanatural)
   - [YouTube](http://www.youtube.com/c/BelezaNatural)
-
 - **Blog ou Artigos:** Contém posts sobre tendências de beleza, cuidados com cabelos cacheados e guias de maquiagem inclusiva. Atualizações frequentes sobre novas linhas de produtos e colaborações.
 
 ## 6. Dados de Mercado
 - **Tendências do Setor:** 
   - Aumento da demanda por produtos de beleza que atendam necessidades específicas, como cabelos cacheados.
   - Crescimento do uso de marketing de influência como ferramenta de engajamento e vendas, especialmente entre o público jovem.
-
+  
 - **Concorrência:** 
   - **O Boticário:** Forte presença no mercado, com foco mais amplo, abrangendo produtos de beleza generalista.
   - **Natura:** Reconhecida por sua abordagem sustentável, mas menos focada em nichos específicos como o de cabelos cacheados.
