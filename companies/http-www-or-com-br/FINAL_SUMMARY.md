@@ -17,7 +17,6 @@
   - **Linha de Cabelos:** Focada em cabelos cacheados e crespos, enfatizando hidratação e definição.
   - **Maquiagem:** Produtos desenvolvidos para diferentes tons de pele, com uma abordagem inclusiva.
   - **Cuidados com a Pele:** Linha de produtos naturais voltados para hidratação e proteção da pele.
-  
 - **Diferenciais Competitivos:** 
   - Foco em um nicho crescente de produtos para cabelos cacheados e crespos.
   - Campanhas que favorecem diversidade e inclusão.
@@ -39,14 +38,12 @@
   - [Twitter](http://www.twitter.com/beleazanatural)
   - [TikTok](http://www.tiktok.com/@beleazanatural)
   - [YouTube](http://www.youtube.com/c/BelezaNatural)
-
 - **Blog ou Artigos:** Contém posts sobre tendências de beleza, cuidados com cabelos cacheados e guias de maquiagem inclusiva.
 
 ## 6. Dados de Mercado
 - **Tendências do Setor:** 
   - Aumento da demanda por produtos de beleza que atendam necessidades específicas, como cabelos cacheados.
   - Crescimento do uso de marketing de influência como ferramenta de engajamento e vendas.
-
 - **Concorrência:** 
   - **O Boticário:** Forte presença no mercado, mas com foco mais amplo.
   - **Natura:** Reconhecida por sua abordagem sustentável, mas menos focada em nichos específicos.
@@ -76,17 +73,14 @@
 ## 10. Contatos Relevantes
 - **Tomador de Decisão Principal:** 
   - Ana Silva, Diretora de Marketing, ana@belezanatural.com.br
-
 - **Equipe de Marketing:** 
   - Carlos Souza, Gerente de Mídias Sociais, carlos@belezanatural.com.br
 
 ## 11. Informações Adicionais
 - **Últimas Notícias/Releases:** Recentemente, a Beleza Natural lançou uma campanha focada em inclusão, resultando em excelente repercussão nas redes sociais e aumento de interações, com algumas postagens se tornando virais.
-
 - **Feedback de Clientes:** Muitos clientes elogiam a qualidade dos produtos, mas há comentários sobre a necessidade de maior diversidade e representatividade nas campanhas publicitárias, indicando uma oportunidade para a marca se alinhar ainda mais com sua missão.
 
 ---
-
 ### Observações Finais
 Este relatório foi elaborado para proporcionar um entendimento detalhado sobre a empresa Beleza Natural, seu posicionamento no mercado e como uma colaboração em marketing de influência pode preencher lacunas e atender às suas necessidades. O objetivo é fornecer uma base sólida para um e-mail direcionado que ressoe com as aspirações e desafios atuais da empresa, ajudando a chamar a atenção da Beleza Natural para a importância do marketing de influência em sua estratégia.
 ```
