@@ -39,16 +39,16 @@
 
 ## Possíveis Dores e Necessidades
 1. **Aproximação com Clientes**
-   - Dificuldade em comunicar e gerenciar pagamentos com clientes. Necessidade de um sistema eficiente para lidar com cobranças em atraso.
-
+   - Necessidade de um sistema eficiente para lidar com cobranças em atraso.
+  
 2. **Gestão Financeira Complexa**
-   - Necessidade de simplificação nos processos financeiros. A Cora se propõe a reduzir burocracia e eliminar tarifas, algo muito apreciado por PMEs.
-
+   - Necessidade de simplificação nos processos financeiros.
+  
 3. **Eficácia em Vendas**
-   - Questões relacionadas a recebimentos em tempo hábil que impactam o fluxo de caixa. O QR Code e o Pix podem acelerar esse processo.
-
+   - Questões sobre recebimentos em tempo hábil que impactam o fluxo de caixa.
+  
 4. **Inadimplência**
-   - O problema da inadimplência é frequente entre as empresas e demanda soluções que incluam notificações e gestão eficaz de cobranças.
+   - Demandas por soluções que incluam notificações e gestão eficaz de cobranças.
 
 ## Ponto de Dor no Mercado
 - A burocracia e as taxas elevadas ainda dificultam a vida de pequenas e médias empresas no Brasil. A Cora busca se posicionar como a solução prática e acessível, permitindo que os empreendedores se concentrem no crescimento de seus negócios.
