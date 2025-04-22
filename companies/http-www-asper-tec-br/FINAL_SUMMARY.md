@@ -1,76 +1,61 @@
-## Relatório de Prospecção para Asper Tecnologia
+# Relatório de Prospecção - Asper Tecnologia
 
-### 1. Informações Gerais da Empresa
+## Dados da Empresa
+- **Nome da Empresa:** Asper Tecnologia
+- **Setor:** Cibersegurança e Marketing Digital
+- **Website:** [asper.tec.br](http://www.asper.tec.br/)
+- **Endereço da Sede:** Rua Ministro Jesuíno Cardoso, 454, Edifício The One, Sala 83, Vila Nova Conceição, São Paulo, SP - CEP: 04544051
+- **Telefone:** (11) 3294-6776
+- **Outras Localizações:**
+  - Rio de Janeiro: Avenida das Américas, 3434, Bloco 7, Salas 602 e 603, Barra da Tijuca - CEP: 22640102
+  - Brasília: SHIS QI 03 Bloco F, 1º andar, Sala 1, Lago Sul - CEP: 71605430
+  - Florianópolis: Square Corporate, Torre Jurerê B, Sala 214 e 216, Rodovia José Carlos Daux, 5500, Saco Grande - CEP: 88032005
+  - Nova York: 1270 Avenue of the Americas, Suite 210, New York, NY 10020
 
-**Nome:** Asper Tecnologia  
-**Website:** [asper.tec.br](http://www.asper.tec.br/)  
-**Localização:**  
-- **Sede:** São Paulo, SP  
-  Rua Ministro Jesuíno Cardoso, 454, Edifício The One, Sala 83, Vila Nova Conceição - CEP: 04544051  
-  (11) 3294-6776  
-- **Filiais:**  
-  - Rio de Janeiro, RJ - Avenida das Américas, 3434, Bloco 7, Salas 602 e 603, Barra da Tijuca, CEP: 22640102  
-  (21) 2186-7594  
-  - Brasília, DF - SHIS QI 03 Bloco F, 1º andar, Sala 1, Lago Sul, CEP: 71605430  
-  (61) 3047-8777  
-  - Florianópolis, SC - Square Corporate, Torre Jurerê B, Sala 214 e 216, Rodovia José Carlos Daux, 5500, Saco Grande, CEP: 88032005  
-  - New York, NY - 1270 Avenue of the Americas, Suite 210, New York, NY 10020  
+## Informações Gerais
+- **Missão:** Proteger ativos digitais das organizações com soluções em cibersegurança.
+- **Visão:** Ser a empresa de cibersegurança que mais cresce no Brasil e expandir para mercados internacionais.
+- **Valores:** Transparência, inovação, excelência e compromisso com a segurança digital.
 
-### 2. Setor e Especialização
+## Serviços Oferecidos
+A Asper Tecnologia oferece uma ampla gama de soluções em segurança digital, visando a proteção de dados e compliance com a legislação, incluindo:
+- Consultoria em Cibersegurança
+- Sistemas de Monitoramento e Resposta a Incidentes
+- Gestão de Dados e Privacidade
+- Treinamentos e Capacitações em Segurança da Informação
 
-**Segmento:** Cibersegurança  
-**Especialização:**  
-- Serviços gerenciados de segurança  
-- Proteção de ativos digitais  
-- Consultoria em segurança da informação  
-- Soluções tecnológicas para segurança e privacidade  
-- Monitoramento e análise de eventos de segurança  
+## Clientes e Atuação
+- **Segmentos Atendidos:** 
+  - Finanças
+  - Saúde
+  - Varejo
+  - Telecomunicações
+  - Indústria
+  - Setor Público
+  
+- **Principais Clientes:**
+  - 5 entre as 10 maiores empresas do Brasil.
+  - empresas de renome como Claro, Unimed, Renner, Vibra, entre outros.
 
-### 3. Dados Relevantes
+## Contexto do Mercado
+- **Cenário Atual:** Com o aumento das ameaças cibernéticas e a transformação digital acelerada, a demanda por soluções de cibersegurança está em alta. Empresas estão buscando parcerias com fornecedores confiáveis para se protegerem contra vazamentos de dados e ataques que podem comprometer sua operação.
+- **Legislação:** A LGPD (Lei Geral de Proteção de Dados) exige que empresas implementem medidas rigorosas para garantir a proteção de dados pessoais, um fator que impulsiona a necessidade dos serviços oferecidos pela Asper.
 
-- **Anos de Mercado:** Mais de 10 anos  
-- **Eventos de Segurança Detectados:** 1,53 trilhões  
-- **Chamados de Potenciais Ataques:** +50 mil por dia  
-- **Dados Monitorados:** 1,96 petabytes por dia  
-- **Número de Clientes:** +100 empresas, incluindo as 10 maiores do Brasil  
+## Dores e Necessidades
+- **Dores da Empresa Alvo:**
+  - Riscos associados a ataques cibernéticos e vazamentos de dados.
+  - Necessidade de acompanhar a conformidade com a LGPD.
+  - Busca por soluções eficazes para gerenciamento de crises e incidentes de segurança.
+  - Necessidade de capacitação de colaboradores para lidar com situações de segurança.
 
-### 4. Dores e Desafios com o Segmento de Cibersegurança
+## Oportunidade de Prospecção
+- As empresas que ainda não têm um parceiro estabelecido em cibersegurança ou que não estão satisfeitas com seu proveedor atual são alvos ideais.
+- A Asper pode oferecer soluções de segurança personalizadas e consultoria para atender a demanda crescente por proteção de dados e conformidade com a LGPD.
 
-**Possíveis Dores:**
-- Aumento constante de ataques cibernéticos com a evolução da tecnologia.
-- Necessidade de conformidade com a Lei Geral de Proteção de Dados (LGPD).
-- Desafios em implementar soluções de segurança adequadas à cultura digital atual.
-- Dificuldade em encontrar mão de obra especializada em segurança da informação.
-- Desinformação e falta de estratégia na segurança cibernética em médias e pequenas empresas.
+## Mensagem para o Copywriter
+- **Tema Principal:** Segurança Digital em Tempos de Transformação
+- **Tom da Mensagem:** Consultivo e educativo, ressaltando a importância da presença de um parceiro estratégico para garantir a segurança cibernética.
+- **Chamada à Ação:** Convite para uma consulta gratuita para esclarecer dúvidas sobre segurança da informação e a importância da proteção de dados.
 
-### 5. Presença em Mídia e Reconhecimento
-
-- **Reconhecimento:** Asper tecnologia é frequentemente mencionada na mídia por suas inovações e liderança em cibersegurança.
-- A empresa possui uma atuação significativa em eventos do setor, evidenciando sua presença e relevância no mercado.
-- Últimas notícias: Anúncio de expansão internacional, novos contratos, e inovações tecnológicas.
-
-### 6. Soluções Oferecidas
-
-- Gerenciamento de segurança de redes e sistemas.
-- Proteção de endpoints.
-- Análise de riscos e vulnerabilidades.
-- Treinamento e capacitação de equipe em cibersegurança.
-- Consultoria e suporte contínuo para conformidade regulatória.
-
-### 7. Estrutura de Contato e Atendimento
-
-Os contatos podem ser realizados através das seguintes plataformas:
-- **E-mail:** dpo@asper.tec.br para solicitações referentes à privacidade.
-- **Central de Atendimento:** disponível no site para dúvidas gerais ou informações detalhadas sobre serviços.
-
-### 8. Motivos para Prospecção
-
-- **Alinhamento de Interesses:** O trabalho em conjunto pode oferecer recursos valiosos e suporte na comunicação com influenciadores que estão alinhados ao setor de tecnologia e segurança digital.
-- **Estratégias de Marketing:** Desenvolvimento de campanhas com influenciadores que são referência no setor pode aumentar as taxas de conversão e o alcance da Asper.
-- **Valor do Conteúdo:** Criar conteúdos que abordem a segurança digital e a proteção de dados no cotidiano surge uma nova oportunidade para se estabelecer a marca como um líder de pensamento no setor.
-
-### 9. Considerações Finais
-
-A Asper Tecnologia se mostra como um player robusto no segmento de cibersegurança, com grandes oportunidades para colaboração através de marketing de influência. A comunicação personalizada e a identificação das dores do mercado serão fundamentais para uma prospecção eficaz, direcionando a atenção para as soluções que melhor atendem suas necessidades. 
-
-Este relatório deve servir como base para a elaboração de mensagens e estratégias de abordagem com a Asper Tecnologia, maximizando as chances de conversão e engajamento.
+## Conclusão
+Assistir empresas em suas necessidades de segurança digital, especialmente com a crescente complexidade e frequência de ameaças cibernéticas, é uma prioridade. A Asper Tecnologia posiciona-se como uma solução robusta e confiável, com experiência e resultados comprovados.
