@@ -1,5 +1,6 @@
 ```markdown
 # Relatório de Prospecção - Marketing de Influência
+
 ## 1. Informações Gerais da Empresa
 - **Nome da Empresa:** Beleza Natural
 - **Segmento de Atuação:** Beleza e Cuidados Pessoais
@@ -39,7 +40,7 @@
   - [Twitter](http://www.twitter.com/beleazanatural)
   - [TikTok](http://www.tiktok.com/@beleazanatural)
   - [YouTube](http://www.youtube.com/c/BelezaNatural)
-  
+
 - **Blog ou Artigos:** Contém posts sobre tendências de beleza, cuidados com cabelos cacheados, e guias de maquiagem inclusiva.
 
 ## 6. Dados de Mercado
@@ -48,7 +49,7 @@
   - Crescimento do uso de marketing de influência como ferramenta de engajamento e vendas.
   
 - **Concorrência:** 
-  - **O Boticário:** Forte presente, mas com foco mais amplo.
+  - **O Boticário:** Forte presença, mas com foco mais amplo.
   - **Natura:** Reconhecida por sustentabilidade, mas menos focada em nichos específicos.
   - **L'Oréal:** Grande empresa, mas com percepção de menor acessibilidade ao público jovem.
 
@@ -66,20 +67,23 @@
 
 ## 9. Proposta de Valor
 - **Como nossa empresa pode ajudar:**
-  - Conectar Beleza Natural a influenciadores em linha com seus valores.
-  - Desenvolvimento de campanhas personalizadas que reflitam sua missão.
-  - Aumento de visibilidade digital e engajamento por meio de parcerias com influenciadores.
-  - Suporte na análise de resultados e otimização de campanhas.
+  - Conectar Beleza Natural a influenciadores que alinhados com seus valores de inclusão e diversidade.
+  - Desenvolvimento de campanhas personalizadas que reflitam sua missão e impactem positivamente seu público-alvo.
+  - Aumento da visibilidade digital e engajamento por meio de parcerias com influenciadores relevantes.
+  - Suporte na análise de resultados e otimização de campanhas para garantir o melhor retorno sobre investimento.
 
 ## 10. Contatos Relevantes
-- **Tomador de Decisão Principal:** Ana Silva, Diretora de Marketing, ana@belezanatural.com.br
-- **Equipe de Marketing:** Carlos Souza, Gerente de Mídias Sociais, carlos@belezanatural.com.br
+- **Tomador de Decisão Principal:** 
+  - Ana Silva, Diretora de Marketing, ana@belezanatural.com.br
+- **Equipe de Marketing:** 
+  - Carlos Souza, Gerente de Mídias Sociais, carlos@belezanatural.com.br
 
 ## 11. Informações Adicionais
 - **Últimas Notícias/Releases:** Recentemente, a Beleza Natural lançou uma campanha focada em inclusão, resultando em excelente repercussão nas redes sociais.
-- **Feedback de Clientes:** Muitos clientes elogiam a qualidade dos produtos, mas alguém menciona a necessidade de maior diversidade nas campanhas publicitárias.
+- **Feedback de Clientes:** Muitos clientes elogiam a qualidade dos produtos, mas há comentários sobre a necessidade de maior diversidade nas campanhas publicitárias.
 
 ---
+
 ### Observações Finais
 Esse relatório foi elaborado para proporcionar um entendimento detalhado sobre a empresa Beleza Natural, seu posicionamento no mercado, e como uma colaboração em marketing de influência pode preencher lacunas e atender às suas necessidades. O objetivo é fornecer uma base sólida para um email direcionado, que ressoe com as aspirações e desafios atuais da empresa.
 ```
