@@ -81,7 +81,6 @@
 - **Feedback de Clientes:** Muitos clientes elogiam a qualidade dos produtos, mas há comentários sobre a necessidade de maior diversidade e representatividade nas campanhas publicitárias, indicando uma oportunidade para a marca se alinhar ainda mais com sua missão.
 
 ---
-
 ### Observações Finais
 Este relatório foi elaborado para proporcionar um entendimento detalhado sobre a empresa Beleza Natural, seu posicionamento no mercado e como uma colaboração em marketing de influência pode preencher lacunas e atender às suas necessidades. O objetivo é fornecer uma base sólida para um e-mail direcionado que ressoe com as aspirações e desafios atuais da empresa, ajudando a chamar a atenção da Beleza Natural para a importância do marketing de influência em sua estratégia.
 ```
