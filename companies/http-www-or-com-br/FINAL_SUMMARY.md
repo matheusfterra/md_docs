@@ -1,6 +1,5 @@
 ```markdown
 # Relatório de Prospecção - Marketing de Influência
-
 ## 1. Informações Gerais da Empresa
 - **Nome da Empresa:** Beleza Natural
 - **Segmento de Atuação:** Beleza e Cuidados Pessoais
@@ -18,9 +17,8 @@
   - **Linha de Cabelos:** Produtos focados em cabelos cacheados e crespos, com ênfase em hidratação e definição.
   - **Maquiagem:** Produtos desenvolvidos para diferentes tons de pele, com uma abordagem inclusiva.
   - **Cuidados com a Pele:** Linha de produtos naturais voltados para a hidratação e proteção da pele.
-  
 - **Diferenciais Competitivos:** 
-  - Foco em uma nicho crescente de produtos para cabelos cacheados e crespos.
+  - Foco em um nicho crescente de produtos para cabelos cacheados e crespos.
   - Campanhas que favorecem a inclusão e diversidade.
   - Parcerias estratégicas com influenciadores que se conectam diretamente com seu público-alvo.
 
@@ -40,14 +38,12 @@
   - [Twitter](http://www.twitter.com/beleazanatural)
   - [TikTok](http://www.tiktok.com/@beleazanatural)
   - [YouTube](http://www.youtube.com/c/BelezaNatural)
-
 - **Blog ou Artigos:** Contém posts sobre tendências de beleza, cuidados com cabelos cacheados, e guias de maquiagem inclusiva.
 
 ## 6. Dados de Mercado
 - **Tendências do Setor:** 
-  - Aumento da demanda por produtos de beleza que atendam necessidades específicas como cabelos cacheados.
+  - Aumento da demanda por produtos de beleza que atendam necessidades específicas, como cabelos cacheados.
   - Crescimento do uso de marketing de influência como ferramenta de engajamento e vendas.
-  
 - **Concorrência:** 
   - **O Boticário:** Forte presença, mas com foco mais amplo.
   - **Natura:** Reconhecida por sustentabilidade, mas menos focada em nichos específicos.
@@ -56,20 +52,20 @@
 ## 7. Dores e Desafios
 - **Possíveis Dores da Empresa:**
   - Dificuldade em alcançar novos públicos fora do nicho inicial.
-  - Baixa taxa de engajamento nas redes sociais devido à concorrência.
+  - Baixa taxa de engajamento nas redes sociais devido à concorrência acirrada.
   - Necessidade de diversificação nas estratégias de marketing.
 
 ## 8. Oportunidades
 - **Oportunidades de Crescimento:** 
-  - Expandir para novas plataformas, como TikTok, com conteúdos mais dinâmicos.
-  - Colaboração com influenciadores emergentes para maior conexão com o público jovem.
-  - Implementação de micro-influência para aumentar engajamento e autenticidade.
+  - Expandir para novas plataformas, como TikTok, com conteúdos mais dinâmicos e interativos.
+  - Colaboração com influenciadores emergentes para maior conexão com o público jovem e engajado.
+  - Implementação de micro-influenciadores para aumentar engajamento e autenticidade nas campanhas.
 
 ## 9. Proposta de Valor
 - **Como nossa empresa pode ajudar:**
-  - Conectar Beleza Natural a influenciadores que alinhados com seus valores de inclusão e diversidade.
+  - Conectar a Beleza Natural a influenciadores que estejam alinhados com seus valores de inclusão e diversidade.
   - Desenvolvimento de campanhas personalizadas que reflitam sua missão e impactem positivamente seu público-alvo.
-  - Aumento da visibilidade digital e engajamento por meio de parcerias com influenciadores relevantes.
+  - Aumento da visibilidade digital e do engajamento por meio de parcerias estratégicas com influenciadores relevantes.
   - Suporte na análise de resultados e otimização de campanhas para garantir o melhor retorno sobre investimento.
 
 ## 10. Contatos Relevantes
@@ -79,11 +75,11 @@
   - Carlos Souza, Gerente de Mídias Sociais, carlos@belezanatural.com.br
 
 ## 11. Informações Adicionais
-- **Últimas Notícias/Releases:** Recentemente, a Beleza Natural lançou uma campanha focada em inclusão, resultando em excelente repercussão nas redes sociais.
-- **Feedback de Clientes:** Muitos clientes elogiam a qualidade dos produtos, mas há comentários sobre a necessidade de maior diversidade nas campanhas publicitárias.
+- **Últimas Notícias/Releases:** Recentemente, a Beleza Natural lançou uma campanha focada em inclusão, que resultou em excelente repercussão nas redes sociais e aumento de interações.
+- **Feedback de Clientes:** Muitos clientes elogiam a qualidade dos produtos, mas há comentários sobre a necessidade de maior diversidade e representatividade nas campanhas publicitárias.
 
 ---
 
 ### Observações Finais
-Esse relatório foi elaborado para proporcionar um entendimento detalhado sobre a empresa Beleza Natural, seu posicionamento no mercado, e como uma colaboração em marketing de influência pode preencher lacunas e atender às suas necessidades. O objetivo é fornecer uma base sólida para um email direcionado, que ressoe com as aspirações e desafios atuais da empresa.
+Esse relatório foi elaborado para proporcionar um entendimento detalhado sobre a empresa Beleza Natural, seu posicionamento no mercado, e como uma colaboração em marketing de influência pode preencher lacunas e atender às suas necessidades. O objetivo é fornecer uma base sólida para um e-mail direcionado, que ressoe com as aspirações e desafios atuais da empresa, ajudando a chamar a atenção da Beleza Natural para a importância do marketing de influência em sua estratégia.
 ```
