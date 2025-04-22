@@ -16,7 +16,7 @@
      - Transferências via Pix ilimitadas e gratuitas.
      - Integração com ERPs e sistemas contábeis.
      - Gestão automatizada de fluxo de caixa.
-
+  
 2. **Gestão de Cobranças**
    - **Descrição:** Ferramenta integrada para administrar boletos e cobranças.
    - **Funcionalidades:**
