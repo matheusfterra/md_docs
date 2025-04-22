@@ -1,46 +1,64 @@
-# Relatório de Prospecção para Piccadilly
+## Relatório de Prospecção - Piccadilly
 
-## Informações Gerais
-- **Segmento:** Varejo de Calçados e Acessórios
-- **Website:** [www.piccadilly.com.br](http://www.piccadilly.com.br/)
-- **Tipo de Produtos:** Calçados (sapatos, sandálias, botas, sapatilhas, tênis, chinelos) e acessórios (bolsas)
-- **Localização:** Cariacica, Espírito Santo, Brasil
+### Dados da Empresa
+- **Nome:** Piccadilly
+- **Website:** [www.piccadilly.com.br](http://www.piccadilly.com.br)
 - **CNPJ:** 97.755.177/0023-45
+- **Endereço:** Rod. Governador Mario Covas, 3101 KM 282 Sala 58 – Padre Mathias - Cariacica/ES-  CEP 29157-100
+- **Segmento:** Calçados e Bolsas Femininas
+- **Público-alvo:** Mulheres que buscam moda e conforto, principalmente entre 18 e 50 anos.
 
-## Contexto da Marca
-A Piccadilly é conhecida por oferecer produtos com foco na beleza, conforto e praticidade. A marca busca atender as necessidades das mulheres modernas, com uma coleção que abrange diversas situações do cotidiano. A empresa também tem uma forte presença online, com promoção de frete grátis e descontos para a primeira compra, o que demonstra um interesse em aumentar a conversão através de estratégias digitais.
+---
 
-## Público-Alvo
-- **Demografia:** Mulheres, principalmente entre 18 e 45 anos.
-- **Interesses:** Moda, conforto, tendências de calçados e acessórios.
-- **Dores Comuns:** Conforto em longas caminhadas, variedade de estilo, e necessidades específicas (como calçados para pés sensíveis ou com determinadas características de saúde).
+### Análise do Website
+#### Principais categorias de produtos:
+1. **Calçados**
+   - Lançamentos em calçados diversos como botas, sapatilhas, sandálias, tênis, etc.
+   - Tecnologias como "Maxi", "SoftStep" e "Fascite" que visam conforto e ergonomia.
 
-## Produtos e Ofertas
-1. **Calçados:**
-   - **Variedades:** Inclui desde linhas tradicionais, como scarpins e sapatilhas, até opções modernas, como tênis e sandálias.
-   - **Características:** Conforto em cada passo com tecnologias que aliviam dores e melhoram a circulação (técnicas como “Energy” e “Maxi”).
-   - **Lançamentos:** Nova coleção é frequentemente apresentada, com promoções para o primeiro acesso ao site.
+2. **Bolsas**
+   - Variedade de modelos que combinam elegância e praticidade, ressaltando o estilo social e casual.
 
-2. **Bolsas:**
-   - **Estilos:** De crossbody a totes e clutches, todas desenhadas para atender à elegância e funcionalidade.
-   - **Apelo:** Cada peça visa ser um reflexo da individualidade e estilo de cada mulher.
+3. **Promoções e ofertas**
+   - Frete grátis a partir de R$ 199,90 para regiões específicas.
+   - Descontos para primeira compra, promoções de temporada e períodos específicos.
 
-## Análise de Concorrência
-- **Concorrentes Diretos:** Outras marcas de calçados femininos com forte apelo em conforto (ex: Moleca, Beira Rio).
-- **Diferenciais Competitivos:** A Piccadilly combina conforto com materiais de alta qualidade, apostar em um marketing digital forte e em colaborar com influenciadores que ressoem com o seu público-alvo.
+#### Destaques:
+- A Piccadilly traz um posicionamento forte voltado para o conforto e bem-estar, associando os produtos a um estilo de vida ativo e sofisticado.
+- O site apresenta um design responsivo, com seções claras e intuitivas que facilitam a navegação.
 
-## Possíveis Dores e Desafios para Abordagem
-1. **Conexão emocional:** A Piccadilly pode se beneficiar de uma estratégia que valorize mais a ligação emocional com seus consumidores, especialmente marcas que falam sobre autoafirmação.
-2. **Tendências em Marketing de Influência:** Compreender como a empresa já está utilizando influenciadores e como isso pode ser aprimorado, ou se há uma resistência, pode ser um ponto crucial na comunicação.
-3. **Consolidação da Presença Digital:** Otimização da conversão através do site e das redes sociais, bem como entender seu público-alvo.
+---
 
-## Observações Finais
-Desde a recepção de novos lançamentos até as políticas de troca e devoluções, a Piccadilly demonstra um cuidado redobrado com seus clientes. Para desenvolver uma estratégia de marketing de influência, é essencial entender as vozes que se alinham com seus valores e as características de seus produtos. Abordar a ideia de que os influenciadores podem não somente reforçar a imagem da marca, mas também ajudar a criar um vínculo emocional com as consumidoras será fundamental para a proposta.
+### Identificação de Possíveis Dores
+1. **Atingir Novos Públicos:**
+   - A Piccadilly pode estar buscando formas de aumentar seu alcance, principalmente entre influenciadores que falam com públicos que priorizam moda e conforto.
 
-## Recomendação para Copywriting
-Sugestão de abordagem em e-mail:
-- Inicie com uma apresentação admirativa da marca.
-- Destaque inovações em produtos e como eles se encaixam nas necessidades das mulheres modernas.
-- Sugira uma estratégia de colaboração com influenciadores que se conectem emocionalmente com a marca e a audiência alvo, demonstrando como isso pode alavancar a visibilidade e vendas da Piccadilly.
+2. **Conversão em e-commerce:**
+   - Produtos com tecnologia para conforto são destacados, mas pode haver desafios em comunicar a eficiência dessas tecnologias para novos clientes.
 
-Este relatório servirá como base valiosa para o time de copywriting desenvolver uma comunicação integrada e impactante que conecte a história da Piccadilly com os anseios e interesses do seu público.
+3. **Concorrência:**
+   - O mercado de calçados e bolsas femininas é altamente competitivo. Atuar com influenciadores pode ser uma forma de diferenciar-se e destacar-se.
+
+---
+
+### Sugestões para Conexão com Influenciadores
+- **Estratégia de Marketing de Influência:**
+  - **Identificar influenciadores** que tenham uma forte conexão com o público-alvo da Piccadilly. Considerar nichos como moda, bem-estar e fitness.
+  - **Curadoria de conteúdo**, focando em como os produtos Piccadilly se encaixam no dia a dia do público. Criar desafios ou promoções que incentivem os seguidores a interagir com a marca.
+  - **Cases de sucesso** onde a marca pode apresentar depoimentos de influenciadores que já utilizaram e aprovaram os produtos.
+
+---
+
+### Competências e Tecnologias
+- A Piccadilly utiliza tecnologias em seus produtos (ex: SoftStep, Maxi) que são um grande diferencial. Saber explorar essas tecnologias durante campainhas com influenciadores pode chamar a atenção de um público mais técnico e preocupado com conforto.
+
+### Hipóteses para Campanhas
+- **Campanhas de Lançamento**: Aproveitar os lançamentos de novos produtos, utilizando influenciadores para gerar burburinho nas redes sociais.
+- **Ações de Datas Comemorativas**: Especialmente no Dia das Mães ou datas que relevem presentes, envolver influenciadores com produtos que se tornam presentes ideais, reforçando a conexão emoção-produto.
+
+---
+
+### Conclusão
+A Piccadilly possui uma identidade forte que mistura sofisticação, conforto e praticidade. A abordagem através do marketing de influência pode abrir novas oportunidades para atingir segmentos pouco explorados e realçar particularidades dos produtos. O mapeamento de influenciadores adequados e a criação de campanhas direcionadas são passos cruciais para maximizar resultados. 
+
+Esse relatório pode servir como base para o copywriter construir uma comunicação que ressoe com Piccadilly, destacando o valor do marketing de influência como uma ferramenta de crescimento estratégico no mercado competitivo de moda.
