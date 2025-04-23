@@ -1,103 +1,97 @@
-# Relatório de Prospecção - [Nome da Empresa]
+# Relatório de Prospecção - Empresa XYZ
 
 ## 1. Informações Gerais da Empresa
 
-- **Nome da Empresa:** [Nome da Empresa]
-- **Website:** [URL do Website]
-- **Setor de Atuação:** [Ex: Moda, Beleza, Alimentação, Tecnologia, etc.]
-- **Ano de Fundação:** [Ano]
-- **Localização:** [Cidade, Estado, País]
-- **Número de Funcionários:** [Número de Funcionários]
-- **Faturamento Anual Estimado:** [Se disponível]
-- **Missão e Visão:** 
-  - Missão: [Descrição da missão]
-  - Visão: [Descrição da visão]
+- **Nome da Empresa**: XYZ Marketing
+- **Website**: www.xyzmarketing.com
+- **Setor**: Marketing Digital, Especialização em Marketing de Influência
+- **Localização**: São Paulo, SP
+- **Ano de Fundação**: 2015
+- **Tamanho da Empresa**: 50 colaboradores
+- **Receita Anual Estimada**: R$ 10 milhões
 
-## 2. Presença Digital 
+## 2. Contato Principal
 
-- **Redes Sociais Ativas:**
-  - Facebook: [Link]
-  - Instagram: [Link]
-  - Twitter: [Link]
-  - LinkedIn: [Link]
-  - TikTok: [Link]
-  - YouTube: [Link]
+- **Nome do Contato**: Ana Oliveira
+- **Cargo**: Gerente de Relacionamento com Influenciadores
+- **E-mail**: ana.oliveira@xyzmarketing.com
+- **Telefone**: (11) 1234-5678
+- **LinkedIn**: linkedin.com/in/anaoliveira
 
-- **Análise de Engajamento:**
-  - Número de seguidores em cada plataforma
-  - Taxa de engajamento (média de curtidas, comentários e compartilhamentos)
-  - Type de conteúdo mais postado (vídeos, imagens, stories, etc.)
-  
-## 3. Público-Alvo
+## 3. Produtos e Serviços Oferecidos
 
-- **Demografia:**
-  - Idade: [Faixa Etária]
-  - Gênero: [Predominância]
-  - Localização: [Cidades/Regiões principais]
-  
-- **Interesses e Comportamentos:**
-  - [Interesses que se relacionam com o produto/serviço da empresa]
-  - [Comportamentos de compra típicos]
+- **Serviços de Influência**:
+  - Gestão de campanhas com influenciadores
+  - Estratégias de conteúdo para redes sociais
+  - Criação de relatórios de performance e ROI
 
-## 4. Concorrência
+- **Consultoria**:
+  - Assessoria em marketing digital
+  - Treinamento de equipes para trabalhar com influenciadores
 
-- **Principais Concorrentes:**
-  - [Nome do concorrente 1]
-  - [Nome do concorrente 2]
-  - [Nome do concorrente 3]
+## 4. Segmentos de Mercado Atendidos
 
-- **Diferenciais da Empresa:**
-  - [O que a empresa faz melhor que os concorrentes?]
-  - [Inovações ou características únicas]
+- Moda e Beleza
+- Tecnologia
+- Alimentação e Bebidas
+- Saúde e Bem-Estar
+- Viagens e Turismo
 
-## 5. Desafios e Dores
+## 5. Clientes e Casos de Sucesso
 
-- **Possíveis Dores:**
-  - [Desafios enfrentados pela empresa no mercado de atuação]
-  - [Problemas que a empresa pode enfrentar em suas estratégias de marketing]
-  
-- **Oportunidades:**
-  - [Possíveis áreas onde a empresa pode crescer e se beneficiar com um marketing de influência mais robusto]
+- **Clientes Notáveis**:
+  - Marca de Beleza A
+  - E-commerce de Moda B
+  - Aplicativo de Estilo de Vida C
 
-## 6. Atividades Recentes
+- **Casos de Sucesso**:
+  - Campanha de sucesso com influenciadores nanoinfluencers resultando em um aumento de 150% nas vendas para a Marca de Beleza A.
+  - Lançamento de produto com influenciadores midiáticos, atingindo 500.000 visualizações em 24 horas.
 
-- **Campanhas e Lançamentos Recentes:**
-  - [Descrição de campanhas ou produtos lançados recentemente]
-  
-- **Eventos ou Notícias Relevantes:**
-  - [Participação em eventos, prêmios, reconhecimentos, etc.]
+## 6. Análise SWOT
 
-## 7. Interações Anteriores
+- **Forças**:
+  - Expertise consolidada em marketing de influência
+  - Rede ampla de influenciadores qualificados
+  - Resultados comprovados e uma base de clientes satisfeitoss.
 
-- **Contato Anterior com a Empresa (se houver):**
-  - [Histórico de interações, reuniões agendadas, etc.]
-  
-- **Feedback recebido:**
-  - [Informações sobre como a empresa respondeu a abordagens anteriores]
+- **Fraquezas**:
+  - Presença digital relativamente limitada em comparação com concorrentes maiores.
+  - Dependência de um nicho específico de mercado.
 
-## 8. Proposta de Valor e Abordagem
+- **Oportunidades**:
+  - Crescimento do marketing de influência, especialmente em segmentos emergentes como o de tecnologia e bem-estar.
+  - Aumento da demanda por estratégias mais personalizadas e autênticas.
 
-- **Como Seu Serviço Pode Ajudar:**
-  - [Apresente como sua solução de marketing de influência pode resolver as dores identificadas]
-  
-- **Sugestões de Ações Imediatas:**
-  - [Proposta para uma primeira conversa ou ação específica, como um mapeamento de influencers]
+- **Ameaças**:
+  - Concorrência crescente no setor de marketing digital.
+  - Mudanças nas políticas das redes sociais que podem impactar a eficácia do marketing de influência.
 
-## 9. Mensagem para o Copywriter
+## 7. Possíveis Dores e Desafios
 
-- **Tom da Comunicação:** [Amigável, Profissional, Direto, etc.]
-- **Estilo de Redação:** [Diferenças no conteúdo conforme o público-alvo]
-  
-- **Ponto Focal:** [Qual a principal mensagem que você deseja transmitir na abordagem?]
+- Dificuldade em medir o ROI efetivo das campanhas com influenciadores.
+- A necessidade de diversificação na base de influenciadores para alcançar diferentes nichos.
+- A pressão constante para criar conteúdo autêntico e engajador que ressoe com o público-alvo.
+- Necessidade de se adaptar rapidamente às mudanças nas plataformas sociais e no comportamento dos usuários.
 
-## 10. Recursos Extras
+## 8. Contexto do Mercado
 
-- **Links Relevantes:**
-  - [Artigos, estudos de caso relevantes sobre marketing de influência]
-  
-- **Material de Apoio:**
-  - [Apresentações, infográficos que podem ser úteis na comunicação]
+- O mercado de marketing de influência está em constante evolução, com um foco crescente em micro e nanoinfluenciadores, que muitas vezes geram maior engajamento e autenticidade.
+- As empresas estão cada vez mais buscando maneiras de analisar a eficácia de suas campanhas de influência, o que representa uma oportunidade significativa para empresas que oferecem soluções de medição e análise.
+- O público está cada vez mais cético em relação à publicidade tradicional, tornando crucial para as marcas colaborarem com influenciadores que possuem uma conexão verdadeira com seu público.
+
+## 9. Proposta de Valor para a Empresa XYZ
+
+- Apresentar soluções personalizadas de marketing de influência que atendam às necessidades específicas de cada cliente.
+- Oferecer um sistema de medição e análise de campanhas que garanta resultados claros e eficientes.
+- Garantir acesso a uma rede expandida de influenciadores diversificados que podem ajudar a marca a alcançar novos públicos.
+
+## 10. Sugestões de Ações
+
+- Realizar uma abordagem inicial através de e-mail ou LinkedIn, destacando as oportunidades do marketing de influência.
+- Oferecer uma consultoria gratuita ou uma análise preliminar das campanhas de influência atuais da empresa.
+- Propor uma apresentação personalizada sobre como podemos ajudar a XYZ Marketing a superar seus desafios e alcançar seus objetivos.
 
 ---
 
-**Nota Final:** Através deste dossiê, o copywriter poderá elaborar uma comunicação personalizada, capaz de ressoar com os valores e desafios da [Nome da Empresa], maximizando as chances de uma resposta positiva.
+Este relatório oferece uma visão abrangente da empresa XYZ Marketing, suas necessidades e oportunidades dentro do mercado de Marketing de Influência, proporcionando uma base sólida para a elaboração de um e-mail de prospecção eficaz e personalizado.
