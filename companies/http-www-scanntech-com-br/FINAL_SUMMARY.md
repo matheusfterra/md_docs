@@ -7,7 +7,7 @@
 - **Localização:**
   - Rua Arizona 491, Andar 21º - Brooklin, São Paulo, SP, CEP 04567-001
   - Telefone: +55 (11) 3027 1700
-  - Presença Internacional: Uruguai, Argentina, Peru, México
+- **Presença Internacional:** Uruguai, Argentina, Peru, México
 
 ## 2. Missão, Visão e Valores
 - **Missão:** Mapeamento, execução e medição das atividades de compra, fortalecendo parcerias e gerando valor entre consumidores, varejo, indústria e distribuidores.
@@ -20,7 +20,7 @@
   - Compromisso
 
 ## 3. Produtos e Soluções
-A Scanntech oferece soluções que conectam dados e insights para indústrias, varejistas e distribuidores, como:
+A Scanntech oferece soluções que conectam dados e insights para indústrias, varejistas e distribuidores, que incluem:
 - **Scann View:** Insights para gestão de preços e mix de produtos.
 - **Scann E-commerce:** Comparação entre vendas online e físicas.
 - **Scann Scale e JBP 360º:** Análises detalhadas de performance de vendas.
@@ -47,19 +47,16 @@ Marcas que se conectam a influenciadores podem:
 
 ### 6.2 Exemplos de Colaborações Possíveis
 - **Mini-casos de Sucesso:** Histórias de marcas que prosperaram usando os dados da Scanntech.
-- **Coloborações com Influenciadores do Setor Varejista:** Para desmistificar o uso de dados e promover as soluções.
+- **Colaborações com Influenciadores do Setor Varejista:** Para desmistificar o uso de dados e promover as soluções.
 
 ## 7. Insights para Campanha de Prospecção
 - **Dores Potenciais:**
   - Dificuldades na tomada de decisões por falta de informação em tempo real.
   - Integração deficiente entre canais de vendas.
-
 - **Proposta de Valor:**
   - Proporcionar operações mais eficientes e maximizar vendas com insights baseados em dados concretos.
 
 ## 8. Conclusão
 A Scanntech é uma empresa que pode se beneficiar grandemente de campanhas de marketing de influência bem direcionadas, que potencializam uma maior conexão com seus públicos-alvo e ressaltam a eficácia de suas soluções.   
-
 ---
-
 **Nota para o copywriter:** Use este relatório para elaborar um email que indique como a Scanntech pode se beneficiar de colaborações com influenciadores, destacando as soluções que ela oferece e como elas podem ser promovidas para um público-alvo mais amplo e engajado.
