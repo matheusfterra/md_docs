@@ -1,66 +1,55 @@
 # Relatório de Prospecção: Allied Tecnologia S.A.
 
-## Dados da Empresa
+## 1. Informações Básicas da Empresa
 - **Nome da Empresa:** Allied Tecnologia S.A.
-- **CNPJ:** 20.247.322/0001-47
-- **Endereço:** Av. das Nações Unidas, 12.995 - 22º e 23º andar - Brooklin - São Paulo/SP, CEP: 04578-911
-- **Telefones:** (11) 5503-9999 / (11) 5503-9998
-- **Website:** [www.alliedbrasil.com.br](http://www.alliedbrasil.com.br)
-- **E-mail:** contato pelo formulário no site
-
-## Visão Geral da Empresa
 - **Ano de Fundação:** 2001
-- **Setor:** Tecnologia e Distribuição de Eletrônicos
-- **Categoria de Produtos:** Varejo, serviços, distribuição com mais de 9.200 itens no portfólio e mais de 11,8 milhões de produtos vendidos.
-- **Modelo de Negócio:**
-  - Distribuição de produtos eletrônicos.
-  - Serviços relacionados, como seguros de celular, planos de operadoras, trade-in de aparelhos e serviços financeiros.
+- **CNPJ:** 20.247.322/0001-47
+- **Endereço Sede:** Av. das Nações Unidas, 12.995 - 22º e 23º andar - Brooklin - CEP: 04578-911 - São Paulo/SP
+- **Contatos:**
+  - **Telefone:** 11 5503-9999 / 11 5503-9998
+  - **E-mail:** Não disponível publicamente (mas é possível contatar através do formulário no site)
+  
+## 2. Descrição da Empresa
+A Allied é uma das principais empresas no mercado brasileiro de eletrônicos de consumo, com uma forte presença no segmento de distribuição de produtos de TI, telecomunicações e e-commerce. A empresa possui um portfólio de mais de 9.200 itens e realiza a venda de mais de 11,8 milhões de produtos por meio de sua rede de varejo, serviços e distribuição.
 
-## Principais Negócios
-1. **Distribuição:**
-   - Líder no segmento de distribuição de produtos eletrônicos no Brasil.
-   - Forte relacionamento com indústrias e varejistas.
-   - Logística eficiente com 5 centros de distribuição em posições estratégicas (Manaus, Contagem, Serra, Jundiaí, Florianópolis).
-   - Agilidade nas operações (99% dos pedidos processados em até 24 horas).
-
-2. **E-commerce (Mobcom e Soudi):**
-   - Plataforma de e-commerce própria e seller em marketplaces.
-   - Soudi: solução financeira com serviços de crédito e meios de pagamento.
-
-3. **Trocafy:**
-   - E-commerce de aparelhos eletrônicos recondicionados e com garantia.
-
-## Identidade da Marca
+### Visão, Missão e Valores
 - **Missão:** Levar o universo digital ao alcance de todos.
 - **Visão:** Prover as melhores soluções para clientes e parceiros.
-- **Valores:** Priorizar o cliente, foco em resultados, meritocracia, respeito, transparência e integridade.
+- **Valores:** Priorizar o cliente, foco em resultados, meritocracia, senso de urgência, respeito, transparência e integridade.
 
-## Análise de Perfil
-- **Dores e Necessidades:**
-  - Necessidade de aumentar a visibilidade da marca e dos produtos nos ambientes digitais.
-  - Conexão com influenciadores que possam fortalecer a imagem e credibilidade da marca.
-  - Exploração de novos canais de vendas e marketing, especialmente no ambiente digital pós-pandemia.
-  
-- **Oportunidades:**
-  - Aumento da presença em redes sociais e ações de marketing de influência.
-  - Potencial de promover campanhas que envolvam influenciadores populares no nicho de tecnologia e eletrônicos.
-  - Colaboração com personalidades que podem educar o consumidor sobre produtos tecnológicos e serviços financeiros.
+## 3. Setores de Atuação
+- **Distribuição de Produtos Eletrônicos:** Líder na distribuição de produtos eletrônicos no Brasil, com parcerias com grandes marcas como Samsung, Intel, Microsoft, LG, entre outras.
+- **Varejo Digital e Físico:** Operação de mais de 156 pontos de venda e soluções em e-commerce através de sua plataforma Mobcom e Trocafy para produtos recondicionados.
+- **Serviços:** Oferece uma gama de serviços complementares, incluindo seguros de celular, planos de operadoras e soluções financeiras pela plataforma Soudi.
 
-## Concorrência
-- **Análise Competitiva:** 
-  - Concorrentes diretos incluem outras distribuidoras de eletrônicos e e-commerces especializados.
-  - Necessidade de diferenciação através de parcerias com influenciadores para campanhas segmentadas.
+### Logística e Operação
+- **Centros Logísticos:** Possui 5 centros logísticos em localidades estratégicas como Manaus, Contagem, Serra, Jundiaí e Florianópolis.
+- **Agilidade de Entrega:** Processamento e expedição de 99% dos pedidos em até 24 horas, com entrega em 4-5 dias úteis.
 
-## Pontos de Interação Potenciais
-1. **Influenciadores no Setor de Tecnologia:** Parcerias com youtubers e blogueiros que falam sobre tecnologia seria uma maneira eficaz de alcançar públicos-alvo.
-2. **Campanhas de Lançamento de Produto:** Engajar influenciadores para lançar campanhas promocionais utilizando as plataformas de e-commerce da empresa.
-3. **Programas de Fidelidade:** Influenciadores podem ser usados para promover programas de fidelidade que incentivem compras recorrentes.
+## 4. Informações sobre Clientes e Parcerias
+A Allied mantém um forte relacionamento com os principais varejistas, fabricantes e prestadores de serviços no Brasil, criando um ecossistema robusto e colaborativo. Os depoimentos de parceiros destacam a confiabilidade e a agilidade no suporte e no fornecimento.
 
-## Proposta de Ação
-- Desenvolver uma campanha de marketing de influência focada em eletrônicos que destaca as inovações e vantagens dos produtos da Allied.
-- Criar uma lista de influenciadores identificados como potenciais parceiros para colaboração, levando em consideração o seu alcance e impacto.
-- Analisar métricas de engajamento e conversão de campanhas anteriores para aprimorar estratégias futuras.
+## 5. Dores e Necessidades Potenciais
+### Dores:
+- **Visibilidade da Marca:** Aumentar a percepção do consumidor sobre as marcas que distribui.
+- **Conexão com Influenciadores:** Encontrar novas maneiras de engajar clientes através de influenciadores que estejam alinhados à imagem de suas marcas.
+- **Concorrência no E-commerce:** Lidar com um mercado de e-commerce altamente competitivo, onde é crucial destacar-se.
+
+### Necessidades:
+- **Campanhas Personalizadas:** Necessidade de campanhas de marketing que incluam influenciadores relevantes para cada categoria de produto.
+- **Engajamento com o Consumidor:** Melhorar o engajamento e fortalecer a presença de marca através de marketing de influência.
+
+## 6. Contexto Atual do Mercado
+O mercado de eletrônicos e tecnologia é altamente dinâmico, com constantes inovações e uma crescente demanda por produtos sustentáveis (como os recondicionados). O e-commerce segue sua tendência crescente e o uso das redes sociais para marketing é mais significativo. Marcas estão em busca de formas de se conectarem com seu público-alvo de maneira mais autêntica e relevante.
+
+## 7. Sugestões de Ações de Prospecção
+- **Campanhas Com Influenciadores:** Sugerir a implementação de campanhas personalizadas utilizando influenciadores que compartilhem os valores e a visão da Allied.
+- **Webinars e Lives:** Propor a realização de eventos ao vivo com influenciadores para promover lançamentos de novos produtos ou serviços.
+- **Conteúdo Colaborativo:** Criar conteúdos educacionais que incluam influenciadores para promover a utilização de produtos e o diferencial da Allied.
+
+## 8. Conclusão
+A Allied Tecnologia apresenta-se como um jogador importante no segmento eletrônico com potencial para ampliar seu alcance e engajamento através de uma estratégia robusta de marketing de influência. Um contato com a Allied deve se centrado em soluções que ajudam a aumentar a visibilidade das marcas que representam e a eficácia de suas campanhas de marketing. A conexão com influenciadores pode resolver diversas dificuldades que a empresa enfrenta na atualidade. 
 
 ---
 
-Este relatório fornece uma estrutura para que o copywriter da equipe possa criar uma abordagem personalizada e que converse diretamente com as necessidades da Allied Tecnologia S.A., aumentando a chance de envolvimento e sucesso na prospecção.
+Com base nesse relatório, o copywriter pode criar um email direcionado à Allied destacando como a colaboração com influenciadores pode elevar o reconhecimento da marca e impulsionar vendas em seus canais de e-commerce e varejo.
