@@ -1,7 +1,6 @@
+```markdown
 # Relatório de Prospecção - Cora
-
 ## Informações Gerais
-
 **Nome da Empresa:** Cora Sociedade de Crédito, Financiamento e Investimento S.A.  
 **CNPJ:** 37.880.206/0001-63  
 **Endereço:** Rua Frei Caneca, 1246, 3º andar, sala 31, Consolação – São Paulo/SP  
@@ -13,7 +12,6 @@
 - E-mail: meajuda@cora.com.br  
 
 ## Produtos e Serviços
-
 ### 1. Conta PJ
 - **Descrição:** A Cora oferece uma conta PJ digital sem taxas de manutenção, com funcionalidades que incluem:
   - Emissão de boletos gratuitos.
@@ -55,9 +53,9 @@
 - Empresas que valorizam produtos sem taxas ocultas e que desejam maior agilidade na gestão de cobranças e pagamentos.
 
 ## Necessidades e Dores Potenciais da Empresa
-- **Burocracia Financeira:** A Cora busca eliminar a burocracia que muitas empresas ainda enfrentam ao lidar com instituições financeiras.
-- **Taxas Elevadas:** Muitas vezes, empresas pequenos e médios lutam contra taxas exorbitantes cobradas por instituições tradicionais.
-- **Gestão do Fluxo de Caixa:** Uma análise efetiva do fluxo de caixa se torna crítica à medida que as empresas crescem e aumentam suas operações.
+1. **Burocracia Financeira:** A Cora busca eliminar a burocracia que muitas empresas ainda enfrentam ao lidar com instituições financeiras.
+2. **Taxas Elevadas:** Muitas vezes, empresas pequenas e médias lutam contra taxas exorbitantes cobradas por instituições tradicionais.
+3. **Gestão do Fluxo de Caixa:** Uma análise efetiva do fluxo de caixa se torna crítica à medida que as empresas crescem e aumentam suas operações.
 
 ## Contexto e Oportunidades de Marketing de Influência
 - **Posicionamento Local:** Influenciadores que atuam no segmento financeiro, tecnologia e empreendedorismo podem ajudar a solidificar a imagem da Cora como referência em serviços financeiros descomplicados.
@@ -74,5 +72,5 @@
 4. **Fechamento:** "Vamos conversar sobre como podemos ajudar sua empresa a crescer enquanto você foca no que realmente importa? Aguardo seu retorno!"
 
 ---
-
 Esse relatório oferece uma visão detalhada sobre a Cora, facilitando a atuação do copywriter para criar uma abordagem mais personalizada e direcionada.
+```
