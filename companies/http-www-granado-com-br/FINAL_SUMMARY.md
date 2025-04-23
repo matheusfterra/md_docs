@@ -1,56 +1,50 @@
-## Relatório de Prospecção: Granado Pharmácias
+# Relatório de Prospecção da Empresa Granado 
 
-### 1. **Informações Gerais da Empresa**
-- **Nome da Empresa**: Granado Pharmácias
-- **Website**: [granado.com.br](http://www.granado.com.br)
-- **Fundação**: 1870
-- **Localização**: Rio de Janeiro, Brasil
-- **Tipo de negócio**: Fabricação e venda de cosméticos, produtos de higiene pessoal e medicamentos.
+## Informações Gerais
+- **Nome da Empresa:** Granado Pharmácias
+- **Website:** [www.granado.com.br](http://www.granado.com.br)
+- **Data de Fundação:** 1870
+- **Localização:** Sede no Rio de Janeiro, com lojas físicas em Paris, Londres, Lisboa e Nova York.
 
-### 2. **Histórico e Missão**
-- **História**: Uma das empresas mais tradicionais do Brasil, começando como uma botica que manipulava extratos de plantas. Granado possui forte compromisso com a qualidade e ingredientes naturais.
-- **Missão**: Oferecer produtos de beleza e cuidados que são eficazes, sustentáveis e sem teste em animais, preservando a tradição da marca.
-- **Valores**: Compromisso com a responsabilidade socioambiental e uso de ingredientes de alta qualidade, além de práticas sustentáveis.
+## Descrição da Empresa
+A Granado é uma das marcas de cosméticos e medicamentos mais tradicionais do Brasil e é reconhecida pela sua abordagem em utilizar extratos de plantas e ervas em seus produtos. Com um portfólio diversificado, a empresa oferece desde perfumes até produtos de cuidados com o corpo e saúde.
 
-### 3. **Portfólio de Produtos**
-- **Linhas de Produtos**:
-  - **Vintage**: Produtos nostálgicos com fragrâncias clássicas.
-  - **Terrapeutics**: Produtos que promovem o bem-estar e conexão com a natureza.
-  - **Pink**: Linha voltada para cuidados femininos.
-  - **Bebê**: Produtos suaves para a pele dos bebês.
-  - **Pet**: Cuidados com a saúde de animais de estimação.
-  - **Antissépticos**: Produtos para higiene e cuidados com a pele.
-  - **Barbearia**: Cuidados masculinos, com extratos naturais.
-  - **Glicerina**: Sabonetes baseados em glicerina.
+## Produtos e Serviços
+Granado se destaca pela inovação e tradição, oferecendo produtos como:
+- **Linha de Perfumeria:** Com produtos como o Perfume Granado Apotecário e o Perfume Granado Rosa Sublime. Os perfumes são desenvolvidos com 80% de ingredientes naturais e passam por um processo de maceração que garante harmonização.
+- **Produtos de Cuidado Pessoal:** Incluindo sabonetes, hidratantes e cremes para as mãos, todos formulados com ingredientes de origem natural.
+- **Campanhas Sazonais:** A Granado realiza campanhas promocionais como a coleção Picnic Gourmand, que celebra o frescor das fragrâncias de verão.
+  
+## Ponto de Vista de Marketing de Influência
+### Segmento de Atuação
+Marketing de influência se torna um canal poderoso para Granado, pois a empresa possui uma forte herança cultural e um portfólio de produtos que se encaixam muito bem em nichos de beleza e cuidado pessoal. Colaborar com influenciadores do nicho de beleza, lifestyle e sustentabilidade pode reforçar a imagem da marca.
 
-### 4. **Destaques do Portfólio**
-Alguns produtos em destaque incluem:
-- **Perfume Granado Rosa Sublime 75ml**: fragrância com notas de rosa, âmbar e sândalo.
-- **Kit Cesta Picnic Citrus Brasilis**: um kit que inclui sabonetes, hidratantes e um perfume, com design inspirado em cestas de piquenique.
-- **Kit Gaveta Sabonetes Picnic**: cinco sabonetes diferentes, ideal para gifting.
-- **Perfume Citrus Brasilis**: uma fragrância que celebra notas cítricas, tradicional na história da Granado.
+### Possíveis Dores e Necessidades
+1. **Falta de Conexão com o Público Jovem:** Com a evolução das tendências, é crucial para a Granado encontrar uma maneira de atrair o público mais jovem, que é composto por consumidores digitalmente engajados e em busca de marcas que tenham propósito e identidade.
+   
+2. **Concorrência no Setor:** O mercado de beleza e cuidados pessoais é altamente saturado. A Granado pode enfrentar desafios em se destacar em meio a marcas que também utilizam narrativas sustentáveis e ingredientes naturais.
+   
+3. **Engajamento e Conversão em Mídias Sociais:** Transformar seguidores em clientes pode ser um desafio nas redes sociais e a Granado pode se beneficiar de estratégias de influenciadores que trazem confiança e autenticidade.
 
-### 5. **Campanhas Recentes e Promoções**
-- Recentemente, lançou a coleção Picnic Gourmand, destacando produtos que rememoram piqueniques, além de promoções para a Páscoa.
-- **Descontos**: Oferece 15% de desconto na primeira compra e frete grátis acima de R$150.
+## Contexto Atual e Propostas
+### Contexto de Mercado
+O atual cenário de consumo valoriza estratégias que promovem transparência e autenticidade. As marcas que se alinham com questões sociais e ambientais, como a Granado, têm mais chances de apelo junto ao público jovem.
 
-### 6. **Oportunidades de Marketing de Influência**
-- Granado já tem uma presença significativa em mídias sociais e deve se beneficiar de colaborações com influenciadores que falam sobre:
-  - Sustentabilidade e produtos naturais.
-  - Perfumes e cosméticos tradicionais.
-  - Cuidado com a pele, especialmente em públicos que buscam marcas livres de crueldade animal.
-- Propósito significativo para influenciadores que buscam produtos que têm uma história rica e um compromisso com a natureza.
+### Propostas de Ação
+1. **Criar Campanhas com Influenciadores:** Focar na criação de conteúdo autêntico com influenciadores que compartilham os mesmos valores da marca. Testemunhos e demonstrações de produtos em uso por influenciadores podem humanizar a marca e aumentar a confiança dos consumidores.
 
-### 7. **Dores e Desafios Potenciais**
-- **Concorrência**: A indústria de cosméticos é altamente competitiva. Diferenciar-se em um mercado com tantas opções pode ser desafiador.
-- **Sustentabilidade**: A crescente demanda por produtos sustentáveis pode gerar pressão para sempre inovar em práticas de negócios ecológicos.
-- **Educação do Consumidor**: A necessidade de educar os consumidores sobre os benefícios dos produtos naturais e a história da marca.
+2. **Desenvolver Colaborações Exclusivas:** Realizar parcerias com influenciadores para o lançamento de produtos limitados ou coleções exclusivas, criando um senso de urgência e exclusividade.
 
-### 8. **Contexto e Relevância do Momento**
-- A Granado está bem posicionada para capitalizar o crescente interesse por produtos de beleza e cuidados pessoais que enfatizam a natureza, a herança cultural e a sustentabilidade.
-- O pipeline de novos produtos e campanhas pode ser potencializado por parcerias com influenciadores que compartilham valores semelhantes.
+3. **Promover Conteúdo Educacional:** Colaborar com influenciadores para educar os consumidores sobre os ingredientes naturais usados e seu impacto positivo na saúde e bem-estar.
 
----
+## Conclusão
+A Granado, com sua rica história e tradição, está bem posicionada para tirar proveito das estratégias de marketing de influência. Aproveitar esses canais pode ajudar não apenas a expandir sua base de clientes, mas também a reforçar a imagem da marca como uma líder consciente no mercado de beleza e cuidados pessoais. 
 
-## Considerações Finais
-A Granado Pharmácias é uma marca com um legado rico e um apelo significativo no segmento de beleza e cuidados pessoais. Uma abordagem personalizada nas comunicações, destacando sua história e compromissos, pode criar uma conexão forte com os consumidores. A colaboração com influenciadores pode não apenas aumentar a visibilidade da marca, mas também solidificar sua posição como pioneira em cuidados naturais e sustentáveis.
+## Referências
+- Link de produtos e campanhas da Granado:
+  - [Kit Cesta Picnic Citrus Brasilis](https://www.granado.com.br/granado/kit-cesta-picnic-citrus-brasilis)
+  - [Kit Cesta Picnic Époque Tropical](https://www.granado.com.br/granado/kit-cesta-picnic-epoque-tropical)
+  - [Perfume Granado Apotecário](https://www.granado.com.br/granado/perfume-granado-apotecario-75ml)
+  - [Perfume Granado Rosa Sublime](https://www.granado.com.br/granado/perfume-granado-rosa-sublime-75ml)
+
+Com um foco no marketing de influência, a Granado pode não apenas expandir suas vendas, mas também construir uma comunidade leal de clientes ao redor de sua marca.
