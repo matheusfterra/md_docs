@@ -1,87 +1,72 @@
-# Relatório de Prospecção: Catupiry
+# Relatório de Prospecção Outbound - Catupiry
 
 ## 1. Informações Gerais da Empresa
-
-### Nome da Empresa
-Catupiry
-
-### Website
-[www.catupiry.com.br](http://www.catupiry.com.br)
-
-### Segmento
-Alimentos, com foco em produtos lácteos, especialmente requeijões e queijos.
-
-### Localização
-Av. Rudge, 218 - São Paulo, Brasil
-
-### Contatos
-- SAC: 0800 133 2001
-- Televendas: 0800 133 2000
-
----
+- **Nome da Empresa:** Catupiry
+- **Segmento:** Alimentos Lácteos, especialmente requeijão e produtos derivados
+- **Website:** [catupiry.com.br](http://www.catupiry.com.br)
+- **Sede:** Av. Rudge, 218 - São Paulo, Brasil
+- **Contato:** 
+  - **SAC:** 0800 133 2001
+  - **Televendas:** 0800 133 2000
+- **Presença Online:** 
+  - Redes sociais (Facebook, Instagram, etc.)
+  - Seção de receitas e dicas no site
+  - Produtos de Food Service
 
 ## 2. Linha de Produtos
+### 2.1 Requeijões
+- **Requeijão Cremoso Tradicional**
+- **Requeijão Cremoso Light**
+- **Requeijão Cremoso Lactozero**
+- **Requeijão Cremoso Azeitonas Pretas**
+- **Requeijão Cremoso Ervas Finas**
+- **Requeijão Culinário Catupiry Original**
+- **Requeijão Culinário Catupiry Light**
+- **Cream Cheese**
 
-A Catupiry é conhecida pela sua ampla linha de produtos lácteos, entre eles:
+### 2.2 Novidades e Lançamentos
+- **Linha Vegana Catupiry Plantury**
+- **Manteigas 100% Catupiry**
+- **Queijos Tradicionais e Especiais Apeti**
+- **Linha Devore para refeições rápidas**
 
-1. **Requeijões Cremosos**:
-   - Requeijão Tradicional
-   - Requeijão Light
-   - Requeijão Lactozero
-   - Requeijão de Azeitona
-   - Requeijão de Ervas Finas
-   - Requeijão Culinário (várias versões)
+### 2.3 Salgados e Petiscos
+- **Mini kibes, coxinhas e empanadas**
+- **Tortinhas e quiches com Catupiry**
 
-2. **Cream Cheese**:
-   - Versões tradicionais e gourmet para diversos usos.
+### 2.4 Pizzas
+- **Várias opções de pizzas (Frango, Mussarela, Pepperoni, Calabresa)**
 
-3. **Queijos**:
-   - Catupiry® Original
-   - Queijos especiais e artesanais da linha Apeti.
-   - Queijos tradicionais para diferentes receitas.
+## 3. Público-Alvo
+- **Demografia:** Família brasileira, amantes da culinária, adultos jovens e de meia-idade, chefs de cozinha, restaurantes, e estabelecimentos de alimentação.
+- **Psicografia:** Pessoas que buscam praticidade sem abrir mão do sabor, que se preocupam com a qualidade dos produtos alimentícios e preferem opções que podem ser usadas em receitas caseiras.
 
-4. **Salgados e Petiscos**:
-   - Mini kibes, mini coxinhas, empanadas, quiches, tortinhas de frango, entre outros.
+## 4. Análise do Mercado
+- **Concorrência:** Marcas de laticínios como Danone, Itambé, e outras marcas locais que oferecem produtos similares, como requeijões e queijos.
+- **Tendências:** 
+  - Crescente demanda por produtos veganos e sem lactose.
+  - Aumento na apreciação por produtos artesanais e de qualidade, com preferências por ingredientes naturais.
+  - Fortalecimento das vendas online e serviços de entrega.
 
-5. **Manteigas**:
-   - Manteigas puras, sem aditivos.
+## 5. Possíveis Dores e Demandas
+- **Falta de Diversidade de Produtos:** Aumentar a variedade de opções, principalmente em produtos veganos e zero lactose.
+- **Mudanças nos Hábitos de Consumo:** Adaptação a novos hábitos alimentares como a redução de alimentos com lactose e gorduras.
+- **Visibilidade da Marca:** Necessidade de destacar o Catupiry em um mercado competitivo, especialmente online.
 
-6. **Lançamentos Recentes**:
-   - Linha Plantury - requeijões veganos.
-   - Petiscos e queijos especiais.
+## 6. Oportunidades para Marketing de Influência
+- **Colaborações com Chefs e Influenciadores de Comida:** Para gerar receitas exclusivas e mostrar a versatilidade dos produtos Catupiry.
+- **Campanhas Focadas em Experiências Culinárias:** Criação de eventos de cozinha ao vivo, aulas de culinária online, e degustações que realcem o uso dos produtos.
+- **Ações de Mídia Social:** Incentivar os consumidores a compartilhar suas receitas usando os produtos Catupiry nas redes sociais.
 
-## 3. Análise do Mercado
+## 7. Proposta de Abordagem para Contato
+Para a equipe de copywriter criar um e-mail personalizado e chamativo, considere os seguintes pontos:
+- **Início com uma história envolvente sobre a tradição Catupiry,** destacando o tempo de mercado e a qualidade superior de seus produtos.
+- **Apontar as soluções que a empresa pode oferecer** às necessidades dos consumidores em termos de produtos mais saudáveis e convenientes.
+- **Incluir uma chamada para ação** clara, convidando a empresa a participar de uma discussão sobre parcerias em marketing de influência.
 
-### Público-Alvo
-- Consumidores finais que procuram qualidade em produtos lácteos.
-- Restaurantes e serviços de alimentação que utilizam produtos lácteos em suas receitas.
-- Desenvolvedores de receitas e influenciadores na área de alimentação.
-
-### Concorrência
-- Outras marcas de laticínios como Polenghi, Itambé e Danone.
-- Marcas especializadas em queijos gourmet e produtos veganos.
-
-### Tendências
-- Aumento da demanda por produtos veganos e sem lactose.
-- Maior interesse por produtos saudáveis e com menos conservantes.
-- Crescimento do mercado de snacks e petiscos práticos e saborosos.
-
-## 4. Possíveis Dores e Necessidades
-
-### Dores
-- Aumento da competição com marcas que oferecem produtos orgânicos e veganos.
-- Necessidade de inovação constante para atender às novas demandas do mercado.
-- Manter a qualidade e percepção da marca enquanto se expande a linha de produtos.
-
-### Necessidades
-- Melhorar a presença digital através do marketing de influência.
-- Ampliar a comunicação e engajamento com os consumidores através de parcerias com influenciadores que ressoam com os valores da marca.
-- Criar conteúdo atraente que destaque a versatilidade e qualidade dos produtos.
-
-## 5. Contexto para Prospecção
-
-A Catupiry, com sua longa história e qualidade reconhecida, é uma marca que já conquistou o paladar dos brasileiros. Com novos lançamentos, especialmente em uma era onde o veganismo e a saúde são prioritários, a empresa deve se adaptar para se manter relevante. A possibilidade de se conectar com influenciadores para promover sua linha de produtos poderia ser uma estratégia efetiva para melhorar seu alcance e fortalecer sua imagem de marca.
+## 8. Considerações Finais
+A Catupiry, como uma marca consolidada, tem uma grande oportunidade de se reinventa no mercado atual e se conectar de forma mais significativa com seus consumidores através de estratégias de marketing bem elaboradas e colaborações criativas. Um engajamento proativo com influenciadores pode ser uma chave para sua próxima fase de crescimento e inovação.
 
 ---
 
-Este relatório fornece uma visão geral que permitirá ao copywriter criar um email que ressoe com a Catupiry, ressaltando como a conexão com influenciadores pode beneficiar a marca, ajudando-a a abordar seus desafios e aproveitando suas oportunidades no mercado.
+Este relatório pode ser ajustado conforme necessário para se alinhar com as diretrizes e estratégias específicas de prospecção da equipe SDR.
