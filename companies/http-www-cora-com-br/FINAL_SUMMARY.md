@@ -1,5 +1,5 @@
-```markdown
 # Relatório de Prospecção - Cora
+
 ## Informações Gerais
 **Nome da Empresa:** Cora Sociedade de Crédito, Financiamento e Investimento S.A.  
 **CNPJ:** 37.880.206/0001-63  
@@ -73,4 +73,3 @@
 
 ---
 Esse relatório oferece uma visão detalhada sobre a Cora, facilitando a atuação do copywriter para criar uma abordagem mais personalizada e direcionada.
-```
