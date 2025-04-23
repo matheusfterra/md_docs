@@ -1,71 +1,78 @@
-# Relatório de Prospecção: Cora - Gestão de Cobranças e Conta PJ
+# Relatório de Prospecção - Cora
 
-## Informações Gerais da Empresa
-- **Nome da Empresa:** Cora Sociedade de Crédito, Financiamento e Investimento S.A.
-- **CNPJ:** 37.880.206/0001-63
-- **Endereço:** Rua Frei Caneca, 1246, 3º andar, sala 31, Consolação – São Paulo/SP
-- **Website:** [Cora](http://www.cora.com.br)
-- **Segmento:** FinTech / Conta Digital PJ
-- **Serviços Oferecidos:** Plataforma digital para gestão de contas PJ que abrange emissão de boletos, transferências via Pix, gestão de cobranças e cartões PJ.
+## Informações Gerais
 
-## Produtos e Funcionalidades
-1. **Conta PJ**
-   - **Descrição:** Conta digital sem tarifas, focada em pequenas e médias empresas.
-   - **Destaques:**
-     - Emissão gratuita de boletos.
-     - Transferências via Pix ilimitadas e gratuitas.
-     - Integração com ERPs e sistemas contábeis.
-     - Gestão automatizada de fluxo de caixa.
-  
-2. **Gestão de Cobranças**
-   - **Descrição:** Ferramenta integrada para administrar boletos e cobranças.
-   - **Funcionalidades:**
-     - Emissão de boletos avulsos, parcelados e recorrentes.
-     - Configuração de juros e descontos.
-     - Notificações automáticas de cobrança.
-     - Monitoramento em tempo real dos recebimentos.
+**Nome da Empresa:** Cora Sociedade de Crédito, Financiamento e Investimento S.A.  
+**CNPJ:** 37.880.206/0001-63  
+**Endereço:** Rua Frei Caneca, 1246, 3º andar, sala 31, Consolação – São Paulo/SP  
+**Setor:** Finanças/Banco Digital   
+**Website:** [www.cora.com.br](http://www.cora.com.br)  
+**Contatos:**  
+- Chat no aplicativo (24h)  
+- WhatsApp: (11) 9 3305 8198  
+- E-mail: meajuda@cora.com.br  
 
-3. **Cartão PJ**
-   - **Descrição:** Cartão empresarial para transações.
-   - **Benefícios:**
-     - Sem anuidade.
-     - Múltiplos cartões virtuais.
-     - Controle de limites e categorização de despesas.
+## Produtos e Serviços
 
-4. **Link de Pagamento**
-   - **Descrição:** Permite a venda de produtos e serviços online através de links compartilhados.
-   - **Destaques:**
-     - Parcelamento em até 12 vezes.
+### 1. Conta PJ
+- **Descrição:** A Cora oferece uma conta PJ digital sem taxas de manutenção, com funcionalidades que incluem:
+  - Emissão de boletos gratuitos.
+  - Transferências ilimitadas por PIX.
+  - Cartão PJ internacional sem anuidade.
+  - Gestão de cobranças integrada no aplicativo.
+- **Benefícios:** Economia de tempo com processos simplificados, redução de burocracia, e acesso imediato a recursos financeiros.
 
-## Possíveis Dores e Necessidades
-1. **Aproximação com Clientes**
-   - Necessidade de um sistema eficiente para lidar com cobranças em atraso.
-  
-2. **Gestão Financeira Complexa**
-   - Necessidade de simplificação nos processos financeiros.
-  
-3. **Eficácia em Vendas**
-   - Questões sobre recebimentos em tempo hábil que impactam o fluxo de caixa.
-  
-4. **Inadimplência**
-   - Demandas por soluções que incluam notificações e gestão eficaz de cobranças.
+### 2. Gestão de Cobranças
+- **Descrição:** Plataforma para emissão e gestão de cobranças, permitindo:
+  - Criação de boletos, links de pagamentos e cobranças via PIX.
+  - Configuração automatizada de notificações de cobrança.
+  - Controle em tempo real de fio de recebimentos.
+- **Benefícios:** Redução da inadimplência, maior controle dos recebimentos e um fluxo de caixa mais eficiente.
 
-## Ponto de Dor no Mercado
-- A burocracia e as taxas elevadas ainda dificultam a vida de pequenas e médias empresas no Brasil. A Cora busca se posicionar como a solução prática e acessível, permitindo que os empreendedores se concentrem no crescimento de seus negócios.
+### 3. Cartão PJ
+- **Descrição:** Cartão de débito e crédito internacional para negócios.
+- **Características:**
+  - Sem anuidade ou taxas ocultas.
+  - Multiplicidade de cartões virtuais para sócios.
+  - Acompanhamento de gastos em tempo real via aplicativo.
 
-## Estratégia de Prospecção
-### Alvo
-- **Segmentos-alvo:** Pequenas e médias empresas que enfrentam dificuldades de gestão financeira e de cobranças, se beneficiando das soluções Cora.
+### 4. PIX
+- **Descrição:** Sistema de pagamento instantâneo, permitindo transferências em segundos, 24 horas por dia, sem taxas.
+- **Características:** 
+  - Configuração de limites para a realização de PIX.
+  - Funcionalidade de PIX cobrança, permitindo integrações financeiras mais fluídas.
 
-### Mensagem Personalizada
-- Focar em como a Cora pode facilitar a gestão de cobranças, reduzindo a inadimplência e promovendo um fluxo de caixa saudável através das suas ferramentas de automação.
+### 5. Nota Fiscal Eletrônica (NFS-e)
+- **Descrição:** Emissão de Notas Fiscais Eletrônicas integradas ao sistema de cobrança da conta.
+- **Benefícios:** Redução de erros administrativos, agilidade na emissão e envio da NFS-e a clientes.
 
-### Proposta de Valor
-- Destacar a gratuidade na abertura da conta PJ, a ausência de tarifas de manutenção e as funcionalidades que auxiliam na gestão financeira, com ênfase na facilidade de uso e suporte digital.
+### 6. Análise de Fluxo de Caixa
+- **Descrição:** Ferramenta para acompanhar os movimentos financeiros em tempo real.
+- **Benefícios:** Projeção e categorização de receitas e despesas, ajudando os empreendedores na tomada de decisões financeiras.
 
-### Call to Action
-- Incentivar agendamentos para demonstrações dos serviços ou abertura de conta gratuita para que possam experimentar as soluções oferecidas.
+## Público-Alvo
+- Pequenos e médios negócios (PMEs) que buscam soluções digitais para simplificação de suas operações financeiras.
+- Empresas que valorizam produtos sem taxas ocultas e que desejam maior agilidade na gestão de cobranças e pagamentos.
+
+## Necessidades e Dores Potenciais da Empresa
+- **Burocracia Financeira:** A Cora busca eliminar a burocracia que muitas empresas ainda enfrentam ao lidar com instituições financeiras.
+- **Taxas Elevadas:** Muitas vezes, empresas pequenos e médios lutam contra taxas exorbitantes cobradas por instituições tradicionais.
+- **Gestão do Fluxo de Caixa:** Uma análise efetiva do fluxo de caixa se torna crítica à medida que as empresas crescem e aumentam suas operações.
+
+## Contexto e Oportunidades de Marketing de Influência
+- **Posicionamento Local:** Influenciadores que atuam no segmento financeiro, tecnologia e empreendedorismo podem ajudar a solidificar a imagem da Cora como referência em serviços financeiros descomplicados.
+- **Comunicação Direcionada:** Criar campanhas que mostrem como a Cora transforma a gestão financeira, utilizando depoimentos de pequenos empresários ou influenciadores que utilizam os serviços.
+- **Educação Financeira:** Produção de conteúdo (posts, vídeos, lives) com influenciadores para educar o público sobre finanças, uso de tecnologia e benefícios do PIX.
+
+## Sugestões de Copy para Email
+1. **Assunto:** Simplifique sua Rotina Financeira com a Cora
+2. **Abertura:** "Olá [Nome], sabemos que administrar uma empresa é desafiador e, muitas vezes, as burocracias financeiras podem ser desgastantes. A Cora é a solução que você precisava para descomplicar sua gestão financeira."
+3. **Corpo do Email:** 
+   - Destaque os benefícios da conta PJ e como isso pode minimizar as operações financeiras.
+   - Exemplos de como o uso do PIX pode acelerar pagamentos e recebimentos.
+   - Convite para conhecer os influenciadores associados e sua experiência.
+4. **Fechamento:** "Vamos conversar sobre como podemos ajudar sua empresa a crescer enquanto você foca no que realmente importa? Aguardo seu retorno!"
 
 ---
 
-Esse relatório fornece informações essenciais para a equipe de copywriting preparar uma abordagem de prospecção direcionada e eficiente, alinhada às necessidades e serviços da Cora.
+Esse relatório oferece uma visão detalhada sobre a Cora, facilitando a atuação do copywriter para criar uma abordagem mais personalizada e direcionada.
