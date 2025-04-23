@@ -1,59 +1,54 @@
 # Relatório de Prospecção - Contabilizei
 
 ## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** Contabilizei
-- **Website:** [www.contabilizei.com.br](http://www.contabilizei.com.br)
-- **Descrição do Serviço:** Contabilidade online e gestão completa para empresas, com foco na abertura de CNPJ, contabilidade mensal e benefícios adicionais como planos de saúde, consultas online e acesso a academias.
+- **Nome:** Contabilizei
+- **Website:** [http://www.contabilizei.com.br](http://www.contabilizei.com.br)
+- **Segmento:** Escritório de contabilidade online, atendendo empresas de serviços e comércio.
+- **Localização:** Atende diversas regiões do Brasil com foco especial em grandes cidades como São Paulo, Belo Horizonte, Curitiba e Florianópolis.
 
-## 2. Segmentação e Proposta de Valor
-A Contabilizei se destaca como uma empresa de contabilidade online, voltada para micro e pequenas empresas (MPEs). Seu diferencial é a modernização e desburocratização do serviço contábil, utilizando uma plataforma digital que torna o processo mais simples e eficiente para o empreendedor.
+## 2. Descrição do Serviço
+A Contabilizei oferece serviços de contabilidade online, focando em simplificar a abertura e gestão de empresas. Eles são especializados em:
+- Abertura de empresas (CNPJ)
+- Gestão de contabilidade mensal, incluindo cálculo e emissão de impostos 
+- Consultoria contábil e suporte personalizado via chat, email e telefone
+- Processos simplificados e digitais, permitindo a gestão da contabilidade em uma plataforma integrada.
 
-### Proposta de Valor:
-- **Abertura de CNPJ sem custo de honorários:** Abertura rápida através de uma plataforma online, onde o cliente paga apenas taxas governamentais.
-- **Benefícios do Plano Multibenefícios:** Inclui acesso a consultas com psicólogos e nutricionistas, desconto em planos de saúde e acesso a mais de 20 mil academias, visando o bem-estar do empresário e seus colaboradores.
-- **Suporte Completamente Online:** Atendimento via WhatsApp, chat, e-mail e telefone, adaptando-se às preferências do cliente.
-- **Redução de Custos:** Foi relatado que os clientes podem economizar até R$ 10.000 por ano ao escolher este serviço em comparação com o mercado tradicional.
+## 3. Propostas de Valor
+- **Economia:** Abertura de empresa sem custos adicionais e uma economia que pode chegar até R$ 10.000 por ano em comparação ao mercado.
+- **Benefícios Incluídos:** 
+  - Acesso a consultas online com psicólogos e nutricionistas.
+  - Acesso a academias (mais de 20.000) através do parceiro TotalPass.
+  - Descontos em planos de saúde a partir de 30% do valor de mercado.
+- **Facilidade:** Atendimento rápido e digital, com suporte técnico contínuo e acompanhamento de toda a burocracia necessária para manter as empresas regularizadas.
 
-## 3. Características do Target
-- **Público-alvo:** Micro e pequenas empresas, principalmente empresários e empreendedores que buscam eficiência e modernidade no serviço contábil.
-- **Necessidades:** Busca por simplicidade, redução de custos, suporte online e benefícios que contribuam para o seu bem-estar e o de seus colaboradores.
-- **Dores:** 
-  - Burocracia no processo de abertura de empresas;
-  - Falta de suporte personalizado;
-  - Dificuldade em gerenciar as obrigações fiscais e contábeis.
+## 4. Clientes-Alvo
+Os principais clientes da Contabilizei incluem:
+- Pequenas e médias empresas que buscam eficiência e economia no setor contábil.
+- Profissionais autônomos e empreendedores que precisam de abertura rápida de CNPJ sem sair de casa.
+- Empresas que desejam uma gestão contábil prática e de fácil acesso, ligado diretamente a uma plataforma digital.
 
-## 4. Concorrência
-- **Concorrentes Diretos:** Escritórios de contabilidade tradicionais, serviços de contabilidade online, plataformas de gestão financeira.
-- **Diferenciais Competitivos:**
-  - Não há honorários pelos serviços de abertura; apenas taxas governamentais.
-  - Benefícios adicionais e suporte contínuo.
-  - Plataforma intuitiva para emissão de notas e gerenciamento contábil.
+## 5. Dores que a Contabilizei Resolve
+- **Burocracia Excessiva:** Empresas enfrentam dificuldades com a legislação e a documentação necessária para abrir e gerir um CNPJ.
+- **Custos Elevados:** A contabilidade tradicional no Brasil é considerada cara; a Contabilizei oferece soluções mais acessíveis.
+- **Falta de Tempo:** Os empreendedores muitas vezes têm dificuldades em gerenciar as obrigações contábeis em meio às suas atividades principais.
+- **Dúvidas Sobre Regulamentação:** Empresas que precisam de suporte em relação a CNAEs, tributação, e obrigações legais.
 
-## 5. Análise SWOT
-### Pontos Fortes:
-- Líder em abertura de CNPJ no Brasil;
-- Equipe de mais de 1.200 contadores especializados;
-- Avaliações positivas de clientes destacando praticidade e eficiência.
+## 6. Análise de Concorrência
+A Contabilizei se destaca em relação a concorrentes oferecendo:
+- Processos de abertura gratuitos sem cobrar honorários contábeis.
+- Benefícios adicionais que vão além da contabilidade, como consultas e descontos em serviços de saúde.
+- Suporte digital robusto com melhor atendimento ao cliente por meio de várias plataformas (chat, telefone, e-mail).
 
-### Pontos Fracos:
-- Dependência de tecnologia, o que pode afastar usuários menos familiarizados com plataformas digitais.
+## 7. Chaves para Comunicação
+- **Simplicidade:** Como a Contabilizei simplifica a contabilidade com um sistema digital intuitivo.
+- **Economia:** Apresentar as vantagens de custos menores em comparação aos serviços tradicionais.
+- **Suporte Integral:** Destacar o suporte contínuo ao cliente e as avaliações positivas dos usuários.
 
-### Oportunidades:
-- Crescimento do empreendedorismo no Brasil, especialmente em tempos de crise econômica;
-- Expansão dos serviços e benefícios oferecidos.
+## 8. Oportunidades de Ação
+- **Parcerias com Influenciadores:** Utilizar a força de influenciadores que atuam nos nichos de empreendedorismo e finanças pessoais para expandir o público-alvo.
+- **Campanhas de Informativos:** Criar conteúdos que informem sobre a importância de uma boa gestão contábil e como a Contabilizei auxilia nisso.
+- **Segmentação de Marketing:** Focar esforços de marketing em empresas em crescimento que estão no limite de faturamento do MEI, apresentando como a mudança para uma microempresa pode ser facilitada com seus serviços.
 
-### Ameaças:
-- Concorrência crescente de outros serviços de contabilidade online;
-- Mudanças na legislação tributária que podem impactar o mercado.
+---
 
-## 6. Contexto do Mercado
-O mercado de contabilidade está passando por uma transformação digital significativa. O uso de tecnologia para simplificar processos e atender as necessidades de micro e pequenas empresas é uma tendência crescente. A Contabilizei está bem posicionada para aproveitar essa transformação, oferecendo soluções que atendam às novas demandas dos empreendedores.
-
-## 7. Conclusão e Recomendação para Copywriting
-- **Mensagem Central:** Apresentar a Contabilizei como a solução para empreendedores que buscam não apenas abrir uma empresa, mas também manter as suas finanças de forma acessível e com benefícios que promovem o bem-estar.
-- **Chamada para Ação:** Incentivar os empreendedores a entrarem em contato com a Contabilizei para descobrir como podem abrir suas empresas de maneira fácil e se beneficiar de um serviço que realmente entende suas necessidades.
-
-## 8. Referências e Materiais de Suporte
-- Site oficial: [Contabilizei](http://www.contabilizei.com.br)
-- Informações sobre a proposta e serviços adicionais disponíveis no site da Contabilizei.
-- Avaliações de clientes disponíveis na plataforma, que reforçam a credibilidade da empresa.
+Este relatório visa proporcionar uma compreensão profunda sobre a Contabilizei, permitindo que a equipe de copywriting desenvolva uma comunicação personalizada e engajante para o público-alvo, abordando as principais necessidades e dores do cliente de maneira eficaz.
