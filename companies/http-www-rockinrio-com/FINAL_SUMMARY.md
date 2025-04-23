@@ -1,65 +1,55 @@
 # Relatório de Prospecção - Rock in Rio
 
-## Informações Gerais
+## Informações Gerais da Empresa
+- **Nome:** Rock in Rio
+- **Website:** [rockinrio.com](https://rockinrio.com/rio/)
+- **Segmento:** Entretenimento e Festivais de Música
+- **Fundador:** Roberto Medina
+- **Calendário de Eventos:** O festival ocorre anualmente em setembro, especificamente em 13, 14, 15, 19, 20, 21 e 22 de setembro de 2024.
+- **Localização:** Cidade do Rock, Parque Olímpico, Barra da Tijuca, Rio de Janeiro, RJ
+- **Impacto Econômico 2022:** Mais de R$ 2 bilhões na cidade do Rio de Janeiro.
 
-**Nome da Empresa:** Rock World S.A.
+## Históricos e Propostas do Rock in Rio
+- É considerado o maior festival de música e entretenimento do mundo, com 40 anos de história.
+- Desde sua primeira edição, já gerou 265 mil empregos diretos e indiretos.
+- Festivais em outros locais incluem Lisboa (Portugal), Madrid (Espanha) e Las Vegas (EUA).
+- Iniciativas de sustentabilidade em andamento, incluindo a "Amazônia Live", que contribui para o reflorestamento.
 
-**Website:** [Rock in Rio](https://rockinrio.com/rio)
+## Características e Dores da Empresa
+### Características
+- **Inclusão:** O Rock in Rio se preocupa com a acessibilidade, oferecendo uma Cidade do Rock inclusiva, com serviços voltados para pessoas com deficiências.
+- **Diversidade de Programação:** O festival inclui atrações de diversos gêneros, incluindo música pop, rock e eletrônica.
+- **Experiências Interativas:** O festival oferece experiências imersivas e artísticas além da música, como a "Global Village".
 
-**CNPJ:** 13.212.200/0001-50
+### Possíveis Dores
+- **Manutenção da Reputação:** A necessidade de continuar a inovar e manter a qualidade do evento.
+- **Sustentabilidade:** Pressões externas para melhorar e demonstrar práticas sustentáveis.
+- **Conexão com o Público:** Atração e retenção do público jovem em um cenário de concorrência crescente no setor de entretenimento.
 
-**Endereço:** Av. Ayrton Senna, 2150, Bloco O, Salas 302 e 303, Barra da Tijuca, Rio de Janeiro/RJ, CEP 22.775-900
+## Público-Alvo
+1. **Participantes do Festival:**
+   - Jovens adultos de 18 a 35 anos, amantes de música e cultura.
+   - Público familiar, incluindo crianças e adultos em busca de um ambiente divertido e seguro.
+  
+2. **Marcas e Patrocinadores:**
+   - Empresas que buscam visibilidade e associação com um evento de grande escala.
+   - Marcas que prezam por sustentabilidade e diversidade social.
 
-**Segmento de Atuação:** Entretenimento, eventos, música e responsabilidade socioambiental. O Rock in Rio é um festival de música e entretenimento, uma das maiores plataformas de eventos do mundo, com edições realizadas no Brasil, Lisboa, Madrid e Las Vegas.
+3. **Influenciadores e Criadores de Conteúdo:**
+   - Influenciadores do setor musical e da cultura pop.
+   - Criadores de conteúdo que desejam uma plataforma de engajamento de audiência.
 
-**Histórico:** Fundado em 1985 por Roberto Medina, o Rock in Rio já teve mais de 11 milhões de visitantes e apresentou 3.816 artistas em 130 dias de eventos. O festival é conhecido por unir diferentes culturas, gêneros musicais e promover a diversidade.
+## Contexto das Dores
+Com o aumento da concorrência em festivais e eventos de entretenimento, o Rock in Rio busca se destacar por meio de experiências exclusivas, práticas sustentáveis e uma forte conexão com a comunidade. É crítica para o festival o alinhamento com marcas que compartilhem valores semelhantes, principalmente no que tange a responsabilidade social e ambiental.
 
-## Características e Dores
+## Oportunidades
+- **Parcerias com Influenciadores:** O Rock in Rio pode expandir seu alcance através da colaboração com influenciadores, aproveitando suas audiências para ampliar a visibilidade do festival.
+- **Atividades Promocionais:** Aumentar iniciativas de engajamento nas mídias sociais, promovendo interações e compartilhamentos que gerem buzz em torno do evento.
+- **Inovações em Experiências:** Criar novas experiências imersivas, como espaços interativos ou tecnologias inovadoras, que atraiam e retenham o público.
 
-### Características:
+## Relatório para o Copywriter
+- **Assistência e Acessibilidade:** Destacar o compromisso do Rock in Rio com a inclusão e como isso se alinha com as prioridades de marcas que buscam responsabilidade social.
+- **Parceria de Influência:** Propor como a colaboração com influenciadores pode enriquecer a experiência do festival e ampliar o alcance das marcas envolvidas.
+- **Sustentabilidade:** Enfatizar as iniciativas de sustentabilidade do Rock in Rio e como essas ações podem ser cruciais para organizações que buscam alinhar suas marcas com práticas responsáveis.
 
-- **Diversidade Musical:** O festival abrange diversos gêneros musicais, atraindo uma ampla audiência.
-- **Compromisso Social e Ambiental:** O Rock in Rio promove diversas iniciativas de sustentabilidade, como o projeto "Por um Mundo Melhor" que envolve reflorestamento e inclusão social.
-- **Experiência do Cliente:** A organização oferece uma experiência única com acessibilidade para pessoas com deficiência, além de áreas temáticas como a Rock Street e o Espaço Favela.
-- **Acessibilidade:** O festival se predispõe a ser inclusivo, oferecendo serviços para diversos públicos, como deficientes físicos, auditivos, visuais e gestantes.
-- **Parcerias Estruturas:** O Rock in Rio conta com uma forte rede de patrocinadores e parceiros que sustentam e colaboram para o sucesso do evento.
-
-### Dores:
-
-- **Concorrência no Segmento de Eventos:** Com o crescimento do mercado de festivais e eventos, o Rock in Rio precisa se destacar sempre com inovações.
-- **Sustentabilidade:** É um desafio constante garantir que as práticas de sustentabilidade sejam mantidas e também eficazes diante de um evento de grande escala.
-- **Expectativas do Público:** Gerenciar e superar as expectativas de um público diversificado e exigente para manter a reputação do festival.
-- **Mudanças nas Normas e Regulamentações:** Manter-se atualizado sobre as leis e regulamentações relacionadas a eventos, especialmente em tempos pós-pandêmicos.
-
-## Análise do Público-Alvo
-
-### Perfil do Público:
-
-- **Idade:** Principalmente jovens adultos e público de 16 a 35 anos, mas todas as idades participam.
-- **Interesse:** Música, festivais, entretenimento, cultura, sustentabilidade e responsabilidade social.
-- **Localização:** Principalmente do Brasil, com forte presença de visitantes de outros países devido à notoriedade do evento.
-- **Dados Demográficos:** Alto nível socioeconômico, diversidade cultural e social.
-
-## Iniciativas e Projetos Sociais
-
-1. **Amazonia Live:** Plantio de mais de 4 milhões de árvores com foco na sustentabilidade e preservação ambiental.
-   
-2. **Por um Mundo Melhor:** Programas para a inclusão social e ambiental com diversas atividades que geraram um impacto econômico significativo na comunidade local.
-
-3. **Acessibilidade:** Projetos que garantem acessibilidade para pessoas com deficiência e atenção a grupos vulneráveis.
-
-## Oportunidades de Parceria e Colaboração
-
-### Propostas para Marketing de Influência:
-
-1. **Campanhas de Sustentabilidade com Influenciadores:** Colaborar com influenciadores do segmento socioambiental para promover as iniciativas do Rock in Rio, aumentando a conscientização e engajamento do público.
-
-2. **Criação de Conteúdo sobre Diversidade Cultural:** Trabalhar com influenciadores de diversas áreas para criar conteúdos que reflitam a experiência do festival, enfatizando a diversidade musical e cultural.
-
-3. **Promoções e Presença Digital:** Desenvolver parcerias que permitam um melhor alcance nas redes sociais e campanhas promocionais que incentivem a participação de novos públicos.
-
-4. **Experiências Exclusivas para Influenciadores:** Criar experiências VIP para influenciadores durante o festival, onde eles possam compartilhar com seus seguidores e aumentar o alcance do evento.
-
-## Conclusão
-
-O Rock in Rio é um evento que se destaca não apenas pela música, mas pelo seu compromisso com a sustentabilidade e inclusão. A abordagem personalizada e as iniciativas sociais podem ser ainda mais exploradas através de estratégias de marketing de influência, visando alcançar e engajar um público diversificado. O festival representa uma excelente oportunidade para fortalecer a conexão entre marcas e influenciadores, promovendo um impacto positivo para todos os envolvidos.
+Este relatório deve fornecer uma base sólida para a produção de conteúdo que ressoe com os valores e os públicos do Rock in Rio, assim como os potenciais benefícios de parcerias com influenciadores e marcas.
