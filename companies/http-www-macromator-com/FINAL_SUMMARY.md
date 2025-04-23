@@ -14,7 +14,7 @@ A Macromator se apresenta como uma agência de marketing B2B, focando em um conj
 - **Marketing de Influência**: Conexões entre marcas e influenciadores.
 - **GTM Acceleration**: Aceleração de estratégias de entrada no mercado.
 - **ABM (Account-Based Marketing)**: Estratégias segmentadas para abordar contas de alto valor.
-- **Partner Marketing**: Gestão de marketing para parceiros, incluindo co-marketing e digital campaigns.
+- **Partner Marketing**: Gestão de marketing para parceiros, incluindo co-marketing e campanhas digitais.
 
 ### Necessidades Identificadas
 As empresas que procuram serviços como os oferecidos pela Macromator geralmente enfrentam os seguintes desafios:
@@ -32,8 +32,8 @@ Os clientes da Macromator podem incluir:
 ### Proposta de Valor
 A Macromator oferece:
 - **Estratégias Personalizadas de Marketing**: Desenvolvimento de campanhas personalizadas que se alinham às metas de negócios do cliente.
-- **Suporte Regioal**: Atendimento global com foco em suporte local, ajudando na adaptação de campanhas.
-- **Aceleração do Tempo de Implemantação**: Aumento na velocidade de execução das estratégias de marketing para garantir um retorno rápido sobre investimento.
+- **Suporte Regional**: Atendimento global com foco em suporte local, ajudando na adaptação de campanhas.
+- **Aceleração do Tempo de Implementação**: Aumento na velocidade de execução das estratégias de marketing para garantir um retorno rápido sobre investimento.
 
 ### Contexto da Indústria
 Com o aumento do uso de mídias sociais e a popularidade crescente de influenciadores, os desafios para as marcas de alcançar seu público-alvo de forma eficaz estão se intensificando. As empresas buscam não apenas se conectar com influenciadores, mas também estabelecer relacionamentos duradouros que possam resultar em colaborações frutíferas.
