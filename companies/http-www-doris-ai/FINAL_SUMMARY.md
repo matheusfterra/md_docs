@@ -1,53 +1,74 @@
-# Relatório de Prospecção para Doris.MOBI
+# Relatório de Prospecção - Doris.MOBI
 
-## 1. Visão Geral da Empresa
-A **Doris.MOBI** é uma empresa do segmento de **experiência-commerce**, especializada na combinação entre tecnologia e moda. Através de uma assistente virtual, eles oferecem soluções que permitem a experimentação virtual de roupas, proporcionando uma experiência de compra dinâmica e interativa tanto para e-commerce quanto para lojas físicas.
+## Informações da Empresa
+**Nome**: Doris.MOBI  
+**Website**: [www.doris.ai](http://www.doris.ai)  
+**Responsável pelos Dados**: Ricardo Ferla  
+**Localização**: Avenida Brigadeiro Faria Lima, nº 2.092, 10º andar, conjuntos E102 e E104, sala 02, Jardim Paulistano, São Paulo - SP, CEP 01451-905  
+**CNPJ**: 19.782.186/0001-06  
 
-### 1.1. Missão
-Transformar a maneira como as pessoas interagem com a moda, oferecendo uma experiência personalizada que combina o melhor do ambiente online e físico.
+## Descrição do Produto/Serviço
+A Doris é uma plataforma que integra tecnologia e moda, otimizando a experiência de compra com provadores virtuais baseados em inteligência artificial. Oferece serviços de "experience-commerce", que combinam experiências de compras online e físicas, proporcionando uma consultoria personalizada para o cliente e reduzindo a logística reversa.
 
-### 1.2. Visão
-Revolucionar o setor de moda, promovendo a sustentabilidade e a democratização do acesso à moda através da tecnologia.
+### Principais Funcionalidades:
+- **Provadores Virtuais**: Permite aos clientes experimentar roupas virtualmente, além de combinar peças e sugerir tamanhos adequados.
+- **Engajamento Interativo**: Proporciona uma experiência de compra dinâmica e autêntica, aumentando o interesse e o fluxo de clientes nas lojas.
+- **Sustentabilidade**: Diminui a taxa de devoluções, reduzindo custos e pegada de carbono, promovendo uma moda mais consciente.
 
-### 1.3. Valores
-- Inovação
-- Sostenibilidade
-- Experiência do cliente
-- Acesso à moda
+### Resultados Atingidos por Clientes:
+- 3x aumento na taxa de conversão em vendas online.
+- 54% de redução na logística reversa.
+- 30% mais clientes nas lojas físicas.
+- 3x mais engajamento com a coleção.
 
-## 2. Produtos e Serviços
-- **Provadores Virtuais**: Tecnologia avançada que permite que os clientes experimentem roupas virtualmente em seus propios corpos, tanto online quanto em ambientes físicos.
-- **Mix and Match**: Funcionalidade que permite aos usuários criar combinções visuais de look, integrando diferentes peças de vestuário.
-- **Recomendação de Tamanhos**: Utiliza inteligência artificial para sugerir tamanhos adequados, baseando-se nas especificidades do corpo do usuário.
+## Mercado e Concorrência
+O setor de moda está se reinventando com a ascensão do "experience-commerce", que combina a experiência tradicional de compra com a inovação tecnológica. A Doris se destaca pela sua abordagem focada na inteligência artificial, oferecendo um diferencial competitivo em um mercado saturado de e-commerces tradicionais.
 
-### 2.1. Benefícios
-- Aumento da taxa de conversão de vendas: 3x de aumento nas vendas online.
-- Redução da logística reversa: 54% menos devoluções.
-- Aumento da conversão de clientes em lojas físicas: até 30% mais.
+### Concorrentes Diretos:
+- Outras plataformas de provadores virtuais.
+- E-commerces que trabalham com experiência do cliente, mas não necessariamente com tecnologia de IA para personalização.
 
-## 3. Público-Alvo
-Empresas de moda que buscam inovar e otimizar a experiência de compra dos seus consumidores, especialmente aquelas que valorizam tecnologia, interatividade e sustentabilidade.
+### Oportunidades de Mercado:
+- Crescimento no segmento de moda sustentável.
+- Demanda crescente por experiências de compra personalizadas.
 
-## 4. Dores Potenciais
-- **Alta taxa de devolução**: As empresas do setor enfrentam um alto índice de devoluções devido a problemas com tamanho e estilo, o que gera custos adicionais.
-- **Experiência de compra pouco engajante**: Muitas marcas ainda operam com modelos de compra que não capturam a atenção do consumidor.
-- **Sustentabilidade**: A crescente demanda por soluções que minimizem o impacto ambiental e promovam práticas sustentáveis.
+## Necessidades e Dores Potenciais
+1. **Redução de Devoluções**: Marcas que enfrentam altos índices de retorno de produtos podem se beneficiar da solução da Doris.
+2. **Experiência do Cliente**: Marcas que buscam melhorar a interatividade com seus consumidores e engajar melhor a clientela nas compras online e físicas.
+3. **Sustentabilidade**: Empresas que priorizam práticas sustentáveis e desejam adotar soluções que minimizem impactos ambientais.
 
-## 5. Concorrência
-Identificar concorrentes diretos e indiretos que atuam no mesmo espaço de **provadores virtuais** e **experiência-commerce** é crucial para entender melhor o mercado em que a Doris.MOBI atua.
+## Público-Alvo
+- **Setor de Moda**: Lojas de roupas, grifes e e-commerce focados em oferecer uma experiência de compra inovadora.
+- **Empresas em Busca de Sustentabilidade**: Marcas dispostas a utilizar tecnologia para otimizar e reduzir sua pegada de carbono.
 
-## 6. Contexto de Mercado
-O mercado de moda está se transformando rapidamente, com um aumento no foco em soluções digitais que melhoram a experiência do cliente. Tendências em sustentabilidade e o uso de tecnologia estão em alta, e empresas como a Doris.MOBI na linha de frente dessa mudança.
+## Conexão com Influenciadores
+A Doris pode estabelecer parcerias com influenciadores de moda e lifestyle para potencializar seu alcance e credibilidade. Campanhas que demonstrem a experiência do provador virtual e as vantagens de utilizar a tecnologia de Doris podem ajudar a aumentar sua visibilidade.
 
-## 7. Informações Adicionais
-- A Doris.MOBI oferece insights baseados em dados, ajudando as marcas a otimizar sua produção e gerenciar estoques de forma eficiente.
-- A empresa é responsável pela proteção dos dados pessoais utilizados em suas plataformas, de acordo com a legislação brasileira.
+## Histórico e Mídia
+A Doris é uma empresa em crescimento que tem atraído a atenção não apenas pela tecnologia que oferece, mas também por seus valores voltados à sustentabilidade e à experiência do cliente. A divulgação em mídias sociais e em plataformas de moda pode ser um caminho para fortalecer a imagem de marca e a adoção do serviço.
 
-### 7.1. Contato
-Ricardo Ferla - Responsável por dados
-[www.doris.ai/m/contato](http://www.doris.ai/m/contato/) 
+## Mensagem Personalizada para Prospecção
+**Assunto**: Potencializando suas Vendas com nosso Provador Virtual
 
-## 8. Conclusão
-A Doris.MOBI se posiciona como uma solução inovadora eficaz para o setor de moda, atenuando dores comuns e criando experiências únicas para os consumidores. Um contato com a empresa deve enfatizar como nossa solução de marketing de influência pode potencialmente escalar o reconhecimento da marca, melhorando a conexão entre a Doris e influenciadores chave do setor.
+**Corpo**:
+"Olá [Nome do Contato],
 
-Este relatório deve servir como guia para a equipe de copywriting ao elaborar e-mails direcionados a esse potencial cliente. A personalização é chave para capturar sua atenção e apresentar soluções relevantes baseadas na proposta de valor da Doris.MOBI.
+Na era do experience-commerce, a Doris surge como uma solução inovadora que combina tecnologia de ponta e moda.
+
+Sabemos que muitas marcas enfrentam o desafio de engajar clientes nas lojas físicas e online, ao mesmo tempo em que buscam reduzir as taxas de devolução. Nossa plataforma de provadores virtuais ajuda a mitigar exatamente esses problemas. Ao permitir que os usuários experimentem roupas em seus próprios corpos, suas vendas online podem triplicar, enquanto a redução nas devoluções pode alcançar até 54%.
+
+Estamos comprometidos em não apenas impulsionar suas vendas, mas também em contribuir para um futuro mais sustentável na moda.
+
+Gostaríamos de agendar uma conversa para entender melhor suas necessidades e demonstrar como a Doris pode transformar seu negócio.
+
+Aguardamos ansiosos!
+
+Atenciosamente,  
+[Seu Nome]  
+[Seu Cargo]  
+[Seu Contato]"
+
+---
+
+## Conclusão
+O relatório acima fornece uma visão abrangente sobre a Doris.MOBI, suas ofertas e oportunidades no mercado. Estas informações são cruciais para personalizar a comunicação e abordar de maneira eficaz as necessidades da empresa prospectada. O foco deve ser sempre na conexão entre as soluções oferecidas pela Doris e as dores e necessidades específicas do prospecto.
