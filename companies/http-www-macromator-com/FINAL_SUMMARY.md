@@ -1,7 +1,7 @@
 # Relatório de Prospecção para SDR - Segmento de Marketing de Influência
 
 ## Introdução
-Este relatório busca fornecer informações detalhadas sobre a Macromator, a ser prospectada para serviços de Marketing de Influência. As informações auxiliares permitirão à equipe de copywriting elaborar uma comunicação personalizada e contextualizada, aumentando as chances de interação positiva com a empresa.
+Este relatório busca fornecer informações detalhadas sobre a **Macromator**, a ser prospectada para serviços de Marketing de Influência. As informações auxiliares permitirão à equipe de copywriting elaborar uma comunicação personalizada e contextualizada, aumentando as chances de interação positiva com a empresa.
 
 ### Informações Gerais da Empresa Prospectada
 - **Nome da Empresa**: Macromator
