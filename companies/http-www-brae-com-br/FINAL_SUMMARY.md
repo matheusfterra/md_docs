@@ -3,18 +3,23 @@
 ## 1. Informações da Empresa
 ### 1.1. Nome da Empresa
 - **XYZ Fashion**
+
 ### 1.2. Segmento de Atuação
 - Moda e Acessórios
+
 ### 1.3. Localização
 - Rua das Flores, 123 - Centro, São Paulo, SP
+
 ### 1.4. Site Institucional
 - [www.xyzfashion.com.br](http://www.xyzfashion.com.br)
+
 ### 1.5. Redes Sociais
 - **Instagram**: [instagram.com/xyzfashion](https://instagram.com/xyzfashion)
 - **Facebook**: [facebook.com/xyzfashion](https://facebook.com/xyzfashion)
 - **Twitter**: [twitter.com/xyzfashion](https://twitter.com/xyzfashion)
 - **LinkedIn**: [linkedin.com/company/xyzfashion](https://linkedin.com/company/xyzfashion)
 - **TikTok**: [tiktok.com/@xyzfashion](https://tiktok.com/@xyzfashion)
+
 ### 1.6. Contatos Principais
 - **Nome do responsável pelo marketing/influência**: Ana Silva
 - **Cargo**: Gerente de Marketing
