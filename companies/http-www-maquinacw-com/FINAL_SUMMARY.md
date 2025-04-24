@@ -10,24 +10,24 @@
   - **Rio de Janeiro:** Almirante Barroso, 81, 33º andar, Centro, Rio de Janeiro-RJ | 20031-004
   - **Brasília:** Parque Cidade Corporate, 2042 – SCS Quadra 9, Torre C – 10º andar - Sala 1001 | 70308-200  
 - **Número de Funcionários:** +200  
-- **Número de Clientes:** +110  
+- **Número de Clientes:** +110
 
 ## Visão Geral da Empresa
-A Máquina CW é uma agência de comunicação full service que integra diversas estratégias de comunicação, como relações públicas, gerenciamento de crises, comunicação digital e produção de conteúdo. Focada em resultados, a empresa busca desenvolver estratégias customizadas e inovadoras que gerem narrativas impactantes. 
+A Máquina CW é uma agência de comunicação full service que integra diversas estratégias de comunicação, abrangendo relações públicas, gerenciamento de crises, comunicação digital e produção de conteúdo. A empresa busca desenvolver estratégias personalizadas e inovadoras que gerem narrativas impactantes focadas em resultados.
 
 ### Missão e Valores
 - **Missão:** Auxiliar empresas na consecução de seus objetivos de negócios através de comunicação estratégica e construção de reputações.
 - **Valores:** Inovação, personalização das soluções, foco em resultados, autenticidade e utilização de tecnologia na comunicação.
 
 ## Serviços Oferecidos
-1. **Imprensa e Influenciadores:** Mobilização de líderes de opinião e estratégias de comunicação.
-2. **Digital:** Gestão integrada da presença digital em diversos canais.
-3. **Comunicação Interna:** Criação de plataformas para engajamento dos colaboradores.
+1. **Imprensa e Influenciadores:** Mobilização de formadores de opinião e execução de planos estratégicos de comunicação.
+2. **Digital:** Gestão integrada da presença digital em diversos canais digitais.
+3. **Comunicação Interna:** Criação de plataformas para engajamento e comunicação interna.
 4. **BI / Analytics:** Coleta e análise de dados para medir a eficácia da comunicação.
-5. **Treinamentos em Comunicação:** Treinamento de porta-vozes e colaboradores para uma comunicação eficaz.
-6. **Gerenciamento de Crise:** Respostas estratégicas em tempo real para crises.
-7. **Trend Reports:** Pesquisas de mercado para fornecer insights.
-8. **Produção de Conteúdo:** Criação de conteúdo personalizado e gestão de branded content.
+5. **Treinamentos em Comunicação:** Capacitação de porta-vozes e colaboradores para um diálogo mais eficaz.
+6. **Gerenciamento de Crise:** Respostas rápidas e estratégicas em contextos de crise.
+7. **Trend Reports:** Pesquisas de mercado oferecendo insights relevantes.
+8. **Produção de Conteúdo:** Criação de conteúdos personalizados e gestão de branded content.
 
 ## Casos de Sucesso
 - **BASF:** Campanha focada em sustentabilidade.
@@ -52,7 +52,7 @@ A Máquina CW atua em diversos setores, incluindo:
 1. **Construção de Reputação:** Desafios em manter a imagem da marca em um ambiente competitivo.
 2. **Gestão de Crises:** Necessidade de respostas rápidas para crises nas redes sociais.
 3. **Adaptação Digital:** Dificuldades na transição para estratégias digitais eficazes.
-4. **Engajamento de Colaboradores:** Manter colaboradores informados e engajados de forma eficaz.
+4. **Engajamento de Colaboradores:** Necessidade de manter colaboradores informados e engajados.
 
 ### Contexto Atual
 A comunicação eficaz é essencial, especialmente em um cenário onde as preferências dos consumidores mudam rapidamente. As marcas que utilizam estratégias de comunicação integradas e que se adaptam às novas necessidades têm mais chances de sucesso.
