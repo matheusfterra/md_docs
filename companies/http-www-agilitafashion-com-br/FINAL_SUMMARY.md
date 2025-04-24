@@ -1,63 +1,62 @@
-# Relatório de Prospecção - Empresa: Agilità
+# Relatório de Prospecção - Agilitá Fashion
 
-## 1. Informações da Empresa
-- **Nome da Empresa**: Agilità Fashion
+## 1. Informações Gerais da Empresa
+- **Nome da Empresa**: Agilitá Fashion
 - **Website**: [www.agilitafashion.com.br](http://www.agilitafashion.com.br)
-- **Segmento**: Moda feminina, com foco em vestuário elegante e atemporal.
-- **Localização**: Brasil
+- **Segmento**: Moda Feminina
+- **Tipo de Negócio**: E-commerce
+- **Benefícios Oferecidos**:
+  - Descontos em primeira compra com cupom (WELCOMEAG) e promoções sazonais.
+  - Variedade de categorias de roupas, como vestidos, macacões, calças, blusas, saias e acessórios.
+  - Qualidade premium com uso de tecidos nobres e modelagens exclusivas.
 
 ## 2. Produtos e Categorias
-A Agilità oferece uma ampla gama de roupas femininas que se destacam pela sofisticação e qualidade dos tecidos. As principais categorias de produtos incluem:
+### Principais Categorias:
+- **Vestidos**: Longos, midi e curtos, variando em tecidos e estilos, perfeitos para diversas ocasiões (casuais, festas, formalidades).
+- **Macacões**: Opções elegantes e práticas, ideais para looks completos e confortáveis.
+- **Calças**: Modelagens como alfaiataria, jeans e peças com estrutura de alta qualidade.
+- **Blusas e Camisas**: Variedade em estilos e tecidos, focando na sofisticação e conforto.
+- **Saias**: Para diferentes estilos, desde modelos mais sofisticados a versões casuais.
+- **Acessórios**: Completam os looks, agregando valor às produções.
 
-- **Vestidos**: 
-  - Longos, midi e curtos, com materiais fluidos e designs elegantes.
-  - Focados em diversas ocasiões, incluindo eventos formais e casuais.
+### Destaques de Produtos:
+- **Qualidade dos Materiais**: Uso de tecidos como crepe, linho, e algodão, que ofereçam conforto e durabilidade.
+- **Design e Estilo**: Modelos únicos com detalhes sofisticados, atraindo a clientela que busca exclusividade e modernidade.
 
-- **Macacões**:
-  - Modelos que variam entre o casual e o social, enfatizando a praticidade e a elegância.
+## 3. Público-Alvo
+- **Demográfica**: Mulheres entre 25 e 45 anos, urbanas, que buscam elegância e sofisticação em suas roupas.
+- **Psicográfica**: Consumidoras que valorizam a moda, buscam qualidade em suas peças e são influenciadas por tendências contemporâneas.
+- **Comportamento**: Compradoras frequentes de moda online, dispostas a investir em peças de roupas que ofereçam versatilidade e qualidade.
 
-- **Calças**:
-  - Modelos de alfaiataria, jeans e outros materiais sofisticados.
-  - Modelagens que valorizam a silhueta feminina.
+## 4. Análise do Mercado
+### Tendências:
+- Crescimento no consumo de moda sustentável e ética.
+- Aumento da busca por personalização e experiências de compra exclusivas, o que pode ser explorado pela Agilitá.
 
-- **Blusas** e **Tops**:
-  - Variedade de estilos, desde casuais a mais sofisticados, com tecidos macios e leves.
+### Concorrência:
+- Marcas que atuam em segmentos semelhantes, destacando-se pela qualidade e pelo atendimento ao cliente. Concorrentes diretos incluem marcas de moda contemporânea e boutiques online.
 
-- **Casacos e Jaquetas**:
-  - Peças para o uso diário e ocasiões especiais, focando no conforto e na elegância.
+## 5. Dores e Necessidades
+### Dores:
+- **Falta de Visibilidade**: Muitas marcas surgem no mercado, dificultando a diferenciação e a atração de clientes.
+- **Altos Níveis de Retorno**: E-commerce frequentemente enfrenta desafios com devoluções, impactando a lucratividade.
+- **Manutenção de Estoque**: Desafios em gerenciar a demanda sazonal e o lançamento de novos produtos.
 
-- **Acessórios**:
-  - Complementos que adicionam um toque especial aos looks.
+### Necessidades:
+- Aumento da presença online através de estratégias de marketing de influência.
+- Melhora na comunicação visual e no engajamento nas redes sociais para atrair e manter clientes fiéis.
 
-## 3. Promoções e Ofertas
-- **Descontos sazonais**: Promoções como a "Summer Sale" com até 50% de desconto em algumas coleções.
-- **Cupom de Boas-Vindas**: 10% de desconto na primeira compra utilizando o cupom "WELCOMEAG".
+## 6. Oportunidades de Parceria
+- **Marketing de Influência**: Criar estratégias que conectem a marca com influenciadores relevantes que ressoem com o público-alvo.
+- **Campanhas de Desconto e Promoções**: Trabalhar com influenciadores para divulgar promoções e eventos de vendas, como a "Summer Sale".
 
-## 4. Público-Alvo
-- **Demografia**: Mulheres de 25 a 50 anos, que buscam elegância e sofisticação em suas vestimentas.
-- **Psicografia**: Consumidoras que valorizam qualidade, exclusividade e tendências da moda. Estas mulheres têm interesse em se sentir confiantes e estilosas em diversas ocasiões.
+## 7. Sugestões para a Equipe de Copywriting
+- Orientar a comunicação para criticar o valor agregado pelas peças da Agilitá, enfatizando a exclusividade e a qualidade dos materiais.
+- Criar conteúdo que narre a história da marca e seu compromisso com a elegância e a sofisticação, fazendo conexões emocionais com o público.
+- Realçar as ocorrências de promoções exclusivas e a vibe de seleção de produtos com um tom convidativo e de urgência.
 
-## 5. Dores e Desafios
-- **Sazonalidade**: A Agilità precisa constantemente inovar e manter seu portfólio atualizado frente às tendências para atrair e reter clientes.
-- **Concorrência**: Estar em um mercado saturado com diversas marcas oferecendo propostas similares. Precisa se destacar pela qualidade e originalidade.
-- **Experiência do Cliente**: Fornecer uma experiência de compras online que seja intuitiva e gratificante, desde a navegação até o pós-venda.
+## Conclusão
+A prospecção com a Agilitá Fashion oferece a oportunidade de criar uma parceria com uma marca que já possui uma forte presença no mercado de moda feminina. Através de uma estratégia de marketing de influência bem estruturada, é possível alavancar a visibilidade da marca, atender às necessidades do consumidor e reduzir as dores comerciais ao mesmo tempo.
 
-## 6. Oportunidades de Marketing de Influência
-- **Colaborações com Influenciadoras**: Criar parcerias com influenciadoras do setor de moda que compartilhem dos mesmos valores da marca e tenham um forte impacto sobre o público-alvo para ampliar o alcance e atrair novos clientes.
-- **Campanhas de Conteúdo**: Utilização de micro-influenciadoras que possam gerar um conteúdo autêntico e real sobre os produtos da Agilità, reforçando a conexão com a marca.
-- **Eventos e Lançamentos**: Promoções de coleções via eventos online ou presencial, com a participação de influenciadores, aumentando assim a visibilidade da marca.
-
-## 7. Contexto Atual
-A Agilità está posicionada para tirar proveito das tendências de moda e comportamento de consumo da atualidade, que valorizam praticidade, estilo e a busca por peças que se destacam pela qualidade e design. A atenção à experiência do cliente e à inovação constante são cruciais para se manter relevante no mercado.
-
-## 8. Análise de Redes Sociais
-- **Instagram**: Presença que buscam engajamento com usuários através de posts visualmente impactantes e promoções.
-- **Facebook**: Atração de público mais amplo, mas com engajamento menor em comparação ao Instagram.
-- **Pinterest**: Potencial para inspirar consumidores através de ideias de combinações de looks.
-
-## 9. Recomendações de Ação
-- **Criação de estratégicas de conteúdo em colaboração com influenciadores** para lançar novas coleções e promoções.
-- **Iniciar uma campanha de marketing digital**, utilizando redes sociais para reforçar a identidade da marca e aumentar a base de clientes.
-- **Analisar feedbacks dos clientes** para aprimorar constantemente a experiência de compra e o portfólio de produtos.
-
-Esse relatório fornecerá ao copywriter da equipe todos os dados necessários para criar um email altamente personalizado e que fala diretamente às necessidades e desejos da Agilità, ajudando a firmar uma parceria eficaz e vantajosa no segmento de marketing de influência.
+--- 
+Esse relatório fornece uma base sólida para o desenvolvimento de campanhas de marketing direcionadas, alinhadas às tendências e necessidades do consumidor.
