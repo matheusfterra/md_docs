@@ -26,7 +26,7 @@
 - **Análise de design e experiência do usuário**:
   - O site apresenta um design moderno e atrativo, mas a navegação poderia ser mais intuitiva. O tempo de carregamento é razoável, mas a lentidão pode afetar a experiência de compra.
 - **Principais produtos/serviços destacados**:
-  - As seções mais visíveis são de roupas femininas e acessórios da moda, transmitindo um senso de exclusividade e tendências.
+  - As seções mais visíveis são de roupas femininas e acessórios da moda, transmitindo um sentido de exclusividade e tendências.
 - **Chamadas para ação (CTAs)**:
   - Utilizam CTAs como "Compre Agora" e "Descubra a Nova Coleção", mas carecem de incentivos como "Frete Grátis" ou "Desconto na Primeira Compra".
 
