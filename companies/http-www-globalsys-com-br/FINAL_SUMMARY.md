@@ -1,89 +1,94 @@
-# Relatório de Prospecção Outbound - Globalsys
+# Relatório de Prospecção - GlobalSys
 
-## Informações Gerais da Empresa
+---
 
-**Nome da Empresa:** Globalsys  
-**Segmento:** Tecnologia da Informação, Fábrica de Software e Transformação Digital  
-**Website:** [globalsys.com.br](http://www.globalsys.com.br)
+## 1. Informações Gerais da Empresa
 
-### Visão e Valores
+**Nome da Empresa:** GlobalSys  
+**Website:** [globalsys.com.br](http://www.globalsys.com.br)  
+**Segmento:** Tecnologia da Informação  
+**Anos de atuação:** 15 anos  
+**Localização:** Matriz em Vila Velha/ES e filial em Belo Horizonte/MG  
+**Número de Clientes:** +160 empresas atendidas em diversos setores  
+**Regiões Atendidas:** +13 estados brasileiros  
+**Certificações:** NBR ISO 9001:2015  
+**Reconhecimentos:** Vencedora do Prêmio Líder Empresarial 2023  
 
-A Globalsys se apresenta como uma facilitadora de transformação digital, conectando empresas a soluções tecnológicas de ponta. Com mais de 15 anos de atuação, a empresa oferece expertise em automação, desenvolvimento de software e consultoria em tecnologia.
+---
 
-## Características da Empresa
+## 2. Produtos e Soluções Oferecidos
 
-### Serviços Oferecidos
+GlobalSys oferece diversas soluções que podem ser alinhadas com campanhas de marketing de influência:
 
-1. **Fábrica de Software**
-   - Desenvolvimento de soluções personalizadas (apps, sistemas) para atender demandas específicas.
-   - Projetos entregues em média em 4 meses.
+### 2.1 Fábrica de Softwares
+- **Descrição:** Desenvolvimento de sistemas personalizados e aplicativos.
+- **Destaques:** 62 projetos entregues no último ano e tempo médio de entrega de 4 meses.
+  
+### 2.2 Robotic Process Automation (RPA)
+- **Descrição:** Automação de processos repetitivos para aumentar a eficiência.
+- **Impacto:** Redução de 80% no tempo gasto em tarefas manuais.
 
-2. **DevOps / CloudOps**
-   - Integração entre desenvolvimento e operações para entregas ágeis.
-   - Monitoramento contínuo da infraestrutura.
+### 2.3 Banco de Dados
+- **Descrição:** Gerenciamento de dados com segurança e desempenho.
+- **Números:** 8 mil bases monitoradas e 20 petabytes de dados.
 
-3. **RPA (Robotic Process Automation)**
-   - Automação de processos manuais que melhora a eficiência e reduz custos.
-   - Entrega de bots personalizados e integração suave.
+### 2.4 Consultoria & Desenvolvimento
+- **Descrição:** Transformação digital com soluções de analytics e inteligência artificial.
+- **Resultados:** +50% de redução no tempo de operação e +35% de aumento na produtividade.
 
-4. **Analytics e Inteligência de Dados**
-   - Soluções que estruturam e analisam dados para decisões estratégicas.
-   - Ferramentas de Business Intelligence e Engenharia de Dados.
+### 2.5 Suporte Dedicado
+- **Descrição:** Suporte técnico para garantir operação estável.
+- **Eficiência:** 98% de resolução de chamados no primeiro atendimento.
+  
+### 2.6 Soluções Web
+- **Descrição:** Desenvolvimento de e-commerces, sites e aplicativos web.
+- **Entregas:** Mais de 500 projetos web entregues com sucesso.
 
-5. **Transformação Digital**
-   - Soluções que integram sistemas e automatizam processos para aumentar a produtividade.
+---
 
-6. **Soluções Web**
-   - Desenvolvimento de sites, portais e aplicativos, que incluem SEO, responsividade e alto desempenho.
+## 3. Análise do Mercado
 
-### Clientes e Casos de Sucesso
+O setor de tecnologia e automação está em rápido crescimento, com uma crescente demanda por soluções que integrem processos e agilizem operações. A transformação digital, especialmente após a pandemia, se tornou uma prioridade para muitas empresas, oferecendo uma oportunidade significativa para campanhas de marketing de influência que abordem essa necessidade.
 
-A Globalsys atende mais de 160 empresas em diversos setores, com clientes notáveis como:
-- Petz
-- Will Bank
-- Kora Saúde
-- Wine
-- Vix
-- Grupo Águia Branca
+### 3.1 Potenciais Dores e Desafios
+- Dificuldades na automação de processos repetitivos.
+- Necessidade de integração de sistemas e dados.
+- Queda de produtividade devido a processos manuais.
+- Desafios na capacidade de resposta ao cliente devido a sistemas ineficientes.
 
-[**Consulte os casos de sucesso aqui**](https://www.globalsys.com.br/cases)
+### 3.2 Oportunidades para Influência
+As soluções da GlobalSys são altamente relevantes para influenciadores nas áreas de tecnologia e inovação. Uma campanha bem direcionada pode mostrar como as empresas podem se modernizar e escalar suas operações por meio de automação e inteligência de dados.
 
-## Dores do Segmento
+---
 
-As empresas que a Globalsys atende geralmente enfrentam os seguintes desafios:
+## 4. Cases de Sucesso
 
-1. **Alto Custo Operacional**: Muitas organizações buscam reduzir despesas com infraestrutura e suporte.
-2. **Falta de Integração**: Problemas na comunicação entre sistemas e departamentos levam à ineficiência.
-3. **Tomadas de Decisão Lentas**: A necessidade de dados em tempo real e análises preditivas é crescente.
-4. **Demandas por Agilidade**: Existe uma pressão por entregas rápidas e eficientes, especialmente em tecnologia.
-5. **Necessidade de Inovação**: As empresas precisam se atualizar diante de um mercado em constante mudança e digitalização.
+GlobalSys tem uma série de cases de sucesso que podem ser utilizados como prova social em uma campanha de marketing de influência:
 
-## Proposta de Valor
+- **ABCZ:** A associação modernizou sua gestão com mais de 22 mil associados.
+- **Wine:** Revolucionou a comercialização de vinhos no Brasil com inovação de serviços.
+- **Cantu:** Facilita a comercialização de vinhos selecionados, otimizando processos com tecnologia.
 
-A Globalsys se posiciona como um parceiro estratégico que transforma tecnologias em soluções que impulsionam o crescimento e a eficiência operacional. 
+---
 
-### Destaques
-- Histórias de sucesso que demonstram transformações significativas em empresas parceiras.
-- Adoção de metodologias ágeis e tecnologias modernas, garantindo fluidez e adaptação às necessidades de cada cliente.
-- Oferecimento de suporte contínuo e consultoria especializada que adapta soluções tecnológicas às evoluções do mercado.
+## 5. Proposta de Ação
 
-## Argumentos para o Copywriter
+Para ajudar a GlobalSys a conectar-se com influenciadores corretos, recomenda-se:
 
-**Potencialize seu negócio com a Globalsys!**  
-Transforme suas operações com soluções tecnológicas que garantem:
-- Redução de 50% no tempo de operação.
-- Aumento de 35% na produtividade.
-- Acesso a tecnologia de ponta com integração total entre sistemas.
-- Functionalidades personalizadas que atendem às suas necessidades específicas através de RPA e Analytics.
+1. **Identificação de Influenciadores:** Mapeamento de influenciadores do setor tecnológico e de inovação que compartilham os mesmos valores e compreendem a transformação digital.
+  
+2. **Campanha de Marketing de Influência:** Desenvolver uma narrativa que se concentre na automação e na eficiência, destacando os desafios que as empresas enfrentam e como as soluções da GlobalSys podem ajudar.
 
-**Fechamento do Email**:  
-Oferecemos uma conversa inicial sem compromisso para entender suas necessidades. Vamos transformar seus desafios em oportunidades? Contate-nos e descubra como podemos ajudar!
+3. **Conteúdo Certo:** Criar conteúdo de alta qualidade que ressoe com os seguidores dos influenciadores, educando sobre o impacto de soluções digitais na recuperação e crescimento de negócios.
 
-### Links Úteis
-- [Fale Conosco](https://www.globalsys.com.br/contato)
-- [Cases de Sucesso](https://www.globalsys.com.br/cases)
-- [Blog Globalsys](https://www.globalsys.com.br/blog)
+4. **Monitoramento de Resultados:** Estabelecer KPIs para avaliar a eficácia da campanha em tempo real para ajustes necessários.
 
-## Considerações Finais
+---
 
-Com este relatório, o copywriter terá uma visão clara sobre a Globalsys, seus serviços, as dores do mercado e a proposta de valor, permitindo criar comunicações personalizadas e eficazes para atrair potenciais clientes no segmento de Marketing de Influência.
+## 6. Considerações Finais
+
+A GlobalSys, com sua vasta experiência e soluções robustas, busca se destinar a empresas que estão prontas para investir em transformação digital. Uma campanha de marketing de influência pode não apenas aumentar a visibilidade da marca, mas também conectar-se diretamente com empresas que se encontram no caminho da transformação.
+
+--- 
+
+Esse relatório fornecerá ao copywriter dados essenciais e insights sobre como conduzir uma campanha personalizada que incentive a GlobalSys a explorar parcerias com influenciadores significativos e relevantes no cenário atual.
