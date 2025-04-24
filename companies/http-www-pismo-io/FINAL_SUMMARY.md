@@ -1,92 +1,59 @@
-# Relatório de Prospecção da Empresa “Pismo”
+# Relatório de Prospecção - Pismo
 
-## 1. Introdução
-A Pismo é uma plataforma de tecnologia financeira e serviços de nuvem que conecta instituições financeiras com soluções inovadoras para emissão de cartões, banking digital, carteiras digitais e gestão de vendedores. O foco da empresa é proporcionar agilidade e escalabilidade aos seus clientes, que incluem bancos de nível um e varejistas globais. Este relatório tem o intuito de fornecer informações detalhadas sobre a empresa para auxiliar na prospecção e elaboração de uma comunicação direcionada.
-
----
-
-## 2. Informações Gerais da Empresa
+## Resumo da Empresa
 **Nome da Empresa:** Pismo  
-**Website:** [www.pismo.io](https://www.pismo.io)
+**Website:** [pismo.io](https://www.pismo.io)  
+**Setor:** Tecnologia financeira (Fintech)  
+**Localização:** Presença global, com escritórios em Brasil, UK, EUA, Cingapura e Índia.  
+**Descrição:** Pismo é uma plataforma de tecnologia financeira em nuvem que oferece soluções de alta performance voltadas para emissão de cartões, banking digital, wallets digitais e gestão de vendedores. Focada na inovação e agilidade, a Pismo se destaca pela sua capacidade de oferecer APIs flexíveis para os bancos e instituições financeiras, permitindo-lhes desenvolver novos produtos com rapidez e eficiência.
 
-### 2.1. Localização
-- **Brasil:** Av. Brg. Faria Lima, 4221 São Paulo, SP
-- **Reino Unido:** One Temple Quay, Temple Back E, Bristol
-- **Estados Unidos:** 12401 Research Blvd, Building II, Austin, Texas
-- **Singapura:** Level 8, 71 Robinson Road, Singapore
-- **Índia:** Regus The Estate, 8th Floor, Dickenson Road, Bangalore
+## Produtos e Soluções
 
-### 2.2. Segmento de Atuação
-A Pismo opera principalmente em:
-- **Tecnologia Financeira (Fintech)**
-- **Serviços Bancários Digitais**
-- **Emissão de Cartões**
-- **Card Issuing**
-- **Digital Wallets**
+### 1. Emissão de Cartões
+- **Descrição:** Plataforma completa para emissão de cartões (crédito, débito e pré-pagos). Suporta cartões de plástico, virtuais e one-time.
+- **Benefícios:** Flexibilidade, escalabilidade, controle em tempo real e baixo custo operacional.
+- **Link para mais informações:** [Emissão de Cartões](http://www.pismo.io/card-issuing/)
 
----
+### 2. Banking Digital
+- **Descrição:** Plataforma voltada para criar experiências digitais superiores em bancos novos ou que desejam modernizar de sistemas legados.
+- **Benefícios:** Inovação sem limitações, suporte a múltiplos produtos bancários.
+- **Link para mais informações:** [Core Banking](http://www.pismo.io/core-banking/)
 
-## 3. Soluções Oferecidas
-A empresa disponibiliza uma plataforma compreensiva que inclui:
+### 3. Wallets Digitais
+- **Descrição:** Criação de wallets digitais próprias que competem com as grandes no mercado.
+- **Benefícios:** Redução de atritos nas transações e aumentos de segurança através da tokenização.
+- **Link para mais informações:** [Wallets Digitais](http://www.pismo.io/digital-wallets/)
 
-### 3.1. Emissão de Cartões
-- Plataforma totalmente nativa da nuvem para emissão de cartões de crédito, débito e pré-pagos.
-- Suporte para cartões plásticos e virtuais, permitindo uma maneira flexível de pagamentos.
+### 4. Empréstimos Digitais
+- **Descrição:** Plataforma que facilita a oferta e gestão de produtos de empréstimos flexíveis e escaláveis.
+- **Benefícios:** Experiência do usuário elevada, flexibilização de produtos e gerenciamento de ciclo de vida completo.
+- **Link para mais informações:** [Empréstimos Digitais](http://www.pismo.io/lending/)
 
-### 3.2. Banking Core
-- Gestão de contas para bancos e serviços corporativos.
-- Possibilidade de inovação em produtos bancários e redução de custos operacionais.
+### 5. Management de Vendedores
+- **Descrição:** Solução para gerenciar transações de vendedores, processamentos rápidos, reconciliações e geração de relatórios financeiros.
+- **Benefícios:** Agilidade no processamento, facilidade na gestão financeira.
+- **Link para mais informações:** [Gestão de Vendedores](http://www.pismo.io/merchants-and-marketplaces/)
 
-### 3.3. Carteiras Digitais
-- Desenvolvimento de carteiras digitais proprietárias para concorrer com as principais do mercado.
-- Integrações com Apple Pay e Google Pay, além de suporte a tokenização.
+## Dores e Desafios Identificados
+- **Transformação Digital:** Muitas instituições financeiras enfrentam dificuldades em modernizar seus sistemas legados sem afetar a rotina do negócio.
+- **Escalabilidade:** A necessidade de suportar um volume crescente de transações sem perda de desempenho é crítica.
+- **Experiência do Cliente:** Em um ambiente competitivo, oferecer uma experiência de usuário superior é essencial para retenção e atração de clientes.
+- **Custos Operacionais:** Reduzir custos operacionais é um foco constante, especialmente em um setor com margens muitas vezes apertadas.
 
-### 3.4. Produtos de Empréstimo
-- Desenvolvimento de produtos de empréstimo personalizáveis e escaláveis.
+## Concorrência
+- **Concorrentes Diretos:** Fintechs que oferecem serviços semelhantes em banking digital, emissão de cartões e soluções de pagamento.
+- **Proposta de Valor Única:** Pismo se destaca pela flexibilidade de sua plataforma API e experiência em migrações de sistemas legados, permitindo que novas instituições possam focar em inovação enquanto a Pismo gerencia a tecnologia subjacente.
 
-### 3.5. Gestão de Vendedores
-- Facilita o processamento de transações, conciliação e relatórios eficientes.
+## Contexto de Mercado
+O setor de fintech está em rápida expansão, com um aumento significativo na concorrência de novos entrantes. A pressão para inovar rapidamente e atender a crescente demanda por serviços financeiros digitais só aumenta. A pandemia acelerou a digitalização, e as instituições financeiras precisam se adaptar a essa nova realidade.
 
----
+## Perfil do Cliente Ideal
+- **Setor:** Bancos, instituições financeiras, e empresas que buscam modernizar seus serviços financeiros.
+- **Tamanho:** Desde startups até grandes instituições financeiras tradicionais.
+- **Região:** Presença global, com foco especial em mercados da América Latina.
 
-## 4. Características e Vantagens da Plataforma
-- **Nuvem Nativa:** Garantia de segurança e agilidade nos serviços.
-- **Escalabilidade:** Capacidade de suportar crescimentos significativos com facilidade.
-- **API Extensiva:** Facilita integrações com centenas de outros serviços, promovendo agilidade nas operações.
-- **Custo Reduzido:** O modelo de preços permite pagamento apenas pelos serviços utilizados, evitando custos desnecessários de infraestrutura.
-- **Alta Performance:** Capacidade de processar mais de 3000 transações por segundo.
+## Conclusão
+A Pismo apresenta uma proposta robusta para resolver as dores do setor financeiro através de sua plataforma inovadora e baseada em nuvem. Introduzir a Pismo a clientes em potencial pode resultar em parcerias frutíferas, oferecendo a eles a agilidade e inovação que necessitam no mercado competitivo atual.
 
----
-
-## 5. Dores e Necessidades do Mercado
-Aqui estão alguns dos principais desafios que as instituições financeiras enfrentam atualmente, que a Pismo pode ajudar a resolver:
-
-### 5.1. Modernização dos Sistemas Legados
-- Muitas instituições ainda operam com sistemas antigos que não suportam a demanda moderna por agilidade e inovação.
-
-### 5.2. Crescente Concorrência
-- A necessidade de se diferenciar em um mercado que está saturado de opções rápidas e acessíveis.
-
-### 5.3. Redução nos Custos Operacionais
-- A pressão para aumentar a eficiência operacional enquanto se mantém competitividade.
-
-### 5.4. Necessidade de Experiência do Cliente Aprimorada
-- A demanda por experiências digitais mais rápidas, seguras e relevantes está aumentando.
-
----
-
-## 6. Caso de Sucesso
-Clientes notáveis incluem bancos de nível um, como:
-- **BTG Pactual:** Destaca a Pismo por suas soluções modernas e flexíveis.
-- **Itaú:** Reporta redução significativa nos custos de TI após a migração para a nuvem com sucesso.
-
----
-
-## 7. Conclusão e Recomendações para Prospecção
-Através deste relatório, os copywriters têm informações valiosas para criar um e-mail de prospecção que se dirija diretamente às necessidades da Pismo. Enfatizar a capacidade de inovação, a facilidade de integração, e a relevância nas soluções para empresas que desejam modernizar sua abordagem financeira poderá aumentar as chances de sucesso na prospecção.
-
-**Ação Recomendada:** Propor um call para discutir como a plataforma de Marketing de Influência pode se alinhar com a estratégia da Pismo para atingir clientes finais e melhorar a visibilidade da marca. Utilizar histórias de sucesso e casos específicos para construir credibilidade e confiança na correlação entre as soluções da Pismo e as necessidades das empresas prospectadas.
-
----
-
-**Nota:** Este relatório deve ser complementado com informações atualizadas sobre tendências de mercado e feedback direto dos potenciais clientes para melhor acertar na abordagem e comunicação a ser realizada.
+## Próximos Passos
+Este relatório deve servir como a base para a criação de uma comunicação de prospecção clara e personalizada, que aborde diretamente as necessidades do cliente em potencial. O copywriter pode utilizar os pontos destacados para criar um email que reforce a ideia de que a Pismo é a solução ideal para suas dores e desafios.
