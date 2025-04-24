@@ -1,92 +1,52 @@
-# Relatório de Prospecção da Britvic
+# Relatório de Prospecção - Britvic
 
-## 1. Visão Geral da Empresa
+## Informações Gerais
+- **Nome da Empresa**: Britvic
+- **Setor**: Bebidas não alcoólicas (soft drinks)
+- **Localização**: Hemel Hempstead, Inglaterra
+- **Website**: [britvic.com](http://www.britvic.com)
+- **Matriz**: Carlsberg Group (desde a aquisição).
 
-### Nome da Empresa
-- Britvic plc
+## Visão e Missão
+- **Missão**: Ser a empresa de refrigerantes mais dinâmica, criando um amanhã melhor. Proporcionar uma variedade de marcas para os consumidores, ajudando-os a desfrutar os momentos do dia a dia.
+- **Compromisso**: Foco em saúde e bem-estar, tanto para consumidores quanto para o planeta. 
 
-### Setor
-- Bebidas não alcoólicas e soft drinks.
+## Portfólio de Marcas
+Britvic possui um extenso portfólio de 39 marcas amadas, que incluem:
 
-### Website
-- [Britvic](http://www.britvic.com)
+1. **7UP**: Refrigerante de limão e lima, sem corantes e conservantes.
+2. **Aqua Libra**: Água com sabor, com um foco em hidratação sustentável.
+3. **Gatorade**: Bebida esportiva focada em desempenho atlético.
+4. **Robinsons**: Marca de bebidas a base de suco, popular no Reino Unido.
+5. **J2O**: Misturas de sucos para socialização.
+6. **Rockstar Energy**: Bebidas energéticas voltadas para um estilo de vida vibrante.
+7. **Pepsi MAX**: Refrigerante cola com zero açúcar.
+8. **Tango**: Refrigerante de laranja com um sabor marcante.
 
-### Sede
-- Breakspear Park, Breakspear Way, Hemel Hempstead, HP2 4TZ, Reino Unido.
+## Novas Iniciativas e Tendências
+- **Sustentabilidade**: Britvic tem um foco significativo em práticas sustentáveis, utilizando 75% de eletricidade gerada por energia solar e comprometendo-se a remover bilhões de calorias da dieta dos consumidores por meio da reformulação de produtos.
+- **Inovações em sabores**: Recentemente, a Britvic lançou novos sabores como Orange & Mango na linha Robinsons e está trazendo de volta sabores como Cherry e Raspberry Blast da marca Tango.
 
-### Estrutura Corporativa
-- Britvic é uma subsidiária do Carlsberg Group, um dos maiores grupos de bebidas do mundo.
-
-### História
-- Fundada em 1938 como British Vitamin Company, evoluindo para a atual marca Britvic. 
-- O portfólio inclui 39 marcas renomadas, como 7UP, Gatorade, Robinsons, entre outros.
-
-## 2. Portfólio de Marcas e Produtos
-
-### Marcas Principais
-- **7UP**: tradicional refrigerante de limão e lima.
-- **Aqua Libra**: água com infusão e produtos de hidratação inovadores.
-- **Robinsons**: histórico concentrado de sucos e refrigerantes.
-- **Gatorade**: bebida esportiva com foco em hidratação para atletas.
-- **J2O**: bebidas frutadas para adultos que socializam.
-- **Fruit Shoot**: sucos projetados para crianças.
-- **Rockstar Energy**: bebidas energéticas voltadas para um público jovem e ativo.
-
-### Tipos de Produtos
-- Refrigerantes, sucos concentrados, bebidas energéticas, águas saborizadas, misturas e acessórios para coquetéis.
-
-## 3. Análise de Mercado
-
-### Tendências do Setor
-- A crescente demanda por produtos sem açúcar e opções mais saudáveis leva a inovação constante em marcas como Robinsons e Gatorade.
-- O segmento de bebidas energéticas está crescendo rapidamente, com oportunidades criadas por novas campanhas de marketing e colaborações.
-
-### Concorrência
-- A Britvic compete com grandes marcas como Coca-Cola e Pepsi, bem como outras empresas menores que oferecem produtos únicos e saudáveis.
+## Desafios e Oportunidades
+### Dores Potenciais
+- **Concorrência**: O setor de bebidas não alcoólicas é altamente competitivo, e as marcas estão constantemente lutando por participação de mercado.
+- **Mudança nas Preferências do Consumidor**: A crescente demanda por produtos mais saudáveis e sustentáveis está forçando marcas a se adaptarem rapidamente.
+- **Pressão para Redução de Açúcar**: Os consumidores estão cada vez mais conscientes do consumo de açúcar, exigindo opções de bebidas com baixo ou nenhum açúcar.
 
 ### Oportunidades
-- A introdução de novos sabores e opções prontas para beber (Ready-to-Drink) pode aumentar sua participação de mercado. Exemplos recentes incluem o lançamento de Orange & Mango da Robinsons e as edições limitadas do Tango.
+- **Marketing de Influência**: Britvic pode se beneficiar da promoção de seus produtos através de influenciadores que ressoem com as iniciativas de saúde e sustentabilidade da marca.
+- **Expansão e Lançamento de Produtos**: Com um portfólio tão diversificado e a introdução de novos sabores, há uma oportunidade significativa de impactar a experiência do consumidor e expandir o alcance de mercado.
 
-## 4. Dores e Necessidades
+## Proposta de Valor
+A proposta de valor para a Britvic pode ser aproximada através da conexão de suas marcas com influenciadores que compartilhem valores de saúde e sustentabilidade. Através de campanhas de marketing de influência, a marca pode aumentar o engajamento, impulsionar as vendas e fortalecer sua presença em um mercado em constante mudança.
 
-### Desafios
-- Concorrência acirrada no mercado de bebidas não alcoólicas, exigindo constante inovação e marketing eficaz.
-- Necessidade de se adaptar rapidamente às preferências em mudança dos consumidores, especialmente em relação à saúde e sustentabilidade.
+## Contexto para o Copywriting
+Ao elaborar uma comunicação, um e-mail direcionado a Britvic deve enfatizar os seguintes pontos:
+- A relevância do marketing de influência na construção de conexão emocional com os consumidores.
+- Exemplos de inteligência de mercado que mostram como a colaboração com influenciadores pode aumentar a visibilidade e resultar em vendas.
+- Como marcas concorrentes têm se beneficiado de estratégias similares.
+- A importância de alinhar parcerias de influência com a missão da Britvic de promover um futuro mais saudável.
 
-### Necessidades
-- Aumento do engajamento nas redes sociais para conectar-se com o público-alvo mais jovem.
-- Colaboração com influenciadores de redes sociais para ampliar a visibilidade das campanhas e lançamentos de produtos.
+--- 
 
-## 5. Sustentabilidade
-
-### Iniciativas de Sustentabilidade
-- Britvic se dedica a reduzir o seu impacto ambiental com estratégias como:
-  - Redução do uso de água e recursos naturais.
-  - Doação de bebidas para caridade.
-  - Utilização de 75% de eletricidade gerada por fontes solares.
-
-### Comunicação de Sustentabilidade
-- Compromisso com a saúde e bem-estar dos consumidores e empregados, oferecendo opções de bebidas saudáveis e trabalho sustentável.
-
-## 6. Contexto para Prospecção
-
-### Importância do Marketing de Influência
-- A Britvic pode se beneficiar imensamente de estratégias que envolvem influenciadores, especialmente na promoção de novas linhas de produtos como as bebidas energéticas e opções reduzidas em açúcar.
-
-### Público-Alvo
-- Usuários de bebidas não alcoólicas que buscam opções saudáveis e saborosas, especialmente jovens e famílias.
-
-### Proposta de Valor
-- Assistência na ampliação da consciência sobre lançamentos de produtos e campanhas de marketing, utilizando influenciadores para conectar-se com os consumidores de maneira autêntica.
-
-## 7. Conclusão
-
-A Britvic apresenta um portfólio robusto de marcas estabelecidas com um histórico de inovações em resposta às demandas dos consumidores. Sua busca por maneiras de promover a sustentabilidade e a saúde oferece uma excelente oportunidade para estratégias de marketing de influência que podem fomentar um engajamento significativo com o público. O foco deve ser em soluções personalizadas que abordem especificamente as necessidades de suas várias linhas de produtos e consumidores.
-
----
-
-### Ações Recomendadas
-
-- Realizar uma análise detalhada das plataformas sociais da Britvic e oportunidades de colaboração com influenciadores sociais.
-- Desenvolver propostas de campanhas de marketing de influência que enfatizem a interação e engajamento autênticos.
-- Focar na comunicação em torno da sustentabilidade e saúde, alinhando as mensagens das campanhas com os valores da marca Britvic.
+Esse relatório fornece uma visão abrangente sobre a Britvic, abordando tanto suas operações quanto oportunidades no âmbito do Marketing de Influência.
