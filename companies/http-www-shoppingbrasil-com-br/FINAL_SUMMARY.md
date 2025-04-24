@@ -1,4 +1,4 @@
-## Relatório de Prospecção - Shopping Brasil
+# Relatório de Prospecção - Shopping Brasil
 
 ### 1. **Informações Gerais da Empresa**
 - **Nome da Empresa:** Shopping Brasil
@@ -9,46 +9,50 @@
 - **Certificação:** Great Place to Work
 
 ### 2. **Descrição da Empresa**
-A Shopping Brasil atua na conexão entre indústrias e varejistas, oferecendo soluções que ajudam as marcas a maximizar suas ofertas no mercado. A empresa é conhecida por suas ferramentas que permitem a análise de dados de ofertas, ajudando os usuários a traçar estratégias promocionais mais efetivas. Com uma infraestrutura robusta, a Shopping Brasil cobre cerca de 900 varejistas e possui acesso a mais de 1 milhão de ofertas mensais.
+A Shopping Brasil oferece soluções que ajudam a conectar indústrias e varejistas, otimizando suas ofertas no mercado através de análise de dados. Com uma vasta infraestrutura, a empresa cobre cerca de 900 varejistas e disponibiliza mais de 1 milhão de ofertas mensais, sendo uma das líderes no seu segmento.
 
 ### 3. **Soluções Oferecidas**
 #### 3.1. **Solução Varejo: Negociação Inteligente SB**
-- **O que faz:** Permite comparar ofertas com o mercado, identificar preços praticados, e analisar a competitividade através de dados precisos.
+- **O que faz:** Facilita a comparação de ofertas no mercado, permitindo que varejistas identifiquem preços praticados e analisem a competitividade.
 - **Benefícios:**
-  - Batalha de preços.
-  - Evidências visuais de ofertas.
-  - Análises de volume de ofertas e validade.
-  
+  - Batalha de preços para maximizá-los.
+  - Evidência visual de ofertas através de dados dinâmicos.
+  - Análise do volume de ofertas e seus prazos de validade.
+
 #### 3.2. **Solução Indústria: Indicador ADshare SB**
-- **O que faz:** Acompanha a participação de mercado das marcas e ajuda a aprimorar estratégias de preço e distribuição.
+- **O que faz:** Permite o acompanhamento da participação de mercado das marcas, essencial para a formulação de estratégias de preço e distribuição.
 - **Benefícios:**
-  - Análise detalhada de participação de marcas.
-  - Acompanhamento por canal e veículo.
-  - Insights sobre condições de parcelamento e mecânicas promocionais.
+  - Análise detalhada da participação de mercado.
+  - Insights sobre canais e veículos usados para veiculação.
+  - Informações sobre condições promocionais e parcelamentos.
 
 ### 4. **Público-Alvo**
-- **Indústrias:** Empresas que desejam monitorar e otimizar suas ofertas e a presença no mercado.
-- **Varejistas:** Negócios que precisam de ajuda para negociar melhor as ofertas e maximizar vendas.
+- **Indústrias:** Empresas com o intuito de monitorar e otimizar sua oferta no mercado.
+- **Varejistas:** Negócios que buscam aprimorar suas negociações e aumentar vendas.
 
 ### 5. **Dores do Cliente**
-- **Indústrias:** Dificuldade em acompanhar a concorrência e a efetividade das suas ofertas no mercado.
-- **Varejistas:** Problemas na negociação de preços e falta de conhecimento sobre as melhores práticas de marketing e promoções.
+- **Indústrias:** Necessidade de competitividade e compreensão do mercado em tempo real.
+- **Varejistas:** Desafios para negociar preços e falta de insights sobre estratégias promocionais eficazes.
 
 ### 6. **Diferenciais Competitivos**
-- **Cobertura abrangente:** A primeira empresa a oferecer uma visão ampla do mercado com dados de 900 varejistas.
-- **Ferramentas inovadoras:** Oferecem dashboards intuitivos e acesso rápido a análises de mercado.
-- **Experiência:** Mais de 20 anos de atuação no mercado, entregando soluções que impactam diretamente nas vendas de clientes.
+- **Cobertura Abrangente:** Primeira empresa a fornecer uma visão completa do mercado, com dados de 900 varejistas.
+- **Inovação nas Ferramentas:** Dashboards intuitivos, acesso rápido e análise detalhada do mercado.
+- **Experiência e Credibilidade:** Mais de 20 anos entregando resultados e soluções que impactam as vendas.
 
 ### 7. **Testemunhos de Clientes**
-Diversas empresas, como Seara e Kraft Heinz, reconhecem a eficácia das soluções da Shopping Brasil para acompanhar a presença e competitividade das suas marcas no varejo.
+Empresas como Seara, Kraft Heinz, e Galo elogiam as ferramentas e soluções da Shopping Brasil, destacando a eficácia no acompanhamento de presença e competitividade de suas marcas.
 
 ### 8. **Contexto para Prospecção**
-Considerando o crescimento contínuo e a importância do Marketing de Influência para impulsionar vendas, a Shopping Brasil está posicionada como uma parceira estratégica essencial para marcas que buscam otimizar sua presença no mercado. A conexão entre marcas e influenciadores se torna uma necessidade, e a Shopping Brasil pode expandir seu portfólio oferecendo serviços de influência que complementem suas soluções atuais.
+Considerando o cenário crescente do Marketing de Influência, a Shopping Brasil está bem posicionada para se tornar uma parceira estratégica vital para empresas que querem maximizar suas presenças de mercado. A integração entre marcas e influenciadores pode ser feita por meio de soluções de influência, ampliando ainda mais o portfólio atual da Shopping Brasil.
 
 ### 9. **Conclusão**
-A Shopping Brasil apresenta-se como uma oportunidade valiosa para empresas que desejam fortalecer suas estratégias de marketing e otimizar negociações. A personalização do contato deve destacar a importância do marketing de influência como uma extensão natural das soluções que a empresa já oferece, abordando diretamente suas dores e apresentando soluções personalizadas. 
+A Shopping Brasil representa uma oportunidade para empresas que desejam potencializar suas estratégias de marketing e aprimorar negociações. A abordagem de prospecção deve enfatizar a relevância do marketing de influência como um complemento natural às soluções atuais, abordando diretamente as necessidades do cliente.
 
 ### 10. **Recomendações para o Copywriter**
-- Inicie com uma ligação direta entre o serviço da Shopping Brasil e as necessidades específicas da empresa em questão.
-- Use dados e casos reais de sucesso para ilustrar a eficácia das soluções.
-- Enfatize a importância da interseção entre marketing de influência e promoção de ofertas para maximizar engajamento e vendas.
+- **Conexão Direta:** Inicie o contato ligando as soluções da Shopping Brasil com as necessidades identificadas da empresa-alvo.
+- **Dados Reais:** Utilize casos de sucesso para reforçar a eficácia das soluções apresentadas.
+- **Enfoque na Interseção:** Destaque a importância do marketing de influência como uma adição eficaz às estratégias de promoção para melhorias no engajamento e aumento de vendas. 
+
+---
+
+Este relatório fornece uma base sólida para a construção de um email altamente personalizado e focado nas necessidades específicas da empresa, aumentando a chance de engajamento e conversão.
