@@ -1,47 +1,32 @@
-## Relatório de Prospecção: ASICS
+# Relatório de Prospecção para ASICS Brasil
 
-### Informações Gerais
+## Informações da Empresa
 - **Nome da Empresa:** ASICS Brasil
-- **Segmento:** Artigos esportivos (focada em calçados e vestuário)
-- **Website:** [asics.com.br](http://www.asics.com.br)
-- **Slogan:** "Anima Sana In Corpore Sano" - Uma mente sã em um corpo são.
-- **Localização:** Unidade localizada em Extrema-MG, Brasil.
-- **CNPJ:** 53.249.017/0024-30
+- **Website:** [www.asics.com.br](http://www.asics.com.br)
+- **Segmento:** Artigos esportivos, com foco em calçados e vestuário para corrida, academia, tênis, e materiais de apoio.
+- **Localização:** Estrada Municipal Luís Lopes Neto, 21, Bairro dos Tenentes - Extrema-MG, Brasil.
+- **CNPJ:** 53.249.017/0024-30.
 
-### Público-Alvo
-- **Perfil dos Clientes:**
-  - **Amantes de Corrida:** Atletas e praticantes de corrida que buscam performance e tecnologia em calçados.
-  - **Esportistas Amadores e Profissionais:** Pessoas que praticam esportes regularmente, incluindo corrida, vôlei, e treinamento funcional.
-  - **Consumidores de Moda Ativa:** Clientes que valorizam estética e estilo em peças de vestuário esportivo.
+## Características da Empresa
+- **História:** Fundada por Kihachiro Onitsuka, a ASICS tem mais de 70 anos de história e acredita nos benefícios do movimento para a saúde física e mental. O lema “Anima Sana In Corpore Sano” reflete a missão da marca.
+- **Produtos Oferecidos:**
+  - **Calçados:** Diversas linhas focadas em corrida, treinamento, e casual.
+  - **Vestuário:** Camisetas, shorts, leggings e acessórios para atletas e praticantes de esportes.
+  - **Programas de fidelidade:** O programa "OneASICS" oferece bônus e acesso a lançamentos exclusivos para clientes.
 
-### Produtos em Destaque
-- **Calçados:** Modelos como GEL-Nimbus, GEL-Kayano, GEL-Cumulus, entre outros, com foco em conforto, suporte e tecnologia de amortecimento.
-- **Vestuário:** Roupas para corrida, academia e moda ativa para masculino, feminino e infantil.
-- **Acessórios:** Meias específicas para corrida, munhequeiras e outros produtos complementares.
-  
-### Análise do Mercado
-- **Concorrência:** A ASICS compete com marcas como Nike, Adidas, Mizuno, e New Balance. A diferenciação está na tecnologia e no acionamento de benefícios à saúde mental e física associados ao esporte.
-- **Tendências de Consumo:** Crescimento do interesse por estilos de vida saudáveis e produtos que promovem um bem-estar geral. A busca por produtos sustentáveis e éticos também tem ganhado força.
+## Dores e Possíveis Necessidades
+1. **Engajamento com o público mais jovem:** Com o aumento da concorrência no setor e a predominância das redes sociais, a ASICS pode se beneficiar de campanhas mais direcionadas que se comuniquem eficazmente com o público jovem e influenciadores.
+2. **Sustentabilidade:** Existe um crescimento na demanda por marcas que demonstram responsabilidade ambiental. A ASICS já possui iniciativas, mas pode se beneficiar de uma comunicação mais forte em relação a este aspecto.
+3. **Adaptabilidade às novas tendências de consumo:** A ascensão das vendas online e a procura por experiências de compra diferenciadas são tendências que podem impactar a ASICS, exigindo maior presença digital e colaboração com influenciadores.
 
-### Possíveis Dores e Oportunidades
-#### Dores
-- **Aproximação Marcante com o Cliente:** A necessidade de estabelecer uma conexão mais forte com o público-alvo através de influenciadores que compartilhem os mesmos valores de saúde e movimento.
-- **Encontrar Novos Canais:** Expandir a presença digital nas redes sociais e plataformas de e-commerce.
-- **Engajamento Consistente:** Manter o engajamento contínuo com clientes existentes e atração de novos consumidores num cenário competitivo.
+## Contexto do Mercado
+- **Tendências de mercado:** O setor de artigos esportivos cresce junto com o aumento da popularidade de atividades fisícas e saúde mental. Mais consumidores estão investindo em produtos que melhoram seu desempenho e bem-estar.
+- **Concorrência:** Marcas como Nike, Adidas e Under Armour que já investem fortemente em marketing digital e parcerias com influenciadores. A ASICS precisa fortalecer sua presença digital e engajamento para se destacar.
 
-#### Oportunidades
-- **Marketing de Influência:** Uso de influenciadores do segmento fitness e saúde para atingir o público-alvo de forma mais autêntica e conectada.
-- **Eventos e Comunidades:** Criação ou patrocínio de eventos de corrida e saúde, promovendo envolvimento da marca com a comunidade esportiva.
-- **Promoções Especiais:** Implementação de campanhas de descontos ou programas de fidelidade como o programa OneASICS.
+## Propostas de Colaboração
+- **Marketing de Influência:** Conectar a ASICS a influenciadores relevantes no nicho de fitness e saúde, que possam comunicar os valores e a qualidade dos produtos da ASICS de maneira autêntica.
+- **Campanhas de Conscientização:** Promover iniciativas sobre saúde mental através do esporte, em alinhamento com a missão da marca, utilizando figuras públicas para aumentar a visibilidade.
+- **Conteúdos Exclusivos:** Criar conteúdo colaborativo exclusivo para influenciadores, que destaque as características técnicas e os benefícios dos produtos ASICS, como a linha GEL-Nimbus e GEL-Cumulus, conhecidas por conforto e performance.
 
-### Proposta de Valor do Marketing de Influência
-Utilizar influenciadores que pratiquem esportes, promovendo a cultura esportiva e os produtos ASICS como ferramentas para a saúde e bem-estar. Focar em histórias pessoais de como a marca impacta positivamente a vida dos usuários, realçando benefícios físicos e psicológicos.
-
-### Sugestões para Email
-- **Introdução:** Fazer alusão à missão da ASICS de promover saúde e bem-estar através do movimento.
-- **Conexão Pessoal:** Mencionar experiências com influenciadores que usam o produto e como isso ressoa com o público-alvo.
-- **Chamada para Ação:** Sugestão de um encontro (virtual ou presencial) para discutir como a ASICS pode se beneficiar ainda mais do marketing de influência, compartilhando dados sobre engajamento e alcance.
-
----
-
-Este relatório foi elaborado para fornecer uma visão profunda sobre as necessidades e oportunidades da ASICS, a fim de que possam ser desenvolvidas estratégias de marketing de influência mais eficazes.
+## Conclusão
+A ASICS Brasil tem uma rica herança e uma forte missão centrada em melhorar a saúde e o bem-estar dos consumidores através do esporte. Aproveitar o marketing de influência pode ser uma estratégia eficaz para abordar as dores identificadas e fortalecer a presença da ASICS no mercado contemporâneo. Uma abordagem personalizada nas comunicações pode sensibilizar e engajar o público-alvo da marca, criando um impacto positivo no reconhecimento e vendas.
