@@ -1,80 +1,56 @@
 # Relatório de Prospecção - Jotacom
 
 ## Informações Gerais da Empresa
-
-- **Nome**: Jotacom
-- **Segmento**: Marketing Digital, com foco em Marketing de Influência
-- **Localização**: Rua Rodésia, 213, Vila Madalena, São Paulo, SP - 05435-020
+- **Nome da Empresa**: Jotacom
+- **Site**: [www.jotacom.com](http://www.jotacom.com)
+- **Endereço**: Rua Rodésia, 213, Vila Madalena, São Paulo, SP - 05435-020
 - **Telefone**: (11) 3035-4600
-- **Website**: [www.jotacom.com](http://www.jotacom.com)
 
-## Reconhecimento e Premiações
+## Visão Geral
+A Jotacom é uma agência renomada que atua no setor de Marketing Digital e Influência, com foco na conexão de marcas e influenciadores. Reconhecida pela sua excelência, a agência foi escolhida como a melhor do Brasil por três vezes consecutivas e tem um modelo de trabalho que se destaca pela proximidade e comprometimento da alta direção com as contas de clientes.
 
-A Jotacom é uma agência que se destaca no mercado, tendo sido premiada como a **“Agência Digital Mais Exemplar”** e a **“Agência Integrada Mais Exemplar”** no **Agency Scope 2022/23**. Além disso, a agência é reconhecida em mais de **29 atributos** nas pesquisas da SCOPEN, o que comprova sua excelência em diversos aspectos do marketing digital.
+## Reconhecimentos e Prêmios
+A Jotacom se destacou em várias pesquisas, recebendo reconhecimento em atributos fundamentais como:
+- Melhor avaliada por seus clientes
+- Agência digital mais exemplar
+- Agência proativa
+- Criativa em mídia
+- Oferece monitoramento pós-compra de mídia
 
-### Prêmios e Ranking
-1. **1º Lugar**: Agência Digital Mais Exemplar
-2. **2º Lugar**: Agência Integrada Mais Exemplar
-3. **Líder em 29 atributos** segundo pesquisa da SCOPEN.
+### Prêmios Recentes
+- **1º Lugar**: Agência Digital Mais Exemplar
+- **2º Lugar**: Agência Integrada Mais Exemplar
+- Líder em mais de 29 atributos nas pesquisas de prestígio da SCOPEN.
 
-## Modelo de Trabalho
+### Cases de Sucesso
+- Jotacom possui vários cases relevantes, destacando-se em segmentos como:
+  - Campanhas para marcas como Blizzard, Semparar, Einstein, Sicredi, entre outros.
 
-- **Modelo Hands-On**: A Jotacom adota uma abordagem onde os sócios estão altamente envolvidos nas contas, permitindo um atendimento personalizado e soluções eficazes.
-- **Oferece serviços integrados**: Envolve planejamento e execução em múltiplos canais de comunicação.
-- **Monitoramento pós-compra**: A agência possui um serviço distinto de monitoramento após a compra de mídia.
+## Serviços Oferecidos
+A Jotacom oferece uma gama diversificada de serviços no âmbito do marketing digital:
+- **Marketing de Influência**: Conexão entre marcas e influenciadores.
+- **Planejamento de Mídia**: Ênfase em um planejamento de mídia eficaz e inovador.
+- **Criação de Conteúdo**: Desenvolvimento de conteúdos criativos e envolventes para campanhas.
+- **Monitoramento e Análise**: Serviços que asseguram a medição de resultados e eficiência de campanhas.
 
-## Oportunidades e Desafios
+## Contexto no Segmento
+### Dores Potenciais a Serem Abordadas
+1. **Dificuldade de Medir ROI em Campanhas de Influência**: Muitas marcas enfrentam desafios em analisar o retorno sobre investimento ao trabalhar com influenciadores. A Jotacom se destaca por oferecer soluções que garantem monitoramento pós-compra.
+   
+2. **Falta de Proatividade em Campanhas de Mídia**: Algumas agências não oferecem um acompanhamento proativo nas campanhas. A abordagem "hands on" da Jotacom assegura que os sócios estejam engajados, levando a um serviço mais eficaz.
 
-### Dores e Desafios Potenciais:
-- **Acompanhamento e Resultados**: As empresas podem encontrar dificuldades em medir o impacto real de suas investidas em marketing digital e de influência.
-- **Saturação do Mercado**: Com um aumento na quantidade de influenciadores e campanhas, as marcas podem ter dificuldade em encontrar soluções que se destaquem.
-- **Evolução da Audiência**: A mudança do comportamento do consumidor e a busca por autenticidade podem criar pressão para as marcas adaptarem suas estratégias rapidamente.
+3. **Necessidade de Inovação**: O constante crescimento e evolução das mídias digitais requer inovação constante. A Jotacom se posiciona como uma agência que utiliza novas mídias e canais, além de proporcionar criatividade original em suas campanhas.
 
-### Oportunidades:
-- **Excepcional Conexão**: Jotacom possui um know-how significativo para conectar influenciadores autênticos com as marcas certas, possibilitando um engajamento mais verdadeiro com o público-alvo.
-- **Inovação**: A capacidade da Jotacom em explorar novas mídias e canais pode oferecer às marcas soluções inovadoras que se destacam da concorrência.
+## Ponto de Contato
+### Para Estabelecer Comunicação
+- **Link para Contato**: [Entre em contato](http://www.jotacom.com/contato#contato)
 
-## Portfólio e Casos de Sucesso
+## Considerações Finais
+A Jotacom se posiciona como uma líder no segmento de marketing digital e de influência, com um histórico comprovado de satisfação do cliente e capacidade inovadora. Ao elaborar uma abordagem de prospecção, é crucial enfatizar os valores que Jotacom preza, como a proatividade, a criatividade e a análise aprofundada de resultados, ao mesmo tempo que se oferece soluções às dores que empresas enfrentam ao trabalhar com influenciadores. 
 
-A Jotacom tem um portfólio diversificado de clientes e casos de sucesso em diversas indústrias, incluindo:
+### Estratégia para o Copywriter
+- **Foco nas soluções de dor**: Direcionar a comunicação para como a Jotacom pode resolver as dificuldades enfrentadas pelos clientes, especialmente na mensuração de resultados e inovação de campanhas.
+- **Uso de Cases**: Incluir exemplos de campanhas de sucesso como prova social da eficácia e capacidade da agência.
+- **Abordagem Personalizada**: Criar um e-mail personalizado alinhando as características da Jotacom ao perfil e necessidades da empresa prospectada. 
 
-- **Espaço Laser**: Campanha disparada que traz interatividade.
-- **Duolingo**: Várias campanhas focadas em engajamento e humor.
-- **Blizzard**: Diversas ações que promovem seus jogos e serviços, usando o poder de influenciadores.
-
-Para visualizar todos os trabalhos desenvolvidos pela Jotacom, acesse [todos os trabalhos](http://www.jotacom.com).
-
-## Estratégia de Prospecção
-
-### Contexto do Mercado
-O marketing de influência está em crescimento, com consumidores cada vez mais priorizando a autenticidade nas marcas. Jotacom apresenta-se como uma solução ideal para as empresas que buscam não apenas resultados, mas também uma conexão verdadeira com seu público.
-
-### Mensagem Personalizada para o Copywriter
-**Assunto**: Vamos impulsionar sua marca através de conexões autênticas?
-
-Caro [Nome do Contato],
-
-Espero que este e-mail encontre você bem. Entendemos que a sua empresa busca maneiras de se destacar em um mercado saturado, onde é crucial não apenas captar a atenção do consumidor, mas também criar um laço de lealdade através da autenticidade.
-
-Na Jotacom, nossa abordagem diferenciada e nossa experiência no setor do marketing de influência permitirão que sua marca não apenas alcance seu público, mas crie uma conexão genuína que impacte diretamente seus resultados.
-
-Como uma agência reconhecida pelo seu modelo “hands-on” e premiada em diversas categorias, estamos prontos para ajudar sua marca a navegar neste cenário desafiador e sair à frente.
-
-Vamos agendar um momento para conversarmos sobre como podemos colaborar juntos?
-
-Atenciosamente,  
-[Seu Nome]  
-[Sua Posição]  
-Jotacom
-
-## Conclusão
-
-A Jotacom é uma agência respeitada com um histórico comprovado de sucesso em marketing digital e influência. Por meio de um modelo personalizado e inovador, a agência se posiciona como uma parceira estratégica valiosa para marcas que desejam se destacar e se conectar verdadeiramente com seu público.
-
-### Contato
-- **Website**: [www.jotacom.com](http://www.jotacom.com)
-- **Contato direto**: [Formulário de contato](http://www.jotacom.com/contato#contato)
-
---- 
-
-Esse relatório pode ser utilizado pelo copywriter para elaborar um e-mail personalizado que aborde as necessidades e oportunidades da Jotacom, proporcionando um início de conversa relevante e direcionado.
+Este relatório deve oferecer uma base sólida para a criação de um e-mail de prospecção que ressoe com a missão e os desafios enfrentados pelas marcas visadas.
