@@ -36,7 +36,7 @@ A Máquina CW é uma agência de comunicação full service que integra várias 
 - **Ambev:** Campanhas impactantes durante datas comemorativas.
 
 ## Segmentos de Atuação
-Máquina CW atua em diversos setores, incluindo:
+A Máquina CW atua em diversos setores, incluindo:
 - Corporativo
 - Saúde
 - Turismo
