@@ -1,73 +1,68 @@
-# Relatório de Prospecção - Ekantika
+# Relatório de Prospecção para Ekantika Consultoria
 
-## Informações Gerais
-- **Nome da Empresa:** Ekantika
-- **Website:** [www.ekantika.com.br](http://www.ekantika.com.br)
-- **Segmento de Atuação:** Consultoria de Negócios, com foco em estratégia, design organizacional e eficiência operacional.
-- **Localização:** Avenida Queiroz Filho, 1700 – Torre A, Sala 201, São Paulo, SP, Brasil
-- **Contatos:**
-  - **Telefone:** +55 11 4115-7724, +55 11 3062-5920
-  - **Email:** contato@ekantika.com.br
-
-## Quem Somos
-A Ekantika é uma consultoria de negócios que visa entregar resultados tangíveis. Agradecem uma visão sistêmica que integra estratégia, design organizacional e eficiência operacional. O foco da empresa é personalizar soluções para cada cliente, promovendo uma sólida cultura de inovação.
+## Visão Geral da Empresa
+A Ekantika é uma consultoria de negócios focada na entrega de resultados tangíveis. Através de uma abordagem que vai além de fórmulas prontas, a empresa se dedica a entender a fundo os desafios de cada cliente, desenvolvendo soluções eficazes e personalizadas.
 
 ### Missão
-Potencializar o sucesso das organizações por meio de estratégias integradas que otimizem processos e promovam cultura de agilidade e inovação.
+Potencializar o sucesso das organizações integrando estratégia, design organizacional e eficiência operacional, visando uma cultura de inovação e agilidade.
 
-## Áreas de Atuação
-A Ekantika possui quatro principais áreas de atuação:
+### Estrutura Organizacional
+- **Sócios Fundadores:** 
+  - Vivi Salyna (Inovação, Gestão de Cultura)
+  - Bóris Leite (Consultoria de Gestão)
+  - Nara Littério (Transformação Digital)
+  - Juan Giulianelli (Finanças)
+  - Patricia Simpioni (Gestão de Mudanças)
+  - Tati Carrelli (Gestão da Inovação)
 
+## Serviços Oferecidos
 1. **Estratégia e Design Organizacional**
-   - Elaboração de estruturas organizacionais eficientes.
-   - Implantação de governança estratégica.
-   - Desenvolvimento de planos de ação para crescimento.
+   - Planejamento estratégico
+   - Desenho organizacional
+   - Governança estratégica
 
 2. **Centralidade no Cliente**
-   - Mapeamento da jornada do cliente e implementação de soluções para aumentar a satisfação e retenção.
-   - Redesign de processos de atendimento e estruturação de sistemas de monitoramento de satisfação do cliente.
+   - Desenho de jornada do cliente
+   - Atendimento ao cliente
+   - Satisfação e fidelização
 
 3. **Eficiência Operacional e Supply Chain**
-   - Diagnósticos completos da cadeia de suprimentos, buscando maximizar a entrega de valor.
-   - Metodologia LEAN para melhoria contínua e redução de desperdícios.
+   - Gestão da cadeia de suprimentos
+   - Melhoria contínua (LEAN)
+   - Modelos de gestão operacional
 
 4. **Pessoas e Soluções em Recursos Humanos**
-   - Desenvolvimento de uma cultura organizacional alinhada às estratégias de negócio.
-   - Foco na jornada do colaborador, desde a atração até a retenção de talentos.
+   - Cultura organizacional
+   - Gestão de desempenho
+   - Experiência do colaborador
 
-## Contexto e Oportunidades
-A Ekantika se destaca no mercado ao oferecer uma abordagem centrada no cliente, buscando não apenas identificar as necessidades de seus parceiros, mas também implementar soluções que melhorem a eficiência organizacional. Através de sua expertise em gestão e transformações organizacionais, a empresa é capaz de:
+5. **Change Management**
+   - Diagnóstico e mudança organizacional
+   - Ferramentas de implementação
+   - Treinamento e capacitação
 
-- Ajudar outros negócios a se tornarem mais ágeis e centrados no cliente.
-- Facilitar processos de transformação digital, capacitando equipes para atuarem como protagonistas em seus nichos.
-- Implementar práticas inovadoras que ajudem a mitigar as falhas na execução de estratégias de inovação e melhoria.
+## Setores de Atuação
+- Consultoria em diversos setores como: Varejo, Saúde, Aviação, Entretenimento e Energia.
 
-## Possíveis Dores
-Ao prospectar empresas que poderiam se beneficiar das soluções da Ekantika, é vital considerar as seguintes dores que essas empresas muitas vezes enfrentam:
+## Dores e Desafios Identificados
+- **Falta de Estratégia Clara:** Muitas empresas enfrentam dificuldades em alinhavar inovações com os objetivos estratégicos de longo prazo.
+- **Cultura Organizacional:** Inovações frequentemente falham por uma cultura que não incentiva a tolerância a riscos e a experimentação.
+- **Eficiência Operacional:** Necessidade de otimização e eficiência contínua nos processos de negócios e na cadeia de suprimentos.
+- **Gestão de Mudanças:** Desafios em implementar mudanças organizacionais de forma eficaz.
 
-1. **Falta de Centralidade no Cliente:**
-   - Dificuldades em entender o que o cliente realmente precisa e como criar experiências memoráveis.
+## Contexto de Mercado
+A Ekantika se posiciona em um mercado crescente de consultorias que buscam resolver problemas complexos e melhorar a performance das empresas. Com a crescente digitalização e a necessidade de adaptação às exigências do mercado, os serviços de consultoria em estratégia, eficiência operacional e gestão de mudanças são extremamente valorizados.
 
-2. **Ineficiência Operacional:**
-   - Processos excessivamente complexos que resultam em desperdícios e margem de lucro reduzida.
+## Objetivos da Prospecção
+- **Identificar potenciais clientes no setor de consultoria e fornecimento estratégico.**
+- **Oferecer soluções personalizadas que atendam às necessidades específicas de cada cliente.**
+- **Ajuda a transformar desafios em oportunidades e garantir eficiência na implementação de estratégias.**
 
-3. **Resistência à Mudança:**
-   - Desafios em gerenciar a transição cultural e estrutural necessária para um ambiente mais inovador e responsivo.
-
-4. **Estratégias de Inovação Falhas:**
-   - Falta de uma abordagem estruturada para implementação de novas ideias e tecnologias.
-
-## Exemplos de Sucesso
-- **Leroy Merlin:** Aumento de 40% na produtividade através de reestruturações de processos.
-- **MadeiraMadeira:** Aumento de 80% na taxa de retenção de clientes, enfatizando a centralidade do cliente.
-- **BH Airport:** Transformação para se tornar um dos aeroportos mais eficientes do Brasil.
+## Sugestões de Mensagens para o Copywriting
+- **Abordagem Personalizada:** "Na Ekantika, entendemos que cada organização é única. Vamos juntos mapear suas necessidades e desenhar soluções que tangibilizem resultados."
+- **Transformação Digital:** "Em um mundo em constante transformação, sua empresa está preparada para não apenas acompanhar, mas liderar as mudanças? Conheça nossa abordagem integrada que combina tecnologia, estratégia e eficiência."
+- **Centralidade no Cliente:** "Seus clientes merecem um tratamento excepcional. Descubra como uma abordagem centrada no cliente pode elevar seus níveis de satisfação e retenção."
+- **Eficiência Operacional:** "Reduzir custos e maximizar resultados são metas presentes na Ekantika. Vamos revisar suas operações e trazer eficiência para o seu negócio."
 
 ## Conclusão
-A Ekantika apresenta-se como uma consultoria direcionada para a solução de problemas específicos que afetam a eficiência e a satisfação do cliente nas organizações. Com um portfólio que destaca a importância da centralidade no cliente, eficiência operacional e uma cultura organizacional sólida, ela é uma parceira estratégica para qualquer empresa que busque inovação real e sustentada.
-
-### Ações Sugeridas
-- Elaborar um email personalizado que aborde as necessidades e os desafios específicos da empresa alvo, utilizando informações choques coletadas.
-- Destacar a expertise da Ekantika em soluções personalizadas que enderecem diretamente as dores identificadas em empresas no setor de atuação da empresa alvo, seja ele o varejo, saúde, entretenimento, entre outros.
-
-## Contato
-Importante manter um canal aberto para futuras conversas e, se possível, propor uma reunião para apresentar mais detalhadamente os benefícios da consultoria.
+A Ekantika é uma referência no contexto de consultoria estratégica e operacional, oferecendo soluções personalizadas para diversos desafios organizacionais. A prospecção dirigida a empresas que buscam inovação, eficiência e transformação pode ser extremamente frutífera, colocando a Ekantika em um campo de atuação ainda mais relevante e destacado no mercado.
