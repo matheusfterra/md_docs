@@ -1,48 +1,74 @@
-# Relatório de Prospecção da Nomad
+# Relatório de Prospecção: Nomad Global
 
-## Informações da Empresa
-**Nome da Empresa**: Nomad Global  
-**Segmento**: Fintech de serviços financeiros internacionais  
-**Website**: [www.nomadglobal.com](https://www.nomadglobal.com)  
-**Sede**: Menlo Park, CA, EUA  
-**Ano de Fundação**: 2021  
-**CNPJ**: 34.662.852/0001-66  
+## Informações Gerais da Empresa
 
-## Descrição da Solução
-**Produtos e Serviços**:
-1. **Conta Internacional**: Abertura de contas em dólar sem taxas de manutenção, permitindo uso global.
-2. **Cartão Internacional**: Cartão de débito Visa, aceito em 35 milhões de estabelecimentos e mais de 180 países, sem anuidade e taxas de ativação.
-3. **Pagamentos Internacionais**: Serviço para receber e enviar transferências internacionais de forma rápida e econômica.
-4. **Transferências Internacional**: Transferências entre contas Nomad gratuitas e transferência para contas americanas a baixo custo (US$ 10 por operação).
-5. **Câmbio e Conversão Automática**: Conversão de reais para dólares com a cotação comercial e possibilidade de automação ao atingir um preço-alvo.
-6. **Nomad Pass**: Programa de fidelidade que oferece benefícios em taxas operacionais e acesso a salas VIP em aeroportos.
+### Nome da Empresa:
+Nomad Fintech Inc.
 
-## Características da Proposta
-- **Conveniência e Acesso**: Plataforma digital que permite a gestão de finanças de qualquer lugar do mundo.
-- **Transparência em Taxas**: Sem taxas escondidas, oferecendo taxas operacionais reduzidas.
-- **Apoio a Brasileiros**: Atendimento em português e foco na experiência de brasileiros no exterior.
+### Website:
+[www.nomadglobal.com](https://www.nomadglobal.com)
 
-## Ponto de Dor dos Clientes
-Os usuários da Nomad frequentemente enfrentam desafios como:
-- **Taxas Altas em Transações**: Dificuldade em encontrar serviços de câmbio competitivos e transparentes.
-- **Burocracia em Transferências Internacionais**: Dificuldades em processar pagamentos e transferências de forma rápida e direta.
-- **Gestão de Finanças**: Necessidade de controlar gastos em diferentes moedas sem complicação.
+### Segmento:
+Fintech que oferece serviços financeiros, como conta internacional, cartão de débito, pagamento de transferências internacionais e investimentos no exterior para brasileiros.
+
+### Localização:
+Sede nos Estados Unidos - 873 El Camino Real, Menlo Park, CA 94025.
+
+### Redes Sociais:
+- Facebook: [Nomad Global](https://www.facebook.com/NomadGlobal)
+- Instagram: [@nomadglobal](https://www.instagram.com/nomadglobal)
+- Twitter: [@nomad_global](https://twitter.com/nomad_global)
+- LinkedIn: [Nomad Global](https://www.linkedin.com/company/nomad-global/)
+
+## Produtos e Serviços
+
+### Produtos Oferecidos:
+1. **Conta Internacional**:
+   - Abertura de conta digital em dólares sem taxas de manutenção.
+   - Usa para compras, recebimento de salários em moeda estrangeira.
+
+2. **Cartão Internacional**:
+   - Cartão de débito aceito globalmente.
+   - Versão física e virtual, sem anuidade.
+
+3. **Pagamentos Internacionais**:
+   - Recepção de transferências de dinheiro de qualquer lugar do mundo a taxas reduzidas.
+   - Serviços de transferências entre contas Nomad são gratuitos.
+
+4. **Câmbio em Dólar**:
+   - Conversão de reais para dólares com cotação comercial pelo aplicativo.
+
+5. **Investimentos**:
+   - Acesso ao mercado de ações, ETFs, e produtos de renda fixa.
+   - Invista a partir de apenas US$ 1, sem taxas de corretagem.
+
+6. **Nomad Pass**:
+   - Programa de fidelidade com benefícios como redução de taxas e acesso a salas VIP.
 
 ## Público-Alvo
-1. **Global Workers**: Profissionais que trabalham remotamente e recebem pagamentos de empresas no exterior.
-2. **Viajantes Frequentes**: Indivíduos que viajam frequentemente para o exterior e necessitam de serviços financeiros eficientes.
-3. **Investidores**: Brasileiros que desejam diversificar investimentos em mercados internacionais.
+- **Demográfico**: Brasileiros interessados na gestão de finanças internacionais, incluindo trabalhadores remotos, expatriados e investidores.
+- **Psicográfico**: Consumidores que buscam soluções práticas para transações internacionais e investimentos em dólar.
 
-## Cena Competitiva
-- **Concorrentes Diretos**: Outras fintechs que operam no mesmo espaço, como TransferWise (Wise), Remessa Online e bancos digitais.  
-- **Diferencial Competitivo**: A Nomad se destaca pela combinação de uma conta internacional em dólar com um cartão de débito poderoso e uma experiência totalmente digital.
+## Análise do Mercado
+1. **Necessidades**: Facilidade na abertura de contas internacionais, taxas menores em transações de câmbio, e simplificação na gestão financeira global.
+2. **Concorrência**: Outras fintechs que oferecem contas internacionais, mas a Nomad se destaca ao não cobrar taxas ocultas e fornecer um serviço totalmente digital.
 
-## Considerações Finais
-A Nomad oferece uma solução robusta para brasileiros que buscam simplificar sua vida financeira internacional. A abordagem centrada no cliente, juntamente com uma plataforma digital intuitiva e taxas competitivas, torna a Nomad uma opção atraente para o mercado alvo, especialmente em tempos de crescente mobilidade global.
+## Possíveis Dores da Empresa
+- Dificuldades em competir no mercado altamente saturado de fintechs e serviços financeiros.
+- Necessidade constante de inovação para atrair e reter clientes.
 
-**Estratégia de Abordagem**:  
-Nosso email deve se concentrar em ressaltar os principais desafios que a Nomad resolve, enfatizando a conveniência, a transparência de taxas e a facilidade de uso da plataforma. Incluir um apelo à aula ao destacar a experiência única que os clientes podem obter ao utilizar a Nomad, enquanto se promove os serviços financeiros internacionais.
+## Contexto da Prospecção
+- A busca por novas oportunidades de marketing de influência no setor financeiro, especialmente com os influenciadores que falam sobre finanças e investimentos.
+- Criar campanhas que possam conectar a marca com influenciadores que compartilham conhecimento prático sobre investimentos e economia, e ao mesmo tempo, gerenciar o relacionamento com esses profissionais.
 
---- 
+## Sugestões para o Copywriter
+1. **Tons da Comunicação**: Usar um tom amigável e acessível que destaca a facilidade de uso da plataforma.
+2. **Chamada para Ação**: Incluir links diretos para abertura de contas e informações sobre o Nomad Pass, ressaltando os benefícios.
+3. **Pontos de Dor**: Abordar como a Nomad resolve problemas comuns enfrentados por brasileiros que trabalham ou investem no exterior, como altas taxas de câmbio e dificuldades em transferências internacionais.
 
-Essas informações foram compiladas para servir como base para a elaboração de uma comunicação personalizada e eficaz no processo de prospecção.
+## Resultados Esperados
+- Aumento na conscientização sobre a marca Nomad entre influenciadores e potenciais clientes.
+- Geração de leads qualificados através de campanhas coordenadas com influenciadores.
+- Fortalecimento da presença da marca em mídias sociais e ampliando a base de clientes.
+
+Com todas essas informações, o e-mail para os influenciadores deve ser elaborado de forma personalizada, enfatizando os valores da Nomad e como a colaboração pode ser vantajosa para ambas as partes.
