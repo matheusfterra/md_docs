@@ -11,15 +11,13 @@
 - **Público-Alvo**: 
   - Marcas e empresas que desejam se conectar com influenciadores.
   - Influenciadores em várias plataformas (Instagram, YouTube, TikTok, etc.).
-  
 - **Proposta de Valor**: 
   - Simplificação do processo de seleção de influenciadores.
   - Aumento do engajamento das campanhas publicitárias.
   - Medição e análise de resultados em tempo real.
-  
 - **Concorrência**: 
   - As principais concorrentes incluem plataformas como Influencity, Traackr e AspireIQ.
-  
+
 ## Análise das Necessidades e Dores
 ### Possíveis Dores da Empresa
 1. **Dificuldade em Escalar Campanhas**: Muitas vezes, as empresas que trabalham com influenciadores enfrentam desafios para escalar suas campanhas de forma eficiente.
