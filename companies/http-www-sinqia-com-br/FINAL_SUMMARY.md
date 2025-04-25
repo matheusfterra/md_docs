@@ -1,67 +1,73 @@
-# Relatório de Prospecção para Sinqia S.A.
+# Relatório de Prospecção: Sinqia
 
 ## Informações Gerais da Empresa
-- **Nome da Empresa:** Sinqia S.A.
-- **Segmento:** Tecnologia para mercado financeiro, incluindo soluções para instituições financeiras, fintechs, previdência e consórcios.
-- **Website:** [www.sinqia.com.br](https://www.sinqia.com.br)
-- **Localização:** Rua Bela Cintra, 755, Consolação, São Paulo/SP, CEP 01415-003.
-- **CNPJ:** 04.065.791/0001-99.
 
-## Visão Geral
-A Sinqia S.A. é uma das 100 maiores empresas de tecnologia para o mercado financeiro do mundo, com crescimento contínuo e reconhecimento por sua inovação e transformação digital. A empresa é frequentemente citada como um dos melhores lugares para trabalhar no Brasil, destacando-se por sua cultura orientada para pessoas e um ambiente favorável à inovação.
+### Nome da Empresa:
+Sinqia S.A.
 
-## Atuação e Serviços
-A Sinqia oferece uma vasta gama de soluções tecnológicas relacionadas a:
-1. **Instituições Financeiras:**
-   - Core Banking
-   - Câmbio
-   - Gestão de Previdência
-   - Gestão de Consórcios
-   - SPB/PIX
-   - FIDC
+### Site Oficial:
+[www.sinqia.com.br](http://www.sinqia.com.br)
 
-2. **Fintechs:**
-   - Soluções de crédito
-   - Gestão para Bancos Digitais e Wallets
-   - Processos com Compliance Integrado
+### Localização:
+Rua Bela Cintra, 755, Consolação, São Paulo/SP, CEP 01415-003
 
-3. **Transformação Digital:**
-   - Design de Negócios e Consultoria
-   - Implementação de tecnologias emergentes e gestão de ativos digitais.
+### CNPJ:
+04.065.791/0001-99
 
-4. **Plugins e Recursos:**
-   - Plataforma para gerenciamento de recebíveis
-   - Sistemas de controle de ativos e passivos
-   - Integrações com API para automação de processos.
+### Setor:
+Tecnologia para o mercado financeiro
 
-## Público-Alvo
-O público-alvo da Sinqia consiste em:
-- **Bancos e Instituições Financeiras**: Precisam de soluções robustas e eficientes para operação e compliance.
-- **Fintechs**: Demandam agilidade e inovação para competir em um mercado acelerado.
-- **Gestores de Recursos**: Buscam eficiência na administração de fundos e recebíveis.
+### Anos de Atuação:
+A Sinqia se destaca no mercado desde 2017, sendo listada entre as 100 maiores empresas de tecnologia para o mercado financeiro do mundo.
 
-## Possíveis Dores e Desafios
-- **Complexidade e Regulamentação:** A crescente complexidade das leis de compliance e regulamentações financeiras pode ser um desafio significativo. A Sinqia se posiciona para ajudar essas instituições a se adaptarem.
+### Certificações:
+- GPTW (Great Place to Work) - Reconhecida como uma das melhores empresas para trabalhar.
+
+### Volume de Transações:
+Milhares de transações financeiras processadas diariamente.
+
+## Produtos e Serviços Oferecidos
+
+### Instituições Financeiras:
+Soluções tecnológicas integradas para o setor financeiro, incluindo:
+- **Core Banking:** Controle de contas de depósito e empréstimos (DOC, TED, PIX).
+- **Câmbio:** Plataforma completa de operações de câmbio.
+- **Gestão de Previdência:** Controle e gestão de portfólios de investimento.
+- **SPB/PIX:** Integração rápida às soluções de pagamentos instantâneos.
+- **Gestão de Consórcios:** Solução completa para administração de consórcios.
+
+### Fintechs:
+- **Plataforma de Crédito:** Gestão integrada de operações de crédito.
+- **Bancos Digitais e Wallets:** Suporte a soluções modernas de pagamento.
   
-- **Digitalização:** Com a transformação digital sendo uma prioridade, as instituições estão em busca de tecnologia que integre diferentes funções e que ofereça flexibilidade e escalabilidade.
+### FIDC:
+- Plataforma para gestão de fundos de investimento em direitos creditórios.
 
-- **Concorrência:** A necessidade de inovação para se manter competitiva em relação às fintechs e novas tecnologias que constantemente estão sendo introduzidas no mercado.
+### Portal de Custódia:
+- Solução para controle de ativos e passivos, atendendo gestores externos e fundações.
 
-## Contexto de Prospecção
-**Desafios do Setor Financeiro:**
-1. O mercado financeiro está em constante evolução, com novas tecnologias e mudanças nas expectativas dos consumidores.
-2. O Banco Central do Brasil introduziu o PIX, alterando a dinâmica de pagamentos e a necessidade de adaptação das instituições.
-3. Instituições financeiras precisam de suporte técnico e inovação para conduzir uma transformação digital bem-sucedida.
+## Diferenciais Competitivos
 
-**Oportunidades:**
-- O crescimento contínuo das fintechs e a demanda por soluções de diversas plataformas financeiras geram oportunidades de parcerias e colaborações.
-- A Sinqia pode se beneficiar do seu espírito inovador para se conectar com empresas que buscam modernizar suas operações.
+- **Tecnologia de Ponta:** A Sinqia aposta em tecnologia avançada e automação para soluções financeiras.
+- **Flexibilidade e Escalabilidade:** Soluções em nuvem e personalizáveis para atender a diferentes necessidades.
+- **Integração Total:** Capacidade de integrar diversos sistemas e operações em uma única plataforma.
 
-## Sugestões de Abordagem no Email
-Para que o copywriter possa criar um email personalizado e profundo, é importante considerar:
-- Destacar a capacidade da Sinqia de oferecer soluções integradas que atendem às necessidades específicas de cada cliente.
-- Mencionar o compromisso da empresa com inovação e transformação digital, e como isso se alinha com as prioridades das empresas-alvo.
-- Sugerir como a Sinqia pode ajudar a resolver problemas atuais enfrentados pelas instituições financeiras, como a complexidade da regulamentação e a necessidade de agilidade operacional.
+## Ponto de Dor Identificado
+
+- **Mudança Rápida no Mercado:** Com a evolução constante do mercado financeiro e a pressão por inovação digital, instituições financeiras e fintechs podem enfrentar desafios em manter-se competitivas e adequadas às regulamentações.
+- **Necessidade de Automação e Eficiência:** Muitas instituições precisam melhorar sua eficiência operacional e reduzir custos, especialmente em áreas como controle de ativos e gestão de portfólios.
+
+## Contexto e Oportunidades
+
+- **Transformação Digital:** A Sinqia tem um papel fundamental na transformação digital de instituições financeiras, proporcionando ferramentas que melhoram a eficiência e a experiência do cliente.
+- **Mercado em Crescimento:** O setor de fintechs e soluções digitais está em ascensão; essa é uma oportunidade para conectar marcas e influenciadores desse segmento via marketing de influência, destacando inovações e melhorias.
+
+## Sugestões para Abordagem
+
+1. **E-mail Personalizado:** Criar uma abordagem que mencione a relevância da transformação digital e a importância de se manter competitivo no mercado financeiro atual.
+2. **Foco nas Soluções:** Destacar casos de sucesso e como a Sinqia trouxe eficiência para outras instituições, potencializando a experiência do usuário e a gestão de ativos.
+3. **Incluir Testemunhos de Clientes:** Incorporar feedback positivo de clientes que utilizaram as soluções da Sinqia, para transmitir credibilidade e incentivar a conexão com influenciadores do segmento.
 
 ## Conclusão
-A Sinqia se posiciona como uma solução estratégica para instituições financeiras e fintechs que necessitam de inovação e eficiência em suas operações. A abordagem de prospecção deve enfatizar esses pontos, discutindo como a Sinqia pode atuar como parceira na transformação digital e na superação dos desafios atuais do setor financeiro.
+
+A Sinqia é uma empresa posicionada como líder em tecnologia para o mercado financeiro, com um portfólio diversificado que atende às necessidades de instituições financeiras e fintechs. A conexão com influenciadores poderá elevar a visibilidade de suas inovações e soluções, ajudando a reforçar sua presença no mercado em um cenário de contínua transformação digital.
