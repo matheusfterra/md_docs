@@ -1,51 +1,64 @@
-# Relatório de Prospecção - Wildlife Studios
+# Relatório de Prospecção: Wildlife Studios
 
-## 1. **Informações Gerais da Empresa**
-- **Nome:** Wildlife Studios
-- **Website:** [wildlifestudios.com](http://www.wildlifestudios.com)
+## Informações Gerais da Empresa
+
+- **Nome da Empresa:** Wildlife Studios
 - **Fundação:** 2011
-- **Localização:** Escritórios nos Estados Unidos, Brasil, Argentina, Irlanda e Israel.
-- **Funcionários:** Aproximadamente 800.
-- **Downloads totais:** 3 bilhões
-- **Quantidade de jogos:** Mais de 60.
+- **Sede:** Brasil, com escritórios nos EUA, Argentina, Irlanda e Israel
+- **Ramo de Atuação:** Desenvolvimento de jogos mobile
+- **Número de Jogos:** 60 
+- **Número de Downloads:** 3 bilhões
+- **Número de Funcionários:** Aproximadamente 800
+- **Valor da Empresa:** Avaliada em $3 bilhões após rodada de financiamento de $120M em 2020
 
-## 2. **Visão e Missão**
-Wildlife Studios é uma das maiores empresas de jogos móveis do mundo, com a missão de conectar o mundo por meio do entretenimento. A empresa se destaca pela excelência em arte, criatividade e tecnologia de ciência de dados, criando jogos que não apenas entretêm, mas também ensinam e interagem.
+## Contexto e Análise do Mercado
 
-### Valores Fundamentais:
-1. **Pensamos Grande:** Focam em criar produtos que se destacam entre milhões.
-2. **Agilidade:** Valorizam a rapidez na inovação e no desenvolvimento.
-3. **Candididade:** Criam um ambiente onde opiniões podem ser expressas respeitosamente.
-4. **Comprometimento:** Engajam-se profundamente em projetos que consideram importantes.
-5. **Cuidado Mútuo:** Promovem um ambiente respeitoso e de apoio.
-6. **Inovação com Pesquisa:** Celebram a inovação inteligente baseada em evidências.
+### O que a Wildlife Studios faz
+Wildlife Studios é uma das maiores companies de desenvolvimento de jogos mobile do mundo. A empresa é conhecida por seus jogos interativos que geram experiência e engajamento global, como **Tennis Clash** e **Zooba**. A equipe da Wildlife trabalha continuamente para oferecer a melhor experiência de jogo, combinando criatividade, arte e tecnologia de ponta.
 
-## 3. **Portfólio e Jogos**
-- **Jogos em destaque:**
-  - **Tennis Clash:** Um jogo de tênis com personagens diversos, que está alinhado com eventos esportivos globais, como o Australian Open.
-  - **Zooba:** Um jogo de batalha royale com personagens animais que compete em um ambiente divertido.
-  - **AFK Football, Midas Merge, Sniper 3D, War Machines, etc.**
+### Estratégia de Marketing e Inovação
+- A Wildlife se destaca por sua abordagem inovadora, utilizando pesquisa para desenvolver games que combinam diversão e aprendizado.
+- A empresa valoriza feedback rápido e constante, o que permite melhorias contínuas nos jogos.
+- A presença de uma **programa de Influenciadores** indica um reconhecimento da importância do marketing de influência para ampliar o alcance e engajamento dos jogos.
 
-### Programas para Influenciadores
-Wildlife Studios possui um **programa para criadores de conteúdo**, permitindo que influenciadores se tornem parceiros para ganhar recompensas exclusivas, acesso antecipado a novos conteúdos e a oportunidade de ser destaque na comunidade.
+### Dores e Desafios
+1. **Acompanhamento das Tendências:** O mercado de jogos mobile é altamente dinâmico; a Wildlife precisa permanecer atualizada sobre as tendências.
+2. **Engajamento do Usuário:** A retenção e o engajamento de usuários em jogos mobile são desafios constantes, especialmente com a concorrência intensa.
+3. **Diversificação de Jogos:** O portfólio de jogos deve ser diversificado para atingir diferentes públicos e aumentar os downloads.
+4. **Fraude em Recrutamento:** A empresa teve que lidar com fraudes relacionadas a recrutamento, o que pode impactar a imagem da marca.
 
-## 4. **Contexto e Dores**
-### Dores Potenciais:
-- **Conexão com a Audiência:** Aumentar o engajamento contínuo com os jogadores, especialmente em um panorama competitivo de jogos.
-- **Concorrência no Segmento:** Precisa se destacar em um mercado saturado, onde manter a atenção dos jogadores é um desafio constante.
-- **Criação de Conteúdo:** Desejo de promover continuamente seus jogos e atualizações através de conteúdo envolvente.
+## Análise do Programa de Influenciadores
 
-## 5. **Tendências do Setor**
-- **Aumento do Marketing de Influência:** A utilização de influenciadores para promover jogos se tornou uma estratégia eficaz para captar atenção e gerar buzz.
-- **Experiências Interativas:** Com a indústria de jogos mudando rapidamente, as empresas precisam se adaptar a novas formas de interação com os usuários.
+### **Oportunidade de Atração de Criadores de Conteúdo**
+A Wildlife Studios já possui um programa de influenciadores que oferece aos criadores de conteúdo acesso a benefícios exclusivos e astúcias de marketing. Este programa pode ser aprimorado pela adição de colaboração estratégica com influenciadores que possam promover jogos da Wildlife em suas plataformas.
 
-## 6. **Oportunidades de Parceria**
-- **Influência e Colaboração:** Criar campanhas de marketing com influenciadores pode ajudar a Wildlife Studios a alcançar novas audiências e aumentar a participação no mercado.
-- **Conteúdos Virtuais Interativos:** Desenvolvimento de experiências virtuais de jogos que podem ser compartilhadas por influenciadores nas redes sociais.
+### **Conteúdo Exclusivo e Recompensas**
+Além de fornecer acesso antecipado a novos conteúdos, o programa oferece recompensas mensais, como gems e itens especiais, indicando uma abordagem de engajamento que incentiva a criação ativa e a parceria de conteúdo.
 
-## 7. **Conclusão**
-A Wildlife Studios representa uma oportunidade promissora para serviços de marketing de influência, dada sua posição de destaque na indústria de jogos móveis e sua abertura para parcerias criativas. Proposta de colaboração deve focar na criação de campanhas que ampliem a sua visibilidade e engajamento com o público, utilizando os influenciadores como uma ponte para alcançar novos gamers e revitalizar o interesse pelos jogos existentes.
+### **Importância do Marketing de Influência**
+O emprego de influenciadores para a promoção de jogos é uma estratégia eficaz, pois:
+- Alcança um público mais amplo.
+- Gera confiança e credibilidade através de recomendações autênticas.
+- Melhora a visibilidade do jogo em plataformas sociais.
 
----
+## Sugestões de Prospecção e Abordagem
 
-Esse relatório deve fornecer ao copywriter as informações necessárias para compor um e-mail envolvente e personalizado, abordando as necessidades da Wildlife Studios e destacando como nossas soluções de marketing de influência podem atender a essas demandas.
+### Estratégia de Comunicação
+
+1. **Pesquisa Personalizada:** Antes de qualquer contato, conduzir uma pesquisa sobre tendências em jogos mobile para entender como podemos ajudar a Wildlife Studios a antecipar esses movimentos.
+   
+2. **Foco na Integração:** Propor uma integração mais robusta entre o programa de influenciadores e as estratégias de marketing digital da Wildlife, destacando como isso pode aumentar o engajamento e a retenção.
+
+3. **Ofertas de Colaboração:** Sugerir colaborações com influenciadores que têm um histórico comprovado de engajamento dentro do nicho de jogos e mobile.
+
+4. **Estudo de Caso:** Apresentar um estudo de caso sobre campanhas de sucesso de marketing de influência especificamente relacionadas a jogos.
+
+### Exemplos de E-mail Persuasivos
+Um esboço de e-mail pode incluir:
+- Personalização com o nome e detalhes específicos sobre um dos jogos da Wildlife.
+- Referência a tendências atuais de marketing de influência no setor de games.
+- Proposta clara de como a parceria pode beneficiar tanto os influenciadores quanto a Wildlife.
+
+## Conclusão
+
+Wildlife Studios é uma empresa inovadora que está posicionada favoravelmente no mercado de jogos mobile. Com um portfólio diversificado e um programa de influenciadores já em andamento, há uma oportunidade significativa para otimizar ainda mais suas campanhas de marketing através de parcerias estratégicas e uma abordagem centrada no engajamento do usuário. Um contato personalizado, que demonstre a compreensão da marca e suas necessidades específicas, pode resultar em uma colaboração frutífera.
