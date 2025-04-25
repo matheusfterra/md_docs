@@ -1,42 +1,70 @@
-# Relatório de Prospecção: Isaac - Plataforma de Gestão Financeira e de Inadimplência para Instituições de Ensino
+# Relatório de Prospecção - Empresa: Isaac
 
-## Informações Gerais da Empresa
-- **Nome da Empresa**: Isaac
-- **Website**: [www.isaac.com.br](http://www.isaac.com.br)
-- **Segmento**: Gestão financeira para instituições de ensino
-- **Localização**: Presente em várias regiões do Brasil, com foco em instituições de ensino privadas
+## 1. Informações Gerais sobre a Empresa
 
-## Características da Empresa
-- **Soluções Oferecidas**:
-  1. **Secretaria Digitalizada**: Facilitando a gestão financeira por meio da automatização de tarefas administrativas, envio de boletos e comunicação com responsáveis financeiros.
-  2. **Gestão de Inadimplência**: Suporte especializado para redução da inadimplência e análise de pendências financeiras.
-  3. **Segurança Financeira**: Garantia de recebimento de mensalidades na data combinada, proporcionando previsibilidade financeira.
-  4. **Soluções de Crescimento**: Consultoria e suporte para expandir a instituição de ensino e melhorar a captação de alunos.
-  
-- **Público-Alvo**: Instituições de ensino, incluindo tanto escolas de educação básica quanto instituições de ensino superior.
+### Nome da Empresa
+- Isaac
 
-- **Diferenciais**:
-  - Experiência acumulada na gestão de cobranças e inadimplência.
-  - Suporte personalizado oferecido pelo time de especialistas da Isaac.
-  - Integrações com ERPs do mercado, permitindo uma gestão prática e com total visibilidade do financeiro.
+### Segmento
+- **Educação** com foco em soluções financeiras e de gestão para instituições de ensino.
 
-## Contexto do Setor
-- O setor educacional enfrenta desafios constantes relacionados à inadimplência, gestão financeira e necessidades de inovação.
-- As instituições de ensino buscam soluções que ofereçam agilidade e segurança na cobrança das mensalidades, assegurando um fluxo de caixa regular.
-- A digitalização e a eficiência na gestão são tendências que vêm sendo cada vez mais valorizadas.
+### Website
+- [isaac.com.br](http://www.isaac.com.br/)
 
-## Possíveis Dores da Empresa
-1. **Inadimplência**: Dificuldade em receber pagamentos em dia, o que afeta o fluxo de caixa.
-2. **Gestão Burocrática**: Processos administrativos complexos que tiram o foco da principal missão educacional.
-3. **Falta de Visibilidade Financeira**: Dificuldades em acompanhar e analisar o desempenho financeiro da instituição em tempo real.
-4. **Retenção de Alunos**: Necessidade de estratégias eficazes para captar e manter alunos na instituição.
+### Endereço
+- Informação não disponível diretamente nos documentos analisados. Posso ajudar a localizar se necessário.
 
-## Oportunidades de Ação
-- **Campanhas de Conscientização**: Realizar uma campanha educativa sobre a importância da gestão financeira para as instituições de ensino, ressaltando como a parceria com a Isaac pode ajudar.
-- **Webinars e Workshops**: Oferecer seminários online sobre gestão financeira e estratégias para diminuição da inadimplência, com participação de especialistas da Isaac.
-- **Testemunhos e Estudos de Caso**: Compartilhar histórias de sucesso de instituições que implementaram as soluções da Isaac, demonstrando resultados tangíveis e eficiência.
+### Contato
+- **Tel:** (11) 3522-1300
+- **E-mail:** 
+  - Para SAC: qiajuda@qitech.com.br
+  - Para Ouvidoria: ouvidoria@qitech.com.br
 
-## Considerações Finais
-A Isaac se posiciona como uma solução robusta para instituições de ensino que buscam melhorar sua gestão financeira e reduzir a inadimplência. A abordagem consultiva da empresa e seu foco no cliente são diferenciais que podem ser destacados em campanhas de marketing, ajudando a atrair novas instituições para a plataforma.
+### Horário de Atendimento
+- **Segunda a sexta:** 06h às 22h
+- **Sábados:** 09h às 18h
 
-Este relatório servirá como base para a equipe de copywriting na criação de conteúdos e estratégias de email marketing, assegurando que a comunicação seja pertinente e de alto impacto para o público-alvo.
+## 2. Descrição dos Produtos e Serviços Oferecidos
+
+### 2.1. Principais Soluções
+- **Secretaria Digitalizada:** Facilita a gestão financeira e administrativa das instituições de ensino.
+- **Gestão de Inadimplência:** Oferece suporte para reduzir a inadimplência e automatizar processos de cobrança.
+- **Segurança Financeira:** Garantia de repasse mensal de mensalidades, proporcionando previsibilidade financeira.
+- **Soluções de Crescimento:** Apoio ao crescimento das instituições de ensino através de consultorias e soluções adaptadas.
+
+### 2.2. Diferenciais Competitivos
+- Possui parcerias com grandes nomes na educação e oferece um ecossistema completo de soluções.
+- Plataforma digital que garante segurança financeira e apoio ao planejamento estratégico das instituições.
+- Atendimento focado na agilidade e resolução de problemas, disponível em horários estendidos.
+
+## 3. Público-Alvo
+- Instituições de ensino privado (escolas, faculdades, e cursos técnicos).
+- Gestores das instituições que buscam soluções para melhorar a gestão financeira e reduzir a inadimplência.
+
+## 4. Contexto e Possíveis Dores do Cliente
+### 4.1. Contexto Atual
+- As instituições de ensino enfrentam desafios financeiros, incluindo inadimplência e a necessidade de garantir fluidez do caixa.
+- A digitalização e modernização dos processos administrativos é uma tendência necessária, especialmente após os impactos da pandemia.
+
+### 4.2. Possíveis Dores
+- Alta taxa de inadimplência que afeta a receita.
+- Dificuldade em gerenciar cobranças e processos financeiros manualmente.
+- Necessidade de manter a qualidade educacional enquanto gestores lidam com questões administrativas.
+
+## 5. Oportunidades de Proposta de Valor
+- Apresentar a plataforma como uma solução completa, que não apenas garante o recebimento das mensalidades, mas também melhora a gestão e o relacionamento com os alunos e seus responsáveis.
+- Oferecer informações sobre como a digitalização apropriada pode economizar tempo e reduzir estresse administrativo.
+- Propor uma demonstração de como os dados analíticos da plataforma podem ajudar na tomada de decisões estratégicas para o crescimento da instituição.
+
+## 6. Insights e Tendências
+- A crescente adoção de tecnologia no setor educacional destaca a importância de um sistema integrado que atenda às necessidades econômicas e administrativas das instituições.
+- As soluções que oferecem segurança financeira têm grande apelo, especialmente em um cenário onde a estabilidade financeira é crítica.
+
+## 7. Exemplos de Material para Copywriting
+- “Com o Isaac, sua instituição de ensino passa a ter a paz de espírito de receber mensalidades em dia, permitindo que você se concentre na sua verdadeira missão: educar.”
+- “Transforme a administração da sua escola em tempo recorde com soluções que eliminam a dor da inadimplência e garantem um fluxo de caixa saudável.”
+- “Descubra como o Isaac não só ajuda a garantir a segurança financeira, mas também a impulsionar seu crescimento com consultorias e parcerias estratégicas.”
+
+---
+
+Esse relatório equipará o time de copywriting para criar uma abordagem precisa e personalizada na comunicação com instituições de ensino, maximizando as chances de conversão em clientes. Adicionalmente, qualquer detalhe ou ponto específico para adicionar ou reformular pode ser revisto a partir de uma nova análise.
