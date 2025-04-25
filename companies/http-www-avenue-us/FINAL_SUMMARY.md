@@ -1,51 +1,65 @@
-### Relatório de Prospecção: Avenue
+# Relatório de Prospecção da Avenue
 
-#### Dados Gerais da Empresa
-- **Nome da empresa**: Avenue
-- **Segmento**: Serviços financeiros e investimentos internacionais
-- **Foco**: Plataforma de investimentos que conecta brasileiros ao mercado americano, oferecendo acesso a ações, fundos, renda fixa e opções.
-- **Localização**: Miami, Florida, EUA
-- **Website**: [avenue.us](http://www.avenue.us)
+## Informações Gerais da Empresa
+**Nome da Empresa:** Avenue Securities  
+**Segmento:** Corretora de Valores e Serviços Financeiros  
+**Website:** [www.avenue.us](http://www.avenue.us)  
+**Localização:** Miami, Flórida, EUA  
+**Ano de Fundação:** Não especificado - atuação ativa no Brasil com foco em investimentos no exterior.  
 
-#### Produtos e Serviços Oferecidos
-1. **Bolsa de Valores**: Permite investimento em ações, ETFs, REITs e ADRs das maiores bolsas do mundo (NYSE e Nasdaq).
-2. **Renda Fixa**: Títulos governamentais e corporativos que pagam em dólar.
-3. **Fundos de Investimento**: Acesso a fundos administrados por gestoras renomadas como BlackRock e JP Morgan.
-4. **Conta Internacional**: Facilita compras internacionais e transferências com cartão de débito em dólar e euro.
-5. **Transferência de Dinheiro**: Envio e recepção de valores em dólar e euro de qualquer lugar do mundo.
+## Serviços Oferecidos
+1. **Investimentos Internacional (Bolsa, Renda Fixa e Fundos):**
+   - Acesso à Nasdaq e NYSE.
+   - Mais de 8 mil ativos disponíveis (ações, ETFs, REITs, ADRs).
+   - Investimentos a partir de $5 (ação) e $1.000 (fundos e renda fixa).
+  
+2. **Conta Bancária Internacional:**
+   - Possibilidade de pagamentos e transferências em dólar e euro.
+   - Cartão de débito internacional.
 
-#### Características Distintivas
-- **Avenue Cash**: Solução bancária que permite serviços como pagamentos, transferências e recebimento em dólar.
-- **SIP e FDIC**: Proteção de investidor aos depósitos e ativos, assegurando transferência de valor até US$ 500.000.
-- **Interface amigável e 100% online**: Usuários podem abrir contas e realizar operações sem burocracias.
+3. **Transferências Internacionais:**
+   - Sem limites de envio entre contas próprias com zero custo.
+   - Transferência via Wire e ACH.
 
-#### Público-Alvo
-- **Investidores brasileiros**: Pessoas físicas que desejam diversificar seus investimentos e buscar oportunidades no mercado americano.
-- **Millennials e Geração Z**: Jovens investidores que preferem plataformas digitais e soluções financeiras modernas e flexíveis.
+4. **Gerenciamento de Risco e Assessoria:**
+   - Consultoria para personalização de portfólios de investimento.
+   - Relatórios simplificados para o Imposto de Renda.
 
-#### Dores e Necessidades
-1. **Dificuldade de acesso a mercados internacionais**: Muitos brasileiros enfrentam barreiras para investir fora do país, principalmente na compra de ativos em dólar.
-2. **Segurança e Proteção de Investimentos**: Compreensão da necessidade de informações sobre a proteção de seus ativos.
-3. **Simplificação de processos financeiros**: Necessidade de uma plataforma que permita gestão financeira e intuitiva com suporte a transferências internacionais.
-4. **Variedade de investimentos**: Busca por diversificação em ações, renda fixa e outros instrumentos financeiros.
+## Público-Alvo
+- Investidores brasileiros que desejam diversificar seu portfólio com ativos internacionais, especialmente em dólar.
+- Usuários de serviços financeiros que buscam uma solução acessível e prática para investir no exterior.
+- Contas com interesse em transferências internacionais e compras online em moeda forte.
 
-#### Concorrência
-- **Corretoras locais e internacionais**: Outros serviços financeiros que oferecem acesso a investimentos em dólar, como XP e Modalmais, além de opções internacionais como Interactive Brokers.
-- **Bancos tradicionais**: Que oferecem serviços similares, mas com alta burocracia e custos e taxas mais altas.
+## Contexto de Mercado e Oportunidades
+- **Cenário de Crescimento:** O mercado brasileiro tem visto um aumento no interesse em investimentos no exterior devido à flutuação do real e à busca por diversificação.
+- **Acesso ao Mercado Global:** Crescente demanda por acesso ao mercado americano, enfatizando a importância de plataformas que oferecem condições mais favoráveis do que bancos tradicionais.
+- **Educação Financeira:** A Avenue pode oferecer rich data e conteúdo educativo para ajudar os clientes a compreenderem os mercados internacionais e os produtos oferecidos.
 
-#### Oportunidades de Crescimento
-- **Educação Financeira**: Criar iniciativas que ensinem investidores sobre estratégia e funcionamento do mercado americano.
-- **Ampliação do portfólio**: Introduzir produtos financeiros inovadores e exclusivos para brasileiros.
-- **Aumentar presença digital**: Expandir campanhas de marketing voltadas para jovens, aproveitando influenciadores digitais e redes sociais.
+## Dores Possíveis do Cliente
+1. **Insegurança sobre a Diversificação:**
+   - Dificuldade para entender o processo de investimento no exterior e a seleção de ativos.
+   
+2. **Custos Ocultos:**
+   - Desconhecimento sobre as taxas associadas a transferências internacionais e câmbio.
 
-#### Objetivos da Prospecção
-- **Conectar com influenciadores financeiros**: Colaborar com influenciadores que tenham uma base de seguidores que desejam entender opções de investimento global.
-- **Aumentar a percepção de marca**: Criar campanhas de marketing que ressaltam a segurança e inovação da Avenue como plataforma de investimentos.
-- **Desenvolver parcerias estratégicas**: Com influencers e criadores de conteúdo que possam ajudar a educar o mercado sobre as vantagens de investir em dólar.
+3. **Complexidade em Impostos:**
+   - Dúvidas sobre a tributação de investimentos no exterior e a obrigatoriedade de declaração.
 
-#### Mensagem para Copywriting
-- **Foco na inovação**: Saliente como a Avenue transforma a forma com que brasileiros podem acessar e investir no mercado internacional.
-- **Segurança e confiabilidade**: Reforçar a proteção de ativos e facilidade de uso da plataforma.
-- **Destaque o acesso a informação e suporte**: Apresentar a Avenue como um guia para novos investidores no exterior, com amplo conteúdo educativo e consultoria.
+## Propostas de Solução
+- **Educação e Conteúdo Personalizado:** Envio de newsletters e webinars que explorem a importância da diversificação e como utilizar a Avenue para maximizar investimentos.
+- **Demonstração de Resultados e Casos de Sucesso:** Stories de clientes que atingiram metas financeiras utilizando os produtos da Avenue, aumentando a confiança na marca.
+- **Consultoria Gratuita Inicial:** Oferecer uma sessão de consultoria gratuita para novos clientes como forma de quebrar barreiras iniciais de insegurança e dúvidas.
 
-Utilizando este relatório, o copywriter pode criar um e-mail detalhado e personalizado para chamar a atenção de potenciais clientes e influenciadores, posicionando a Avenue como uma solução viável e inovadora para os desafios que os investidores brasileiros enfrentam ao buscar diversificação no exterior.
+## Diferenciais Competitivos da Avenue
+- **Taxas de Câmbio Favoráveis:** Taxa de IOF mais baixa em relação a bancos tradicionais e transparência na política de preços.
+- **Acesso a Gestão Profissional de Investimentos:** Fundos geridos por renomadas gestoras internacionais sem taxas de importação.
+- **Facilidade de Uso:** Plataforma digital intuitiva e sem necessidade de comprovação de investimento mínimo para abertura de conta.
+
+## Estratégias de Abordagem na Prospecção
+1. **Contato Direto:** Utilizar uma abordagem consultiva em e-mails e chamadas, destacando como a Avenue pode resolver as dores específicas do cliente.
+2. **Conteúdo Educacional Personalizado:** Criar materiais que expliquem tanto os produtos oferecidos quanto o potencial de retorno de investimentos internacionais.
+3. **Ofertas e Promoções:** Criar campanhas com benefícios na adesão inicial, como isenção de taxas ou consultorias gratuitas.
+
+---
+
+Este relatório visa proporcionar ao copywriter uma visão aprofundada sobre a Avenue e preparar comunicações que gerem interesse e resposta positiva de clientes potenciais.
