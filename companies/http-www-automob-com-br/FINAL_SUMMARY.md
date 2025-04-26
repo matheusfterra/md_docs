@@ -19,20 +19,20 @@ A Automob é uma das maiores e mais diversificadas incorporadoras de concession�
 - entre outras.
 
 ### **Unidades em Destaque**
-- AR Motors Honda | Aricanduva – São Paulo, SP
-- Alta GWM | Ibirapuera – São Paulo, SP
-- Alta Volkswagen | Sacomã – São Paulo, SP
+- **AR Motors Honda | Aricanduva** – São Paulo, SP
+- **Alta GWM | Ibirapuera** – São Paulo, SP
+- **Alta Volkswagen | Sacomã** – São Paulo, SP
 
 ## **Possíveis Dores e Desafios**
-1. **Concorrência Agressiva**: O setor automotivo é altamente competitivo, exigindo estratégias eficazes de marketing para se destacar.
-2. **Mudanças nas Preferências do Consumidor**: Os clientes estão cada vez mais informados e exigentes, buscando por experiências personalizadas e melhores serviços.
-3. **Digitalização**: A necessidade de adaptar-se a um ambiente digital crescente, incluindo a melhoria nas plataformas online e o uso de dados para personalização de marketing.
+1. **Concorrência Agressiva**: O setor automotivo é altamente competitivo, exigindo estratégias eficazes de marketing para se destacar e atrair clientes.
+2. **Mudanças nas Preferências do Consumidor**: Os clientes estão cada vez mais informados e exigentes, buscando por experiências personalizadas e melhores serviços ao consumidor.
+3. **Digitalização**: A necessidade de adaptar-se a um ambiente digital crescente, incluindo melhorias nas plataformas online e o uso de dados para personalização de marketing.
 4. **Sustentabilidade**: Há uma crescente pressão para que as empresas do setor automotivo adotem práticas mais sustentáveis e ofereçam opções de veículos mais ecológicos.
 
 ## **Contexto e Oportunidades de Marketing de Influência**
 - **Segmentação Direcionada**: A Automob pode se beneficiar significativamente do marketing de influência ao alinhar-se com influenciadores que compartilham os valores da marca e têm uma conexão genuína com o público-alvo.
-- **Histórias de Clientes**: Influenciadores podem ajudar a criar histórias autênticas sobre experiências positivas com produtos da Automob, melhorando o reconhecimento e a reputação da marca.
-- **Educação do Consumidor**: Criar campanhas educativas sobre as mudanças no setor automotivo, pautadas no uso de influenciadores como especialistas, pode aumentar a conscientização sobre os produtos da Automob.
+- **Histórias de Clientes**: Influenciadores podem ajudar a criar narrativas autênticas sobre experiências positivas com produtos da Automob, melhorando o reconhecimento e a reputação da marca.
+- **Educação do Consumidor**: Criar campanhas educativas sobre as mudanças no setor automotivo, usando influenciadores como especialistas, pode aumentar a conscientização sobre os produtos da Automob.
 
 ## **Proposta de Estratégia**
 1. **Identificação de Influenciadores**: Mapear influenciadores que atuam no nicho automotivo e que se alinhem com a mensagem da marca.
@@ -50,6 +50,6 @@ O setor automotivo está em rápida transformação, e a Automob tem uma oportun
 ### **Ações a Seguir**
 1. Mapeamento detalhado de influenciadores potenciais.
 2. Desenvolvimento de propostas de colaboração para campanhas conjuntas.
-3. Análise do impacto das campanhas e ajustes de estratégia com base nos resultados. 
+3. Análise do impacto das campanhas e ajustes de estratégia com base nos resultados.
 
-Com base neste relatório, espero que possamos criar uma campanha de e-mail que realmente ressoe com a Automob e mostre como podemos ajudá-los a alcançar seus objetivos de marketing.
+Esse relatório terá como base a elaboração de uma campanha de e-mail que realmente ressoe com a Automob e mostre como podemos ajudá-los a alcançar seus objetivos de marketing.
