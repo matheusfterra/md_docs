@@ -1,89 +1,73 @@
-# Relatório de Prospecção - Flávio's Calçados & Esportes
+# Relatório de Prospecção - Flávio's Calçados
 
-## 1. Informações Gerais da Empresa
+## Informações Gerais da Empresa
 
-**Nome da Empresa:** Flávio's Calçados & Esportes  
-**Site:** [www.flavios.com.br](http://www.flavios.com.br/)  
+**Nome da Empresa:** Flávios Calçados e Esportes LTDA  
 **CNPJ:** 02.138.006/0001-55  
-**Localização:** Avenida 24 de Outubro nº 1.383, Qd. 39, Lt. 01, Bairro: Campinas, Goiânia, GO, CEP: 74505-010  
-**Número de Contato:** (62) 3212-8787, (64) 3051-6615  
-**Atendimento por WhatsApp:** Sim, das 08h às 18h, exceto sábados, domingos e feriados.
+**Localização:** Avenida 24 de Outubro nº 1.383, Qd. 39, Lt. 01, Bairro Campinas, Goiânia / GO, CEP 74505-010  
+**Telefone de Contato:** (62) 3212-8787 / (64) 3051-6615  
+**E-mail de Contato:** sac@flavios.com.br  
+**Horário de Atendimento:** Segunda a Sexta, das 09h às 17h30min (exceto Sábados, Domingos e Feriados)  
+**Site:** [Flávios.com.br](http://www.flavios.com.br)  
+**Redes Sociais:** Presente em Facebook e Instagram (detalhes a serem pesquisados)
 
----
+## Segmento de Atuação
 
-## 2. Descrição da Empresa
+Flávios é uma empresa que atua no segmento de calçados e acessórios, com uma ampla gama de produtos que inclui:
 
-A Flávio's é uma empresa que atua no segmento de calçados e esportes, oferecendo uma ampla gama de produtos para diferentes perfis de consumidores, incluindo homens, mulheres e crianças. Seu portfólio inclui tênis masculinos, femininos e infantis, produtos esportivos, acessórios e roupas.
+1. **Tênis e Calçados:**
+   - Tênis Feminino:
+     - Esportivo
+     - Casual
+     - Infantil
+   - Tênis Masculino:
+     - Esportivo
+     - Casual
+     - Infantil
+   - Tênis Esportes:
+     - Corrida/Caminhada
+     - Vôlei/Basquete
+     - Futebol/Handebol
+     - Trilha/Aventura
+     - Skate
 
-### Categorias de Produtos
+2. **Roupas e Acessórios:**
+   - Roupas para homens, mulheres e crianças em diversas categorias como casual, esportiva, e moda praia.
+   - Acessórios como bolsas, mochilas, óculos de sol, cintos, entre outros.
 
-- **Tênis**  
-  - Feminino (Casual, Esportivo, Infantil)
-  - Masculino (Casual, Esportivo, Infantil)
-  - Tênis Esportivos (Corrida, Vôlei/Basquete, Futebol, Trilha/Aventura, Skate)
+3. **Marcas:**
+   - Trabalham com marcas renomadas como Adidas, Nike, Mizuno, Puma, entre outras.
 
-- **Acessórios**  
-  - Bolsas, mochilas, cintos, óculos de sol, entre outros.
+## Análise de Mercado e Concorrência
 
-- **Roupas**  
-  - Masculino, feminino e infantil, incluindo agasalhos, bermudas, calças e outras vestimentas confortáveis.
+### Concorrência
+- **Outros players no mercado de calçados e esportes:** É crucial observar outras lojas físicas e online que atuam em Goiás e no Brasil no geral. Analisar suas campanhas de marketing, promoções e engajamento nas redes sociais pode trazer insights valiosos.
 
-- **Marcas**  
-  - A empresa trabalha com marcas reconhecidas como Adidas, Nike, Mizuno, Asics, entre outras.
+### Tendências do Mercado
+- O mercado de e-commerce de moda esportiva está em constante crescimento. Avaliar as tendências de consumo, como a preferência por qué produtos sustentáveis e adequação ao estilo de vida ativo do consumidor moderno, pode ser importante.
 
-## 3. Portfólio de Produtos
+## Dores Identificadas e Oportunidades
 
-### Produtos em Destaque
-- **Tênis Feminino:** 
-  - Tênis Esportivo: Ex: Olympikus - Ultraleve
-  - Tênis Casual: Ex: Logus - 21790p
+### Dores Potenciais
+1. **Desconhecimento da Marca:** Muitos consumidores podem não estar cientes de todos os produtos e marcas disponíveis na Flávios.
+2. **Fidelização do Cliente:** Estratégias para manutenção da clientela e consequente fidelização são essenciais, especialmente em um mercado tão competitivo.
+3. **Engajamento nas Redes Sociais:** O volume de interações nas redes sociais pode ser menor do que a concorrência, o que pode afetar as vendas.
 
-- **Tênis Masculino:**
-  - Tênis Esportivo: Ex: Mizuno - Wave Prophecy 13
-  - Tênis Casual: Ex: All Star - CT0001
+### Oportunidades
+1. **Parcerias com Influenciadores:** Incorporar uma estratégia de marketing de influência pode aumentar o reconhecimento da marca e melhorar as vendas, especialmente entre públicos jovens.
+2. **Promoções e Lançamentos:** Lançar promoções atrativas e realizar eventos temáticos para datas comerciais pode beneficiar as vendas.
+3. **Campanhas de Sustentabilidade:** A adesão a práticas sustentáveis pode atrair uma faixa de consumidores mais consciente.
 
-- **Tênis Infantil:**
-  - Tênis Esportivo: Ex: Mizuno - Cool Ride 2
+## Proposta de Abordagem
 
-### Faixa de Preço
-Os preços variam de R$ 39,00 até R$ 1.800,00, com opções acessíveis e produtos de alta performance.
+**Objetivo:** Fazer uma abordagem colaborativa para desenvolver uma estratégia de marketing de influência que possa agregar valor à marca Flávios.
 
----
+### Estratégias a serem sugeridas:
+1. **Selecionar Influenciadores locais que se alinhem à imagem da marca.**
+2. **Criar campanhas aliadas à experiência do produto e feedback de usuários.**
+3. **Promoções de lançamento através dos influenciadores para criar um burburinho em torno de novos produtos.**
+4. **Aumentar a presença digital através de publicidades em redes sociais e plataformas populares.**
 
-## 4. Oportunidades no Marketing de Influência
+## Conclusão
 
-### Público-Alvo
-- **Principais Demográficos:**
-  - Jovens adultos e adolescentes que praticam esportes.
-  - Pais em busca de calçados e roupas confortáveis e de qualidade para seus filhos.
-  - Profissionais em busca de produtos esportivos e de moda.
-
-### Como a Flávio's Pode se Beneficiar
-- **Colaboração com Influenciadores:** A empresa pode se beneficiar ao se associar a influenciadores do mundo fitness e de moda, ampliando sua visibilidade e atraindo novos clientes. 
-- **Campanhas Sazonais:** A promoção de produtos durante eventos esportivos, voltados para o público adolescente, através de parcerias com influenciadores do TikTok e Instagram.
-- **Conteúdo de Estilo de Vida:** Produção de conteúdo com influenciadores, mostrando não apenas os produtos, mas estilos de vida associados à prática de esportes e modas jovens.
-
----
-
-## 5. Possíveis Dores
-
-### Identificação de Dores no Mercado
-- **Concorrência:** O mercado é altamente competitivo, com várias marcas estabelecidas. A Flávio's deve se diferenciar através de qualidade, design e marketing eficaz.
-- **Percepção de Marca:** Sensibilidades em relação a produtos sustentáveis e de produção ética estão crescendo entre os consumidores.
-- **Alcance Online:** Ter uma presença digital forte e relevante para atingir o público-alvo, especialmente nas redes sociais em rápida evolução.
-
----
-
-## 6. Contexto para Abordagem
-
-O mercado de calçados e vestuário esportivo é dinâmico e em constante crescimento, especialmente com o aumento do interesse em saúde e fitness. Marcas que adotam um marketing de influência estratégico possuem uma vantagem competitiva significativa. É crucial que a Flávio's utilize as redes sociais e a moda como ferramentas para engajar clientes e melhorar a percepção da marca. 
-
----
-
-## Considerações Finais
-
-A Flávio's Calçados e Esportes possui uma gama diversificada de produtos que atendem a diferentes segmentos de mercado. Uma estratégia de marketing de influência bem elaborada pode ajudar a aumentar a visibilidade da marca, engajar clientes e, consequentemente, impulsionar as vendas. É essencial compreender as dores do consumidor e as tendências do mercado para construir uma campanha de sucesso.
-
-Este relatório destina-se a fornecer a base necessária para a elaboração de uma campanha de marketing de influência eficaz, atraindo assim a atenção da Flávio's para as oportunidades que o marketing digital pode oferecer.
-
----
+O Flávios Calçados apresenta uma sólida base de produtos e uma boa reputação no mercado local, mas as oportunidades de crescimento através da marketing de influência e melhorias em engajamento social são notáveis. Uma colaboração focada pode posicionar ainda mais a marca como uma referência em calçados e acessórios no Brasil.
