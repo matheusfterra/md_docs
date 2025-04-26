@@ -1,61 +1,51 @@
-## Relatório de Prospecção: Enjoei
+# Relatório de Prospecção: Enjoei
 
-### 1. Dados Gerais da Empresa
+## Informações Gerais da Empresa
 
-- **Nome da empresa**: Enjoei S.A.
-- **CNPJ**: 16.922.038/0001-51
-- **Localização**: Avenida Ipiranga, 200, Loja 87, Andar Terraço, Edifício Copan, República, São Paulo, SP, 01046-925
-- **Website**: [enjoei.com.br](http://www.enjoei.com.br)
-- **Segmento**: Marketplace para compra e venda de produtos novos e usados, com foco em moda e eletrônicos.
+**Nome da Empresa:** Enjoei S.A.  
+**Segmento:** Marketplace de compra e venda de produtos novos e usados.  
+**Website:** [www.enjoei.com.br](https://www.enjoei.com.br)  
+**CNPJ:** 16.922.038/0001-51  
+**Localização:** Avenida Ipiranga, 200, Loja 87, Edifício Copan, República, São Paulo, SP – 01046-925, Brasil  
+**Data de Fundação:** 2011  
+**Modelo de Negócio:** E-commerce e marketplace  
+**Público Alvo:** Consumidores em busca de produtos de moda e decoração, abrangendo categorias de roupas, calçados, eletrônicos, artigos para casa, entre outros.  
 
-### 2. Descrição dos Serviços
+## Descrição da Plataforma
 
-O Enjoei é uma plataforma de intermediação que conecta vendedores (usuários) a compradores, permitindo a venda de produtos novos ou usados de forma segura. As principais características e serviços incluem:
+O Enjoei é um marketplace que permite que usuários vendam e comprem itens novos ou usados de forma segura. A plataforma oferece um ambiente amigável com curadoria de produtos, integração com influenciadores e promoções. Os vendedores podem cadastrar suas "lojinhas" e os compradores podem acessar uma vasta gama de produtos, realizando suas compras com proteção e segurança.
 
-- **Cadastro e Anúncios**: Usuários se cadastram para criar lojas e vender produtos através de anúncios.
-- **Divulgação**: Os anúncios são divulgados pela plataforma, aumentando a visibilidade para potenciais compradores.
-- **Logística**: Garantia de que os produtos serão entregues através de serviços logísticos.
-- **Pagamento Seguro**: Gerenciamento seguro dos pagamentos entre compradores e vendedores.
+## Características Principais
 
-### 3. Perfil do Cliente
+- **Marketplace Integrado:** Capacidade de intermediar a compra e a venda de produtos de forma simplificada.
+- **Curadoria de Produtos:** Seleção criteriosa de produtos oferecidos na plataforma para garantir a qualidade.
+- **Aplicativo Móvel:** Disponibilidade de aplicativo para acesso e compra direta pelo celular.
+- **Conexão com Influenciadores:** Parcerias com influenciadores que promovem os produtos disponíveis no site.
+- **Atendimento ao Cliente:** Oferece suporte e serviço de atendimento ao cliente para resolver dúvidas e auxiliar no processo de compra e venda.
 
-**Público-Alvo**:
-- Compradores: pessoas interessadas em moda, eletrônicos e produtos variados a preços acessíveis.
-- Vendedores: indivíduos ou pequenas empresas que desejam vender produtos novos ou usados, especialmente no nicho de moda.
+## Análise de Concorrência
 
-**Usabilidade**:
-- O site é amigável e permite que os usuários filtrem produtos por categoria, preço, e popularidade, com ênfase em promoções e itens em alta.
+O Enjoei atua em um mercado com a presença de outros marketplaces (ex.: OLX, Mercado Livre, Shopee). O diferencial do Enjoei é o seu foco em um ambiente de moda e estilo de vida, o que envolve uma experiência de compra mais curada e pautada na sustentabilidade por meio da revenda de produtos.
 
-### 4. Dores e Necessidades
+## Dores e Desafios
 
-**Dores**:
+1. **Concorrência Aumentada:** A competitividade com grandes players de e-commerce pode dificultar a fidelização de usuários.
+2. **Fidelização de Clientes:** Conversão de usuários que visitam o site em compradores recorrentes.
+3. **Sustentação da Curadoria:** Manter a qualidade dos produtos oferecidos em meio a um grande volume de novos cadastros.
+4. **Logística e Envio:** Gerenciar a eficiência do envio dos produtos, principalmente em áreas mais remotas.
 
-1. **Confiabilidade**: Os vendedores precisam de uma plataforma segura que minimize fraudes e garanta a entrega dos produtos.
-2. **Visibilidade**: Pequenos vendedores frequentemente lutam para se destacar em meio a muitos produtos semelhantes.
-3. **Simplicidade**: Vendedores e compradores buscam um processo fácil e rápido, desde o cadastro até a finalização de compras.
+## Oportunidades
 
-### 5. Estrutura Competitiva
+1. **Expansão da Marca Física:** Abertura de "Enjulojas" em diferentes localidades, como São Paulo e Goiânia, possibilitando maior engajamento com os clientes.
+2. **Aumentar a Presença Digital:** Fortalecimento do marketing digital através de campanhas com influenciadores e parcerias estratégicas.
+3. **Promoções e Cupons:** Utilização de cupons de desconto para atrair novos clientes e fidelizar os já existentes.
+4. **Adoção de Tecnologia:** Investir em melhorias no site e aplicativo para otimização da experiência do usuário.
 
-**Concorrência**:
-- Outras plataformas de marketplace, como OLX, Mercado Livre, e Facebook Marketplace, que oferecem serviços semelhantes.
-- Investimentos em publicidade e marketing digital são essenciais para atrair tanto vendedores quanto compradores para a plataforma em comparação aos concorrentes.
+## Informações de Contato
 
-### 6. Oportunidades de Marketing de Influência
+- **E-mail de Contato do Suporte ao Cliente:** [contato@enjoei.com.br](mailto:contato@enjoei.com.br)
+- **Telefones:** (11) 3197-4883
 
-**Oportunidades**:
+## Conclusão
 
-1. **Parcerias com Influenciadores**: Colaborar com influenciadores relevantes no nicho de moda e eletrônicos para promover o uso do Enjoei, destacando as vantagens de vender e comprar através da plataforma.
-2. **Campanhas de Conscientização**: Criar campanhas que educam os usuários sobre a importância da compra de produtos usados e sustentáveis, alinhando-se a movimentos sociais atuais.
-3. **Promoções e Descontos**: Influenciadores podem ajudar a promover períodos de promoção, incentivando o desejo de compra.
-
-### 7. Contexto para Prospecção
-
-Com o crescente interesse em sustentabilidade e economia circular, o Enjoei se posiciona como uma solução prática para consumidores que desejam fazer compras conscientes. A prospecção deve desenvolver mensagens que enfatizem a segurança, simplicidade e benefícios de comprar e vender através do Enjoei, acolhendo tanto novos usuários quanto aqueles que já estão familiarizados com plataformas de venda.
-
-### 8. Sugestões de Ação
-
-**Copywriter**:
-- Criar emails marketing que abordem as características da plataforma, ressaltando depoimentos de usuários reais e histórias de sucesso de vendedores.
-- Incluir um incentivo para que influenciadores compartilhem suas experiências práticas ao usar o Enjoei.
-
-Este relatório fornece uma visão abrangente sobre como abordar e engajar potenciais clientes e influenciadores no cenário do Enjoei. A personalização das mensagens de marketing, baseada nos dados coletados, pode melhorar significativamente as taxas de conversão e engajamento.
+A Enjoei é uma empresa com um grande potencial de crescimento no segmento de e-commerce, especialmente focada em moda e estilo de vida. O mapeamento das informações e características da empresa mostram que, com um foco no fortalecimento de sua imagem e na fidelização dos seus clientes, é possível expandir ainda mais sua presença no mercado. A comunicação para prospecção deve enfatizar como nossa solução de Marketing de Influência pode contribuir para aumentar a interação com o público-alvo e alavancar suas taxas de conversão.
