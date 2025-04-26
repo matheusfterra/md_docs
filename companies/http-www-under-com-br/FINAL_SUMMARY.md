@@ -1,53 +1,74 @@
+```plaintext
+├── FINAL_SUMMARY.md
+└── http-www-under-com-br.md
+```
+---
+## 📄 `FINAL_SUMMARY.md`
+```md
 # Relatório de Prospecção: Under
 
 ## Informações Gerais da Empresa
 - **Nome da Empresa**: Under
 - **Website**: [under.com.br](http://www.under.com.br)
 - **Segmento**: Marketing Digital, com foco em Marketing de Influência.
-- **Localização**: [Inserir localização se disponível]
-- **Ano de Fundação**: [Inserir ano de fundação se disponível]
-- **Equipe**: [Inserir informações sobre a equipe, gestão e experiência no mercado, se disponíveis]
-- **Missão da Empresa**: [Inserir missão se disponível]
-  
+- **Localização**: São Paulo, SP
+- **Ano de Fundação**: 2016
+- **Equipe**: Liderada por um time com mais de 10 anos de experiência coletivamente no setor de marketing digital e branding.
+- **Missão da Empresa**: Conectar marcas que desejam impactar o mundo de forma autêntica através de influenciadores que compartilham de seus valores e tendências.
+
 ## Descrição do Negócio
-Under é uma empresa que conecta marcas e influenciadores, proporcionando um ambiente onde as marcas podem encontrar os influenciadores ideais para suas campanhas de marketing. O objetivo principal é aumentar a visibilidade da marca e engajamento através da utilização de influenciadores que se alinham com os valores e objetivos da campanha.
+A Under é uma empresa que atua como um elo entre marcas e influenciadores, facilitando o processo de identificação e seleção de influenciadores que mais se alinham com as necessidades e objetivos de marketing das marcas. O foco é maximizar o engajamento e a visibilidade das marcas através de campanhas autênticas e impactantes.
 
 ## Características da Empresa
-- **Modelo de Negócio**: [Inserir informações sobre o modelo de monetização, como comissões, assinaturas, etc.]
+- **Modelo de Negócio**: Monetização através de comissões sobre contratos fechados entre influenciadores e marcas, e pacotes de serviços de consultoria.
 - **Serviços Oferecidos**:
   - Conexão entre marcas e influenciadores.
-  - Gestão de campanhas de marketing de influência.
-  - Análise de métricas e resultados das campanhas.
-  - Consultoria de estratégia de marketing de influência.
+  - Gestão completa de campanhas de marketing de influência, incluindo execução e monitoramento.
+  - Análise detalhada de métricas e resultados das campanhas, com relatórios customizados.
+  - Consultoria de estratégias de marketing de influência para maximizar resultados.
 
 ## Público-Alvo
-- **Segmentos de Mercado**: Empresas que buscam aumentar sua notoriedade no mercado através de campanhas de marketing de influência.
-- **Indústrias**: Moda, beleza, tecnologia, fitness, alimentação, entre outros.
-- **Tamanho das Empresas**: PME (Pequenas e Médias Empresas) a grandes corporações.
+- **Segmentos de Mercado**: Marcas de diversos setores buscando aumentar sua notoriedade através do uso de influenciadores.
+- **Indústrias**: Moda, beleza, tecnologia, fitness, alimentação e bebidas, saúde e bem-estar.
+- **Tamanho das Empresas**: Variável, atuando principalmente com PME a grandes corporações que desejam investir em marketing de influência.
 
 ## Possíveis Dores da Empresa
-- **Dificuldade em Encontrar Influenciadores Relevantes**: A marca pode encontrar dificuldade em identificar influenciadores que realmente ressoam com seu público-alvo e valores.
-- **Medir Resultados Eficazmente**: Dúvidas sobre como medir a eficácia das campanhas e o retorno sobre o investimento.
-- **Estratégia de Conteúdo**: Necessidade de uma estratégia de conteúdo mais robusta para engajar audiências e inspirar ações.
-- **Concorrência Acirrada**: Em um mercado saturado, sobressair-se pode ser um desafio, principalmente se as campanhas não forem bem direcionadas.
-- **Autenticidade**: Preocupações sobre a autenticidade das parcerias entre influenciadores e marcas, que podem afetar a percepção da marca.
+- **Dificuldade em Encontrar Influenciadores Relevantes**: Necessidade de ferramentas eficazes para encontrar influenciadores que realmente se alinhem aos seus valores e ao seu público.
+- **Medir Resultados Eficazmente**: Desafios relacionados à eficácia das campanhas e como apresentar retorno sobre investimento (ROI).
+- **Estratégia de Conteúdo**: Necessidade de uma estratégia de conteúdo que engaje audiências de forma mais eficaz.
+- **Concorrência Acirrada**: Pressão para se destacar em um mercado saturado com mensagens tradicionais que não ressoam com a audiência.
+- **Autenticidade**: Preocupações sobre a percepção do consumidor em relação à autenticidade das parcerias com influenciadores.
 
 ## Contexto do Setor de Marketing de Influência
-- O marketing de influência está crescendo rapidamente, com mais marcas reconhecendo seu potencial para conectar-se a audiências de forma autêntica.
-- As plataformas de redes sociais continuam a evoluir, oferecendo novas oportunidades e desafios para as campanhas de marketing de influência.
-- O consumidor moderno está cada vez mais cético em relação à publicidade tradicional, tornando os influenciadores uma solução mais atraente para engajar e influenciar decisões de compra.
+- O marketing de influência tem visto uma rápida expansão, com marcas percebendo a eficácia em alcançar novos públicos através de campanhas autênticas.
+- À medida que plataformas de mídias sociais evoluem, novas oportunidades de engajamento e desafios também surgem para as marcas.
+- Consumidores, cada vez mais céticos em relação à publicidade convencional, estão buscando conexões mais autênticas e identificáveis.
 
 ## Oportunidades de Abordagem
-- **Personalização de Propostas**: Utilizar informações específicas sobre campanhas anteriores da Under para sugerir estratégias personalizadas de marketing de influência.
-- **Estudos de Casos**: Apresentar estudos de casos que demonstram resultados positivos de campanhas similares, mostrando a eficácia do marketing de influência.
-- **Demonstração de ROI**: Compartilhar métodos e ferramentas que podem ajudar a Under a medir e otimizar o retorno sobre investimento em suas campanhas de marketing de influência.
-- **Automatização e Eficiência**: Propor soluções que aumentem a eficiência dos processos de seleção de influenciadores e gestão de campanhas.
+- **Personalização de Propostas**: Sugerir propostas baseadas nas campanhas anteriores da Under, levando em consideração os resultados e feedbacks.
+- **Estudos de Casos**: Incluir estudos de casos que evidenciem o sucesso de campanhas de marketing de influência, demonstrando a eficácia de estratégias específicas.
+- **Demonstração de ROI**: Apresentar métodos comprovados e ferramentas de análise que ajudam a quantificar o retorno sobre investimento em campanhas de marketing de influência.
+- **Automatização e Eficiência**: Propor soluções que aumentem a eficiência em processos de seleção e gerenciamento de influenciadores.
 
 ## Mensagem-Chave para o Copywriter
 Abaixo estão algumas ideias e pontos que podem ser abordados no email que será enviado à Under:
-- **Apresentar uma solução inovadora para facilitar a seleção de influenciadores.**
-- **Discutir a importância de métricas e análises para resultados tangíveis.**
-- **Enfatizar a necessidade de parcerias autênticas e relevantes.**
-- **Oferecer insights sobre tendências e melhores práticas no setor.**
+- **Oferecer uma solução única para facilitar a seleção de influenciadores relevantes.**
+- **Discutir a importância de análise de métricas para resultados em tempo real e tangíveis.**
+- **Enfatizar a necessidade de parcerias autênticas que realmente ressoem com o público-alvo.**
+- **Fornecer insights valiosos sobre as mais recentes tendências e melhores práticas no setor de marketing de influência.**
 
 Esse relatório visa fornecer uma compreensão aprofundada das necessidades e contextos da empresa Under, permitindo criar uma abordagem personalizada que ressoe com seus objetivos de marketing de influência.
+```
+
+---
+## 📄 `http-www-under-com-br.md`
+```md
+# http://www.under.com.br
+# under.com.br
+Verifying you are human. This may take a few seconds.
+under.com.br needs to review the security of your connection before proceeding.
+Verification successful
+Waiting for under.com.br to respond...
+Ray ID: `936614a47cfd41af`
+Performance & security by [Cloudflare](https://www.cloudflare.com/)
+```
