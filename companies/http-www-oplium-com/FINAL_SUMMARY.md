@@ -1,79 +1,72 @@
-# Relatório de Prospecção de Empresa
+# Relatório de Prospecção - [Nome da Empresa Prospectada]
 
-## Informações Gerais da Empresa
+## 1. Informações Gerais da Empresa
+- **Nome da Empresa**: [Nome da Empresa]
+- **Site**: [URL do site]
+- **Segmento de Atuação**: [Segmento do mercado]
+- **Descrição da Empresa**: [Breve descrição sobre a empresa, história, missão e valores]
+- **Localização**: [Cidade / Estado / País]
+- **Tamanho da Empresa**: [Pequena, Média, Grande - Número de funcionários]
 
-- **Nome da Empresa:** [Nome da Empresa Prospectada]
-- **Setor de Atuação:** [Setor da Empresa] (Ex: Varejo, Beleza, Tecnologia, etc.)
-- **Localização:** [Cidade, Estado, País]
-- **Website:** [URL do Site da Empresa]
-- **Redes Sociais:** [Links para redes sociais, como Instagram, Facebook, LinkedIn, etc.]
-- **Ano de Fundação:** [Ano]
+## 2. Contexto do Mercado
+- **Tendências do Setor**: [Informações sobre as tendências atuais que impactam o segmento da empresa prospectada]
+- **Concorrência**: [Principais concorrentes e análise breve sobre como se posicionam em relação ao Marketing de Influência]
 
----
+## 3. Presença Digital e Marketing
+- **Redes Sociais**:
+  - Facebook: [Link e número de seguidores]
+  - Instagram: [Link e número de seguidores]
+  - Twitter: [Link e número de seguidores]
+  - LinkedIn: [Link e número de seguidores]
+  - Outros: [Links relevantes]
+- **Blog/Website**:
+  - Frequência de postagens: [Diária, semanal, mensal]
+  - Temas abordados: [Principais tópicos]
+- **Estratégia de Marketing Digital**: [Descrição da estratégia, se evidente (SEO, conteúdo, anúncios pagos, etc.)]
 
-## Análise do Mercado e Concorrência
+## 4. Persona e Público-Alvo
+- **Perfil do Cliente Ideal**: [Descrição do cliente que a empresa prospectada busca atingir]
+- **Dores / Desafios**: 
+  - [Desafio 1: e.g., Baixa Visibilidade]
+  - [Desafio 2: e.g., Engajamento com o público]
+  - [Desafio 3: e.g., Conversão de Leads]
 
-### 1. Segmento de Mercado
-- **Descrição do Segmento:** [Breve descrição do segmento de mercado onde a empresa atua]
-- **Tamanho do Mercado:** [Informações sobre o tamanho do mercado, potencial de crescimento]
-- **Tendências:** [Principais tendências que impactam o segmento atualmente]
+## 5. Oportunidades de Marketing de Influência
+- **Influenciadores Relevantes**: [Identificação de influenciadores ou categorias que poderiam se alinhar com a marca da empresa prospectada]
+- **Histórico de Colaboração com Influenciadores**: [Informações sobre colaborações passadas (se houver) e resultados obtidos]
+  
+## 6. Análise de Comunicação
+- **Tom de Voz**: [Resumo do tom e estilo de comunicação da empresa – amistoso, profissional, informativo, entre outros.]
+- **Mensagens-Chave**: [Frases ou slogans que a empresa utiliza e que podem ser úteis para personalização do contato]
 
-### 2. Concorrência
-- **Principais Concorrentes:** [Lista de concorrentes diretos]
-- **Diferenciais Competitivos:** [O que a empresa faz diferente dos concorrentes? Quais são seus pontos fortes e fracos?]
+## 7. Relevância da Proposta
+- **Como o Marketing de Influência pode ajudar**:
+  - Aumentar a visibilidade da marca: [Descrever como a colaboração com influenciadores pode atingir novos públicos]
+  - Criar engajamento: [Como influenciadores podem aumentar a interatividade com o público-alvo]
+  - Aumentar as vendas: [Exemplos de como campanhas de marketing de influência podem levar a um aumento nas conversões]
 
----
+## 8. Ações Recomendadas
+- **Estratégias de Abordagem**:
+  - [Sugestão de como iniciar a conversa com a empresa prospectada]
+  - [Possíveis perguntas a serem feitas durante o primeiro contato]
+- **Recursos Adicionais**: [Links ou documentos que podem ser úteis para a equipe]
 
-## Perfil da Persona da Empresa
+## 9. Contatos e Networking
+- **Nome do Contato**: [Nome da pessoa responsável pelo marketing ou parcerias]
+- **Cargo**: [Cargo do contato]
+- **Email**: [Email do contato]
+- **Telefone**: [Telefone do contato]
+- **Redes Sociais do Contato**: [Links do LinkedIn ou outras redes]
 
-### 1. Público-Alvo
-- **Demografia:** [Idade, gênero, localização, interesses do público-alvo]
-- **Comportamento de Compra:** [Como o público prefere comprar? Quais são suas motivações?]
-
-### 2. Estratégias de Marketing Atuais
-- **Canais Utilizados:** [Quais canais a empresa está usando? Ex: e-mail marketing, redes sociais, SEO]
-- **Campanhas Recentes:** [Descrever campanhas exploradas recentemente pela empresa]
-
----
-
-## Possíveis Dores e Desafios
-
-### 1. Dores Identificadas
-- **Falta de Conexão com o Público:** [A empresa tem dificuldade em engajar com seu público-alvo?]
-- **Busca por Novos Canais de Vendas:** [A empresa está tentando diversificar suas fontes de receita?]
-- **Relevância da Marca:** [A marca enfrenta desafios para se manter relevante em seu segmento?]
-
-### 2. Desafios de Marketing
-- **Utilização de Influenciadores:** [A empresa já utilizou ou está utilizando influenciadores?]
-- **Retorno sobre Investimento (ROI):** [A empresa está insatisfeita com o retorno das campanhas atuais?]
-
----
-
-## Oportunidades para o Marketing de Influência
-
-### 1. Conexão com Influenciadores
-- **Influenciadores Principais do Setor:** [Listar influenciadores que podem ser interessantes para parcerias]
-- **Tipos de Conteúdo:** [Que tipo de conteúdo poderia ser criado para a empresa? Ex: resenhas de produtos, tutoriais, unboxings]
-
-### 2. Formato de Campanha Ideal
-- **Campanhas de Lançamento:** [Sugestões de campanhas para o lançamento de novos produtos/serviços]
-- **Eventos ou Datas Comemorativas:** [Oportunidades para campanhas em datas sazonais ou eventos relevantes]
-
----
-
-## Mensagem Personalizada para o Copywriter
-
-### 1. Introdução
-- **Contextualização:** [Breve introdução sobre a empresa e seu segmento]
-
-### 2. Proposta de Valor
-- **Como podemos ajudar:** [Apresentar como a plataforma pode resolver as dores da empresa e contribuir para o crescimento]
-
-### 3. Chamada para Ação
-- **Próximos Passos:** [Sugerir uma reunião ou uma conversa para discutir estratégias personalizados para a empresa]
+## 10. Considerações Finais
+- [Quaisquer observações relevantes que possam ajudar na aproximação ou elaboração da comunicação]
+- [Insights sobre como a empresa prospectada poderia se beneficiar de forma única através de estratégias de marketing de influência]
 
 ---
 
-## Conclusão
+### Anotações Finais:
+- Este relatório deverá ser atualizado regularmente conforme novas informações forem obtidas.
+- A personalização é essencial; cada contato deve ser único e adaptado às características identificadas neste relatório. 
 
-Esse relatório fornece uma visão detalhada sobre [Nome da Empresa Prospectada], incluindo suas principais características, dores, oportunidades de marketing de influência e como podemos abordá-los efetivamente. Essa informação será valiosa para nossa equipe na elaboração de uma comunicação personalizada e impactante.
+**Data de Conclusão do Relatório**: [Data]  
+**Elaborado por**: [Seu Nome] - SDR Especialista em Prospecção Outbound
