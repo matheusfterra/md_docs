@@ -1,59 +1,47 @@
-## Relatório de Prospecção - IPOG
+# Relatório de Prospecção - IPOG (Instituto de Pós-Graduação e Graduação)
 
-### Informações da Empresa
+## 1. Informações Gerais
+- **Nome da Empresa:** IPOG (Instituto de Pós-Graduação e Graduação)
+- **Website:** [www.ipog.edu.br](http://www.ipog.edu.br)
+- **Segmento:** Educação (Cursos de Pós-graduação, Cursos de Extensão e Graduação)
+- **Localização:** Sede em Goiânia, com unidades em diversas cidades do Brasil.
 
-- **Nome:** IPOG (Instituto de Pós-Graduação e Graduação)
-- **Website:** [http://www.ipog.edu.br](http://www.ipog.edu.br)
-- **Localização:** Presente em 52 unidades em todo o Brasil
-- **Setor de Atuação:** Educação (Pós-graduação, graduação e cursos de extensão)
+## 2. Descrição dos Cursos
+### 2.1. Cursos de Extensão
+- **Excel Completo do Básico ao Avançado:** Domínio do software Excel,  aumentando a eficiência nas tarefas diárias.
+- **Formação em Marketing Digital:** Ensina sobre Inbound Marketing, SEO, redes sociais, entre outros tópicos relevantes para o marketing digital contemporâneo.
+- **Microsoft Power BI:** Análise de Dados Corporativos e Criação de Dashboards Gerenciais.
 
-### Descrição da Empresa
+### 2.2. Pós-graduação
+- **MBA em Gestão Comercial, Negociação e Inteligência de Mercado:** Foco em estratégias de vendas e otimização de resultados organizacionais.
+- **MBA em Gerenciamento de Obras, Qualidade e Desempenho da Construção:** Capacitação em técnicas e ferramentas de gerenciamento de obras.
+- **Neuropsicologia:** Habilitação em técnicas de avaliação e intervenção neuropsicológica.
 
-O IPOG é uma instituição educacional que se destaca na formação de profissionais por meio de cursos de pós-graduação, graduação e cursos de extensão. Focado em atender às demandas do mercado de trabalho, proporciona uma educação de qualidade utilizando um corpo docente composto por especialistas, mestres e doutores.
+## 3. Características e Diferenciais
+- **Metodologia de Ensino:** Ensino prático e teórico com um forte enfoque na aplicação prática.
+- **Professores Qualificados:** Contam com profissionais mestres, doutores e especialistas reconhecidos no mercado.
+- **Flexibilidade:** Modalidades de cursos (Presencial e Ao Vivo) para melhor se adequar à rotina dos alunos.
 
-### Portfólio de Produtos
+## 4. Público-Alvo
+- **Alunos / Profissionais:** Pessoas que buscam aprimorar suas qualificações ou mudar de carreira, como executivos, engenheiros, médicos e profissionais da educação.
+- **Empresas:** Organizações que desejam capacitar seus colaboradores.
 
-1. **Pós-Graduações**:
-   - MBA em Contabilidade Tributária e Inteligência Fiscal
-   - MBA em Energia Elétrica: Geração, Transmissão e Distribuição
-   - MBA em Liderança Estratégica e Gestão Financeira
-   - Neuropsicologia
+## 5. Pontos de Dor/Desafios
+- **Concorrência no Segmento de Educação:** O IPOG precisa se diferenciar em um mercado educacional saturado.
+- **Desafios Econômicos:** O acesso a cursos de qualidade pode ser limitado em cenários econômicos adversos.
+- **Adaptação às Novas Tecnologias:** Necessidade constante de atualização em metodologias de ensino, como e-learning e blended learning.
 
-2. **Cursos de Extensão**:
-   - Formação em Marketing Digital
-   - Excel Completo do Básico ao Avançado
-   - Análise das Demonstrações Contábeis
-   - Aplicação Prática dos Métodos Ágeis em Projetos
+## 6. Oportunidades no Marketing de Influência
+- **Promoção de Cursos:** Uso de influenciadores relevantes na área da educação e desenvolvimento pessoal para promover cursos e aumentar a visibilidade do IPOG.
+- **Testemunhos de Alunos:** Compartilhar histórias de sucesso de alunos que transformaram suas carreiras após concluir os cursos.
 
-### Características da Empresa
+## 7. Contexto e Estratégia de Prospecção
+- **Proposta de Abordagem:** Realizar uma campanha de marketing direcionada a influenciadores que atuam no segmento de educação e desenvolvimento pessoal. A campanha pode enfatizar a flexibilidade e a qualidade do ensino dos cursos, incentivando os influenciadores a compartilhar suas experiências com seus seguidores.
+- **Mensagem-Chave:** "Aliando prática, teoria e flexibilidade, o IPOG forma profissionais prontos para os desafios do mercado de trabalho."
 
-- **Modelo de Ensino:** Presencial e online, com ênfase na metodologia ativa.
-- **Duração dos Cursos:** Varia de 32 horas para cursos de extensão a 12 meses para MBAs.
-- **Público-Alvo:** Profissionais em busca de formação continuada e desenvolvimento de habilidades específicas.
-- **Diferencias:** Corpo docente altamente qualificado, com experiência prática; metodologia focada em casos reais, possibilitando aprendizado prático e aplicável.
-
-### Dores e Necessidades
-
-- **Atingir Novos Alunos:** O IPOG busca aumentar sua base de alunos e expandir suas ofertas, especialmente em segmentos emergentes como tecnologia e marketing digital.
-- **Relevância no Mercado:** Necessidade de atualização constante dos conteúdos dos cursos para refletir as demandas do mercado.
-- **Relação com o Mercado:** Fortalecer a conexão entre alunos e empresas para facilitar estágios e contratações.
-
-### Contexto do Setor
-
-O mercado educacional no Brasil está em rápida transformação, com a crescente demanda por cursos online e híbridos. Além disso, o marketing digital e o uso de influenciadores estão cada vez mais integrados nas estratégias de captação de alunos e promoção de cursos. A educação continuada e a especialização são cada vez mais importantes em um mercado de trabalho competitivo.
-
-### Oportunidades de Colaboração em Marketing de Influência
-
-- **Parcerias com Influenciadores:** Colaboração com influenciadores que falem sobre educação, desenvolvimento profissional e coaching, para estreitar a comunicação e atrair novos alunos.
-- **Campanhas de Conteúdo:** Desenvolvimento de campanhas de marketing de conteúdo que compartilhem testemunhos de alunos e cases de sucesso de ex-alunos, amplificando o alcance das histórias inspiradoras de transformação.
-- **Webinars e Workshops:** Co-criação de eventos online com influenciadores do setor, onde possam discutir temas relevantes do campo educacional e de mercado, promovendo os cursos do IPOG no processo.
-
-### Contatos Relevantes
-
-- **Telefone:** (62) 3945-5050
-- **Email:** [Central de Atendimento](http://www.ipog.edu.br/contato)
-- **Redes Sociais:** Para potencializar campanhas de marketing digital, é importante seguir e interagir nas redes sociais onde a instituição está presente.
+## 8. Conclusão
+Este relatório fornece um panorama abrangente do IPOG, apresentando suas características, público-alvo e desafios. As oportunidades no marketing de influência são diversas e oferecem caminhos promissores para aumentar a visibilidade e atratividade dos cursos oferecidos. A colaboração com influenciadores pode ser um diferencial importante na presença digital da instituição.
 
 ---
 
-Esse relatório fornece a base necessária para o copywriter desenvolver uma abordagem personalizada para a prospecção do IPOG, visando destacar como a colaboração no marketing de influência pode ajudá-los a atingir seus objetivos e alavancar a presença no mercado educacional.
+Com base nesse relatório, a equipe de copywriters terá informações essenciais para criar um e-mail personalizado e atraente que destaque a importância do IPOG e suas oportunidades, assim como os benefícios de investimento em educação.
