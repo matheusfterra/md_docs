@@ -1,81 +1,71 @@
 # Relatório de Prospecção: Mercado Bitcoin
 
-## 1. Informações da Empresa
+## Informações da Empresa:
+- **Nome da Empresa:** Mercado Bitcoin
+- **Segmento de Atuação:** Finanças e Investimentos, com foco em criptoativos.
+- **Website:** [mercadobitcoin.com.br](http://www.mercadobitcoin.com.br)
+- **Descrição:** A maior plataforma de investimentos em ativos digitais da América Latina, com mais de 650 opções de investimento e mais de 4 milhões de usuários ativos.
+- **Localização:** Alphaville Industrial, Barueri, SP, Brasil.
 
-### 1.1 Nome da Empresa
-**Mercado Bitcoin**
+## Público-Alvo:
+- **Perfil do Cliente:** Investidores iniciantes e experientes, pessoas interessadas em investir em criptoativos e renda fixa digital.
+- **Idade:** Adultos de 18 a 60 anos.
+- **Renda:** Média e alta, devido à natureza dos investimentos em cripto e produtos financeiros.
+- **Interesses:** Investimentos, criptoativos, blockchain, e inovação financeira.
 
-### 1.2 URL do Site
-**[mercadobitcoin.com.br](http://www.mercadobitcoin.com.br)**
-
-### 1.3 Descrição da Empresa
-O Mercado Bitcoin é a maior plataforma de investimentos em ativos digitais da América Latina com mais de 4 milhões de usuários. Permite a negociação de mais de 330 opções de criptoativos, abrangendo tanto investimentos de baixo risco, como renda fixa digital, quanto opções mais arrojadas, como renda variável.
-
-### 1.4 Localização
-**Alameda Mamoré, 687 - conjuntos 303 - sala 03 - Alphavile Industrial - Barueri - SP - CEP 06454-040**
-
-### 1.5 Contato
-- **E-mail para contato**: Não disponível nas informações
-- **Atendimento**: 24/7 através da [Central de Ajuda](https://central.ajuda.mercadobitcoin.com.br/servicedesk/customer/portals)
-
----
-
-## 2. Características da Empresa
-
-### 2.1 Produtos e Serviços
-- **Criptoativos**: Negociação de mais de 330 criptomoedas, incluindo Bitcoin (BTC), Ethereum (ETH), Solana (SOL) e XRP (XRP).
-- **Renda Fixa Digital**: Ofertas estáveis com retorno médio de 18% ao ano.
-- **Cesta Inteligente**: Investimentos em portfólios de criptoativos selecionados por especialistas.
-- **Renda Variável Digital**: Produtos para investidores que buscam altos retornos.
-- **Renda Passiva**: Geração de rendimento utilizando criptomoedas.
-- **Empréstimos com garantia**: Empréstimos utilizando criptomoedas como colateral.
-- **Soluções empresariais**: **MB Cloud**, **MB Corporate**, **MB Prime Services**, e **MB Antecipa**, focadas em atender as necessidades de empresas.
-
-### 2.2 Clientes
-- **Segmento**: Investidores individuais e institucionais, empresas em busca de soluções em criptomoedas.
-- **Base de Clientes**: +4 milhões de usuários na plataforma.
-
-### 2.3 Vantagens Competitivas
-- **Popularidade**: Primeira plataforma a obter confiança em um mercado emergente.
-- **Diversidade em produtos**: Do investidor conservador ao arrojado.
-- **Atendimento ao cliente**: 24/7 disponível para suporte.
-
----
-
-## 3. Análise de Mercado
-
-### 3.1 Contexto Atual
-O mercado de criptoativos está em expansão global e o Brasil, através do Mercado Bitcoin, está se posicionando como um dos principais players na América Latina. O crescimento do interesse por ativos digitais e a adoção da tecnologia blockchain promovem um ambiente propício para o aumento nas operações e faturamento da plataforma.
-
-### 3.2 Desafios
-- **Volatilidade**: Apesar do crescimento, a volatilidade dos ativos digitais pode representar um desafio tanto para a empresa quanto para seus investidores.
-- **Regulação**: Mudanças na regulamentação de criptomoedas podem impactar negativamente o setor.
-- **Segurança**: Com o aumento das ciberameaças, garantir a segurança dos usuários é sempre uma prioridade.
-
----
-
-## 4. Dores e Necessidades da Empresa
-
-### 4.1 Dores Identificadas
-- **Aquisição de novos clientes**: Necessidade de aumentar a base de usuários, especialmente entre investidores tradicionais.
-- **Educação de mercado**: Muitos potenciais clientes ainda desconhecem o funcionamento do mercado de criptoativos.
+## Produtos e Serviços:
+1. **Criptomoedas:**
+   - Mais de 330 opções para investimento.
+   - Inclui ativos populares como Bitcoin, Ethereum, e XRP.
   
-### 4.2 Possíveis Necessidades
-- **Aumentar brand awareness e reputação**: Aumentar a presença da marca e o reconhecimento entre o público-alvo.
-- **Capacitação em estratégias de marketing digital**: Uso de influenciadores para aumento de credibilidade e engajamento nas redes sociais.
-- **Diferenciação de produto**: Educação sobre as diferentes opções de investimento que oferecem risco controlado, como renda fixa e renda passiva.
+2. **Renda Fixa Digital:**
+   - Produtos com previsibilidade e estabilidade, proporcionando em média 18% ao ano.
 
----
+3. **Cesta Inteligente:**
+   - Portfólios de criptoativos selecionados por especialistas.
 
-## 5. Estratégia de Abordagem
+4. **Renda Variável Digital:**
+   - Produtos de alto risco com potencial de altos retornos.
 
-### 5.1 Proposta de Valor
-**Como uma empresa de marketing de influência, nossa proposta de valor seria a criação de campanhas personalizadas utilizando influenciadores que legitimem o mercado de criptomoedas para públicos que ainda estão hesitantes ou que não conhecem. Isso ajudará o Mercado Bitcoin a se destacar e expandir sua base de clientes, aproveitando a popularidade dos influenciadores para aumentar a confiabilidade e o interesse.**
+5. **Renda Passiva:**
+   - Permite que os usuários usem suas criptomoedas para gerar rendimento.
 
-### 5.2 Mensagem Inicial
-"Olá, equipe do Mercado Bitcoin! Notamos que sua plataforma tem se destacado no setor de investimentos em moedas digitais e gostaríamos de discutir como podemos ajudar a fortalecer seu relacionamento com investidores tradicionais. Através de campanhas com influenciadores selecionados, podemos aumentar seu engajamento e trazer novos clientes para sua plataforma. Vamos conversar sobre isso?"
+6. **Empréstimo com Garantia:**
+   - Empréstimos com criptomoedas como garantia.
 
----
+7. **MB Cloud, MB Corporate, MB Prime Services, MB Startups e MB Antecipa:**
+   - Soluções completas para empresas que desejam oferecer ou explorar o mercado de criptoativos.
 
-## 6. Conclusão
-O Mercado Bitcoin apresenta uma oportunidade empolgante para parcerias de marketing de influência, visando educar e engajar novos usuários. Com uma abordagem focada em identificar e abordar as dores e necessidades do mercado, há grande potencial para crescimento mútuo.
+## Outras Informações Relevantes:
+- **Diferenciais Competitivos:**
+  - Atuação consolidada no mercado desde 2013, com grande volume de transações (mais de R$170 bilhões).
+  - Plataforma segura e confiável, em conformidade com normas de segurança da informação.
+  - Serviço de atendimento ao cliente 24/7.
+
+## Dores Potenciais do Cliente:
+- **Educação e Conhecimento:**
+  - Muitos clientes podem ser novos no mundo dos criptoativos e precisam de educação sobre como investir com segurança e conhecimento.
+
+- **Confiança em Segurança:**
+  - Incertezas sobre a segurança do investimento em criptoativos, dado o histórico de volatilidade do mercado.
+
+- **Diversificação do Portfólio:**
+  - Necessidade de diversificar investimentos para mitigar riscos e maximizar retornos.
+
+- **Acessibilidade:**
+  - Barreira de acesso a informações claras e serviços diretos para novos investidores.
+
+## Contexto do Mercado:
+- O mercado de criptoativos continua a crescer e diversificar, com cada vez mais indivíduos e instituições aderindo ao investimento em ativos digitais.
+- A regulamentação e a inovação financeira estão propiciando um ambiente favorável ao investimento em cripto, porém com riscos associados, levando à necessidade de uma comunicação clara e efetiva.
+
+## Sugestões Para Personalização do Email:
+- **Educação:** Abordar a importância da educação em investimentos digitais e como o Mercado Bitcoin pode ajudar nesse processo.
+  
+- **Segurança:** Garantir que as preocupações de segurança são tratadas com informações sobre as práticas de segurança da empresa e como ela protege os investimentos dos usuários.
+  
+- **Histórias de Sucesso:** Incluir testemunhos de usuários que obtiveram sucesso investindo em criptoativos através da plataforma.
+
+- **Apoio Personalizado:** Oferecer consultoria personalizada para novos investidores que buscam ajuda ao começar a investir em cripto.
+
+Este relatório deve fornecer ao copywriter todas as informações necessárias para criar um email altamente personalizado e significativo, abordando as dores e necessidades do Mercado Bitcoin de forma eficaz.
