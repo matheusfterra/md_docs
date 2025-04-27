@@ -1,5 +1,69 @@
 # Estrutura de Diretórios
 ```plaintext
+├── FINAL_SUMMARY.md
+├── https-www-pluxee-com-br-app-mobile-pluxee-brasil.md
+├── https-www-pluxee-com-br-atendimento.md
+├── https-www-pluxee-com-br-blog-carteiras-digitais-beneficios-flexiveis.md
+├── https-www-pluxee-com-br-blog-como-funciona-o-cartao-pluxee-multibeneficios.md
+├── https-www-pluxee-com-br-blog-como-reduzir-rotatividade-de-funcionarios.md
+├── https-www-pluxee-com-br-blog-como-usar-o-cartao-multibeneficios-pluxee.md
+├── https-www-pluxee-com-br-blog-festa-junina-na-empresa-comemore-em-grande-estilo.md
+├── https-www-pluxee-com-br-blog-mais-motivacao-com-beneficios-flexiveis.md
+├── https-www-pluxee-com-br-blog-meu-pluxee-multibeneficios-chegou.md
+├── https-www-pluxee-com-br-blog-o-que-a-nova-mp-do-pat-trouxe-de-mudancas.md
+├── https-www-pluxee-com-br-blog-o-que-e-salario-emocional.md
+├── https-www-pluxee-com-br-blog-produtos-carteiras-digitais-beneficios-flexiveis.md
+├── https-www-pluxee-com-br-blog-seguro-desemprego-o-que-e-preciso-saber.md
+├── https-www-pluxee-com-br-blog-vantagens-de-oferecer-um-cartao-multibeneficios.md
+├── https-www-pluxee-com-br-blog.md
+├── https-www-pluxee-com-br-conheca-a-pluxee.md
+├── https-www-pluxee-com-br-contato.md
+├── https-www-pluxee-com-br-estabelecimentos-assistencia-empresarial-e-help-desk.md
+├── https-www-pluxee-com-br-estabelecimentos-cartoes-que-voce-pode-aceitar.md
+├── https-www-pluxee-com-br-estabelecimentos-formas-de-reembolso.md
+├── https-www-pluxee-com-br-estabelecimentos-seguro-de-vida.md
+├── https-www-pluxee-com-br-estabelecimentos-seguro-odontologico.md
+├── https-www-pluxee-com-br-estabelecimentos-treinamentos.md
+├── https-www-pluxee-com-br-estabelecimentos.md
+├── https-www-pluxee-com-br-etica-e-integridade.md
+├── https-www-pluxee-com-br-imprensa-pluxee.md
+├── https-www-pluxee-com-br-login.md
+├── https-www-pluxee-com-br-ofertas-marco-2025.md
+├── https-www-pluxee-com-br-ouvidoria-pluxee.md
+├── https-www-pluxee-com-br-parcerias-revendedores.md
+├── https-www-pluxee-com-br-pluxee-beneficios-para-pequenas-e-medias-empresas.md
+├── https-www-pluxee-com-br-politica-de-cookies.md
+├── https-www-pluxee-com-br-politica-de-privacidade-pluxee.md
+├── https-www-pluxee-com-br-politica-de-seguranca-da-informacao.md
+├── https-www-pluxee-com-br-premios-e-reconhecimentos.md
+├── https-www-pluxee-com-br-produtos-pluxee-auxilio-alimentacao.md
+├── https-www-pluxee-com-br-produtos-pluxee-combustivel.md
+├── https-www-pluxee-com-br-produtos-pluxee-corretora.md
+├── https-www-pluxee-com-br-produtos-pluxee-frota.md
+├── https-www-pluxee-com-br-produtos-pluxee-gift-vale-presente-natal.md
+├── https-www-pluxee-com-br-produtos-pluxee-indice-de-felicidade-e-engajamento.md
+├── https-www-pluxee-com-br-produtos-pluxee-multibeneficios-beneficios-flexiveis.md
+├── https-www-pluxee-com-br-produtos-pluxee-vale-alimentacao.md
+├── https-www-pluxee-com-br-produtos-pluxee-vale-cultura.md
+├── https-www-pluxee-com-br-produtos-pluxee-vale-refeicao-almoco.md
+├── https-www-pluxee-com-br-produtos-pluxee-vale-refeicao.md
+├── https-www-pluxee-com-br-produtos-pluxee-vale-transporte.md
+├── https-www-pluxee-com-br-produtos.md
+├── https-www-pluxee-com-br-seguranca-digital.md
+├── https-www-pluxee-com-br-servicos-com-descontos-exclusivos-pluxee.md
+├── https-www-pluxee-com-br-simulador-pluxee-multibeneficios.md
+├── https-www-pluxee-com-br-sitemap.md
+├── https-www-pluxee-com-br-sustentabilidade.md
+├── https-www-pluxee-com-br-termos-de-uso.md
+├── https-www-pluxee-com-br-usuarios-cartoes-pluxee.md
+├── https-www-pluxee-com-br-vale-alimentacao-vale-refeicao-beneficios-para-funcionarios.md
+└── https-www-pluxee-com-br.md
+```
+                    ---
+                    ## 📄 `FINAL_SUMMARY.md`
+                    ```md
+                    # Estrutura de Diretórios
+```plaintext
 ├── https-www-pluxee-com-br-app-mobile-pluxee-brasil.md
 ├── https-www-pluxee-com-br-atendimento.md
 ├── https-www-pluxee-com-br-blog-como-reduzir-rotatividade-de-funcionarios.md
@@ -1380,4 +1444,637 @@ Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e mul
   * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
   * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
   * [Definições de cookies](https://www.pluxee.com.br/)
+                    ```
+                    ```
+                    ## 📄 `https-www-pluxee-com-br-app-mobile-pluxee-brasil.md`
+  * Empresas 
+    * Soluções Pluxee
+      * [Vale-alimentação](https://www.pluxee.com.br/produtos/pluxee-vale-alimentacao/)
+      * [Vale-refeição](https://www.pluxee.com.br/produtos/pluxee-vale-refeicao-almoco/)
+      * [Vale-transporte](https://www.pluxee.com.br/produtos/pluxee-vale-transporte/)
+      * [Vale-combustível](https://www.pluxee.com.br/produtos/pluxee-combustivel/)
+      * [Vale-presente Pluxee Gift](https://www.pluxee.com.br/produtos/pluxee-gift-vale-presente-natal/)
+      * [Cartão Multibenefícios - benefícios flexíveis](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+    * E tem muito mais...
+      * [Gestão de frotas](https://www.pluxee.com.br/produtos/pluxee-frota/)
+      * [Bem-estar e saúde](https://www.pluxee.com.br/produtos/pluxee-corretora/)
+      * [Plataforma de engajamento](https://www.pluxee.com.br/produtos/pluxee-indice-de-felicidade-e-engajamento/)
+      * [Todos os produtos](https://www.pluxee.com.br/produtos/)
+      * [Pluxee para Pequenas e Médias Empresas](https://www.pluxee.com.br/pluxee-beneficios-para-pequenas-e-medias-empresas/)
+      * [Faça uma cotação](https://www.pluxee.com.br/simulador-pluxee-multibeneficios/)
+![Clientes](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-01/Entreprise.svg)
+  * Usuários
+    * Vem conhecer nosso mundo!
+      * [App Pluxee Brasil](https://www.pluxee.com.br/app-mobile-pluxee-brasil/)
+      * [Seguros com desconto pra você!](https://www.pluxee.com.br/servicos-com-descontos-exclusivos-pluxee/)
+      * [Pluxee para Usuários](https://www.pluxee.com.br/usuarios-cartoes-pluxee/)
+      * [Visite nosso blog ](https://www.pluxee.com.br/blog/)
+![Consumidores](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-01/Employee.svg)
+  * Estabelecimentos
+    * Bora crescer juntos?
+      * [Como aceitar Pluxee](https://www.pluxee.com.br/estabelecimentos/)
+      * [Produtos que você pode aceitar](https://www.pluxee.com.br/estabelecimentos/cartoes-que-voce-pode-aceitar/)
+      * [Treinamentos para você](https://www.pluxee.com.br/estabelecimentos/treinamentos/)
+    * Nossas soluções
+      * [Antecipação de recebíveis](https://www.pluxee.com.br/estabelecimentos/formas-de-reembolso/)
+      * [Seguro de vida](https://www.pluxee.com.br/estabelecimentos/seguro-de-vida/)
+      * [Assistências para seu estabelecimento](https://www.pluxee.com.br/estabelecimentos/assistencia-empresarial-e-help-desk/)
+      * [Seguro odontológico](https://www.pluxee.com.br/estabelecimentos/seguro-odontologico/)
+![A Pluxee é a melhor parceira para o crescimento do seu negócio](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2023-11/Estabelecimentos.png)
+  * Revendedores
+    * Revendedores pluxee
+      * [Seja nosso parceiro comercial](https://www.pluxee.com.br/parcerias-revendedores/ "Vem ser nosso parceiro comercial autorizado e aumente seus rendimentos")
+[SEJA NOSSO PARCEIRO](https://www.pluxee.com.br/parcerias-revendedores/)
+![Revendores](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-01/Partner.svg)
+  * [Peça uma proposta](https://www.pluxee.com.br/vale-alimentacao-vale-refeicao-beneficios-para-funcionarios/)
+![Contato](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-01/contacto-molie.svg)
+  * [Como aceitar Pluxee](https://www.pluxee.com.br/estabelecimentos/)
+![Aumente seu faturamento aceitando os cartões Pluxee no seu estabelecimento!](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-04/como-aceitar-pluxee.png)
+  * [Sou Cliente](https://www.pluxee.com.br/login/)
+![Propuesta](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-01/plx-ic-chat%20%28medium%29.svg)
+  * [Blog](https://www.pluxee.com.br/blog/)
+  * [Imprensa](https://www.pluxee.com.br/imprensa-pluxee/)
+  * [FAQ](https://www.pluxee.com.br/atendimento/)
+  * [Sobre a Pluxee](https://www.pluxee.com.br/conheca-a-pluxee/)
+###  Transferência de saldo em tempo real 😍 
+Faça a transferência de saldo entre as carteiras Gift, Home Office, Educação e Mobilidade sempre que precisar. Os créditos aparecem na hora!  
+Se você recebe os benefícios alimentação na modalidade auxílio-alimentação, também é possível fazer a transferência de saldo entre alimentação e refeição, se esse serviço estiver previsto no contrato de sua empresa com a Pluxee. Na dúvida, consulte seu RH e aproveite esta facilidade. 😁
+![Imagem com a tela do app Pluxee Brasil, mostra o serviço de rastreamento de entrega dos cartões](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_cards_partners_horizontal/public/2024-11/status-entrega-do-cartao-beneficio.jpg.webp?itok=Dv7rpL2E)
+  * [Cartão Multibenefícios](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+  * [Vale-alimentação](https://www.pluxee.com.br/produtos/pluxee-vale-alimentacao/)
+  * [Vale-refeição](https://www.pluxee.com.br/produtos/pluxee-vale-refeicao/)
+  * [Vale-combustível ](https://www.pluxee.com.br/produtos/pluxee-combustivel/)
+  * [Todos os produtos](https://www.pluxee.com.br/produtos/)
+Vem com a gente! 
+  * [Blog](https://www.pluxee.com.br/blog/)
+  * [Entre em contato](https://www.pluxee.com.br/contato/)
+Baixe o App Pluxee Brasil 
+Conheça nosso mundo! 
+  * [Sobre a Pluxee](https://www.pluxee.com.br/conheca-a-pluxee/)
+  * [Sala de Imprensa Pluxee](https://www.pluxee.com.br/imprensa-pluxee/)
+  * [Ética e Integridade](https://www.pluxee.com.br/etica-e-integridade/)
+  * [Prêmios e Reconhecimentos ](https://www.pluxee.com.br/premios-e-reconhecimentos/)
+  * [Sustentabilidade](https://www.pluxee.com.br/sustentabilidade/)
+  * [Atendimento](https://www.pluxee.com.br/atendimento/)
+  * [Ouvidoria Pluxee](https://www.pluxee.com.br/ouvidoria-pluxee/)
+  * [Mapa do Site](https://www.pluxee.com.br/sitemap/)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/app-mobile-pluxee-brasil/)
+© PLUXEE BRASIL 2025 
+Ao clicar em “Aceitar cookies”, você concorda com o uso de cookies para melhorar e personalizar sua experiência. Para gerenciar suas preferenciais, clique "Definições cookies". Conheça os detalhes em nossa [Política de Cookies](https://www.pluxee.com.br/politica-de-cookies/)
+Definições de cookies
+Aceitar todos os cookies
+![Logotipo da empresa](https://cdn.cookielaw.org/logos/c51cde17-e99e-4699-80ce-892748f9ad1a/fdfae1f4-fe94-45b9-b073-9833468e5d80/b2f5b2de-393c-41d8-9b2c-2aa85dbdbba7/White_background.png)
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/atendimento/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/vale-alimentacao-pluxee.jpg)
+#  Dê aquele gás na sua equipe sem pesar no orçamento 😁 
+Contrate o vale-alimentação mais aceito do Brasil e ganhe um pacote de bem-estar e saúde grátis. 🚀  
+Central Pluxee de Vendas: (11) 3117 9555
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/ofertas-marco-2025/)
+#  Os benefícios flexíveis que sua equipe quer estão aqui! 💚 
+Já pensou em um cartão com até 7 carteiras de benefícios, com possibilidade de transferência de saldo entre elas? Contrate Pluxee Multibenefícios.  
+Central Pluxee de Vendas: (11) 3117 9555
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/ligue-para-pluxee.jpg)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/atendimento/)
+© PLUXEE BRASIL 2025 
+                    ## 📄 `https-www-pluxee-com-br-blog-carteiras-digitais-beneficios-flexiveis.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/carteiras-digitais-beneficios-flexiveis
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/produtos/carteiras-digitais-beneficios-flexiveis/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/ligue-para-pluxee.jpg)
+Fale conosco: (11) 3117 9555 
+Aqui na Pluxee você encontra tudo que precisa para melhorar a experiência dos seus colaboradores e economizar no benefício.
+[ FALE CONOSCO ](https://www.pluxee.com.br/contato/)
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/vale-alimentacao-pluxee.jpg)
+Central Pluxee de Vendas: (11) 3117 9555
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/ofertas-marco-2025/)
+Os benefícios flexíveis que sua equipe quer estão aqui! 💚 
+Já pensou em um cartão com até 7 carteiras de benefícios, com possibilidade de transferência de saldo entre elas? Contrate Pluxee Multibenefícios.  
+Central Pluxee de Vendas: (11) 3117 9555
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/ligue-para-pluxee.jpg)
+Fale conosco: (11) 3117 9555 
+Aqui na Pluxee você encontra tudo que precisa para melhorar a experiência dos seus colaboradores e economizar no benefício.
+[ FALE CONOSCO ](https://www.pluxee.com.br/contato/)
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/vale-alimentacao-pluxee.jpg)
+Dê aquele gás na sua equipe sem pesar no orçamento 😁 
+Contrate o vale-alimentação mais aceito do Brasil e ganhe um pacote de bem-estar e saúde grátis. 🚀  
+Central Pluxee de Vendas: (11) 3117 9555
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/ligue-para-pluxee.jpg)
+Fale conosco: (11) 3117 9555 
+Aqui na Pluxee você encontra tudo que precisa para melhorar a experiência dos seus colaboradores e economizar no benefício.
+[ FALE CONOSCO ](https://www.pluxee.com.br/contato/)
+![mobile](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-01/plx-ic-phone%20%28medium%29.svg)
+![whatsapp](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2024-01/plx-ic-whatsapp%20%28medium%29.svg)
+(Dias úteis, das 8h às 18h)
+##  É Pluxee que fala! 
+Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e multitarefas. Confira o vídeo e vem com a gente construir o futuro da experiência do trabalho.
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/blog/produtos/carteiras-digitais-beneficios-flexiveis/#form)
+![Com o cartão vale-cultura seu funcionário recebe R$ 50 mensais cumulativos para acesso a cinemas, teatros, livrarias e muito mais.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_text_image/public/2023-11/cultura_0.webp?h=7347ad0e&itok=HTeOK8U8)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/blog/produtos/carteiras-digitais-beneficios-flexiveis/)
+                    ## 📄 `https-www-pluxee-com-br-blog-como-funciona-o-cartao-pluxee-multibeneficios.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/como-funciona-o-cartao-pluxee-multibeneficios
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/como-funciona-o-cartao-pluxee-multibeneficios/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+##  É Pluxee que fala! 
+Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e multitarefas. Confira o vídeo e vem com a gente construir o futuro da experiência do trabalho.
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/blog/como-funciona-o-cartao-pluxee-multibeneficios/#form)
+![Com o cartão vale-cultura seu funcionário recebe R$ 50 mensais cumulativos para acesso a cinemas, teatros, livrarias e muito mais.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_text_image/public/2023-11/cultura_0.webp?h=7347ad0e&itok=HTeOK8U8)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/blog/como-funciona-o-cartao-pluxee-multibeneficios/)
+                    ## 📄 `https-www-pluxee-com-br-blog-como-reduzir-rotatividade-de-funcionarios.md`
+Pluxee: o cartão de benefícios com emissão TAXA ZERO [ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/como-reduzir-rotatividade-de-funcionarios/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/blog/como-reduzir-rotatividade-de-funcionarios/)
+                    ## 📄 `https-www-pluxee-com-br-blog-como-usar-o-cartao-multibeneficios-pluxee.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/como-usar-o-cartao-multibeneficios-pluxee
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/como-usar-o-cartao-multibeneficios-pluxee/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+##  É Pluxee que fala! 
+Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e multitarefas. Confira o vídeo e vem com a gente construir o futuro da experiência do trabalho.
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/blog/como-usar-o-cartao-multibeneficios-pluxee/#form)
+![Com o cartão vale-cultura seu funcionário recebe R$ 50 mensais cumulativos para acesso a cinemas, teatros, livrarias e muito mais.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_text_image/public/2023-11/cultura_0.webp?h=7347ad0e&itok=HTeOK8U8)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/blog/como-usar-o-cartao-multibeneficios-pluxee/)
+                    ## 📄 `https-www-pluxee-com-br-blog-festa-junina-na-empresa-comemore-em-grande-estilo.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/blog/festa-junina-na-empresa-comemore-em-grande-estilo/)
+                    ## 📄 `https-www-pluxee-com-br-blog-mais-motivacao-com-beneficios-flexiveis.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/mais-motivacao-com-beneficios-flexiveis
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/mais-motivacao-com-beneficios-flexiveis/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+##  É Pluxee que fala! 
+Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e multitarefas. Confira o vídeo e vem com a gente construir o futuro da experiência do trabalho.
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/blog/mais-motivacao-com-beneficios-flexiveis/#form)
+![Com o cartão vale-cultura seu funcionário recebe R$ 50 mensais cumulativos para acesso a cinemas, teatros, livrarias e muito mais.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_text_image/public/2023-11/cultura_0.webp?h=7347ad0e&itok=HTeOK8U8)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/blog/mais-motivacao-com-beneficios-flexiveis/)
+                    ## 📄 `https-www-pluxee-com-br-blog-meu-pluxee-multibeneficios-chegou.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/meu-pluxee-multibeneficios-chegou
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/meu-pluxee-multibeneficios-chegou/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+##  É Pluxee que fala! 
+Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e multitarefas. Confira o vídeo e vem com a gente construir o futuro da experiência do trabalho.
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/blog/meu-pluxee-multibeneficios-chegou/#form)
+![Com o cartão vale-cultura seu funcionário recebe R$ 50 mensais cumulativos para acesso a cinemas, teatros, livrarias e muito mais.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_text_image/public/2023-11/cultura_0.webp?h=7347ad0e&itok=HTeOK8U8)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/blog/meu-pluxee-multibeneficios-chegou/)
+                    ## 📄 `https-www-pluxee-com-br-blog-o-que-a-nova-mp-do-pat-trouxe-de-mudancas.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/o-que-a-nova-mp-do-pat-trouxe-de-mudancas
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/o-que-a-nova-mp-do-pat-trouxe-de-mudancas#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+## Opa! Esta página não está disponível.  
+Tente novamente mais tarde.
+[ Voltar para a home ](https://www.pluxee.com.br/)
+![403-Background ](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/coh_x_large/public/2023-11/plx-illus-403_0.png.webp?itok=4-hzL7dh)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/blog/o-que-a-nova-mp-do-pat-trouxe-de-mudancas)
+                    ## 📄 `https-www-pluxee-com-br-blog-o-que-e-salario-emocional.md`
+Pluxee: o cartão de benefícios com emissão TAXA ZERO [ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/o-que-e-salario-emocional/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-03/ligue-para-pluxee.jpg)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/blog/o-que-e-salario-emocional/)
+                    ## 📄 `https-www-pluxee-com-br-blog-produtos-carteiras-digitais-beneficios-flexiveis.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/produtos/carteiras-digitais-beneficios-flexiveis
+                    ## 📄 `https-www-pluxee-com-br-blog-seguro-desemprego-o-que-e-preciso-saber.md`
+##  As melhores soluções em benefícios corporativos, seguros e assistências estão aqui! 
+Preencha os dados e receba o contato de um consultor especializado com a melhor oferta para sua empresa.
+                    ## 📄 `https-www-pluxee-com-br-blog-vantagens-de-oferecer-um-cartao-multibeneficios.md`
+                    ```md
+                    # https://www.pluxee.com.br/blog/vantagens-de-oferecer-um-cartao-multibeneficios
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/blog/vantagens-de-oferecer-um-cartao-multibeneficios/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+##  É Pluxee que fala! 
+Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e multitarefas. Confira o vídeo e vem com a gente construir o futuro da experiência do trabalho.
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/blog/vantagens-de-oferecer-um-cartao-multibeneficios/#form)
+![Com o cartão vale-cultura seu funcionário recebe R$ 50 mensais cumulativos para acesso a cinemas, teatros, livrarias e muito mais.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_text_image/public/2023-11/cultura_0.webp?h=7347ad0e&itok=HTeOK8U8)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/blog/vantagens-de-oferecer-um-cartao-multibeneficios/)
+                    ## 📄 `https-www-pluxee-com-br-blog.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/blog/)
+                    ## 📄 `https-www-pluxee-com-br-conheca-a-pluxee.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/conheca-a-pluxee/)
+                    ## 📄 `https-www-pluxee-com-br-contato.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/contato/)
+                    ## 📄 `https-www-pluxee-com-br-estabelecimentos-assistencia-empresarial-e-help-desk.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/estabelecimentos/assistencia-empresarial-e-help-desk/)
+                    ## 📄 `https-www-pluxee-com-br-estabelecimentos-cartoes-que-voce-pode-aceitar.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/estabelecimentos/cartoes-que-voce-pode-aceitar/)
+                    ## 📄 `https-www-pluxee-com-br-estabelecimentos-formas-de-reembolso.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/estabelecimentos/formas-de-reembolso/)
+                    ## 📄 `https-www-pluxee-com-br-estabelecimentos-seguro-de-vida.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/estabelecimentos/seguro-de-vida/)
+                    ## 📄 `https-www-pluxee-com-br-estabelecimentos-seguro-odontologico.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/estabelecimentos/seguro-odontologico/)
+                    ## 📄 `https-www-pluxee-com-br-estabelecimentos-treinamentos.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/estabelecimentos/treinamentos/)
+                    ## 📄 `https-www-pluxee-com-br-estabelecimentos.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/estabelecimentos/)
+                    ## 📄 `https-www-pluxee-com-br-etica-e-integridade.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/etica-e-integridade/)
+                    ## 📄 `https-www-pluxee-com-br-imprensa-pluxee.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/imprensa-pluxee/)
+                    ## 📄 `https-www-pluxee-com-br-login.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/login/)
+                    ## 📄 `https-www-pluxee-com-br-ofertas-marco-2025.md`
+#  Vale-alimentação com pacote de saúde grátis? Só aqui!🎉 
+Ganhe pacotes de saúde e bem-estar GRATUITOS para sua equipe na contratação do auxílio-alimentação no cartão Pluxee Multibenefícios.  
+Veja um aumento no engajamento dos seus colaboradores com pacotes de saúde completos. 🤩 💃🏽 🕺🏼
+[ PEÇA UMA PROPOSTA AGORA! ](https://www.pluxee.com.br/ofertas-marco-2025/#form)
+Vem pra Pluxee!
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/ofertas-marco-2025/)
+                    ## 📄 `https-www-pluxee-com-br-ouvidoria-pluxee.md`
+#  Ouvidoria Pluxee 
+Aqui na Pluxee nos dedicamos a criar experiências positivas e oferecer o melhor atendimento aos nossos clientes, usuários e parceiros. Mas sabemos que existem demandas específicas que precisam de um atendimento diferenciado.   
+Caso você tenha entrado em contato com nossa Central de Atendimento e nossa equipe ainda não tenha conseguido te ajudar, conte com a nossa Ouvidoria. Tenha em mãos o número de protocolo que foi gerado em seu atendimento e entre em contato.   
+A Ouvidoria Pluxee atende casos relacionados aos produtos Pluxee Multibenefícios (apenas carteiras vale-presente, educação, mobilidade, home office e saúde e bem-estar), Pluxee Gift, Pluxee Premium e Pluxee Bandeirado.  
+Tenha em mãos o número de protocolo que foi gerado pela Central de Atendimento e entre em contato com a Ouvidoria. 
+![Telefones da Central de Atendimento Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_cards_partners_horizontal/public/2024-10/central-de-atendimento-0800-pluxee.jpg.webp?itok=jpZl1QIF)
+###  Antes de acionar nossa Ouvidoria, fale com Nossa Central de Atendimento. Temos uma equipe especializada para te atender e solucionar diversos casos. Entre em contato pelos canais: 
+Para falar com a Ouvidoria Pluxee, você precisa ter um número de protocolo, que é gerado pela equipe da Central de Atendimento😉   
+Atendimento 24 horas, todos os dias​   
+3003 5083 - Capitais e regiões metropolitanas​   
+0800 728 5083 - Demais localidades​   
+E-mail: atendimento.br@pluxeegroup.com​
+![Tenha sempre o número do seu protocolo em mãos para falar com a ouvidoria ](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_cards_partners_horizontal/public/2024-10/contato-ouvidoria-pluxee.jpg.webp?itok=W7IILpeu)
+###  Para falar com a Ouvidoria Pluxee, tenha em mãos o seu número de protocolo da Central de Atendimento: 
+Telefone: 0800 727 2433​  
+​Atendimento de segunda a sexta, das 9h às 17h, exceto em feriados.​ 
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/ouvidoria-pluxee/)
+                    ## 📄 `https-www-pluxee-com-br-parcerias-revendedores.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/parcerias-revendedores/)
+                    ## 📄 `https-www-pluxee-com-br-pluxee-beneficios-para-pequenas-e-medias-empresas.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/pluxee-beneficios-para-pequenas-e-medias-empresas/)
+                    ## 📄 `https-www-pluxee-com-br-politica-de-cookies.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/politica-de-cookies/)
+                    ## 📄 `https-www-pluxee-com-br-politica-de-privacidade-pluxee.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+                    ## 📄 `https-www-pluxee-com-br-politica-de-seguranca-da-informacao.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+                    ## 📄 `https-www-pluxee-com-br-premios-e-reconhecimentos.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/premios-e-reconhecimentos/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-auxilio-alimentacao.md`
+                    ```md
+                    # https://www.pluxee.com.br/produtos/pluxee-auxilio-alimentacao
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/produtos/pluxee-auxilio-alimentacao/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+##  É Pluxee que fala! 
+Rodrigo Hilbert e Claude Troigros são a nossa cara: inquietos, divertidos e multitarefas. Confira o vídeo e vem com a gente construir o futuro da experiência do trabalho.
+[ PEÇA UMA PROPOSTA ](https://www.pluxee.com.br/produtos/pluxee-auxilio-alimentacao/#form)
+![Com o cartão vale-cultura seu funcionário recebe R$ 50 mensais cumulativos para acesso a cinemas, teatros, livrarias e muito mais.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_text_image/public/2023-11/cultura_0.webp?h=7347ad0e&itok=HTeOK8U8)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/produtos/pluxee-auxilio-alimentacao/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-combustivel.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/produtos/pluxee-combustivel/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-corretora.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/produtos/pluxee-corretora/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-frota.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/produtos/pluxee-frota/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-gift-vale-presente-natal.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/produtos/pluxee-gift-vale-presente-natal/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-indice-de-felicidade-e-engajamento.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/produtos/pluxee-indice-de-felicidade-e-engajamento/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-multibeneficios-beneficios-flexiveis.md`
+###  Refeição 
+Um dos benefícios mais conhecidos do Brasil, o Pluxee Refeição é destinado à compra de refeições prontas para o consumo. É aceito em milhares de restaurantes, lanchonetes, padarias e, claro, nos principais apps de delivery.  
+(A função de transferência de saldo com a carteira Alimentação é exclusiva para empresas que optam pelo Auxílio Alimentação.)
+[ CONTRATE BENEFÍCIOS FLEXÍVEIS ](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/#form)
+![Mulher escolhe alimentos frescos no supermercado. Ela vai pagar a compra com vale-alimentação.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_cards_partners_horizontal/public/2024-08/vale-alimentacao-supermercado.jpg.webp?itok=dYN5jdb0)
+###  Alimentação 
+De forma rápida e fácil, seu time faz compras em supermercados, hortifrútis e mercearias, entre outros. O benefício alimentação também é aceito em delivery de supermercados credenciados. Totalmente aderente às premissas do Programa de Alimentação do Trabalhador (PAT).  
+A transferência de saldo entre as carteiras Alimentação e Refeição é permitida para empresas optantes do Auxílio Alimentação, estabelecendo o Pluxee Multibenefícios como o melhor cartão de benefícios para funcionários. De forma rápida e fácil, seu time pode fazer compras em supermercados, hortifrútis e mercearias, entre outros. O benefício alimentação também é aceito em delivery de supermercados credenciados, e é totalmente aderente às premissas do Programa de Alimentação do Trabalhador (PAT).  
+[ SUBSTITUA A CESTA BÁSICA! ](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/#form)
+![Mulher participa de um curso online pelo computador. Ela pagou com o vale-educação da Pluxee.](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_cards_partners_horizontal/public/2024-08/vale-educacao-para-cursos-e-livros.jpg.webp?itok=AwyP0bB5)
+## Quais são as vantagens do cartão multibenefícios da Pluxee?
+O cartão único, com até sete carteiras de benefícios integradas, é uma opção mais econômica para a empresa, que assegura a liberdade de escolha de cada colaborador - característica cada vez mais importante para garantir a atração e a retenção de talentos na empresa. 
+Segundo a consultoria Robert Half, escolher as opções de benefícios mais adequadas às suas rotinas é o desejo da maioria dos trabalhadores brasileiros, e ter essa opção impacta diretamente no bem-estar e na satisfação do profissional. 
+Ao perceber que a companhia se preocupa com os desejos e as necessidades da equipe, os funcionários tendem a se sentir mais acolhidos e transmitem essa vivência para o mercado de trabalho, transformando-a em motivação e mais produtividade.  
+[PEÇA MULTIBENEFÍCIOS PARA SUA EQUIPE](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+## O que são benefícios flexíveis na empresa?
+São valores extras oferecidos aos funcionários, além do salário, que podem ser oferecidos por meio de [cartões multibenefícios](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/) ou [carteiras digitais](https://www.pluxee.com.br/blog/carteiras-digitais-beneficios-flexiveis/). Esse modelo permite que cada profissional possa escolher quais benefícios deseja receber de acordo com seus hábitos e necessidades. 
+Essa flexibilidade permite que o saldo oferecido pela empresa seja gerenciado pelo próprio colaborador, conforme suas preferências.
+Quer simplificar a oferta de benefícios na sua empresa com um cartão único que aceita até 7 carteiras?  
+[PEÇA UMA PROPOSTA](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+[ SOLICITE UMA PROPOSTA ](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/#form)
+Nossos Produtos 
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/produtos/pluxee-multibeneficios-beneficios-flexiveis/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-vale-alimentacao.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/produtos/pluxee-vale-alimentacao/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-vale-cultura.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/produtos/pluxee-vale-cultura/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-vale-refeicao-almoco.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/produtos/pluxee-vale-refeicao-almoco/)
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-vale-refeicao.md`
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/produtos/pluxee-vale-refeicao-almoco/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+                    ## 📄 `https-www-pluxee-com-br-produtos-pluxee-vale-transporte.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/produtos/pluxee-vale-transporte/)
+                    ## 📄 `https-www-pluxee-com-br-produtos.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/produtos/)
+                    ## 📄 `https-www-pluxee-com-br-seguranca-digital.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Cookie Settings](https://www.pluxee.com.br/seguranca-digital/)
+                    ## 📄 `https-www-pluxee-com-br-servicos-com-descontos-exclusivos-pluxee.md`
+  1. Serviços com descontos exclusivos | Pluxee 
+![](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/2025-01/pluxee-ofertas-para-usuarios.jpg)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/servicos-com-descontos-exclusivos-pluxee/)
+                    ## 📄 `https-www-pluxee-com-br-simulador-pluxee-multibeneficios.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/simulador-pluxee-multibeneficios/)
+                    ## 📄 `https-www-pluxee-com-br-sitemap.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/sitemap/)
+                    ## 📄 `https-www-pluxee-com-br-sustentabilidade.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/sustentabilidade/)
+                    ## 📄 `https-www-pluxee-com-br-termos-de-uso.md`
+[ Pular para o conteúdo principal ](https://www.pluxee.com.br/termos-de-uso/#main-content)
+[ ![Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/Logo%20pluxee%20final_0_0.png) ](https://www.pluxee.com.br/)
+Menu 
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/termos-de-uso/)
+                    ## 📄 `https-www-pluxee-com-br-usuarios-cartoes-pluxee.md`
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/usuarios-cartoes-pluxee/)
+                    ## 📄 `https-www-pluxee-com-br-vale-alimentacao-vale-refeicao-beneficios-para-funcionarios.md`
+## Qual a diferença entre vale-alimentação e vale-refeição?
+Dois benefícios muito desejados por qualquer pessoa que trabalha fora ou em regime de home-office, tanto o [vale-refeição](https://www.pluxee.com.br/produtos/pluxee-vale-refeicao/) como o [vale-alimentação](https://www.pluxee.com.br/produtos/pluxee-vale-alimentacao/) são regulamentados pelo Programa de Alimentação do Trabalhador (PAT).  
+O vale-refeição é um benefício concedido por empresas para seus funcionários com o objetivo de que eles possam se alimentar melhor durante o horário de trabalho, comprando refeições prontas em restaurantes, padarias e lanchonetes. 
+Já o vale-alimentação é destinado à compra de alimentos em supermercados, mercearias e hortifrútis, substituindo a tradicional cesta física de alimentos.  
+Quer entender mais sobre qual é a melhor empresa de vale-refeição, como adquirir vale-refeição para empresa, sobre as vantagens de oferecer benefícios para funcionários proporcionando bem-estar e saúde, boas práticas de RH, gestão de negócios e muito mais? Então acompanhe o [blog da Pluxee](https://www.pluxee.com.br/blog/)!
+![Melhore a experiência no trabalho com benefícios da Pluxee](https://www.pluxee.com.br/sites/g/files/jclxxe291/files/styles/plx_block_banner/public/2024-06/credencie-seu-estabelecimentos_0.jpg.webp?itok=-UM-_X6x)
+  * [Política de Privacidade](https://www.pluxee.com.br/politica-de-privacidade-pluxee/)
+  * [Termos de uso](https://www.pluxee.com.br/termos-de-uso/)
+  * [Política de Cookies ](https://www.pluxee.com.br/politica-de-cookies/)
+  * [Segurança Digital e Prevenção a Fraudes](https://www.pluxee.com.br/seguranca-digital/)
+  * [Política de Segurança da Informação](https://www.pluxee.com.br/politica-de-seguranca-da-informacao/)
+  * [Definições de cookies](https://www.pluxee.com.br/vale-alimentacao-vale-refeicao-beneficios-para-funcionarios/)
+                    ## 📄 `https-www-pluxee-com-br.md`
                     ```
