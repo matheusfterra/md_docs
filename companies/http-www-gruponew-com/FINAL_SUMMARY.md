@@ -1,79 +1,73 @@
-# Relatório de Prospecção: Grupo New
+# Relatório de Prospecção - Grupo New
 
-## 1. Informações Gerais da Empresa
+## Informações Gerais da Empresa
 
-- **Nome da Empresa:** Grupo New
-- **Website:** [www.gruponew.com](http://www.gruponew.com)
-- **Segmento:** Mercado automotivo (Concessionárias de automóveis)
-- **Localização:** Ceará, Paraíba e Piauí (Nordeste do Brasil)
-- **Ano de Fundação:** 1992
+**Nome:** Grupo New  
+**Website:** [www.gruponew.com](http://www.gruponew.com)  
+**Segmento:** Automotivo  
+**Localização:** Ceará, Paraíba e Piauí, Brasil  
+**Ano de Fundação:** 1992  
+
+### Descrição da Empresa
+O Grupo New é uma empresa cearense com mais de 30 anos de experiência no mercado automotivo, iniciando suas operações com a revenda de veículos Toyota em Fortaleza. Ao longo das décadas, expandiu sua atuação e hoje representa várias marcas renomadas como Porsche, GWM, Mercedes-Benz, Jeep, RAM e Jaguar Land Rover. O Grupo New se destaca pela sua busca contínua pela excelência, seguindo a filosofia "Kaizen", que enfatiza a melhoria contínua dos processos.
+
+### Missão e Visão
 - **Missão:** Mover a vida das pessoas com respeito e ética, realizando sonhos com excelência.
 - **Visão:** Evoluir com sustentabilidade, entregando qualidade, credibilidade e eficiência.
-- **Valores:** Respeito, ética, competência, evolução, empatia, humildade, confiança, coragem e pessoas.
 
-## 2. Descrição da Empresa
+### Valores
+- **Respeito**
+- **Ética**
+- **Competência**
+- **Evolução**
+- **Empatia**
+- **Humildade**
+- **Confiança**
+- **Coragem**
+- **Pessoas**
 
-O Grupo New atua no mercado automotivo há mais de 30 anos e é reconhecido como sinônimo de excelência no Nordeste do Brasil. A empresa começou como a primeira revenda Toyota no Ceará e expandiu suas operações ao longo dos anos, estabelecendo parcerias com marcas renomadas como Porsche, GWM, Mercedes-Benz, Jeep, RAM, e Jaguar Land Rover.
+## Estrutura Organizacional e Produtos
 
-A organização valoriza a comunicação e o relacionamento com os clientes, investindo em diversas plataformas de marketing, tanto tradicionais quanto digitais. Além disso, possui uma equipe focada em melhoria contínua, seguindo a filosofia "Kaizen". 
+### Concessionárias e Marcas
+O Grupo New opera com várias concessionárias espalhadas nas regiões mencionadas, oferecendo veículos novos e seminovos, serviços de mecânica e assistência. As marcas associadas incluem:
+- **Toyota**
+- **Porsche**
+- **GWM**
+- **Mercedes-Benz**
+- **Jeep**
+- **RAM**
+- **Jaguar Land Rover**
 
-As concessionárias do Grupo estão localizadas em várias cidades, o que faz com que a empresa tenha uma participação de mercado superior à média nacional.
+### Políticas Internas
+O Grupo New possui um Código de Ética rigoroso que guia não apenas as operações internas, mas também as relações com colaboradores, fornecedores e clientes. As práticas de diversidade e inclusão são priorizadas, especialmente em relação à igualdade salarial, conforme as diretrizes da Lei de Igualdade Salarial e a LGPD (Lei Geral de Proteção de Dados).
 
-## 3. Estrutura Organizacional
+## Estratégias de Marketing
+O Grupo New investe em uma ampla variedade de ações de marketing, abrangendo tanto mídia tradicional quanto digital. Suas estratégias incluem:
+- Divulgação de campanhas promocionais e institucionais.
+- Ações e eventos de relacionamento com clientes.
+- Comunicação visual nas lojas.
+- Uso ativo de redes sociais para interagir com os clientes.
 
-A empresa é estruturada em várias concessionárias e filiais:
+## Potenciais Dores e Oportunidades
+### Possíveis Dores
+1. **Concorrência Aumentada:** Com a intensificação da concorrência no setor automotivo, o Grupo New pode enfrentar desafios para se destacar no mercado.
+2. **Adaptação às Mudanças Tecnológicas:** A evolução de plataformas digitais e novas tecnologias de marketing exigem atualização contínua das estratégias.
+3. **Ações de Sustentabilidade:** Pressão para adotar práticas mais sustentáveis podem impactar os custos operacionais.
+4. **Engajamento com o Cliente:** Necessidade de aumentar a personalização e a experiência do cliente nas interações digitais e físicas.
 
-- **Marcas Representadas:**
-  - Toyota
-  - Porsche
-  - Mercedes-Benz
-  - Jeep
-  - RAM
-  - Jaguar Land Rover
-  - GWM
+### Oportunidades
+1. **Parcerias com Influenciadores:** Colaborações estratégicas com influenciadores podem expandir o alcance e a visibilidade da marca.
+2. **Campanhas de Marketing Digital:** Investimentos adequados em marketing digital podem impulsionar vendas e melhorar o relacionamento com consumidores.
+3. **Foco em Sustentabilidade:** Implementação de práticas sustentáveis pode não só reduzir custos, mas também atrair clientes que valorizam marcas responsáveis.
+4. **Aumento do Conhecimento de Marca:** Melhoria da presença nas redes sociais e parcerias com influenciadores podem fortalecer a marca.
 
-- **Concessionárias Em Funcionamento:**
-  - Newland Toyota em várias localidades (Fortaleza, Juazeiro do Norte, Teresina, João Pessoa, e mais).
-  - Porsche Center em Fortaleza e Recife.
-  - Newsedan veículos e outros.
+## Contexto e Justificativa para Prospecção
+O Grupo New é uma marca consolidada no mercado automotivo com um compromisso forte com ética e excelência. Considerando o crescente desenvolvimento do marketing de influência no Brasil, é crucial que a empresa adote estratégias que a posicionem como referência também neste canal. A necessidade de engajar um público mais jovem e digital, assim como a busca por parcerias que reforcem sua imagem de marca inovadora e responsável, são fatores que tornam a abordagem do marketing de influência especialmente relevante neste momento.
 
-## 4. Análise de Comunicação e Marketing
+Portanto, a comunicação deve destacar a importância de uma estratégia de marketing de influência personalizada que possa:
+- Fortalecer a imagem da marca.
+- Expandir o alcance a novos públicos.
+- Alinhar-se aos valores e princípios do Grupo New.
 
-### 4.1. Estratégia de Marketing
-
-O Grupo New realiza campanhas promocionais e institucionais em diversos meios de comunicação e adota uma comunicação integrada que inclui redes sociais, e-mail marketing e eventos presenciais.
-
-### 4.2. Possíveis Dores e Oportunidades
-
-- **Dores Potenciais:**
-  - Aumento da competição no setor automotivo, exigindo diferenciais em comunicação e relacionamento.
-  - Necessidade de engajamento constante com o consumidor em um mercado digital em transformação.
-  - Desafios para manter a imagem de excelência e qualidade em um cenário com alta rotatividade de clientes.
-
-- **Oportunidades:**
-  - Exploração do Marketing de Influência para alcançar um público maior e fortalecer a marca, utilizando influenciadores que se conectem com seus valores e missão.
-  - Ampliação da presença nas redes sociais e estratégias digitais para atrair consumidores mais jovens e com maior poder de decisão.
-  - Criação de parcerias com influenciadores que possam ajudar a promover a filosofia do Grupo New e suas conquistas no mercado.
-
-## 5. Áreas de Interesse
-
-### 5.1. Compliance e Ética
-
-O Grupo New possui um Código de Conduta Ética, e isso pode ser enfatizado nas comunicações. A empresa promove a transparência, ética e responsabilidade social. Este aspecto é muito relevante em um mundo cada vez mais preocupado com a integridade das marcas.
-
-### 5.2. Diversidade e Inclusão
-
-Com o compromisso de promover práticas de inclusão e diversidade, a empresa está alinhada às tendências do mercado, sendo uma área que pode ser explorada em campanhas de marketing.
-
-## 6. Contato e Redes Sociais
-
-- **Contato:**
-  - Para solicitações e informações: [Grupo New Contato](https://www.gruponew.com/#contato)
-
-- **Redes Sociais:** Presença ativa em plataformas como Instagram e Facebook é recomendada para uma melhor interação.
-
-## 7. Conclusão
-
-A integração entre o Grupo New e o marketing de influência pode se mostrar vantajosa, uma vez que a empresa já demonstrou seu compromisso com a comunicação e a excelência no atendimento. A implementação de campanhas que utilizem influenciadores alinhados com seus valores pode resultar em um aumento no alcance de seus produtos e serviços, fortalecendo ainda mais sua posição de mercado.
-
-Ao encaminhar a proposta ao copywriter, saliente a importância do engajamento das novas gerações e o ponto crítico de se destacar em um mercado competitivo através de influenciadores que agreguem valor à marca.
+## Conclusão
+A elaboração de um e-mail marketing direcionado à Grupo New deve ser personalizada, engajante e alinhada com a missão e os valores da empresa. Além disso, deve abordar as possíveis dores e oportunidades identificadas, propondo soluções de marketing de influência que se ajustem às necessidades atuais da empresa.
