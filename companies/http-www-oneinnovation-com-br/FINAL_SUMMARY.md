@@ -1,77 +1,63 @@
-# Relatório de Prospecção - One Innovation
+# Relatório de Prospecção: One Innovation
 
 ## Informações Gerais da Empresa
+
 **Nome da Empresa:** One Innovation  
+**Website:** [oneinnovation.com.br](https://www.oneinnovation.com.br)  
+**Segmento:** Incorporação imobiliária e construção civil focada em empreendimentos residenciais e comerciais em São Paulo.  
+**Endereço:** Rua Tabapuã, 81 - 15º andar, São Paulo, SP
 
-**Segmento:** Incorporação imobiliária, com foco em empreendimentos residenciais em São Paulo.  
+### Histórico da Empresa
+- **Fundação:** Mais de 10 anos de experiência no mercado imobiliário.
+- **Projetos Realizados:** + de 70 projetos lançados e + de 16.000 unidades entregues.
+- **Reconhecimentos:** Recebimento do prêmio TOP IMOBILIÁRIO, destacando-se entre as 10 maiores incorporadoras de São Paulo.
 
-**Website:** [oneinnovation.com.br](http://www.oneinnovation.com.br)  
+## Produtos e Serviços
 
-**Status Geral:** A empresa atua principalmente com lançamentos de empreendimentos e imóveis em construção.  
+### Tipos de Empreendimentos
+- **Lançamentos em Andamento:**
+  - **Nex One Balthazar:** Studios de 21 a 26 m².
+  - **Urby Paulista:** Studios e 1 dormitório de 20 a 29 m².
+  - **Nex One Estação Clínicas:** Options de Studio, 1 e 2 dormitórios com área entre 27 a 39 m².
+  - **Nex One Angélica:** Unidades de 22 a 45 m² (Studio e 1-2 dormitório).
+- **Obras em Progresso:**
+  - Nex One Renato 627.
+  - Nex One Alameda Itu, entre outros.
 
----
+### Diferenciais
+- **Localização Privilegiada:** Projetos em áreas nobres de São Paulo (Higienópolis, Vila Nova Conceição, Moema e Pinheiros).
+- **Design e Facilidades:** Parcerias com renomados arquitetos e designers, proporcionando projetos diferenciados que incluem áreas de lazer completas e espaços sociais bem equipados.
+- **Sustentabilidade:** Projetos com enfoque em desenvolvimento sustentável e integração com a natureza.
 
-## Características dos Empreendimentos Prospecionados
+## Perfil do Cliente Ideal
 
-### 1. Nex One Alameda Itu
-- **Localização:** Alameda Itu, 225 - Jardim Paulista - SP  
-- **Status:** Em Obras  
-- **Tamanho das Unidades:** 20 a 37 m² (Studio e 1 Dorm.)  
-- **Diferenciais:** Próximo à estação Trianon-MASP, arquitetura contemporânea e biofilia. Foco em uma localização nobre e estrutura moderna.  
-- **Promoções/Destaques:** Lazer completo, possibilidade de home office com coworking.
+### Segmentação do Público-Alvo
+- **Demografia:** Jovens profissionais e investidores em imóveis.
+- **Segmentos:** Pessoas que buscam imóveis para morar ou investimento em áreas centrais e bem localizadas.
+- **Interesses:** Mobilidade, qualidade de vida, design moderno e conveniências urbanas.
 
-### 2. Nex One Angélica
-- **Localização:** Av. Angélica, 750 - Higienópolis - SP  
-- **Status:** Lançamento  
-- **Tamanho das Unidades:** 22 a 45 m² (Studio, 1 e 2 Dorm.)  
-- **Diferenciais:** Facilidade de acesso a transporte público e proximidade de comércios e serviços esenciales como supermercados e farmácias.  
-- **Promoções/Destaques:** Estrutura moderna com várias opções de lazer e áreas comuns.
+## Análise de Concorrência
+1. **Principais Concorrentes:**
+   - Outras incorporadoras em São Paulo que atuam no mesmo segmento de mercado.
+   - Empresas que oferecem diferenciais em design e localização.
 
-### 3. Nex One Estação Moema
-- **Localização:** Alameda dos Maracatins, 614 - Moema - SP  
-- **Status:** Em Obras  
-- **Tamanho das Unidades:** 20 a 28 m² (Studios e 1 Dorm.)  
-- **Diferenciais:** Projeto moderno, a 400 metros do metrô, lazer diferenciado.  
-- **Promoções/Destaques:** Vistas da cidade e áreas de convivência.
+2. **Diferenciação da One Innovation:**
+   - Foco em inovação, com design vencedor e localização desejável.
+   - Reconhecimentos e prêmios que conferem credibilidade.
 
-### 4. Nex One Renato 627
-- **Localização:** Rua Dr. Renato Paes de Barros, 627 - Itaim Bibi - SP  
-- **Status:** Em Obras  
-- **Tamanho das Unidades:** 21 a 31 m² (Studio)  
-- **Diferenciais:** Localização privilegiada, próximo ao Shopping Iguatemi e Parque do Povo.  
-- **Promoções/Destaques:** Estrutura moderna com áreas comuns para lazer e fitness.
+## Possíveis Dores e Desafios
+- **Concorrência Agressiva:** Necessidade de se destacar em um mercado saturado.
+- **Sustentabilidade e Ambiente:** Demandas por práticas sustentáveis e construções ecológicas.
+- **Adaptabilidade às Mudanças no Mercado Imobiliário:** Necessidade de se adaptar a novas tendências e regulamentações.
 
-### 5. Urby Paulista
-- **Localização:** Rua Martiniano de Carvalho, 448 - Bela Vista - SP  
-- **Status:** Lançamento  
-- **Tamanho das Unidades:** 20 a 29 m² (Studio e 1 Dorm.)  
-- **Diferenciais:** Conexão com a cidade moderna, perto da Avenida Paulista.  
-- **Promoções/Destaques:** Espacos modernos voltados para a vida prática e conectada.
+## Estratégias de Comunicação
+- **Abordagem:** Relacionar as características dos empreendimentos com a busca de qualidade de vida e praticidade do cliente.
+- **Conteúdo Personalizado:** Foco em criar conteúdo rico e detalhado, que aborde a importância da localização, design e facilidades oferecidas.
+- **Uso de Testemunhos e Casos de Sucesso:** Mostrar exemplos de clientes satisfeitos e resultados positivos com empreendimentos anteriores.
 
----
+## Conclusão
+One Innovation é uma incorporadora de destaque em São Paulo, com um portfólio diversificado e forte presença no mercado. Para o desenvolvimento de uma campanha de marketing de influência, será importante mapear influenciadores que compartilhem os valores da marca e que atinjam o público-alvo desejado, além de explorar vídeos e conteúdo visual que mostrem a qualidade e os diferenciais dos empreendimentos.
 
-## Possíveis Dores e Oportunidades
-- **Dores dos Clientes:**
-  - Necessidade de moradia em áreas nobres e bem-localizadas.
-  - Alta competitividade no mercado imobiliário de São Paulo.
-  - Busca por conveniência e integração entre serviços e moradia.
-  - Preferência por ambientes modernos e que acomodem o home office.
+-----
 
-- **Oportunidades para Marketing de Influência:**
-  - Engajar influenciadores locais para promover as características únicas de cada empreendimento.
-  - Utilização de redes sociais com conteúdos visuais que explorem a arquitetura e localização.
-  - Campanhas de lançamento que enfatizem o lifestyle e a conveniência oferecida pelos imóveis.
-  - Ofertas especiais para a comunidade local, aumentando o engajamento do bairro.
-
----
-
-## Estratégia de Prospecção
-**Objetivo:** Criar campanhas personalizadas nas redes sociais e através de e-mails para influenciadores direcionados e do mercado imobiliário.
-
-**Sugestões de Contato:**
-- Estabelecer parcerias com influenciadores de lifestyle, arquitetura e design.
-- Utilizar dados demográficos e de interesse para segmentar o público-alvo com maior precisão.
-
----
-
-Este relatório fornece um panorama abrangente das características da One Innovation e seus empreendimentos, além de insights sobre o mercado e possíveis abordagens para uma estratégia de prospecção eficaz. Com os dados organizados, o copywriter poderá personalizar as mensagens e campanhas de marketing, alinhando-se com as expectativas e necessidades dos potenciais clientes.
+Esse relatório foi elaborado para que o copywriter tenha uma base sólida para compor um email personalizado que envolva a One Innovation e seus potenciais clientes.
