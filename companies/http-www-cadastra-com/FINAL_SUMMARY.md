@@ -9,7 +9,7 @@
 - **Histórico de Atuação:** Referência na América Latina com 25 anos de experiência em soluções integradas de marketing.
 
 ## Serviços Oferecidos
-1. **Soluções de Marketing e Mídia:**
+1. **Marketing e Mídia:**
    - Estratégias personalizadas de marketing digital.
    - Integração entre canais online e offline.
    - Produção de conteúdo otimizado.
@@ -39,7 +39,7 @@
 - **Mitsubishi:** Aumento da presença online e geração de leads.
 
 ## Possíveis Dores do Cliente
-1. **Dificuldade na Integração de Campanhas:** Os clientes enfrentam desafios ao alinhar suas estratégias de marketing digital e offline.
+1. **Dificuldade na Integração de Campanhas:** Desafios ao alinhar as estratégias de marketing digital e offline.
 2. **Baixa Conversão em Vendas:** Falta de estratégias eficazes resulta em baixo desempenho comercial.
 3. **Necessidade de Análise de Dados:** Muitas marcas carecem de insights que ajudem em decisões estratégicas.
 4. **Engajamento com o Público-Alvo:** Produzir conteúdo que se conecte com o público é um desafio constante.
