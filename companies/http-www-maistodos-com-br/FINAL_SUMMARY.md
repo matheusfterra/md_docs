@@ -1,67 +1,111 @@
-# Relatório de Prospecção: MaisTODOS
+# Relatório de Prospecção – Empresa: MaisTODOS
 
-## Informações Gerais da Empresa
-- **Nome:** MaisTODOS
-- **Website:** [maistodos.com.br](http://www.maistodos.com.br)
-- **Segmento:** Marketing de Influência e Soluções Financeiras
-- **Slogan:** "Conectamos Soluções Financeiras Inteligentes para potencializar seus negócios."
-- **Endereço do Portal para Empresas:** [empresas.maistodos.com.br](https://empresas.maistodos.com.br/)
+## Introdução
+A MaisTODOS é uma empresa que conecta soluções financeiras inteligentes para marcas e influenciadores, oferecendo oportunidades de cashback, crédito e pagamentos. Este relatório inclui informações relevantes sobre a empresa, seu contexto no mercado de marketing de influência e potenciais oportunidades de colaboração.
 
-## Produtos e Serviços Oferecidos
-A MaisTODOS oferece uma série de soluções financeiras que podem ser agrupadas nas seguintes categorias:
+---
 
-### 1. **Cashback**
-   - **Descrição:** Programa de cashback que beneficia tanto empresas quanto clientes, incentivando a fidelização através de dinheiro de volta nas compras.
-   - **Público-Alvo:** Varejistas, empresas de serviços, e consumidores finais.
-   - **Benefícios:**
-     - Aumento das vendas
-     - Fidelização de clientes
-     - Maior visibilidade no mercado
-   - **Exemplo de Parcerias:** Varejo, alimentação, combustível, saúde.
+## 1. Informações Básicas
 
-### 2. **Crédito**
-   - **Descrição:** Oferecimento de soluções de crédito personalizadas tanto para pessoas quanto para empresas.
-   - **Público-Alvo:** Empresários e consumidores que buscam financiamento para projetos específicos.
-   - **Benefícios:**
-     - Acesso a crédito rápido e eficiente.
-     - Soluções para financiamento de tratamentos médicos e projetos empresariais.
-     
-### 3. **Pagamento**
-   - **Descrição:** Soluções integradas de pagamento que incluem pagamentos digitais, gestão de recebíveis e mais.
-   - **Público-Alvo:** Lojas físicas e online que precisam de uma gestão de pagamento simplificada.
-   - **Benefícios:**
-     - Aceitação de múltiplas formas de pagamento (débito, crédito, PIX).
-     - Agilidade e segurança nas transações.
+**Nome da Empresa:** MaisTODOS  
+**CNPJ:** 28.101.795/0001-43  
+**Localização:** Ribeirão Preto, SP  
+**Website:** [maistodos.com.br](https://www.maistodos.com.br)
 
-### 4. **Conta Digital**
-   - **Descrição:** Conta digital PJ sem mensalidade e funcionalidades que facilitam a gestão financeira das empresas.
-   - **Público-Alvo:** Pequenas e médias empresas que desejam uma gestão financeira eficiente.
-   - **Benefícios:**
-     - Gerenciamento integrado de fluxo de caixa e pagamentos.
-     - Atendimento especializado e segurança.
+---
 
-## Principais Dores da Empresa
-1. **Fidelização de Clientes:**
-   - Desafios em manter os clientes ativos e engajados.
-   - Dificuldade em criar incentivos que realmente fazem diferença para os consumidores.
+## 2. Proposta de Valor
 
-2. **Gestão Financeira:**
-   - Necessidade de soluções que integrem as várias facetas da administração financeira (pagamentos, recebíveis, fluxo de caixa).
-   - Burocracias e custos associados a contas bancárias tradicionais.
+### 2.1 Visão
+Transformar vidas conectando soluções financeiras inteligentes e promovendo relações de consumo.
 
-3. **Acesso ao Crédito:**
-   - Dificuldade para pequenas empresas e consumidores em conseguir aprovação de crédito rapidamente, especialmente durante períodos de necessidade.
+### 2.2 Missão
+Potencializar relações de consumo através de soluções financeiras acessíveis para famílias e empresas. A proposta inclui ganho para consumidores e parceiros, incentivando a fidelização e um ecossistema de benefícios.
 
-## Testemunhos e Impacto
-- **Fernanda Ribeiro (Clínica AmorSaúde):** Destacou como a parceria com a MaisTODOS ajudou um paciente a financiar um tratamento essencial, evidenciando a rapidez e a eficiência do processo.
-- **Rogério Costa (Rumba Bar):** Comentou que o programa de cashback não apenas aumentou as vendas, mas também melhorou a lealdade dos clientes, destacando a facilidade de gestão via Portal do Parceiro.
+### 2.3 Valores
+- **TODOS por TODOS**: Trabalho colaborativo.
+- **Ética e Solidariedade**: Lealdade e honestidade nas ações.
+- **Tecnologia Acessível**: Soluções tecnológicas adaptadas às necessidades do cliente.
+- **Aprendizado Contínuo**: Busca incessante pela melhoria e inovação.
+- **Crescimento Sustentável**: Crescer com foco no longo prazo.
+- **Protagonismo**: Valorização do funcionário como parte essencial da empresa.
 
-## Contexto do Mercado
-O mercado de marketing de influência está em rápido crescimento, com empresas buscando novas maneiras de se conectar com seus públicos-alvo. Soluções financeiras que oferecem benefícios tangíveis, como cashback e crédito acessível, estão ganhando destaque. As empresas precisam de um diferencial competitivo que não só atraia novas vendas, mas que também fidelize clientes, trazendo-os de volta repetidamente.
+---
 
-## Sugestões para Abordagem
-- **Personalização do Email:** Começar mencionando como a MaisTODOS já ajudou diversas empresas a melhorar sua gestão financeira e a fidelização de clientes.
-- **Solução Direta para Dores:** Oferecer exemplos de como o programa de cashback pode resolver problemas de visibilidade e vendas, enquanto o acesso ao crédito pode aliviar preocupações financeiras.
-- **Uso de Testemunhos:** Inclusão de citações de clientes satisfeitos para construir confiança e credibilidade.
+## 3. Produtos e Soluções
 
-Este relatório pode ser fundamental para a criação de uma comunicação altamente personalizada e relevante, aumentando as chances de capturar a atenção da empresa prospectada e convertê-la em cliente.
+### 3.1 Cashback
+
+#### Descrição:
+- O programa de cashback visa aumentar a fidelização e as vendas ao oferecer retorno financeiro aos clientes.
+- Integração com mais de 20 milhões de clientes através de parcerias estratégicas em setores variados (varejo, saúde, etc.).
+
+#### Oportunidades:
+- Colaboração com influenciadores para divulgar o programa, potencializando o alcance e engajamento.
+
+### 3.2 Soluções de Crédito
+
+#### Descrição:
+- Ofertas de crédito para pessoas físicas e jurídicas, facilitando acessos a financiamentos e ampliando oportunidades de consumo.
+
+#### Oportunidades:
+- Criação de campanhas com influenciadores que busquem promover produtos de crédito de forma humanizada e acessível.
+
+### 3.3 Pagamentos
+
+#### Descrição:
+- Soluções que incluem pagamentos via cartões, links de pagamento, e gestão financeira prática e eficiente.
+
+#### Oportunidades:
+- Inclusão de influenciadores no processo de testemunho sobre a experiência com o uso das soluções de pagamento.
+
+### 3.4 Conta Digital
+
+#### Descrição:
+- Conta digital sem tarifas escondidas, com controle total das transações financeiras e atendimento personalizado.
+
+#### Oportunidades:
+- Conteúdo que explora a praticidade da conta digital pode ser compartilhado através de influenciadores do nicho financeiro ou tecnológico.
+
+---
+
+## 4. Análise de Mercado e Concorrência
+
+### 4.1 Mercado de Marketing de Influência
+- A importância do marketing de influência está crescendo em diversos setores. Com mais de 600000 influenciadores ativos no Brasil, o potencial de alcance e conversão é significativo.
+- Influenciadores podem aumentar a confiança da audiência nas soluções financeiras ao vinculá-las a experiências pessoais.
+
+### 4.2 Concorrência
+- Empresas concorrentes estão igualmente investindo em programas de cashback e soluções de pagamento, tornando a necessidade de um marketing diferenciado e estratégias de influência mais urgentes.
+
+---
+
+## 5. Potenciais Dores da Empresa
+
+- **Dificuldade em se destacar em um mercado saturado de soluções financeiras.**
+- **Necessidade de aumentar o engajamento do consumidor em suas plataformas e serviços.**
+- **Captação e fidelização de novos clientes de forma eficaz.**
+- **Educação do consumidor sobre suas ofertas (cashback e crédito).**
+
+---
+
+## 6. Oportunidades de Apresentação
+
+### 6.1 Estratégias de Marketing
+- **Criação de Campanhas:** Trabalhar com influenciadores para campanhas de cashback e crédito, traduzindo a complexidade financeira em linguagem simples.
+- **Conteúdo Educacional:** Produzir webinars, vídeos e posts informativos promovendo o funcionamento das soluções oferecidas pela MaisTODOS.
+
+### 6.2 Parcerias Estratégicas
+- **Construção de Parcerias com Influenciadores**: Selecionar influenciadores do nicho financeiro e de lifestyle que possam promover o uso das soluções e engajar sua base de seguidores.
+
+---
+
+## Conclusão
+
+A MaisTODOS possui um modelo de negócios promissor e enxuto no segmento financeiro com forte potencial de engajamento através de marketing de influência. A identificação de influenciadores adequados para disseminar a mensagem da marca e oferecer conteúdo de valor pode ser um diferencial em um mercado competitivo. 
+
+A equipe de copywriting poderá utilizar essas informações para desenvolver comunicações altamente personalizadas e efetivas que impactem positivamente a abordagem da marca.
+
+--- 
+
+**Próximos Passos:** Agendar uma reunião para discutir a implementação de campanhas com influenciadores.
