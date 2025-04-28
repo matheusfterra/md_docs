@@ -1,50 +1,59 @@
-# Relatório de Prospecção - **Techware**
+## Relatório de Prospecção - Techware
 
-## 1. **Informações Gerais da Empresa**
-**Nome da Empresa:** Techware  
-**Website:** [techware.com.br](http://www.techware.com.br)  
-**Segmento:** Tecnologia para Recursos Humanos, com foco em Folha de Pagamento e Gestão de RH.  
-**Ano de Fundação:** 32 anos na indústria de software.  
-**Localização:** Brasil  
-**Números da Empresa:**  
-- **650 mil** empregados com sua folha de pagamento processada.  
-- **130** clientes de grande e médio porte.  
-- **40** engenheiros de software especializados em Folha e RH.
+### 1. Informações Gerais da Empresa
 
-## 2. **Soluções Oferecidas**
-### 2.1. **Software de Folha e RH**
-- **Rhevolution:** Plataforma voltada para a gestão do capital humano, com integração de folha de pagamento e gestão remota de funcionários.
-- **Módulos e Processos**: Diversos módulos para atender as necessidades específicas das empresas na gestão de recursos humanos.
+- **Nome da Empresa**: Techware
+- **Website**: [techware.com.br](http://www.techware.com.br)
+- **Segmento**: HRTech - Software para Gestão de Folha e Recursos Humanos
+- **Anos de Estabelecimento**: 32 anos
+- **Número de Colaboradores**: Aproximadamente 40 engenheiros de software.
+- **Clientes**: 130 clientes de grande e médio porte, incluindo empresas conhecidas como Claro, Scania, Polishop, etc.
+- **User Base**: 650 mil empregados com folha de pagamento processada.
+- **Premiações e Reconhecimentos**: Destaques em pesquisa de fornecedores de confiança e melhor fornecedora de folha de pagamento.
 
-### 2.2. **Terceirização de Folha (BPO)**
-- **BPO de Folha de Pagamento**: Solução para empresas com mais de 500 colaboradores, visando a eficiência na gestão de folha.
+### 2. Produtos e Serviços
 
-### 2.3. **Admissão Digital**
-- **Admissão Digital**: Processo de pré-admissão realizado totalmente de forma virtual, melhorando a experiência do candidato e do RH.
+A Techware oferece uma gama de soluções e serviços focados na gestão de recursos humanos:
 
-## 3. **Destaques e Vantagens**
-- **Histórico de Confiabilidade:** Longa experiência no mercado e soluções reconhecidas como as melhores em folha de pagamento.
-- **Eficiência no Processamento:** Implantação do Rhevolution resultou na redução drástica do tempo de processamento da folha, passando de 8-10 horas para apenas 1 hora.
-- **Flexibilidade:** Soluções personalizadas para atender às necessidades específicas de cada cliente.
-- **Integrações:** Capacidade de implantações independentes ou integradas aos maiores ERPs do mercado.
+#### 2.1 Software para Folha e Recursos Humanos
+- **Rhevolution**: A plataforma principal que combina gestão remota da força de trabalho e folha de pagamento robusta.
+  
+#### 2.2 Serviços de Terceirização
+- **BPO de Folha de Pagamento**: Parceria para gerenciamento da folha de pagamento, especialmente em empresas com mais de 500 colaboradores.
+  
+#### 2.3 Admissão Digital
+- Um processo de pré-admissão totalmente virtual voltado para candidatos e departamentos de RH.
 
-## 4. **Dores e Necessidades Potenciais**
-- **Desafios em Gestão de Tempo:** Muitas empresas enfrentam dificuldades com o tempo gasto em processos de folha de pagamento e admissão, que podem impedir foco em estratégias mais importantes.
-- **Necessidade de Digitalização:** A transformação digital é crucial, e muitas empresas ainda lutam para integrar tecnologias que vão otimizar suas operações em RH.
-- **Conformidade Regulamentar:** Preservar a conformidade com a LGPD e outras regulamentações legais é uma preocupação constante para empresas de RH.
+### 3. Características do Produto
 
-## 5. **Contexto Mercadológico**
-- **Crescimento do Setor de RH Tech:** A demanda por soluções de tecnologia em recursos humanos está crescendo, impulsionada pela necessidade de mudanças digitais e pela busca pela eficiência operacional.
-- **Aumento da Concorrência:** O mercado de soluções de RH está em expansão, com várias startups e empresas estabelecidas oferecendo produtos semelhantes. A Techware pode se diferenciar focando na qualidade do atendimento e na experiência do cliente.
+- **Integrações**: O Rhevolution oferece integração com sistemas existentes, permitindo uma base única e sólida de dados.
+- **Flexibilidade**: Soluções adaptáveis ao tamanho e necessidades específicas da organização.
+- **Suporte**: Serviço de suporte robusto para ajudar na transição e na operação contínua.
+- **Tecnologia inovadora**: Usando criptografia e mobilidade, garantindo segurança de dados.
 
-## 6. **Ações de Prospecção Recomendadas**
-- **Campanhas de E-mail Marketing:** Enviar conteúdos personalizados que abordem as dores específicas do público-alvo, como eficiência em processos de folha e digitalização da admissão.
-- **Webinars e Demonstrações:** Organizar webinars para demonstrar como o Rhevolution e as soluções de BPO podem resolver os problemas atuais das empresas.
-- **Redes Sociais:** Aumentar a presença nas redes sociais com conteúdos que tratem sobre transformação digital no RH, mostrando cases de sucesso e depoimentos de clientes.
+### 4. Dores Potenciais dos Clientes
 
-## 7. **Conexão com o Copywriter**
-O copywriter deve focar em ressaltar a experiência e a confiabilidade da Techware, além de destacar exemplos concretos de como suas soluções têm transformado a gestão de RH em empresas de grande porte. É importante usar uma linguagem que demonstre empatia com as dificuldades enfrentadas pelos gestores de RH, reforçando como a Techware pode ser a parceira ideal na transformação digital.
+Na área de gestão de recursos humanos, as empresas enfrentam vários desafios que podem ser abordados pela Techware, como:
 
----
+- **Complexidade no Processamento de Folhas**: O processamento manual pode ser oneroso e suscetível a erros.
+- **Desmotivação e Rotatividade de Funcionários**: A experiência do candidato na admissões pode ser aprimorada com soluções digitais.
+- **Necessidade de Conformidade Legal**: As mudanças frequentes na legislação trabalhista exigem adaptações rápidas nos processos de RH.
+- **Integração de Sistemas**: Empresas geralmente lidam com múltiplos sistemas que não se comunicam entre si, gerando incisões de dados.
 
-Este relatório fornece uma visão abrangente da Techware e suas soluções, ajudando a criar uma comunicação mais eficaz e direcionada no processo de prospecção.
+### 5. Contenção e Contexto de Mercado
+
+O mercado de HRTech está em rápida transformação com a crescente demanda por digitalização e automação. Com um foco em experiência do colaborador e melhoria na eficiência operacional, soluções que integram tecnologia e processos de RH se tornam essenciais para empresas que desejam se manter competitivas.
+
+### 6. Observações Adicionais
+
+- **Clientes de sucesso**: A Techware possui diversos cases demonstrando como suas soluções impactaram positivamente as operações de seus clientes.
+- **Conferência e Eventos**: A presença em eventos importantes como o CONARH 2022, onde a empresa se destacou, ajuda a aumentar a credibilidade da Techware no mercado.
+
+### 7. Proposta de Ação
+
+**Objetivos para o próximo contato**:
+- Apresentar as soluções da Techware que podem resolver as dores identificadas.
+- Oferecer uma demonstração do software e uma simulação do potencial de retorno sobre o investimento.
+- Enfatizar a expertise e a experiência da empresa em 32 anos de operação, destacando casos de sucesso.
+
+Esses insights detalhados fornecerão ao copywriter da equipe a base necessária para criar comunicações personalizadas e relevantes que atendam às necessidades dos clientes potenciais da Techware no segmento de marketing de influência.
