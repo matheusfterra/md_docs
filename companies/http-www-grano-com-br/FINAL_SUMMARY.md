@@ -1,71 +1,83 @@
 # Relatório de Prospecção: Grano Alimentos
 
-## Informações Gerais
-- **Nome da Empresa:** Grano Alimentos
-- **Segmento:** Produção e comercialização de vegetais congelados
-- **Base de Operações:** Serra Gaúcha, Brasil
-- **Site:** [grano.com.br](http://www.grano.com.br)
-- **Anos de Atividade:** 24 anos (fundada em 2000)
-- **Certificações:** BRCGS (classificação AA), selo social e compromisso com práticas ESG.
+## 1. Informações Gerais da Empresa
 
-## Visão Geral da Empresa
-A Grano Alimentos é uma empresa líder no mercado de vegetais congelados, focando em produtos de alta qualidade que atendem foodservice, indústria e varejo. O seu compromisso com a sustentabilidade é refletido em seu modelo de negócio, que valoriza a agricultura familiar e a inclusão socioeconômica.
+### Nome da Empresa
+Grano Alimentos S.A.
 
-### Missão
-Oferecer opções de alimentação prática, saudável e sustentável.
+### Segmento
+Produção e comercialização de vegetais congelados.
 
-### Visão
-Ser referência em vegetais congelados, promovendo hábitos saudáveis por meio de produtos que melhoram a qualidade de vida.
+### Localização
+Serra Gaúcha, Brasil.
 
-### Valores
-- Trabalho em equipe
-- Transparência e integridade
-- Compromisso social e ambiental
-- Inovações voltadas para o cliente
+### História
+- Fundada em 2000, com foco inicial na produção de vegetais congelados de alta qualidade.
+- 24 anos de experiência no setor, sendo referência no mercado brasileiro.
+- Parcerias com mais de 120 agricultores, valorizando a agricultura familiar.
+- Em 2024, a Grano conquistou a certificação BRCGS com classificação AA, destacando seu compromisso com qualidade e segurança alimentar.
 
-## Produtos e Categorias
-Grano oferece uma ampla gama de produtos, categorizados em:
-1. **Ajudas Culinárias**: Alho, cebola, salsinha, entre outros.
-2. **Vegetais**: Cenoura, brócolis, espinafre e muito mais.
-3. **Mix**: Salada russa, mix de legumes.
-4. **Linha Prática**: Mandioca, polenta palito, entre outros.
+## 2. Produtos e Serviços
 
-***Diferenciais:***
-- **Congelamento IQF**: Preservação de nutrientes, cor e sabor.
-- **Variedade e Disponibilidade**: Produtos disponíveis durante todo o ano.
-- **Qualidade e Segurança**: Certificações que garantem a excelência.
+### Portfólio de Produtos
+- **Vegetais Congelados:** Diversas opções, incluindo milho, ervilha, brócolis, cenoura, entre outros.
+- **Ajudas Culinárias:** Como alho, cebola e manjericão picados.
+- **Mix de Legumes:** Combinações diversificadas para facilidade no preparo.
+- **Linha Prática:** Produtos já higienizados e prontos para uso, como mandioquinha e anéis de cebola.
 
-## Contexto do Mercado
-O mercado de vegetais congelados está em crescimento, impulsionado pela demanda por alimentação saudável e sustentável. A Grano se posiciona para atender a essa crescente necessidade, oferecendo produtos de qualidade que facilitam a vida doméstica e profissional.
+### Diferenciais Competitivos
+- Congelamento IQF (individually quick frozen), preservando sabor e qualidade.
+- Certificação BRCGS (AA) para garantir padrões de qualidade.
+- Produtos 100% naturais, sem aditivos ou conservantes.
+- Validade de até 24 meses, garantindo conveniência e reduzindo desperdícios.
 
-### Tendências e Desafios
-- Aumento da demanda por comida saudável.
-- Pressão para reduzir desperdício alimentar.
-- Necessidade de inovação constante para acompanhar as mudanças de mercado.
+## 3. Público-Alvo
 
-### Dores Potenciais do Cliente
-- Dificuldades na gestão de tempo e custo nas operações de food service.
-- Busca por opções de alimentação saudável em um mercado competitivo.
-- Necessidade de garantir a qualidade e segurança alimentar.
+### Segmentação de Clientes
+- **Food Service:** Restaurantes que buscam garantir qualidade e praticidade em suas cozinhas.
+- **Indústrias:** Clientes que desejam criar suas próprias marcas.
+- **Varejo:** Consumidores finais que buscam produtos saudáveis e práticos.
 
-## Presença Online e Comunicação
-A Grano tem uma presença digital forte, utilizando seu blog para educar e informar sobre saúde, sustentabilidade e inovações no setor. Os canais de comunicação incluem:
-- **Blog:** Conteúdos sobre ESG, saúde e alimentação.
-- **Redes Sociais:** Engajamento com o público sobre tendências alimentares e receitas.
-- **Fale Conosco:** Suporte diretamente para dúvidas e parcerias comerciais.
+## 4. Contexto e Desafios
 
-## Oportunidades de Colaboração
-A Grano está bem posicionada para parcerias em marketing de influência, onde criadores de conteúdo podem promover seus produtos, destacando:
-- Ideias de receitas utilizando vegetais congelados.
-- Mensagens sobre sustentabilidade e alimentação saudável.
+### Tendências de Mercado
+- A crescente demanda por alimentos saudáveis e sustentáveis, impulsionada por um consumidor mais informado e consciente.
+- O setor de food service enfrenta desafios relacionados à redução de desperdícios e otimização de processos.
 
-## Sugestões para a Comunicação
-**Proposta de abordagem:**
-- **E-mail Personalizado:** Abordar a Grano destacando como a colaboração com influenciadores específicos pode amplificar sua mensagem de sustentabilidade e atratividade para o público que busca por saúde na alimentação.
-- **Conteúdo Educativo:** Mostrar como parcerias podem gerar conteúdo valioso que ao mesmo tempo promove os produtos e amplia o conhecimento sobre o impacto positivo da alimentação saudável.
+### Possíveis Dores
+- **Colaboradores:** A rotatividade e a falta de mão de obra qualificada são um desafio constante.
+- **Desperdício Alimentar:** Necessidade de reduzir o desperdício na produção e na operação dos restaurantes.
+- **Sustentabilidade:** Pressão para que marcas adotem práticas sustentáveis e transparentes, abordando questões ESG.
 
-**Exemplo de Mensagem:**
-“Olá [Nome], sabemos que a Grano está comprometida com a produção de vegetais congelados de alta qualidade e práticas sustentáveis. Acreditamos que uma parceria com influenciadores especializados pode não apenas aumentar o alcance da sua mensagem, mas também educar e inspirar novos hábitos saudáveis em seus consumidores.”
+## 5. Objetivos e Propostas de Valor
 
-## Conclusão
-A Grano Alimentos, com seu profundo compromisso com a qualidade e sustentabilidade, representa uma oportunidade valiosa para parcerias de marketing de influência. A personalização das mensagens de acordo com os valores e a filosofia da Grano pode resultar em colaborações frutíferas e impactantes.
+### Objetivo da Proposta
+Estabelecer uma colaboração entre a Grano e influenciadores que promovam e ampliem o reconhecimento da marca e seus produtos.
+
+### Proposta de Valor
+- **Promoção de Estilo de Vida Saudável:** Colaborar com influenciadores que compartilhem a visão de uma alimentação saudável e sustentável.
+- **Conteúdo Inspirador:** Criar receitas e dicas que destaquem a praticidade dos produtos Grano, atingindo um público mais amplo.
+
+## 6. Informações de Contato
+
+### Site
+- [Grano Alimentos](http://www.grano.com.br)
+
+### Fale Conosco
+- E-mail: [sac@grano.com.br](mailto:sac@grano.com.br)
+- Telefone: 0800 042 0346
+
+---
+
+### Links Relevantes
+- [Produtos Grano](https://grano.com.br/produtos)
+- [Receitas Grano](https://grano.com.br/receitas)
+- [Blog da Grano](https://grano.com.br/blog)
+- [Sustentabilidade Grano](https://grano.com.br/sustentabilidade)
+
+### Redes Sociais
+- Instagram, Facebook, LinkedIn: [Grano Alimentos](https://www.instagram.com/granoalimentos)
+
+---
+
+Este relatório serve como um guia abrangente para que nossa equipe de copywriting possa elaborar um e-mail personalizado e atrativo para a Grano Alimentos, destacando as oportunidades de parceria e os benefícios de trabalhar com influenciadores no marketing de seus produtos.
