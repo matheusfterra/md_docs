@@ -1,4 +1,4 @@
-# Relatório de Prospecção: Allugator - Assinatura de Eletrônicos  
+# Relatório de Prospecção: Allugator - Assinatura de Eletrônicos
 
 ## Informações Básicas da Empresa
 - **Nome da Empresa**: Allugator
@@ -6,7 +6,7 @@
 - **Localização**: Rua Maranhão, 330, Santa Efigênia, Belo Horizonte - MG 30150-330
 - **CNPJ**: 25.053.921/0001-43
 - **Contato**: 
-  - E-mail: contato@allugator.com
+  - E-mail: [contato@allugator.com](mailto:contato@allugator.com)
   - Whatsapp: +55 31 9109-5737
   - Site: [allugator.com](https://www.allugator.com)
 - **Presença nas mídias sociais**: Instagram: [allu.oficial](https://www.instagram.com/allu.oficial/)  
@@ -17,16 +17,16 @@ A Allugator se apresenta como uma das principais empresas de assinatura de eletr
 
 ## Produtos e Serviços
 A Allugator oferece uma ampla gama de produtos, incluindo:
-- Smartphones
-- Computadores
-- Consoles de jogos
-- Monitores
-- Acessórios (cabos, alto-falantes, etc.)
-  
+- **Smartphones**
+  - Exemplo: **iPhone 16**: R$ 349,90/mês.
+- **Computadores**
+  - Exemplo: **Notebook Acer Predator Helios RTX4060 i7**: R$ 439,00/mês.
+- **Consoles de jogos e acessórios**
+
 ### Exemplos de Produtos em Destaque
-- **iPhone 16**: Chip A18, GPU de 5 núcleos, Tela Super Retina XDR. Valor de assinatura: R$ 349,90/mês.
-- **Notebook Acer Predator Helios RTX4060 i7**: Processador Intel Core i7, 16GB RAM, 1TB SSD. Valor de assinatura: R$ 439,00/mês.
-- **Monitor Acer Nitro 27" 240hz**: Valor de assinatura: R$ 84,90/mês.
+- **iPhone 16**: Chip A18, GPU de 5 núcleos, Tela Super Retina XDR.
+- **Notebook Acer Predator Helios RTX4060 i7**: Processador Intel Core i7, 16GB RAM, 1TB SSD.
+- **Monitor Acer Nitro 27" 240hz**: R$ 84,90/mês.
 
 ## Público-alvo
 A Allugator parece atingir principalmente:
@@ -34,7 +34,7 @@ A Allugator parece atingir principalmente:
 - Pessoas que têm dificuldades financeiras para adquirir dispositivos eletrônicos e preferem opções de pagamento mais acessíveis.
 
 ## Situação do Mercado
-O mercado de eletrônicos no Brasil é competitivo, e a Allugator se posiciona de forma diferenciada com sua estratégia de modelo de assinatura. Nos últimos anos, a demanda por tecnologia acessível tem aumentado, especialmente entre os jovens e novos empresários.
+O mercado de eletrônicos no Brasil é competitivo, e a Allugator se posiciona de maneira diferenciada com sua estratégia de modelo de assinatura. Nos últimos anos, a demanda por tecnologia acessível tem aumentado, especialmente entre os jovens e novos empresários.
 
 ### Possíveis Dores da Empresa
 1. **Concorrência Intensa**: Cada vez mais empresas estão entrando no mercado com ofertas similares.
@@ -55,5 +55,6 @@ A proposta do e-mail de prospecção deve incluir:
 ## Considerações Finais
 A Allugator é uma empresa com um modelo de negócio inovador num mercado emergente, que pode ser potencialmente bem-sucedido com uma estratégia de marketing de influência robusta. Existem oportunidades significativas para a construção de uma campanha usando influenciadores que ressoem com seu público-alvo.
 
---- 
+---
+
 Esse relatório deve fornecer ao copywriter todas as informações necessárias para elaborar um e-mail de prospecção convincente e focado nas necessidades e dores da Allugator.
