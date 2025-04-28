@@ -1,63 +1,48 @@
-# Relatório de Prospecção - DOJO
+# Relatório de Prospecção para DOJO
 
-## Informações da Empresa
+## Dados da Empresa
 - **Nome da Empresa**: DOJO
-- **Website**: [dojo.do](http://www.dojo.do)
+- **Website**: [www.dojo.do](https://www.dojo.do)
 - **Localização**: 
-  - Brasil: Avenida República do Líbano, 344, São Paulo, 04502-000
-  - Reino Unido: 124 City Road, London, UK, EC1V 2NX
-- **Contato**: 
-  - Email: [media@dojo.do](http://www.dojo.do/about)
-  - Telefone Brasil: +55 11 3135 7400
-  - Telefone UK: +44 20 335 56064
+  - **Brasil**: Avenida República do Líbano, 344, São Paulo, Brazil
+  - **Reino Unido**: 124 City Road, London, UK
+- **Contato de Mídia**: media@dojo.do
 
-## Descrição da Empresa
-DOJO é uma agência criativa que conecta marcas com influenciadores, utilizando insights culturais e criatividade para gerar campanhas marketing impactantes e relevantes. Através de suas unidades de negócios especializadas em estudos comportamentais e na economia criadora, a DOJO transforma colaborações em parcerias autênticas e gera momentum para marcas que desejam se destacar.
+## Sobre a DOJO
+A DOJO é uma agência de marketing e criatividade que conecta marcas a influenciadores e oferece serviços completos em marketing de influência. A empresa valoriza a criatividade estratégica, e busca criar campanhas que gerem impacto cultural. A abordagem da DOJO é baseada em insights culturais e comportamentais, permitindo que as marcas se tornem relevantes no espaço contemporâneo.
 
-## Missão e Visão
-- **Missão**: Transformar ideias criativas em resultados tangíveis, tornando marcas culturalmente relevantes e ressonantes com seus públicos.
-- **Visão**: Acreditar que uma boa ideia é aquela que move cultura. A agência busca ser um líder em inovação e criatividade, desafiando normas e empurrando limites.
+### Visão e Missão
+- **Missão**: Criar significados culturais por meio de campanhas de marketing que vão além do convencional, conectando marcas ao público através de histórias autênticas e emocionais.
+- **Visão**: Ser uma referência em criatividade e inovação no setor de marketing de influência, estimulando uma economia criativa que beneficie tanto as marcas quanto os criadores de conteúdo.
 
-## Estrutura Operacional
-### Unidades de Negócio
-1. **KOGA**: Unidade de estudos comportamentais que decodifica insights e elabora planos não convencionais abordando desafios empresariais.
-2. **MOSHI**: Focada na unidade econômica criadora, unindo criadores de conteúdo e marcas para realizar colaborações autênticas.
+## Serviços Oferecidos
+- **Conexão com Criadores**: Facilitando parcerias autênticas entre marcas e influenciadores para campanhas que se destacam.
+- **Estudos Comportamentais**: Através da unidade KOGA, a DOJO realiza estudos para entender comportamentos e tendências culturais, gerando insights relevantes para as marcas.
 
-## Características do Serviço
-- **Abordagem Criativa**: Constrói as campanhas a partir de comportamentos e insights culturais, não apenas pela estética.
-- **Conexão com Influenciadores**: Estabelece um ecossistema onde criadores e marcas podem interagir de forma significativa.
-- **Campanhas Multicanal**: Oferece soluções em diversas plataformas, potencializando o alcance e a relevância da mensagem.
+## Projetos Notáveis
+1. **Havaianas e as Olimpíadas**: A campanha transformou Havaianas no "uniforme oficial dos brasileiros" durante os Jogos Olímpicos de Tóquio 2020, gerando R$30 milhões em mídia adquirida e sendo a marca mais comentada nas redes sociais naquele dia.
+  
+2. **Asics e o Comitê Paralímpico Brasileiro**: Reformulou a percepção dos atletas paralímpicos, focando em suas histórias e conquistas, não apenas em suas limitações. A campanha gerou mais de R$30 milhões em mídia adquirida.
 
-## Principais Campanhas
-1. **Havaianas e as Olimpíadas**:
-   - Transformou Havaianas no "Uniforme Oficial dos Brasileiros" durante os Jogos Olímpicos de Tóquio 2020.
-   - Usou estratégia de comunicação não convencional, envolvendo o locutor Galvão Bueno em uma campanha que se tornou viral.
+3. **Bienal de São Paulo**: Transformou um dos maiores eventos de arte do Brasil em um espaço inclusivo, alcançando 652 mil visitantes, com um aumento significativo no público de baixa renda.
 
-2. **Chemical Hearts - Prime Video**:
-   - Criou uma experiência emocional através da recolha de memórias adolescentes, conectando o público ao filme de forma singular, antes mesmo de sua estreia.
+4. **Prime Video - Chemical Hearts**: Criou uma experiência emocional real com o público, capturando e visualizando emoções de memórias adolescentes, se destacando na comunicação da estreia do filme.
 
-3. **ASICS e os Jogos Paralímpicos**:
-   - Colaborou com o Comitê Paralímpico Brasileiro para mudar a percepção sobre atletas paralímpicos, focando em suas conquistas e não em suas limitações.
+## Público-Alvo
+A DOJO atende uma ampla gama de marcas, mas frequentemente trabalha com:
+- Marcas de moda e estilo de vida (ex.: Havaianas, Asics)
+- Empresas de entretenimento (ex.: Prime Video)
+- Eventos culturais e artísticos (ex.: Bienal de São Paulo)
 
-## Contexto de Mercado
-- **Desafios**:
-  - A saturação de conteúdo publicitário e a necessidade de formas mais autênticas de conexão com o consumidor.
-  - O crescente papel dos influenciadores em campanhas de marketing, exigindo abordagens mais estratégicas e menos intrusivas.
+## Possíveis Dores
+- **Desconexão Cultural**: As marcas frequentemente lutam para se conectar com seu público de maneira emocional e significativa.
+- **Visibilidade em um Mercado Saturado**: Muitos produtos enfrentam dificuldades em se destacar nas redes sociais.
+- **Escolha do Influenciador**: Há um desafio em encontrar influenciadores cujas audiências alinhem com as metas de marketing da marca.
 
-- **Oportunidades**:
-  - O aumento da cultura digital oferece novas possibilidades para engajamento através de storytelling e experiências compartilhadas.
-  - A mudança nas preferências dos consumidores por marcas que lideram com propósito e valor autêntico.
+## Insight para Copywriting
+Ao escrever uma abordagem para a DOJO, é crucial, além de destacar as conquistas da empresa, evidenciar a capacidade deles de conectar as marcas a influenciadores relevantes. Abordar como o contexto cultural e comportamental é parte do DNA da agência permitirá criar uma mensagem que ressoe com as necessidades e estratégias da marca que está sendo prospectada.
 
-## Dores Potenciais
-- **Dificuldade em se destacar** no mercado saturado de publicidade.
-- **Desconexão com o público**: Muitas marcas lutam para se conectar de maneira autêntica, o que pode resultar em falta de engajamento ou apatia.
-- **Necessidade de adaptação** às rápidas mudanças nas tendências de consumo e nas plataformas digitais.
+Utilizar exemplos de campanhas de sucesso pode ilustrar como a DOJO não apenas executa campanhas, mas também transforma os desafios de seus clientes em oportunidades verdadeiras de conexões significativas.
 
-## Conclusão e Recomendações
-A DOJO é uma força inovadora no marketing de influência, com uma abordagem única que combina insights culturais com criatividade. Para aumentar a eficácia nas próximas campanhas, recomenda-se:
-
-1. **Desenvolver mais parcerias estratégicas com influenciadores**, garantindo que as mensagens sejam reais e ressoem com o público-alvo.
-2. **Investir em estudos comportamentais** para entender melhor as motivações do consumidor e adaptar campanhas para atender a essas necessidades.
-3. **Focar em conteúdo gerado pelo usuário (UGC)** como forma de aumentar a autenticidade e engajamento em campanhas.
-
-Este relatório pode servir de base para criar um email personalizado e profundo, que se concentre nas soluções que a sua empresa pode oferecer, enquanto fala diretamente às dores e necessidades que a DOJO enfrenta em seu segmento.
+## Conclusão
+A DOJO é uma agência com um forte apelo criativo e um histórico comprovado de campanhas impactantes. A estratégia de marketing de influência é sólida e se baseia em um entendimento profundo da cultura contemporânea, o que a torna uma parceira valiosa para marcas que buscam não apenas vender produtos, mas construir relacionamentos duradouros com seus consumidores.
