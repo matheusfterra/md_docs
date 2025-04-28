@@ -1,55 +1,65 @@
-# Relatório de Prospecção - Empresa Clicksign
+## Relatório de Prospecção - Clicksign
 
-## Informações Gerais
-- **Nome da Empresa**: Clicksign
-- **Website**: [www.clicksign.com](https://www.clicksign.com/)
-- **Indústria**: Tecnologia - Assinatura Eletrônica
-- **Localização**: Av. Marcos Penteado de Ulhoa Rodrigues, 939, 8º andar, Torre 1, Tamboré, Barueri, SP, 06460-040, Brasil
-- **Ano de Fundação**: 2015
+### 1. Informações Gerais sobre a Empresa
+- **Nome da Empresa:** Clicksign
+- **Website:** [Clicksign](https://www.clicksign.com)
+- **Ano de Fundação:** 2015
+- **Localização:** Av. Marcos Penteado de Ulhoa Rodrigues, 939 8º andar, Torre 1, Tamboré, Barueri, SP, 06460-040, Brasil.
+- **Segmento de Atuação:** Assinatura eletrônica e automação de processos documentais.
 
-## Produtos e Serviços
-Clicksign é uma plataforma focada na digitalização e automação do processo de assinatura de documentos. Entre suas principais ofertas, destacam-se:
-1. **Assinatura Eletrônica**: Coleta de assinaturas com validade jurídica de qualquer lugar.
-2. **Integração via API**: Permite a conexão com outros sistemas e automação do processo de assinatura.
-3. **Automação de Documentos**: Geração automatizada de documentos e fluxos de trabalho.
-4. **Aceite via WhatsApp**: Formalização de negócios utilizando WhatsApp com integrações.
-5. **Envelope**: Liberdade no envio e assinatura de múltiplos documentos.
-6. **Click AI**: Uma ferramenta de inteligência artificial utilizada para facilitar processos de assinatura.
+### 2. Produtos e Serviços
+A Clicksign oferece diversos produtos e soluções, incluindo:
 
-## Segmentos de Atuação
-Clicksign atende a diversos segmentos, tais como:
-- Fintech
-- Saúde
-- Recursos Humanos
-- Tecnologia
-- E-commerce
-- Telecom
-- Jurídico
-- Outros
+- **Assinatura Eletrônica:** Recolha assinaturas com validade jurídica de qualquer lugar.
+- **Integração:** Integrações via API e Zapier para recolher assinaturas legalmente.
+- **Automação:** Automatização de documentos e processos de assinatura.
+- **Aceite via WhatsApp:** Formalização de negócios por meio do WhatsApp.
+- **Envelope:** Envio e assinatura de diversos documentos em um único envelope.
+- **Click AI:** Ferramenta de inteligência artificial para facilitar processos de assinatura e resumo de documentos.
+- **Assinaturas em Massa:** Permite a assinatura de múltiplos documentos simultaneamente.
 
-## Características e Funcionalidades
-- **Métodos de Autenticação**: 16 métodos disponíveis, como biometria, SMS, WhatsApp, entre outros.
-- **Customização**: Capacidade de personalizar envios com logos e cores da marca do cliente.
-- **Suporte e Segurança**: Atendimento especializado e plataforma segura, certificada pela ISO 27.001 e 27.701.
-- **Relatórios**: Criação de relatórios detalhados sobre o status de documentos e atividades.
+### 3. Diferenciais Competitivos
+- **Segurança:** Certificação ISO 27001 e 27701, garantindo altos padrões de segurança da informação e proteção de dados.
+- **Facilidade de Uso:** Plataforma intuitiva, permitindo a assinatura de documentos em minutos, com diversos métodos de autenticação disponíveis.
+- **Acessibilidade:** Assinaturas podem ser feitas via email, SMS, WhatsApp, e vários outros métodos de autenticação.
+- **Flexibilidade:** Oferece diversas soluções personalizadas de acordo com as necessidades de cada cliente.
 
-## Estrutura de Preços
-Clicksign oferece diferentes planos:
-- **Start**: R$ 39/mês com até 20 documentos finalizados.
-- **Plus**: R$ 69/mês com métodos adicionais de autenticação.
-- **Avançado**: Plano customizado para empresas com alta demanda.
+### 4. Clientes e Testemunhos
+**Principais Clientes:**
+- Femsa
+- Itaú
+- Vtex
+- Universidade Cruzeiro do Sul
+- Solfácil
+- Rock Content
 
-## Potenciais Dores a Serem Abordadas
-1. **Agilidade na Assinatura**: Muitas empresas enfrentam atrasos na coleta de assinaturas, que podem impactar a eficiência operacional.
-2. **Segurança dos Documentos**: A preocupação com fraudes e autenticidade das assinaturas em processos manuais.
-3. **Integração com Sistemas Existentes**: Dificuldade em encontrar uma solução que se integre com outros sistemas usados pela empresa.
-4. **Custos Operacionais**: Necessidade de reduzir custos com documentação e processos burocráticos.
+**Depoimentos de Clientes:**
+- **Vinicius Leandrini Magalhaes (CEO, Studio Yellow):** Destaca a flexibilidade e vantagem competitiva que a Clicksign oferece.
+- **Lorena Lage (Lage & Oliveira):** Comenta sobre a revolução na gestão de documentos e processos eletrônicos.
+- **Romualdo da Silva (CEO, CRM Think):** Ressalta a facilidade de integração da Clicksign ao CRM e a redução de perdas devido à burocracia.
 
-## Contexto para Comunicação
-A Clicksign está focada na transformação digital e na eficiência no gerenciamento de documentos, tendo suas soluções sido populares em setores variados. A comunicação pode enfatizar:
-- A capacidade de acelerar processos de negócios e reduzir custos.
-- A confiabilidade e segurança das assinaturas eletrônicas.
-- Customização do processo de assinatura para se alinhar às necessidades específicas da marca ou empresa.
+### 5. Dores e Necessidades Potenciais
+**Dores Comuns Identificadas em Clientes:**
+- Necessidade de agilidade no processo de assinatura de documentos e validação de contratos.
+- Problemas com a burocracia tradicional em processos de assinatura.
+- Aumento de produtividade por meio da automação de processos documentais.
+- Dificuldade na gestão e rastreio de diversas assinaturas em diferentes canais.
 
-## Conclusão
-A Clicksign é uma empresa que oferece soluções inovadoras e eficientes para a gestão de documentos. A comunicação deve enfatizar a transformação digital, a segurança, a personalização e a agilidade em processos que podem beneficiar diversas indústrias. Esse entendimento pode servir de base para a elaboração de uma abordagem de marketing e vendas mais eficaz para o time de Copywriters.
+### 6. Contexto Atual e Tendências
+- **Crescimento do Mercado:** O uso de assinaturas eletrônicas está crescendo rapidamente com a digitalização de processos, especialmente em setores como financeiro, educação e tecnologia.
+- **Necessidade de Segurança:** Com a maior preocupação em segurança de dados, empresas estão cada vez mais buscando soluções que garantam validade jurídica e proteção das informações.
+
+### 7. Público-Alvo
+- **Segmentos:** Tecnologia, Financeiro, Saúde, Educação, Imobiliário, Consultoria.
+- **Decisores:** CEOs, Diretores de Tecnologia, Gerentes de Projetos, Profissionais de RH.
+
+### 8. Metas e Objetivos
+- **Crescimento para 2025:** Explorar novas parcerias e expandir a adoção das suas soluções SaaS por pequenas, médias e grandes empresas, principalmente nas regiões Norte e Nordeste do Brasil.
+
+### 9. Próximos Passos
+- **Continuação de Prospecção:** Focar em leads nos setores que mais necessitam de soluções de automação.
+- **Elaboração de Estratégia de Conteúdo:** Criar campanhas personalizadas destacando como a Clicksign resolve as principais dores dos clientes, destacando a segurança e praticidade.
+- **Desenvolvimento de Relacionamento:** Envolver-se com as empresas clientes e prospects através de webinars, e-books e conteúdos educativos sobre a digitalização e automação de processos.
+
+### 10. Conclusão
+A Clicksign se apresenta como uma solução robusta e flexível para empresas que buscam otimizar o processo de assinatura de documentos e simplificar a burocracia através da digitalização. O próximo passo é abordar leads com uma comunicação que enfatize como as soluções da Clicksign podem atender a suas necessidades específicas e tornar seus processos mais ágeis e seguros.
