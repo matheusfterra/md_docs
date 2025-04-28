@@ -1,4 +1,4 @@
-# Relatório de Prospecção para liveSEO 
+# Relatório de Prospecção para liveSEO
 
 ## 1. Informações Gerais da Empresa
 - **Nome:** liveSEO
@@ -9,7 +9,7 @@
 
 ## 2. Características Principais da liveSEO
 ### a. Serviços Oferecidos
-- **SEO Técnico:** Auditorias, otimizações, e estratégias personalizadas.
+- **SEO Técnico:** Auditorias, otimizações e estratégias personalizadas.
 - **Conteúdo SEO:** Criação de conteúdo otimizado para melhorar a performance orgânica.
 - **Análise de Concorrência:** Avaliação de posicionamento dos concorrentes e identificação de oportunidades.
 - **Ferramentas Exclusivas:** App liveSEO para gerenciamento de projetos e acompanhamento de resultados.
@@ -40,11 +40,11 @@ A liveSEO já trabalhou com grandes marcas, aumentando a visibilidade e as venda
 - Necessidade de transparência nos resultados e desempenho nas campanhas de SEO.
 
 ### b. Necessidades
-- Como a liveSEO oferece uma abordagem adaptativa e customizada, potenciais clientes podem buscar:
+- Potenciais clientes podem buscar:
   - Estratégias de link building eficazes.
   - Melhoria na velocidade e na experiência do usuário (UX).
   - Aumento da autoridade de domínio e posicionamento de mercado através de conteúdo de qualidade.
-  
+
 ## 5. Contexto de Marketing e Tendências
 ### a. Cenário Atual de SEO
 - Com o aumento do uso de IA e mudanças constantes nos algoritmos, as empresas devem otimizar seus sites e criação de conteúdo para manter a relevância e a competitividade.
@@ -56,11 +56,13 @@ A liveSEO já trabalhou com grandes marcas, aumentando a visibilidade e as venda
 ## 6. Conclusão
 - A liveSEO é um player forte no mercado de SEO e Marketing de Influência, com um histórico comprovado e uma abordagem centrada no cliente. Possui bastante potencial para envolver campanhas de influência que podem impulsionar o tráfego e a conversão orgânica.
 
-### Recomendações de Ações:
+---
+
+## Recomendações de Ações:
 - Criar um e-mail ou uma mensagem personalizada destacando a relevância da união entre SEO e marketing de influência.
 - Abordar diretamente as dores identificadas, apresentando soluções que a liveSEO pode prover.
 - Sugestões relacionadas a otimizações específicas, como link building e aumento de visibilidade através de parcerias com influenciadores.
 
----
+--- 
 
-Este relatório reunirá informações cruciais para a nossa equipe de copywriting criar um e-mail que ressoe com as experiências e necessidades da liveSEO, facilitando a construção de um relacionamento efetivo.
+Este relatório reúne informações cruciais para a nossa equipe de copywriting criar um e-mail que ressoe com as experiências e necessidades da liveSEO, facilitando a construção de um relacionamento efetivo.
