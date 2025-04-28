@@ -1,49 +1,48 @@
-## Relatório de Prospecção: ADCOS
+# Relatório de Prospecção - ADCOS
 
-### Informações Gerais da Empresa
+## Informações Gerais
 - **Nome da Empresa**: ADCOS
-- **Segmento**: Dermocosméticos e Produtos de Cuidado com a Pele
-- **Localização**: Rodovia Governador Mario Covas, 10600 - Sala 42, Lote Tabajara - Serra do Anil, Cariacica - ES, 29147-030
-- **Website**: [www.lojaadcos.com.br](http://www.lojaadcos.com.br)
+- **Segmento**: Dermocosméticos e Cuidados com a Pele
+- **Website**: [lojaadcos.com.br](https://www.lojaadcos.com.br)
+- **Localização**: Rodovia Governador Mario Covas, 10600 - Sala 42 Lote Tabajara - Serra do Anil, Cariacica - ES, 29147-030.
 - **CNPJ**: 07.739.834/0009-10
 
-### Produtos e Serviços Oferecidos
-ADCOS oferece uma gama diversificada de produtos focados em cuidados com a pele, com destaque para:
+## Características da Empresa
+- **Atuação**: ADCOS é uma marca de referência no segmento de dermocosméticos, oferecendo uma ampla gama de produtos focados em cuidados com a pele, incluindo tratamentos faciais e corporais, protetores solares, e produtos anti-idade.
+- **Diferenciação**: A empresa oferece produtos desenvolvidos com tecnologias avançadas e ativos de alta performance, garantindo eficácia e segurança em seus produtos.
+- **Portfólio**: O portfólio inclui linhas específicas para anti-idade, redução de medidas e celulite, clareamento de pele, cuidados para peles acneicas e oleosas, hidratação e proteção solar.
 
-1. **Tratamentos Faciais**:
-   - **Anti-idade**: Séruns, cremes e peelings para rejuvenescimento facial.
-   - **Clareamento**: Produtos para uniformizar o tom da pele e tratar melasma.
-   - **Hidratação**: Hidratantes intensivos, brumas e séruns.
-   - **Proteção Solar**: Protetores com SPF variando de 30 a 99, em diferentes texturas (fluido, gel-creme, mousse).
+## Público-Alvo
+- **Demografia**: Mulheres e homens, geralmente de 25 a 65 anos, preocupados com a saúde e estética da pele, com foco em prevenção e tratamento de sinais de envelhecimento e problemas de pele como acne e manchas.
+- **Perfis**: Consumidores que valorizam produtos de qualidade, seguros, dermatologicamente testados, e estão dispostos a investir em cuidados para a pele.
 
-2. **Tratamentos Corporais**:
-   - **Redução de Medidas e Celulite**: Linha Reduxcel com produtos anticelulite e redutores de medidas.
-   - **Hidratação e Firmamento**: Cremes firmadores e hidratantes corporais.
+## Propostas de Valoração 
+### Necessidades e Dores
+1. **Envelhecimento da Pele**: Aumentar a consciência sobre a importância de cuidados diários com a pele para prevenir rugas e flacidez.
+2. **Problemas de Hidratação**: Muitos consumidores enfrentam problemas com a hidratação da pele, especialmente em climas quentes ou secos.
+3. **Manchas e Hiperpigmentação**: Muitas pessoas buscam soluções para melasma e manchas na pele, necessitando de clareadores eficazes.
+4. **Celulite e Redução de Medidas**: A necessidade de tratamentos que ajudem na redução de medidas e na aparência da celulite, especialmente entre mulheres.
 
-3. **Tratamento Capilar**: Produtos para antiqueda, hidratação e restauração capilar.
+## Possíveis Ações da Campanha de Marketing de Influência
+- **Influenciadores**: Criar parcerias com influenciadores que compartilham conteúdos relacionados a skincare, beleza e fitness, para aumentar o alcance e a visibilidade dos produtos ADCOS.
+- **Testemunhos e Reviews**: Incentivar influenciadores a fazer resenhas e compartilhar experiências reais com os produtos, destacando resultados efetivos e suas fórmulas inovadoras.
+- **Promoções e Ofertas**: Desenvolver campanhas promocionais temporárias ou cupons que influenciadores podem compartilhar com seus seguidores, promovendo o uso de produtos ADCOS.
+- **Tutoriais e Dicas**: Criar conteúdos educativos onde influenciadores demonstram como incorporar os produtos da ADCOS na rotina de skincare de maneira eficaz.
 
-4. **Dermocosméticos Masculinos**: O portfólio inclui produtos anti-idade, de limpeza e suavizantes, destinados ao público masculino.
+## Ofertas e Promoções
+- **Promoções Atuais**:
+   - Ganhe 10% de desconto na primeira compra;
+   - Promoções progressivas (10% de bônus na compra de 2 itens ou 15% na compra de 3 ou mais itens);
+   - Brinde exclusivo nas compras acima de R$ 399.
 
-5. **Kits de Tratamento**: Kits personalizados para diferentes necessidades.
+## Estratégia de Contato
+- **Sugestões de Mensagem**:
+   - Abordar influenciadores com uma proposta de colaboração que mencione a importância dos cuidados com a pele e como a ADCOS se destaca nesse segmento.
+   - Destacar as inovações dos produtos e a eficácia em atender as diversas necessidades da pele.
+   - Mencionar possíveis vantagens em parceria, como acesso antecipado a novos produtos e ofertas exclusivas.
 
-### Ponto de Dor e Necessidades do Cliente
-- **Alto Índice de Quebras de Contratos**: As marcas podem enfrentar dificuldades para manter um relacionamento contínuo com usuários devido à falta de personalização e ausência de marketing eficaz.
-- **Desconhecimento dos Produtos**: consumidores podem não estar cientes de como esses produtos podem beneficiar suas necessidades específicas, e potencialmente subutilizá-los.
-- **Concorrência Crescente**: A ADCOS enfrenta uma competição intensiva de outras marcas que também oferecem produtos similares, tornando essencial se destacar.
+## Contexto do Mercado
+- O mercado de dermocosméticos está em alta, com consumidores cada vez mais preocupados com a saúde e estética da pele. A COVID-19 também gerou uma maior conscientização sobre cuidados pessoais, tornando a prospecção de influenciadores uma estratégia adequada para engajar esse público.
 
-### Contexto do Mercado
-O mercado de cuidados com a pele tem crescido substancialmente, com uma crescente consciência sobre a saúde da pele e a importância da proteção solar, especialmente no Brasil. As tendências mostram um aumento no uso de produtos que oferecem múltiplos benefícios (multifuncionais), como propriedades anti-idade, clareadoras e hidratantes.
-
-### Oportunidades
-- **Marketing de Influência**: Integrar influenciadores da saúde e beleza que se alinhem com os valores da marca para educar e engajar novos audiências. Os influenciadores podem mostrar os benefícios dos produtos ADCOS e como integrá-los em a rotina de cuidados diários. 
-- **Pacotes Personalizados com Assinatura**: Oferecer serviços de assinatura que garantam a entrega contínua de produtos, aumentando a lealdade do cliente e permitindo um melhor gerenciamento do relacionamento com os mesmos.
-
-### Estratégias para Atração de Clientes
-1. **Educação através de Conteúdo**: Publicar conteúdos baseados em dados sobre eficácia do produto e a história de sucesso de outros clientes. 
-2. **Campanhas de Retargeting para Conversão**: Atraia os usuários que visitaram o site, mas não completaram a compra, com anúncios personalizados.
-3. **Programas de Fidelidade e Recompensas**: Introduzir programas que incentivem os clientes a recomprarem com descontos ou produtos grátis.
-
-### Conclusão
-A ADCOS apresenta uma forte proposta de valor em dermocosméticos, mas deve implementar estratégias personalizadas e centradas no cliente. A parceria com influenciadores em um programa de marketing de influência pode representar um crescimento significativo no alcance e nas conversões, à medida que mais consumidores se tornam conscientes dos benefícios de uma rotina de cuidado de pele bem estruturada. 
-
-Este relatório deve servir como Guia para o Copywriter ao criar abordagens personalizadas para emails de prospecção.
+## Conclusão
+A ADCOS é uma marca muito relevante no setor de cuidados com a pele, e uma estratégia de Marketing de Influência alinhada com seu portfólio e necessidades do consumidor pode ampliar significativamente seu alcance e fortalecer sua imagem de marca.
