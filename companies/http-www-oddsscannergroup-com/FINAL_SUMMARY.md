@@ -1,51 +1,55 @@
-# Relatório de Prospecção: Odds Scanner Group
+# Relatório de Prospecção - Odds Scanner Group
 
-## 1. Informações da Empresa
-- **Nome da Empresa**: Odds Scanner Group
-- **Website**: [oddsscannergroup.com](https://oddsscannergroup.com)
-- **Sede**: 
-  - Malta: Q2, Ground Floor, Unit B, Tigne Point, Sliema, TP01
-  - Portugal: Praça Marquês de Pombal 14, 1250-162, Lisboa
-  - Brasil: R. Cap. Antônio Rosa, 409 - Jardim Paulistano, São Paulo - SP, 01443-010
+### **Informações Gerais**
+- **Nome da Empresa:** Odds Scanner Group
+- **Website:** [oddsscannergroup.com](https://oddsscannergroup.com)
+- **Segmento:** Media-Tech e Performance Marketing
+- **Localização:** 
+  - Sede em Malta
+  - Escritórios em Lisboa (Portugal) e São Paulo (Brasil)
+- **Ano de Fundação:** 2019
 
-## 2. Visão Geral da Empresa
-Odds Scanner Group é uma empresa de tecnologia de mídia e marketing de desempenho que combina tecnologia de ponta com insights orientados por dados para ajudar marcas e parceiros a crescer em mercados competitivos. A empresa se destaca no setor de iGaming, especialmente em apostas esportivas, utilizando práticas de SEO e campanhas de mídia paga para construir marcas inovadoras e proporcionar soluções publicitárias direcionadas que geram resultados mensuráveis.
+### **Missão e Visão**
+- **Missão:** Oferecer desempenho de alto valor e soluções inovadoras em marketing de aquisição, com foco na transparência e integridade nas parcerias.
+- **Visão:** Revolucionar a indústria de iGaming e apostas esportivas, promovendo um crescimento sustentável e positivando resultados mensuráveis.
 
-## 3. Missão e Valores
-- **Missão**: Aumentar o desempenho de marcas através de estratégias de marketing focadas e baseadas em dados que redefinem a aquisição de clientes.
-- **Valores**:
-  - **Desempenho de Alto Valor**: Foco nos resultados mensuráveis.
-  - **Transparência e Integridade**: Eixo central nos relacionamentos e parcerias.
-  - **Inovação na Aquisição**: Uso de criatividade e dados para adquirir clientes de forma escalável.
+### **O que a Odds Scanner Group Faz**
+1. **OS Media:** Desenvolvimento de marcas líderes em mídia esportiva e jogos através de produtos próprios e parcerias estratégicas para criar conteúdos que engajam os usuários.
+2. **OS Labs:** Foco em aquisição de clientes utilizando análises avançadas e funis de marketing em larga escala para mercados em crescimento.
+3. **OS Partners:** Conexão de marcas e afiliados com ofertas, tecnologia e uma robusta rede global de afiliados, utilizando uma plataforma que integra informações em tempo real, análises e otimização automatizada.
 
-## 4. Segmento de Mercado
-- **Indústria**: iGaming e Marketing de Influência.
-- **Serviços Principais**:
-  - **OS Media**: Desenvolvimento de mídia esportiva através de produtos próprios e parcerias estratégicas.
-  - **OS Labs**: Foco na aquisição de clientes com análises avançadas e funis de marketing.
-  - **OS Partners**: Conexão de marcas e afiliados com ofertas e tecnologia.
+### **Dores Potenciais na Indústria**
+1. **Concorrência Aumentada:** As empresas enfrentam intensa competição no mercado de iGaming, tornando difícil para novas marcas se destacarem.
+2. **Retenção de Clientes:** Dificuldade em manter os jogadores engajados e fidelizados em um mercado saturado.
+3. **Desempenho de Campanhas:** Necessidade de melhorar a medição e a eficácia das campanhas de marketing digital e aquisição de clientes.
+4. **Conformidade Regulatória:** Necessidade de entender e seguir as regulamentações locais em diferentes mercados.
 
-## 5. Clientes e Parceiros
-A Odds Scanner Group já estabeleceu parcerias com marcas globais do setor, como Bet365, Parimatch, e Stake. Isso demonstra sua reputação e credibilidade no mundo do iGaming.
+### **Público-alvo**
+- **Marcas de iGaming**: Empresas que desejam expandir sua presença em novos mercados.
+- **Editores de Conteúdo**: Sites e publicações que buscam melhorar sua estratégia de monetização.
+- **Afiliados**: Profissionais que procuram melhores ofertas e tecnologias para maximizar sua receita.
 
-## 6. Propostas de Valor
-- **Tecnologia Avançada**: A empresa utiliza uma infraestrutura de dados sofisticada que permite decisões em tempo real e a criação de funis de aquisição eficazes.
-- **Foco no Cliente**: O entendimento aprofundado do comportamento do cliente ajuda a otimizar a jornada do cliente e aumentar as taxas de retenção.
-- **Expertise Local**: Uma rede de mais de 1.000 afiliados e 50 operadores de jogos em 30 mercados.
+### **Histórico**
+- **2019:** Fundada como Costa Media com os primeiros sites de comparação em Portugal e Espanha.
+- **2020:** Obteve investimentos iniciais com a entrada de investidores.
+- **2021:** Expandiu sua presença no Brasil e firmou parcerias estratégicas.
+- **2022:** Reconhecida como uma das empresas de crescimento mais rápido no mercado brasileiro de iGaming.
+- **2023:** Expansão da equipe e canais de aquisição.
+- **2024:** Preparação para expansão global, começando pela América Latina e América do Norte.
 
-## 7. Dores Potenciais
-- **Desafios em Aquisição de Clientes**: Muitas marcas enfrentam dificuldades em adquirir clientes de forma eficaz e sustentável em um mercado tão competitivo.
-- **Falta de Transparência e Inovação**: Muitas parcerias não oferecem a visibilidade ou inovação necessárias para maximizar o retorno sobre investimento.
-- **Regulamentação Local**: Navegar pelas diferentes regulamentações de cada mercado é um desafio constante.
+### **Principais Parceiros e Clientes**
+- Trabalha com grandes marcas como Bet365, Parimatch, Betfair, Stake, entre outros, o que estabelece uma reputação sólida e confiável no setor.
 
-## 8. Contexto para Proximidade
-A Odds Scanner Group está se expandindo globalmente e procurando mecanismos de crescimento em regiões como América Latina e América do Norte. Com a crescente demanda por resultados eficazes no marketing e a necessidade de inovação, a empresa pode se beneficiar de soluções de marketing de influência que conectam marcas a creators relevantes, ajudando assim a fortalecer a posição de mercado em novos segmentos.
+### **Resultados e Métricas**
+- **Usuários Mensais:** Atende mais de 5 milhões de usuários mensalmente.
+- **Engajamento:** Métricas de engajamento consistentemente superiores aos padrões da indústria.
+- **Otimização de Jornada do Cliente:** Foco em analisar o comportamento do usuário para criar campanhas segmentadas que melhoram a retenção.
 
-## 9. Conclusão
-Odds Scanner Group é uma empresa que combina tecnologia de ponta com uma abordagem orientada por dados para maximizar o desempenho de seus clientes no espaço do iGaming. Uma aproximação através de propostas de parcerias atrativas e soluções personalizadas de marketing de influência poderia fornecer a eles ferramentas adicionais para superar os desafios do mercado e acelerar sua expansão global.
+### **Conclusão e Recomendações**
+A Odds Scanner Group está bem posicionada para colaborar com marcas e influenciadores no espaço de marketing de influência. Através de uma compreensão profunda do mercado de iGaming e uma estratégia sólida de aquisição, a empresa pode se beneficiar ao se conectar com influenciadores que ampliem sua mensagem e alcance.
 
-## 10. Recomendações para Contato
-- **Estratégia de Abordagem**: Um e-mail personalizado focando nas conquistas da Odds Scanner no mercado de iGaming e como a adição de um marketing de influência robusto pode potencializar ainda mais seu alcance e eficácia.
-- **Direcionamento**: Sugerir uma conversa inicial para discutir como otimizar o relacionamento com influenciadores e criar campanhas mais eficazes.
+### **Próximos Passos**
+- **Contato:** [Formulário de Contato](https://oddsscannergroup.com/contact)
+- **Proposta de Parceria:** Explorar oportunidades de colaboração com influenciadores que compartilhem valores semelhantes de inovação e crescimento.
 
-Com base nesse relatório, o copywriter da equipe pode elaborar um e-mail detalhado e relevante que ressoe com os objetivos e os desafios da Odds Scanner Group, aumentando as chances de uma resposta positiva.
+**Observações Finais:** Foque em enfatizar a importância de uma abordagem personalizada nas comunicações com a Odds Scanner, destacando como a colaboração com influenciadores pode contribuir para superar as dores identificadas e fortalecer a posição da marca no mercado.
