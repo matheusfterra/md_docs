@@ -1,64 +1,86 @@
-# Relatório de Prospecção para a Empresa relevanC
+# Relatório de Prospecção - relevanC
 
-## Informações Geral da Empresa
-- **Nome da empresa:** relevanC
-- **Website:** [www.relevanc.com](http://www.relevanc.com)
-- **Segmento de mercado:** Marketing de Influência e Retail Media
-- **Sede:** França (presença também no Brasil e na Colômbia)
-- **Ano de fundação:** 2017
-- **Controladora:** Grupo Casino
+## 1. Informações Gerais da Empresa
 
-## Descrição da Empresa
-A relevanC é uma empresa focada em liberar o potencial das dados de varejo para maximizar a performance de marcas e distribuidores. Utiliza uma plataforma inovadora que integra dados de clientes e operações, permitindo personalizações, sinergias logísticas, e otimização de estoques e assortimentos. A proposta da relevanC é ajudar seus clientes a se conectar mais eficientemente com consumidores através de insights orientados por inteligência artificial e uma abordagem centrada no cliente.
+**Nome da Empresa:** relevanC  
+**Setor:** Marketing de Influência, Dados de Varejo e Publicidade Digital  
+**Ano de Fundação:** 2017  
+**Grupo Afilhado:** Grupo Casino  
+**Localização Sede:** França, com operações no Brasil e na Colômbia  
+**Website:** [relevanc.com](http://www.relevanc.com)  
+**Descrição:** relevanC é uma empresa focada em otimizar o uso de dados de varejo para ajudar marcas e varejistas a se conectarem com seus clientes por meio de experiências personalizadas e soluções de marketing digital.
 
-### Principais Ofertas
-1. **Data Hub:** 
-   - Centraliza dados de varejo, possibilitando a análise de comportamento e performance.
-   - Garante a segurança e privacidade de dados, em conformidade com o RGPD.
-   
-2. **Retail Media:** 
-   - Proporciona tecnologia e expertise para engajar marcas e consumidores através de campanhas publicitárias, utilizando first-party data.
-   - Oferece uma plataforma de media, com acesso a run consoantes e remarketing.
-   
-3. **Insights:** 
-   - Fornece análises detalhadas de comportamento de consumidores, bem como dados sobre operações no varejo.
+## 2. Clientes e Parcerias
 
-4. **Promoções digitais:** 
-   - Ferramenta para criação de promoções personalizadas que visam aumentar a interação dos consumidores nos pontos de venda.
-   - As promoções são otimizadas pela plataforma RCDMP, permitindo segmentação de clientes e relatórios de desempenho em tempo real.
+**Principais Clientes e Parceiros:**
+- Franprix
+- Monoprix
+- Cdiscount
+- GPA (Grupo Pão de Açúcar)
+- Intermarché
+- Tamimi Markets
+- Grupo Éxito
 
-5. **Serviços de Marketing:** 
-   - Ajuda marcas a desenvolver estratégias de aquisição e fidelização, com foco na criação de experiências personalizadas ao consumidor.
+## 3. Produtos e Serviços
 
-## Público-Alvo
-- **Marcas:** Buscando melhorar sua presença no mercado, engajamento e conversão através de dados e promoções personalizadas.
-- **Varejistas:** Desejando otimizar operações, melhorar a experiência do consumidor e maximizar receita através de campanhas publicitárias eficazes.
+### a. Data Hub
+- **Descrição:** Centraliza e organiza dados de clientes e operações, permitindo a personalização e otimização logística.
+- **Benefícios:** Melhora a eficiência operacional e permite decisões baseadas em dados.
 
-## Dores e Desafios Identificados
-- Necessidade de personalização e individualização das experiências do cliente em um ambiente competitivo.
-- Aumento da pressão para transformar dados em insights acionáveis e estratégias mensuráveis.
-- Melhoria na capacidade de previsão e gestão de estoques para evitar rupturas e subsequente perda de vendas.
-- Desafios em conectar marcas com consumidores em um panorama de privacidade crescente e regulamentações de proteção de dados.
+### b. Retail Media
+- **Descrição:** Soluções de marketing que utilizam dados de primeira mão para facilitar engajamentos entre marcas e consumidores.
+- **Destaques:**
+  - Ofertas de mídia digitais personalizadas
+  - Campanhas omnicanal
 
-## Tecnologias e Metodologias Utilizadas
-- **Google Cloud Platform:** Suporte para hospedagem e processamento de grandes volumes de dados em tempo real.
-- **BigQuery e Cloud SQL:** Estruturas para armazenamento e gestão de dados, permitindo análises rápidas e precisas.
-- **Inteligência Artificial:** Aplicada para personalização de experiências, melhorando a eficácia de campanhas publicitárias e promoções.
+### c. Insights para Marcas e Varejistas
+- **Descrição:** Dados e análises avançadas que ajudam marcas e varejistas a entenderem melhor o comportamento do consumidor.
+- **Objetivo:** Permitir decisões mais informadas e estratégias de marketing mais eficazes.
 
-## Casos de Sucesso
-1. **Franprix:**
-   - Aumento de 8 a 11 euros de receita por cada euro investido em campanhas personalizadas.
-   - 5x aumento na adoção de promoções após implementação.
+### d. Promoções Digitais
+- **Descrição:** Personalização de promoções baseada em dados de clientes para aumentar engajamento e vendas.
+- **Resultados:**
+  - Aumento no retorno sobre investimento (ROI) das campanhas promocionais.
+  
+## 4. Casos de Sucesso
 
-2. **Monoprix:**
-   - Lançamento de um catálogo digital que gerou um aumento substancial na compra e interação dos consumidores.
+### a. Franprix
+- **Desafio:** Aumentar o engajamento do cliente e a frequência de compras.
+- **Solução:** Implementação de soluções de personalização de promoções.
+- **Resultados:**
+  - Aumento de 5X na adoção de promoções personalizadas.
+  - Retorno adicional de €8 a €11 para cada euro investido.
 
-## Contexto de Mercado
-O mercado de Marketing de Influência e Retail Media está crescendo rapidamente, com empresas cada vez mais buscando se conectar diretamente com consumidores. A utilização de dados e a capacidade de criar experiências personalizadas são cruciais para manter a competitividade. O aumento das preocupações com a privacidade de dados também está moldando a forma como as empresas desenvolvem suas estratégias de marketing.
+### b. Monoprix
+- **Desafio:** Modernizar a experiência de promoção após a desistência do uso de catálogos físicos.
+- **Solução:** Digitalização das promoções com a relevanC.
+- **Resultados:**
+  - Publicação de 3000 promoções por semana com engajamento significativamente maior.
 
-## Conclusão
-A relevanC oferece uma ampla gama de soluções que podem ajudar marcas e varejistas a maximizar suas operações através de dados e personalização. A identificação de suas principais propostas de valor, desafios do mercado e casos de sucesso é fundamental para elaborar um e-mail impactante e personalizado que possa captar a atenção do receptor e gerar maior engajamento.
+## 5. Dores e Desafios Identificados
 
----
+- **Integração de Dados:** Necessidade de integração eficiente entre dados de clientes e operações para maximizar o ROI.
+- **Engajamento do Consumidor:** Desafio em manter os consumidores engajados e aumentar a fidelidade à marca.
+- **Gestão de Estoque:** Problemas recorrentes com rupturas de estoque que afetam a experiência do cliente.
 
-Este relatório compila todas as informações necessárias para direcionar um contato eficaz e bem formulado, visando captar a atenção das empresas no segmento de marketing de influência.
+## 6. Contexto do Mercado
+
+- **Tendências:** As marcas estão cada vez mais adotando soluções digitalizadas e baseadas em dados para melhorar sua eficiência operacional e engajamento do cliente.
+- **Desafios do Setor:** A transição para um ambiente sem cookies está forçando as marcas a repensarem suas estratégias de coleta e uso de dados.
+
+## 7. Sinais de Interesse
+
+- Participação ativa em conferências e eventos do setor de marketing digital.
+- Colaboração contínua com grandes marcas do setor, indicando uma boa reputação no mercado.
+
+## 8. Conclusões e Recomendações
+
+A relevanC demonstra ser uma empresa bem posicionada para ajudar marcas a otimizar seu marketing digital e a personalizar promoções de forma eficaz. O uso de dados de primeira mão e a implementação de soluções personalizadas são os principais diferenciais competitivos.
+
+## 9. Próximos Passos para Prospecção
+
+1. **Contato Inicial:** Enviar um e-mail personalizado destacando a relevância da relevanC e como suas soluções podem resolver as dores específicas da empresa-alvo.
+2. **Teste de Soluções:** Propor uma apresentação ou demonstração sobre como as soluções da relevanC podem ser aplicadas ao negócio da empresa prospectada.
+3. **Follow-Up:** Estabelecer um cronograma de follow-ups para avaliar o interesse e discutir possíveis colaborações futuras.
+
+Esse relatório forneceu uma visão abrangente da relevanC e seus negócios, permitindo que a equipe de copywriting produza um conteúdo altamente direcionado e impactante.
