@@ -1,60 +1,74 @@
-```plaintext
 # Relatório de Prospecção para DKT South America
 
-## Informações Gerais
-**Nome da Empresa:** DKT South America  
-**Website:** [www.dkt.com.br](http://www.dkt.com.br)  
-**Segmento:** Marketing de Influência e Produtos de Saúde Sexual  
-**Localização:** Brasil (com atuação na América do Sul)  
-**Ano de Fundação:** 1990  
-**Produtos Principais:**
-- Preservativos (masculinos e femininos)
-- DIUs
-- Contraceptivos hormonais
-- Géis lubrificantes
-- Coletores menstruais descartáveis
-- Lenços umedecidos
+## Informações Gerais da Empresa
+- **Nome da Empresa:** DKT South America
+- **Website:** [www.dkt.com.br](http://www.dkt.com.br)
+- **Segmento:** Marketing de Influência (na promoção de produtos de saúde e bem-estar)
+- **Ano de Fundação:** 1990 (no Brasil)
+- **Localização:** Brasil (subsidiária de DKT Internacional)
+- **História da Empresa:**
+  - Iniciou suas atividades no Brasil em 1990.
+  - A primeira empresa no Brasil a comercializar preservativos femininos.
+  - Pioneira no lançamento de preservativos coloridos e aromatizados em 1999.
 
-## Visão Geral da Empresa
-A DKT South America é uma subsidiária da DKT Internacional, com mais de 30 anos de experiência em promover a saúde sexual e o planejamento familiar. A empresa iniciou suas atividades no Brasil em 1990 e se expandiu pela América do Sul, focando na conscientização sobre o uso de métodos contraceptivos e na prevenção de infecções sexualmente transmissíveis (ISTs).
+## Produtos/Serviços
+- **Principais Oferta:**
+  - Preservativos (incluindo marcas como Prudence, Sutra, Andalan e Amiu Ipas).
+  - Dispositivos Intrauterinos (DIUs).
+  - Contraceptivos hormonais.
+  - Géis lubrificantes.
+  - Coletores menstruais descartáveis.
+  - Lenços umedecidos.
+  
+- **ObjetIVO:** Contribuir para o planejamento familiar e a conscientização sobre a importância do uso de anticoncepcionais na prevenção de ISTs.
 
-A DKT foi pioneira no lançamento de preservativos femininos no Brasil e na introdução de preservativos coloridos e aromatizados em 1999. A empresa se destaca por sua capacidade de inovar e adaptar seu portfólio de produtos às necessidades do mercado.
+## Performance e Impacto
+- **CYP (Couples Year Protection):** 2.8 milhões de casais protegidos em 2023.
+  - Indica a quantidade de casais que foram protegidos por métodos de planejamento familiar durante um ano.
 
-## Público-Alvo
-- **Demográfico:** Jovens adultos, casais em idade fértil, profissionais de saúde, instituições de saúde pública.
-- **Psicográfico:** Consumidores preocupados com a saúde sexual e o planejamento familiar, que buscam produtos de qualidade e confiáveis para a proteção em suas relações.
+## Análise do Público-Alvo
+- **Demografia:**
+  - Adultos em idade reprodutiva (18-49 anos).
+  - Casais que buscam planejamento familiar e métodos de preservação.
+  
+- **Psicografia:**
+  - Preocupação com a saúde sexual e reprodutiva.
+  - Interesse por produtos que promovam saúde e bem-estar.
+  
+- **Comportamento:**
+  - Proatividade em buscar métodos contraceptivos.
+  - Valorização de marcas que oferecem responsabilidade social e campanhas de conscientização sobre saúde.
 
-## Dores e Oportunidades
-### Possíveis Dores:
-- **Baixo conhecimento sobre saúde sexual:** A falta de informação acerca dos métodos contraceptivos e proteção contra ISTs pode impactar negativamente as escolhas do público-alvo.
-- **Estigmas relacionados ao uso de preservativos:** Muitos consumidores ainda enfrentam preconceitos e estigmas relacionados ao uso de preservativos, o que pode dificultar a compra e utilização dos produtos.
-- **Necessidade de alternativas:** A demanda por produtos mais inovadores e que atendam diferentes necessidades pode ser uma oportunidade não totalmente explorada.
+## Dores e Desafios Potenciais
+- **Conscientização:** Muitos casais podem não estar totalmente informados sobre os produtos e serviços disponíveis para planejamento familiar e prevenção de ISTs.
+- **Estigmas sociais:** Existe um estigma associado ao uso de contraceptivos que pode dificultar a aceitação e adoção desses produtos, especialmente entre públicos mais conservadores.
+- **Necessidade de inovação constante:** A indústria de saúde e bem-estar é altamente competitiva. A DKT precisa se destacar pela qualidade e inovação dos seus produtos.
+- **Conexão com o público:** Necessidade de criar campanhas que ressoem emocionalmente com o público-alvo.
 
-### Oportunidades para Marketing de Influência:
-- **Educação e Conscientização:** Utilizar influenciadores para disseminar informações sobre saúde sexual de forma educativa e envolvente pode ajudar a desmistificar tabus e aumentar a aceitação do uso de preservativos e métodos contraceptivos.
-- **Campanhas de Engajamento:** Parcerias com influenciadores que se conectam emocionalmente com o público jovem e ativo podem fortalecer o posicionamento da marca e aumentar a lealdade.
-- **Eventos e Ações Sociais:** Desenvolver ações sociais com influenciadores para aumentar a visibilidade da marca e promover o uso responsável de produtos.
+## Oportunidades de Colaboração em Marketing de Influência
+1. **Influenciadores de Saúde e Bem-Estar:**
+   - Parcerias com influenciadores que falam sobre saúde sexual e bem-estar para aumentar a conscientização sobre o uso de métodos contraceptivos.
+   
+2. **Campanhas Educativas:**
+   - Desenvolver campanhas educativas, utilizando influenciadores para desestigmatizar o uso de preservativos e produtos de planejamento familiar.
+   
+3. **Testemunhos e Histórias Reais:**
+   - Microinfluenciadores podem compartilhar relatos pessoais que ajudem a humanizar a experiência de uso dos produtos da DKT, aumentando a empatia e aceitação.
 
-## Estrutura e Presença Digital
-- **Website:** O site da DKT contém informações sobre produtos, a missão da empresa e uma seção de notícias. Não há muitas seções de conteúdo relacionadas a blogs ou artigos educacionais, o que representa uma oportunidade para melhorar o SEO e engajamento do público.
-- **Redes Sociais:** A DKT está ativa em redes sociais como Facebook, Instagram, YouTube e LinkedIn. O conteúdo pode incluir postagens voltadas à conscientização, promoções e interações com seguidores.
+## Estratégias Sugeridas de Abordagem
+- Personalizar a comunicação de acordo com as necessidades específicas da DKT. Destacar como o marketing de influência pode ajudar a expandir o alcance e impacto das campanhas já existentes.
+- Apresentar dados sobre o sucesso de campanhas anteriores de marketing de influência, especialmente em segmentos de saúde e bem-estar.
+- Sugerir um primeiro passo prático, como uma reunião ou workshop, para discutir ideias de campanhas conjuntas.
 
-## Competidores
-- **Grupos Locais e Internacionais de Saúde Sexual:** Que atuam na mesma área, como Johnson & Johnson e marcas de preservativos locais.
-- **Startups de Produtos de Saúde Sexual:** Novas empresas que estão investindo no mercado de contraceptivos e saúde sexual, buscando inovação em produtos.
+## Contatos e Redes Sociais
+- **Redes Sociais:** 
+  - Facebook: [DKT no Facebook](https://www.facebook.com/dkt)
+  - Instagram: [DKT no Instagram](https://www.instagram.com/dkt)
+  - YouTube: [DKT no YouTube](https://www.youtube.com/dkt)
+  - LinkedIn: [DKT no LinkedIn](https://www.linkedin.com/company/dkt)
 
-## Mensagens-chaves para o Copywriting
-1. **Educação e Conscientização:** A importância do uso responsável de métodos contraceptivos para proteger a saúde e prevenir ISTs.
-2. **Inovação e Variedade:** A DKT oferece uma ampla gama de produtos, desde preservativos aromatizados até métodos contraceptivos adicionais.
-3. **Responsabilidade Social:** Compromisso da DKT em promover o planejamento familiar e a saúde sexual em todas as suas ações.
+- **Atendimento ao Cliente:**
+  - SAC: Contato via PABX de segunda a sexta, das 8h30 às 18h00.
 
-## Conclusão
-O potencial da DKT South America para expandir sua presença no mercado através do marketing de influência é significativo. A empresa pode se beneficiar ao se alavancar as redes sociais e colaborações com influenciadores para aumentar a conscientização e promover suas novidades. 
-
-A compreensão das dores do público-alvo e a análise de oportunidades permitirá que a DKT crie campanhas mais impactantes e relevantes, gerando maior engajamento e vendas.
-
-### Próximos Passos
-- Desenvolvimento de um plano de contato inicial com potenciais influenciadores.
-- Criação de um grupo focado em marketing de influência para aprimorar as estratégias e monitorar métricas de engajamento.
-- Análise contínua da resposta do público e adaptação das campanhas conforme necessário.
-```
+## Considerações Finais
+A DKT South America tem um histórico forte e positivo e suas soluções são relevantes e impactantes no setor de saúde e planejamento familiar. O uso de marketing de influência pode ser uma ferramenta eficaz para ajudá-los a conectar suas marcas a um público mais amplo e a desmistificar as conversas sobre saúde sexual. A personalização da abordagem em comunicação será crucial para gerar interesse e engajamento tanto da DKT quanto de seus possíveis influenciadores.
