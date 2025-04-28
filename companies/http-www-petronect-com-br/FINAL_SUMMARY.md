@@ -1,3 +1,12 @@
+# Estrutura de Diretórios
+```plaintext
+├── FINAL_SUMMARY.md
+└── http-www-petronect-com-br.md
+```
+---
+
+## 📄 `FINAL_SUMMARY.md`
+```md
 ## Relatório de Prospecção: Petronect
 
 ### Informações Gerais
@@ -12,7 +21,7 @@ Petronect é uma empresa que atua como uma plataforma digital para facilitar pro
 
 ### Características da Empresa
 - **Público-Alvo**: Órgãos governamentais, empresas fornecedoras que atuam no segmento público, além de cidadãos que buscam informações sobre processos licitatórios.
-- **Proposta de Valor**: Eficiência, transparência e acessibilidade em processos licitatórios. 
+- **Proposta de Valor**: Eficiência, transparência e acessibilidade em processos licitatórios.
 - **Plataformas Utilizadas**: Um portal online onde ações de compras e licitações são disponibilizadas para fácil acesso e consulta.
 - **Tecnologia**: Uso de tecnologia para integração e automação de processos de compras públicas.
 
@@ -41,5 +50,21 @@ Diante das características e do posicionamento da Petronect, uma estratégia fo
 
 ### Próximos Passos
 - Reunião com o time de copywriting para discutir insights do relatório.
-- Criar um cronograma para as campanhas a serem propostas e o mapeamento de influenciadores. 
+- Criar um cronograma para as campanhas a serem propostas e o mapeamento de influenciadores.
 - Preparar materiais de apresentação para futuros encontros com a Petronect.
+```
+
+---
+
+## 📄 `http-www-petronect-com-br.md`
+```md
+# http://www.petronect.com.br
+
+| ![](https://www.petronect.com.br/com.sap.portal.design.urdesigndata/themes/portal/petronect_public/common/1x1.gif) | The iView has timed out. It is now displaying expired content from the cache. Click 'Reload' to retrieve updated content. You may need to wait for the cache to retrieve the content from the source.[Reload](https://www.petronect.com.br/irj/portal/anonymous)  
+---|---  
+![](https://www.petronect.com.br/com.sap.portal.design.urdesigndata/themes/portal/petronect_public/common/1x1.gif) | iView has timed out; there is no cached content to display. Click Reload to retrieve updated content. You may need to wait for the cache to retrieve the content from the source. [Reload](https://www.petronect.com.br/irj/portal/anonymous)  
+---|---  
+|  |  |  |  |   
+|   
+---   
+```
