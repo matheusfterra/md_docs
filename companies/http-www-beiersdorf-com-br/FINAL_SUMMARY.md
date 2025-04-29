@@ -1,57 +1,64 @@
-## Relatório de Prospecção: Beiersdorf
+# Relatório de Prospecção - Beiersdorf
 
-### Dados Gerais da Empresa
-- **Nome da Empresa:** Beiersdorf
-- **Website:** [www.beiersdorf.com.br](http://www.beiersdorf.com.br)
-- **Segmento/Indústria:** Cosméticos e Cuidados com a Pele
-- **Ano de Fundação:** 1882
-- **Sede:** Hamburgo, Alemanha
-- **Presença Global:** Mais de 150 afiliadas internacionais
-- **Marcas Principais:**
-  - NIVEA
-  - Eucerin
-  - La Prairie
-  - Hansaplast
-  - Labello
-  - 8X4
+## 1. Introdução
+A Beiersdorf é uma empresa global renomada no segmento de cuidados com a pele. Com marcas icônicas como NIVEA, Eucerin e La Prairie, a Beiersdorf tem uma forte presença no mercado de cosméticos e dermocosméticos. Este relatório visa mapear as informações e características relevantes da empresa para auxiliar a equipe de copywriting na elaboração de um email de prospecção que aborde os desafios e oportunidades específicos da Beiersdorf no Marketing de Influência.
 
-### Visão Geral da Marca
-A Beiersdorf é uma marca consolidada e respeitada no setor de cuidados com a pele, famosa por sua inovação e produtos de alta qualidade. NIVEA, sua marca mais conhecida, é um ícone de confiança global, reconhecida por sua eficácia em cuidados com a pele.
+## 2. Informações Gerais
+- **Nome da Empresa**: Beiersdorf S.A.
+- **Website**: [www.beiersdorf.com.br](http://www.beiersdorf.com.br/)
+- **Segmento**: Cuidados com a pele e cosméticos
+- **Localização**: Brasil (subsidiária da Beiersdorf AG, Alemanha)
+- **Presença Global**: Operações em mais de 90 países
 
-#### Fatos Relevantes:
-- **NIVEA:** Reconhecida por suas inovações ao longo de mais de 100 anos.
-- **Eucerin:** Marca líder em dermocosméticos, amplamente recomendada por farmacêuticos.
-- **La Prairie:** Focada em produtos de luxo para o cuidado da pele, com especialização em anti-envelhecimento.
-- **Hansaplast:** Reconhecida como a número 1 em curativos na Europa.
+## 3. Marcas Principais
+### 3.1. NIVEA
+- **História**: Lançada em 1911, NIVEA é uma das marcas líderes no cuidado com a pele.
+- **Destaques**:
+  - Produtos inovadores para toda a família.
+  - Primeira a introduzir Q10 em cosméticos antienvelhecimento.
+  - Cerca de 30% das mulheres globalmente usam produtos NIVEA.
+  
+### 3.2. Eucerin
+- **História**: Com mais de 111 anos de pesquisa focada em cuidados dermatológicos.
+- **Destaques**:
+  - Recomendado por farmacêuticos em mais de 60 países.
+  - Marca líder em dermocosméticos, oferecendo soluções para diferentes problemas de pele.
 
-### Estratégia de Marketing da Beiersdorf
-A estratégia da Beiersdorf essencialmente é "Win with Care", que reforça a importância de cuidar dos consumidores e oferecer soluções inovadoras que atendam a necessidades específicas. A empresa busca não apenas vender produtos, mas construir relacionamentos duradouros com os consumidores.
+### 3.3. La Prairie
+- **História**: Focada no segmento premium e especialista em antienvelhecimento.
+- **Destaques**:
+  - Produtos formulados com ingredientes exclusivos, como Extrato de Caviar.
+  - Vendido em varejistas de prestígio e hotéis selecionados.
 
-#### Desafios e Oportunidades:
-- **Inovação:** A constante necessidade de inovação para se manter competitiva no mercado.
-- **Mudança nas Preferências do Consumidor:** Adaptação às novas tendências e expectativas dos consumidores.
-- **Concorrência:** O aumento de novas marcas que competem em diversos segmentos de cuidados com a pele.
+### 3.4. Labello
+- **História**: Famosa por seus bálsamos labiais, embora informações detalhadas estejam indisponíveis no momento.
 
-### Contexto e Possíveis Dores
-#### Dores da Empresa:
-1. **Inovação Contínua:** A necessidade de estar sempre na vanguarda em termos de inovações de produtos e tecnologias.
-2. **Mudança nas Preferências do Consumidor:** A velocidade das mudanças nas preferências dos consumidores exige agilidade de resposta de mercado.
-3. **Concorrência de Marcas Alternativas:** A grande quantidade de novas marcas emergentes no mercado exigem um esforço extra para manter a fidelidade do consumidor.
+### 3.5. NIVEA Men
+- **História**: Linha específica para cuidados masculinos com a mesma tradição e confiança da marca NIVEA.
 
-#### Oportunidades Potenciais:
-1. **Parcerias com Influenciadores:** Oportunidade para expandir a presença nas mídias sociais e alcançar públicos jovens.
-2. **Campanhas Direcionadas:** Criação de campanhas voltadas para dermocosméticos e produtos que atendam as necessidades específicas de saúde da pele.
-3. **Digitalização:** Implementação de estratégias de marketing digital para melhor segmentação e alcance.
+## 4. Visão Geral da Estratégia
+- **Foco no consumidor**: A Beiersdorf concentra esforços nas necessidades individuais de seus consumidores, estabelecendo marcas de confiança.
+- **Inovação**: A empresa investe continuamente em pesquisa e inovação para desenvolver produtos eficazes.
+- **Sustentabilidade**: Comprometida com práticas sustentáveis em seus processos de produção e marketing.
 
-### Informações Adicionais
-- **Pesquisa e Desenvolvimento:** Investimentos robustos em P&D levam à criação de produtos inovadores, ajudando a Beiersdorf a estabelecer padrões globais.
-- **Engajamento Social:** A Beiersdorf adota práticas de responsabilidade social, focando na sustentabilidade e igualdade no trabalho.
-- **Comunicação Multicanal:** Estratégia de marketing omnichannel que busca engajar usuários em múltiplos pontos de contato.
+## 5. Possíveis Dores e Oportunidades
+### 5.1. Dores
+- **Concorrência acirrada**: O mercado de cosméticos e cuidados com a pele é altamente competitivo, com várias marcas emergentes.
+- **Mudanças nas preferências do consumidor**: Os consumidores estão cada vez mais interessados em marcas que promovem a sustentabilidade e a ética.
+- **Relevância da presença digital**: A transformação digital exige que marcas tradicionais fortaleçam sua presença online, incluindo redes sociais e influência digital.
 
-### Conclusão
-A Beiersdorf monitora tendências de mercado que favorecem experiências personalizadas e a criação de produtos que endereçam eficazmente preocupações de saúde da pele. A colaboração com influenciadores pode ser uma estratégia importante para conectar mais profundamente com o público-alvo, em especial as gerações mais jovens.
+### 5.2. Oportunidades
+- **Marketing de Influência**: A colaboração com influenciadores pode gerar maior engajamento com consumidores mais jovens, ampliando a relevância da marca.
+- **Conteúdo personalizado**: O uso de influenciadores que compartilham experiências autênticas com os produtos pode ajudar a construir confiança e credibilidade.
 
-### Ação Recomendada
-Desenvolver uma campanha de prospecção outbound dirigida às marcas da Beiersdorf, destacando as vantagens das parcerias com influenciadores. Isso pode abordar como essas colaborações podem efetivamente resolver as dores reconhecidas e aproveitar as oportunidades de mercado identificadas.
+## 6. Resumo
+A Beiersdorf é uma marca consolidada no cuidado da pele, com uma história rica e uma gama diversificada de produtos. Existem desafios significativos devido à concorrência e às mudanças nas expectativas dos consumidores. No entanto, o Marketing de Influência apresenta uma oportunidade valiosa para a Beiersdorf, permitindo que a empresa se conecte de forma mais autêntica e direta com seus consumidores.
 
-Esse relatório fornece um conjunto abrangente de informações que o copywriter pode usar para elaborar um e-mail atraente, personalizado e eficaz, aumentando assim as chances de um engajamento positivo com a Beiersdorf.
+## 7. Recomendações para Copywriting
+- **Personalização**: Mencionar a relevância das marcas Beiersdorf em relação ao cuidado com a pele, utilizando dados sobre o impacto de influenciadores no segmento.
+- **Abordar Dores**: Discutir como parcerias com influenciadores podem ajudar a mitigar os desafios de concorrência e a necessidade de se manter relevante.
+- **Chamar a Ação**: Propor uma conversa sobre estratégias de Marketing de Influência e como a Beiersdorf pode se beneficiar disso para impulsionar suas marcas.
+
+---
+
+Este relatório deve servir como um guia completo para a equipe de copywriting ao elaborar comunicações com a Beiersdorf, assegurando que elas sejam alinhadas com as necessidades e os interesses da empresa.
