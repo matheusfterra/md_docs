@@ -1,128 +1,73 @@
-# Relatório de Prospecção – Empresa: [Nome da Empresa]
+# Relatório de Prospecção para Empresa: [Nome da Empresa]
 
-## 1. Informações Básicas da Empresa
-- **Nome da Empresa**: [Nome da Empresa]
-- **Website**: [URL do Site]
-- **Ano de Fundação**: [Ano]
+## 1. Informações Gerais da Empresa
+- **Nome da Empresa**: [Preencher]
+- **Website**: [Preencher]
+- **Segmento de Atuação**: [Preencher]
+- **Tamanho da Empresa**: [Número de funcionários]
 - **Localização**: [Cidade, Estado, País]
-- **Setor**: [Setor de Atuação]
-- **Número de Funcionários**: [Número]
-- **Faturamento Anual Estimado**: [Valor]
-- **Principais Produtos/Serviços**: [Descrição dos Produtos/Serviços]
-- **Missão/Vision**: [Missão e Visão da Empresa]
+- **Ano de Fundação**: [Ano]
 
-## 2. Público-alvo
-- **Demografia**: [Idade, Gênero, Renda, Localização]
-- **Interesses**: [Interesses Gerais e Específicos do Público-alvo]
-- **Comportamento de Compra**: [Comportamento de Consumo e Preferências]
+## 2. Missão, Visão e Valores
+- **Missão**: [Descrever a missão da empresa]
+- **Visão**: [Descrever a visão da empresa]
+- **Valores**: [Listar os valores que regem a cultura da empresa]
 
-## 3. Presença Digital
-- **Redes Sociais Utilizadas**: [Plataformas e Links]
-  - Facebook: [Link]
-  - Instagram: [Link]
-  - LinkedIn: [Link]
-  - Twitter: [Link]
-  - TikTok: [Link]
-- **Nível de Engajamento**: [Média de Curtidas e Comentários]
-- **Conteúdo Publicado**: [Tipos de Conteúdo (Imagens, Vídeos, Artigos)]
-- **Influenciadores Associados**: [Lista de Influenciadores com os quais já colaboraram]
+## 3. Produtos e Serviços Oferecidos
+- **Principais Produtos/Serviços**:
+  - [Produto/Serviço 1]: [Descrição]
+  - [Produto/Serviço 2]: [Descrição]
+  - [Produto/Serviço 3]: [Descrição]
 
-## 4. Concorrência
-- **Principais Concorrentes**: [Lista dos Concorrentes]
-- **Análise SWOT**:
-  - **Forças**: [Pontos Fortes da Empresa]
-  - **Fraquezas**: [Pontos Fracos da Empresa]
-  - **Oportunidades**: [Oportunidades no Mercado]
-  - **Ameaças**: [Ameaças e Desafios do Mercado]
+## 4. Público-Alvo
+- **Demografia**: [Idade, gênero, localização, renda, etc.]
+- **Descrição do Cliente Ideal**: [Características do cliente que a empresa busca]
+- **Segmentos de Mercado**: [Setores ou nichos em que a empresa atua]
 
-## 5. Objetivos de Marketing
-- **Estratégias Atuais**: [Campanhas e Estratégias em Vigor]
-- **Objetivos de Curto Prazo**: [Ex: Aumentar o reconhecimento da marca, gerar leads]
-- **Objetivos de Longo Prazo**: [Ex: Expansão para novos mercados, fortalecimento da marca]
+## 5. Presença Digital e Mídias Sociais
+- **Website**: [Análise breve do site, pontos fortes, e fracos]
+- **Mídias Sociais**:
+  - **Facebook**: [Link | N° de seguidores | Engajamento]
+  - **Instagram**: [Link | N° de seguidores | Engajamento]
+  - **LinkedIn**: [Link | N° de seguidores | Engajamento]
+  - **Twitter**: [Link | N° de seguidores | Engajamento]
 
-## 6. Dores e Desafios
-- **Desafios Identificados**: [Ex: Dificuldade em gerar leads, baixo engajamento nas redes sociais]
-- **Possíveis Dores**:
-  - Necessidade de aumentar a visibilidade da marca
-  - Dificuldade em se conectar com o público-alvo
-  - Desejo de humanizar a marca através de influenciadores
+## 6. Concorrência
+- **Principais Concorrentes**:
+  - [Concorrente 1]: [Descrição breve]
+  - [Concorrente 2]: [Descrição breve]
+  - [Concorrente 3]: [Descrição breve]
+- **Diferenciais Competitivos da Empresa**: [O que distingue a empresa dos concorrentes]
 
-## 7. Oportunidades para Marketing de Influência
-- **Tipo de Campanhas Potenciais**: [Influenciadores Patrocinados, Campanhas de Conteúdo, Unboxing, etc.]
-- **Influenciadores em Alta**: [Influenciadores com potencial para colaboração baseada em valores e estética da marca]
+## 7. Dores e Desafios
+- **Dores Identificadas**:
+  - [Dor 1]: [Descrição do problema]
+  - [Dor 2]: [Descrição do problema]
+  - [Dor 3]: [Descrição do problema]
+- **Desafios no Segmento**: [Quais são os desafios gerais que a empresa enfrenta no mercado]
 
-## 8. Considerações Finais
-- **Insights Adicionais**: 
-  - Tendências de mercado que podem se alinhar com os objetivos da empresa
-  - Temas de interesse atual entre os consumidores que podem ser explorados com influenciadores
-- **Segmentos Inexplorados**: 
-  - Possíveis colaborações em plataformas ou nichos ainda não abordados pela empresa
+## 8. Oportunidades de Marketing de Influência
+- **Contexto do Mercado**: [Tendências atuais no marketing de influência que podem impactar a empresa]
+- **Oportunidades Específicas**: 
+  - [Oportunidade 1]: [Descrição]
+  - [Oportunidade 2]: [Descrição]
+  - [Oportunidade 3]: [Descrição]
 
-## 9. Contato
-- **Nome do Responsável pelo Marketing (se disponível)**: [Nome]
-- **Email do Responsável**: [Email]
-- **Telefone (se disponível)**: [Telefone]
-- **LinkedIn do Responsável**: [Link]
+## 9. Estratégia de Contato
+- **Decisor(es) para Contato**:
+  - [Nome do Decisor 1]: [Cargo e breve descrição do papel]
+  - [Nome do Decisor 2]: [Cargo e breve descrição do papel]
+- **Preferências de Comunicação**: [Se disponível, como a empresa prefere ser contatada: e-mail, telefone, redes sociais]
 
----
+## 10. Sugestões de Abordagem
+- **Mensagem Inicial de Contato**: 
+  - Deve incluir referências ao mercado de atuação da empresa e como o marketing de influência pode resolver suas dores.
+- **Possíveis Ganchos Personalizados**: 
+  - [Gancho 1 baseado em eventuais conquistas da empresa]
+  - [Gancho 2 baseado em tendências do setor]
 
-### Observações:
-- Mantenha as informações sempre atualizadas.
-- Considere a análise da concorrência e do comportamento do mercado como um todo ao elaborar a comunicação.
-
----
-
-# Estrutura de Diretórios
-```plaintext
-/Relatório_Prospecção_Nome_Empresa
-│
-├── 1_Informaçőes_Básicas
-│   ├── Nome da Empresa: [Nome da Empresa]
-│   ├── Website: [URL do Site]
-│   ├── Ano de Fundação: [Ano]
-│   ├── Localização: [Cidade, Estado, País]
-│   ├── Setor: [Setor de Atuação]
-│   ├── Número de Funcionários: [Número]
-│   └── Faturamento Anual Estimado: [Valor]
-│
-├── 2_Publico_alvo
-│   ├── Demografia: [Dados]
-│   ├── Interesses: [Dados]
-│   └── Comportamento de Compra: [Dados]
-│
-├── 3_Presença_Digital
-│   ├── Redes Sociais: [Dados]
-│   ├── Nível de Engajamento: [Dados]
-│   ├── Conteúdo Publicado: [Dados]
-│   └── Influenciadores Associados: [Dados]
-│
-├── 4_Concorrência
-│   ├── Principais Concorrentes: [Dados]
-│   └── Análise_SWOT: [Dados]
-│
-├── 5_Objetivos_de_Marketing
-│   ├── Estratégias Atuais: [Dados]
-│   ├── Objetivos de Curto Prazo: [Dados]
-│   └── Objetivos de Longo Prazo: [Dados]
-│
-├── 6_Dores_e_Desafios
-│   ├── Desafios Identificados: [Dados]
-│   └── Possíveis Dores: [Dados]
-│
-├── 7_Oportunidades_Influência
-│   ├── Tipo de Campanhas Potenciais: [Dados]
-│   └── Influenciadores em Alta: [Dados]
-│
-├── 8_Considerações_Finais
-│   └── Insights Adicionais e Segmentos Inexplorados: [Dados]
-│
-└── 9_Contato
-    ├── Nome do Responsável: [Dados]
-    ├── Email do Responsável: [Dados]
-    ├── Telefone: [Dados]
-    └── LinkedIn: [Dados]
-```
-
----
-
-Esse relatório é uma estrutura guia que permite a coleta de informações relevantes sobre a empresa a ser prospectada, facilitando a personalização da comunicação e aumentando as chances de engajamento.
+## 11. Análise Final
+- **Conclusão**: 
+  - [Resumo de como a empresa pode se beneficiar dos serviços oferecidos pela sua empresa no segmento de marketing de influência]
+  
+Este relatório deve ser utilizado pelo copywriter da equipe para a elaboração de um e-mail altamente personalizado e direcionado, que não apenas informe, mas também ressoe com as necessidades e interesses do prospect. As informações coletadas devem ser constantemente atualizadas para garantir relevância e adaptação às mudanças no mercado e na empresa prospectada.
