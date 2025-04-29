@@ -1,40 +1,44 @@
 # Relatório de Prospecção - Papirus
 
-## Informações Gerais da Empresa
-**Nome da Empresa:** Papirus  
-**Setor:** Embalagens e Papelcartão  
-**URL do Site:** [http://www.papirus.com](http://www.papirus.com)  
-**Modelo de Negócio:** Fabricação de papelcartão sustentável utilizando fibras recicladas e virgens certificadas.  
+## 1. Dados da Empresa
+- **Nome**: Papirus
+- **Website**: [www.papirus.com](http://www.papirus.com)
+- **Segmento**: Produção de papelcartão e embalagens sustentáveis, com foco em economia circular.
 
-## Descrição da Empresa
-A Papirus é uma empresa que se dedica à produção de papelcartão para embalagens e aplicações gráficas, utilizando uma combinação de fibras recicladas (pós-industrial e pós-consumo) e fibras virgens certificadas. A empresa se posiciona como uma promotora da economia circular e adota práticas de responsabilidade social e ambiental, sendo uma empresa B certificada.
+## 2. Resumo da Empresa
+A Papirus é uma empresa comprometida com a sustentabilidade, produzindo papelcartão para embalagens e aplicações gráficas a partir de fibras recicladas e virgens certificadas. Adotam práticas de economia circular, oferecendo soluções que englobam créditos de reciclagem e fomentam a responsabilidade social e ambiental.
 
-## Produtos e Serviços
-1. **Linha Vita:** 
-   - **Descrição:** A linha Vita traz o selo verde que atesta a utilização de fibras recicladas e certificados controlados. 
-   - **Destaque:** Compromisso com a transparência e responsabilidade ambiental.
+## 3. Produtos e Serviços
+- **Linha Vita**: Produtos que utilizam fibras recicladas e virgens certificadas, com um selo verde que indica a sustentabilidade das matérias-primas.
+- **Papirus Circular**: Programa que gera créditos de reciclagem e promove a logística reversa, beneficiando cooperativas de reciclagem.
+- **Certificação FSC**: Tradição em garantir boas práticas de manejo florestal nas fibras utilizadas.
 
-2. **Papirus Circular:** 
-   - **Descrição:** Programa que promove a economia circular e gera créditos de reciclagem, melhorando a logística reversa no mercado.
-   - **Benefícios:** Empoderamento de cooperativas de reciclagem através da compra de aparas, que são então reutilizadas na produção de novos produtos.
+## 4. Diferenciais Competitivos
+- **Sustentabilidade**: Foco na economia circular e na redução do impacto ambiental.
+- **Certificações**: Possui certificação B e selo FSC, o que atesta seu compromisso social e ambiental.
+- **Engajamento Social**: Investimento em cooperativas de reciclagem e ações sociais nas comunidades onde atua.
 
-## Características e Diferenciais
-- **Certificação FSC®:** A Papirus utiliza apenas fibras provenientes de práticas de manejo florestal responsáveis. Esta certificação é uma garantia da qualidade ambiental de seus produtos.
-- **Responsabilidade Social:** A empresa promove iniciativas que beneficiam as comunidades em torno de sua fábrica, investindo em ações sociais e educação ambiental.
-- **Produto Sustentável:** Foco na criação de embalagens que não apenas atendem à demanda do mercado, mas que também minimizam o impacto ambiental.
+## 5. Possíveis Dores
+- **Conscientização de Impacto**: Empresas e consumidores cada vez mais preocupados com a sustentabilidade exigem transparência e compromisso em práticas ecológicas.
+- **Gestão de Resíduos**: Muitas marcas enfrentam desafios relacionados à gestão de resíduos e logística reversa.
+- **Diferenciação no Mercado**: Com o aumento da concorrência, empresas buscam formas de se diferenciar, e a sustentabilidade pode ser um forte atrativo.
 
-## Dores e Necessidades da Empresa
-1. **Aumento da Visibilidade:** Como uma empresa que promove valores de sustentabilidade, a Papirus pode ter interesse em melhorar sua presença de marca, especialmente em plataformas digitais onde consumidores valorizam práticas ecológicas.
-2. **Educação do Consumidor:** A conscientização dos consumidores sobre a importância da economia circular pode ser um objetivo; portanto, a comunicação efetiva sobre seus produtos e iniciativas é essencial.
-3. **Parcerias com Marcas Sustentáveis:** A busca por parcerias com outras marcas que compartilham valores semelhantes pode estar em pauta, aumentando a colaboração no mercado.
+## 6. Oportunidades
+- **Campanhas de Marketing com Influenciadores**: Colaborações com influenciadores que promovem a sustentabilidade podem ajudar a aumentar a visibilidade da marca e seus produtos.
+- **Educação Ambiental**: Parcerias com influenciadores para educar o público sobre a importância da reciclagem e da sustentabilidade.
+- **Histórias de Impacto**: Mostrar os impactos positivos gerados por suas iniciativas sociais e ambientais através de conteúdo visual e testemunhos.
 
-## Contexto de Marketing de Influência
-Com a demanda crescente por produtos sustentáveis, a Papirus tem um grande potencial para expandir sua estratégia de marketing através do marketing de influência. Influenciadores que apoiam a sustentabilidade e a economia circular podem não só aumentar a conscientização sobre a marca, mas também atuarem como defensores dos produtos. 
+## 7. Contexto Atual
+A crescente demanda por produtos sustentáveis demonstra um mercado em transformação. A Papirus posiciona-se bem através de sua missão e produtos, mas precisa de estratégias de marketing eficazes para alcançar públicos-alvo, especialmente aqueles que valorizam a sustentabilidade.
 
-## Sugestões de Ação
-- **Colaboração com Influenciadores Ecológicos:** Propor parcerias com influenciadores do nicho de sustentabilidade para promover a Linha Vita e o programa Papirus Circular.
-- **Campanhas Educativas:** Criar conteúdo educativo, por meio de influenciadores, que destaque a importância da reciclagem e do uso de produtos sustentáveis.
-- **Conteúdo Visual:** Investir em campanha de stories e posts no Instagram, onde a estética visual seja um ganho, podendo captar atenção para a linha de produtos e sua história.
+## 8. Sugestões para Email
+### Assunto: Potencialize Seu Impacto Sustentável com Marketing de Influência
 
-## Conclusão
-A Papirus, com sua forte ênfase em sustentabilidade e responsabilidade social, está posicionada para se beneficiar amplamente do marketing de influência. Uma abordagem centrada em influenciadores que ressoam com suas mensagens pode aumentar a visibilidade, a educação do consumidor e a lealdade à marca. Propostas personalizadas podem ressoar bem com seus valores e missão, destacando como um colaborador pode auxiliar na ampliação de seu impacto positivo.
+### Conteúdo:
+- **Introdução**: Parabenizar a Papirus pela iniciativa em sustentabilidade e a linha Vita.
+- **Desafios**: Destacar a crescente necessidade de comunicação e engajamento com práticas ecológicas.
+- **Solução**: Apresentar como a parceria com influenciadores pode aumentar a conscientização e a valorização de seus produtos.
+- **Chamada para ação**: Sugerir uma reunião para discutir estratégias personalizadas de marketing de influência.
+
+## 9. Conclusão
+A Papirus, com sua forte base na sustentabilidade e práticas de responsabilidade social, tem uma excelente oportunidade de se destacar no mercado através de estratégias de marketing de influência bem executadas. O engajamento com influenciadores que compartilham valores semelhantes pode amplificar sua mensagem e atrair um público mais amplo e consciente.
