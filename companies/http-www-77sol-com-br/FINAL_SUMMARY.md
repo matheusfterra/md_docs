@@ -1,72 +1,55 @@
-# Relatório de Prospecção para a 77Sol
+# Relatório de Prospecção - 77Sol
 
 ## Informações Gerais da Empresa
-
 **Nome da Empresa:** 77Sol  
-**Website:** [www.77sol.com.br](http://www.77sol.com.br)  
-**Setor:** Energia Solar / Sustentabilidade  
-**Localização:** Presente em todo o Brasil  
-**Modelo de Negócio:** Plataforma Digital de Conexão entre Integradores e Clientes
+**Website:** [77Sol](https://77sol.com.br)  
+**Ano de Fundação:** Não especificado, mas atuação recente é visível através de suas iniciativas e parcerias.  
+**Segmento:** Energia Solar - Marketing de Influência e Provedores de Soluções em Energia Renovável.  
+**Missão:** Democratizar o acesso à energia renovável, proporcionando economia e segurança energética de forma sustentável.  
+**Localização:** Presente em todos os estados do Brasil.  
+**Modelo de Negócio:** Plataforma 100% gratuita que conecta clientes e integradores de soluções em energia solar.
 
-### Visão Geral da Plataforma
-A 77Sol se posiciona como um ecossistema gratuito e digital no segmento de energia solar, oferecendo diversas ferramentas e soluções que permitem a transformação de consumidores e empreendedores em clientes que utilizam a energia solar. A empresa argumenta a economia de até 90% na conta de luz e promove a sustentabilidade através do uso de energia renovável.
+## Produtos e Serviços
+- **Financiamento Solar:** Oferece crédito rápido para instalação de sistemas fotovoltaicos.
+- **Cotações:** Plataforma para acessar informações sobre fabricantes de equipamentos e preços.
+- **Propostas:** Ferramentas automatizadas para elaboração de propostas de projetos solares.
+- **Solleads:** Serviço que conecta consumidores interessados a integradores.
+- **Cursos e Capacitação:** Oferece treinamentos através da Universidade 77, incluindo cursos sobre instalação e dimensionamento de sistemas solares.
 
-### Principais Recursos e Serviços
+## Características da Ofertas
+1. **Acessibilidade:** Financiamentos com condições favoráveis, tornando a energia solar acessível a mais consumidores.
+2. **Plataforma Gratuita:** Ferramentas e recursos sem custo, tornando a jornada para o empreendedorismo solar mais fácil.
+3. **Diversidade de Produtos:** Conexão com uma variedade de fabricantes e provedores para atender diferentes necessidades de clientes.
+4. **Atendimento Personalizado:** Foco no relacionamento próximo com os clientes para garantir alta satisfação e suporte após a instalação.
 
-1. **Financiamento Solar:**
-   - Aprovação rápida em menos de 2 minutos.
-   - Condições atrativas e taxas de juros competitivas.
-  
-2. **Cotação de Equipamentos:**
-   - Acesso a uma ampla gama de fabricantes e produtos no estoque.
+## Público-Alvo
+- **Consumidores Residenciais:** Buscam economizar na conta de luz.
+- **Empresas e Indústrias:** Precisam otimizar o uso de energia e buscam soluções para grandes volumes de consumo.
+- **Empreendedores e Integradores de Energia Solar:** Buscam ferramentas e suporte para lançar ou expandir seus negócios na área solar.
 
-3. **Propostas Automáticas:**
-   - Sistema para elaboração automática de propostas personalizadas.
+## Pain Points (Dores)
+1. **Custos Iniciais:** O investimento inicial para sistemas fotovoltaicos muitas vezes é uma barreira para consumidores.
+2. **Falta de Informação:** Consumidores e novos empreendedores precisam de educação e treinamento sobre soluções em energia solar.
+3. **Complexidade na Aquisição:** A falta de um caminho claro para aquisição e instalação de sistemas solares pode ser um obstáculo.
+4. **Concorrência Acirrada:** O setor está crescendo, mas a diferenciação e a retenção de clientes se tornam desafiadoras.
 
-4. **Educação:**
-   - Oferece cursos e capacitação através da Universidade 77 em parceria com a Oca Energia.
+## Tendências do Mercado
+- Crescimento contínuo do setor de energia solar, com aumento da capacidade instalada no Brasil, que atingiu mais de 50 GW em 2024.
+- Expectativa de crescimento significativo nas energias renováveis em resposta a questões ambientais e à busca por sustentabilidade.
+- Aumento de investimentos e inovações tecnológicas voltadas para a eficiência do uso de energia solar.
 
-5. **Apoio e Consultoria:**
-   - Uma equipe dedicada para auxiliar empreendedores na jornada do setor solar.
+## Conteúdo para Copywriting
+**Assunto do E-mail:** Maximize sua Economia com a 77Sol - Sua Conexão com a Energia Solar
 
-### Público-alvo
-- **Empreendedores e Integradores:** Profissionais desejando atuar no setor de energia solar.
-- **Consumidores Residenciais e Comerciais:** Pessoas e empresas que desejam economizar na conta de luz e investir em sustentabilidade.
+**Corpo do E-mail:**
+Iniciar com uma introdução sobre a crescente necessidade de soluções em energia renovável, destacando a revolução no setor solar. Apresentar a 77Sol como facilitadora dessa transição, oferecendo uma plataforma acessível e abrangente que conecta consumidores e integradores.
 
-## Características e CPU da Empresa
+Enfatizar as vantagens:
+- Como o financiamento solar viabiliza a adopção de energia limpa, eliminando as barreiras de custos iniciais.
+- A importância de se manter atualizado e educado sobre o setor, e como a Universidade 77 pode ajudar nesse aspecto.
+- Relacionar os benefícios diretos de economia na conta de luz, personalização no atendimento e suporte contínuo.
 
-### Proposição de Valor
-- **Economia Financeira:** Facilita o acesso à energia solar com condições de pagamento que competem com contas de luz tradicionais.
-- **Eficiência Energética:** Reduz a dependência da rede elétrica e oferece uma fonte de energia renovável e sustentável.
-- **Acesso a Tecnologia:** Fornece tecnologia de ponta e automação para facilitar a gestão de projetos de energia solar.
-
-### Dores Potenciais e Oportunidades
-1. **Custo Inicial Alto:** 
-   - A hesitação de potenciais clientes devido ao investimento inicial. Aqui, o financiamento é uma solução viável para quem deseja elitizar esses custos.
-
-2. **Concorrência entre Integradores:**
-   - A necessidade de diferenciação é alta no mercado, sendo crucial para os integradores oferecerem serviços de alto valor agregado.
-
-3. **Mudança de Mentalidade:**
-   - Educar potenciais consumidores sobre os benefícios da energia solar e o impacto positivo nas finanças pessoais e no meio ambiente.
-
-### Contexto do Mercado
-- A energia solar no Brasil é um setor em expansão, com previsão de crescimento significativo até 2034, destacando a crescente demanda por soluções sustentáveis. A 77Sol se beneficia deste ambiente favorável, oferecendo uma plataforma que atende as necessidades do mercado de forma eficaz.
-
-## Sugestões de Direcionamento para Prospecção
-
-### Estratégia de Abordagem
-- **Mensagem:** Apontar como a parceria com a 77Sol pode resolver problemas financeiros e oferecer soluções práticas e acessíveis para o cliente final.
-- **Personalização:** Fazer uma abordagem que inclua referenciais aos serviços específicos da empresa prospectada, e como eles podem se beneficiar das soluções da 77Sol.
-
-### Táticas de Atração
-1. **Cases de Sucesso:** Apresentar estudos de caso de clientes que, através da 77Sol, conseguiram economizar e transformar suas contas de energia.
-2. **Educação:** Oferecer webinars ou guias sobre o impacto da energia solar no meio ambiente e como isso pode ser um diferencial competitivo.
-3. **Demonstrações Gratuitas:** Oferecer uma simulação de economia através da plataforma, demonstrando os benefícios financeiros diretos.
-
-### Call to Action
-- **"Seja Parte da Revolução Solar com a 77Sol!"**
-- Incentivar a ação imediata com links diretos para agendamento de reuniões ou simulações na plataforma.
+Finalizar com um convite para conhecer a plataforma e as soluções, e um chamado à ação claro para agendar uma consultoria ou simulação de projeto solar.
 
 ## Conclusão
-O 77Sol representa uma solução distinta e inovadora no mercado de energia solar, com grande potencial tanto no âmbito residencial quanto empresarial. As características descritas acima tornam a 77Sol um parceiro valioso no setor de marketing de influência, onde a promoção de práticas sustentáveis e acessíveis pode se tornar um diferencial competitivo significativo.
+A 77Sol se posiciona como um player significativo no mercado de energia solar, combinando acessibilidade, educação e ferramentas para integrar eficientemente marcas e integradores com os consumidores. Um enfoque no compartilhamento de conhecimento e no fornecimento de soluções personalizadas será crucial para sustentar e acelerar o crescimento no setor. Este relatório estruturado pode ser utilizado para gerar insights e criar comunicações que sejam ressoantes com as necessidades e interesses da audiência de potenciais clientes.
