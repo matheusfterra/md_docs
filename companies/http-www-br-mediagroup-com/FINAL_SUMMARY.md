@@ -1,67 +1,88 @@
 # Relatório de Prospecção - BR Media Group
 
-## Dados Gerais da Empresa
+## Informações Gerais
+
 - **Nome da Empresa:** BR Media Group
-- **Website:** [www.br-mediagroup.com](http://www.br-mediagroup.com)
-- **Sede:** Rua Henri Dunant, 873 – São Paulo/SP
-- **Ano de Fundação:** 2012
-- **Segmento:** Marketing de Influência
-- **Número de Clientes:** Mais de 500 marcas
-- **Número Total de Influenciadores:** 35.000
-- **Ações Realizadas:** 12.000
-- **Conteúdos Produzidos:** 100.000
-
-## Descrição da Empresa
-A BR Media Group é uma holding que lidera a revolução da Creators Economy. A empresa se destaca como um hub de conteúdo referência no mercado de marketing de influência e utiliza uma abordagem data-driven para desenvolver soluções de influência e conteúdo, atendendo tanto marcas quanto influenciadores. As empresas que fazem parte do ecossistema BR Media Group incluem estúdios criativos e agências de comunicação, permitindo uma oferta completa de serviços no setor.
-
-## Produtos e Serviços
-A BR Media oferece uma variedade de serviços, incluindo:
-
-1. **Planejamento e Gestão de Campanhas**
-   - Co-criação de conteúdos com influenciadores.
-   - Produção e cobertura de eventos.
-
-2. **Curadoria e Produção Audiovisual**
-   - Produção de vídeos curtos, ideal para engajamento e viralização.
-  
-3. **Consultoria e Aceleração**
-   - Serviços de consultoria para marcas e influenciadores.
-
-4. **PR e Seeding**
-   - Relações públicas modernas, com o uso de seeding para promover marcas.
-
-5. **Inteligência em Dados**
-   - Utilização de dados para auxiliar marcas em decisões estratégicas, análise de comportamento digital e oportunidades de mercado.
-
-## Público-Alvo
-A BR Media Group atende marcas e empresas de diferentes segmentos que buscam se conectar com influenciadores relevantes para suas campanhas. Marcas como Nestlé, Unilever, iFood, e Samsung estão entre seus clientes.
-
-## Ponto de Dor Potencial
-No competitivo cenário do marketing digital, as marcas frequentemente enfrentam dificuldades para:
-- Identificar influenciadores que realmente ressoem com seu público-alvo.
-- Medir o ROI das campanhas de marketing de influência.
-- Criar conteúdo que se destaque em meio à saturação de informações.
-
-## Concorrência
-A BR Media Group compete com outras agências de marketing de influência e plataformas de marketing digital que oferecem serviços semelhantes. A diferenciação da empresa se destaca pelo uso de dados para insights e pela ampla rede de influenciadores.
-
-## Equipe Principal
-- **Celso Ribeiro** – Liderança geral na BR Media.
-- **Danilo Basso** – Expertise em estratégia e implementação de campanhas.
-- **Cassiano Barletta** – Coordenador de projetos e curadoria.
-- **Rafaela Sgariboldi** – Gestão de influenciadores e parcerias.
-- **Renan Della Matta** – Análise de dados e relatórios.
-- **Yuri Mannes** – Desenvolvimento criativo e produção de conteúdo.
-
-## Objetivos de Prospecção
-- **Chamar a Atenção:** Apresentar a BR Media Group como uma solução ideal para marcas que desejam maximizar seus esforços em marketing de influência através de dados e redes sociais.
-- **Educar o Cliente:** Mostrar a importância de um planejamento e gestão eficazes em campanhas de influência, destacando os serviços diferenciados e as estatísticas de sucesso da empresa.
-
-## Canal de Contato
+- **Website:** [br-mediagroup.com](https://www.br-mediagroup.com)
+- **Endereço:** Rua Henri Dunant, 873 – São Paulo/SP
 - **Telefone:** 11 4304.3844
-- **E-mail:** [Contato](mailto:info@br-mediagroup.com)
-- **Instagram:** [br-mediagroup](https://instagram.com/br-mediagroup)
-- **LinkedIn:** [BR Media Group](https://linkedin.com/company/br-mediagroup)
+- **E-mail de contato:** disponível no website
+- **Redes Sociais:** 
+  - [Instagram](https://www.instagram.com/brmediagroup)
+  - [LinkedIn](https://www.linkedin.com/company/brmediagroup)
 
-## Mensagem para o Copywriter
-Utilizando as informações acima, a mensagem deve ser direcionada a empresas que possam se beneficiar enormemente dos serviços da BR Media Group. Deve-se focar na experiência e expertise da empresa, demonstrando exemplos de sucesso e abordando os desafios que a marca prospectada pode enfrentar no cenário atual de marketing digital. A personalização é fundamental. Utilize dados relevantes do setor que possam impactar positivamente o cliente e mostre como a integração de influenciadores pode fortalecer a presença da marca no mercado.
+### Missão e Visão
+
+A BR Media Group é uma holding que atua como hub de conteúdo, oferecendo soluções de marketing de influência. Desde 2012, a empresa se dedica a conectar marcas com influenciadores, ajudando a fortalecer campanhas através de um olhar data-driven.
+
+## Estrutura e Serviços
+
+A empresa opera em várias frentes:
+
+### 1. **Marketing de Influência**
+   - **Planejamento e Gestão de Campanhas:** Elaboração de estratégias direcionadas, considerando a audiência e o engajamento.
+   - **Curadoria e Co-Criação:** Seleção cuidadosa de influenciadores e desenvolvimento conjunto de conteúdos.
+
+### 2. **Conteúdo e Produção**
+   - **Estúdio Criativo:** Ambientes versáteis para produção de conteúdo, incluindo podcasts.
+   - **Produção Audiovisual:** Foco em vídeos curtos que tenham potencial de engajamento.
+
+### 3. **Inteligência de Dados (Human Data)**
+   - Análise de comportamento digital, tendências de mercado, monitoramento de crise, entre outros.
+
+### 4. **Consultoria e Atendimento**
+   - **Aceleração de Projetos:** Acompanhamento próximo da evolução das campanhas com relatórios detalhados.
+
+## Dados Estatísticos
+
+- **Marcas atendidas:** 500
+- **Ações realizadas:** 12.000
+- **Influenciadores na rede:** 35.000
+- **Conteúdos produzidos:** 100.000
+
+## Principais Clientes
+
+- **Empresas Contadas:** 
+  - Unilever
+  - Diageo
+  - Nestlé
+  - Chevrolet
+  - Samsung
+  - entre outros.
+
+## Mapeamento de Dores e Oportunidades
+
+### Possíveis Dores Enfrentadas pelas Empresas Propostas:
+
+1. **Engajamento Baixo:** Empresas que lutam para alcançar taxas satisfatórias de engajamento nas redes sociais.
+2. **Dificuldade em Identificar Influenciadores Relevantes:** Muitas empresas têm dificuldades em escolher influenciadores que se alinhem com sua marca.
+3. **Gestão de Crises de Imagem:** A falta de monitoramento pode resultar em crises de imagem que poderiam ser evitadas.
+4. **Estratégia de Conteúdo Fraca:** Necessidade de criar conteúdos que não só informem, mas que também ressoem emocionalmente com o público.
+
+### Oportunidades para Interação com a BR Media Group:
+
+- Alinhamento de campanhas com influenciadores que promovam a imagem da marca e que tenham um bom histórico de engajamento.
+- Uso da inteligência de dados para mapear tendências e direcionar campanhas de forma mais assertiva.
+- Aproveitar a experiência da BR Media em planejamento de campanhas para maximizar ROI.
+
+## Equipe Chave
+
+- **Celso Ribeiro** – Direção Geral
+- **Danilo Basso** – Gerência de Projetos
+- **Cassiano Barletta** – Preferências de Marketing
+- **Rafaela Sgariboldi** – Coordenação Criativa 
+- **Renan Della Matta** – Planejamento Estratégico
+
+## Considerações Finais
+
+A BR Media Group se destaca no segmento de marketing de influência, oferecendo uma abordagem integrada e orientada a dados para resolver as dores das empresas na criação de campanhas efetivas. O conhecimento do mercado e a experiência acumulada desde 2012 fazem dela uma parceira estratégica relevante para marcas que buscam maximizar seu impacto nas redes sociais.
+
+### Estratégia de Contato
+
+Para o copywriter desenvolver a abordagem de contato por e-mail, sugerimos enfatizar:
+
+- A importância da personalização e do alinhamento com influenciadores que realmente conectem com a audiência;
+- Oferecer insights sobre o uso de dados para orientar estratégias, algo que a BR Media Group já domina;
+- Reforçar a experiência com marcas renomadas, o que pode aumentar a credibilidade e a confiança na parceria.
+
+Este relatório deve servir como uma base rica em informações para conduzir a comunicação com a BR Media Group de forma assertiva e relevante.
