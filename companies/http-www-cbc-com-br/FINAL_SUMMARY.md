@@ -16,13 +16,11 @@
   - Cartuchos de caça e competição
   - Carabinas de pressão
   - Componentes e acessórios
-
 - **Marcas Associadas:**
   - CBC Global Ammunition
   - Magtech
   - MEN
   - Sellier & Bellot
-
 - **Serviços Oferecidos:**
   - Produção de munições certificadas com normas internacionais.
   - Atendimento direto a Forças Armadas e policias de 130 países.
@@ -30,7 +28,7 @@
 
 ## 3. Características e Diferenciais da Empresa
 - **Inovação e Tecnologia:** Alta capacidade em pesquisa e desenvolvimento com mais de 300 anos de experiência acumulada entre suas marcas.
-- **Segurança e Qualidade:** Políticas rigorosas de controle de qualidade, segurança e preservação ambiental. 
+- **Segurança e Qualidade:** Políticas rigorosas de controle de qualidade, segurança e preservação ambiental.
 - **Responsabilidade Social:** Compromisso com a segurança e bem-estar dos colaboradores, assim como foco no meio ambiente.
 - **Certificações:** Atendendo às exigências das Forças Armadas Brasileiras e laboratórios independentes, garante a qualidade e confiabilidade de seus produtos.
 
@@ -42,19 +40,18 @@
   - **Desafios Logísticos:** A necessidade de uma rede logística eficiente para distribuição em mercados globais e atendimento às Forças de Segurança em diferentes países.
 
 ## 5. Oportunidades de Marketing de Influência
-- **Promoção de Produtos:** A empresa pode se beneficiar da promoção de seus produtos através de influenciadores especializados em armamentos e segurança.
-- **Educação da Audiência:** Colaborar com influenciadores para educar o público sobre a segurança e as melhores práticas relacionadas ao uso de munições e armas de fogo.
-- **Construção de Marca:** Estabelecer parcerias com influenciadores de segurança e defesa, promovendo uma imagem de responsabilidade e inovação no setor.
-  
+- **Promoção de produtos:** A empresa pode se beneficiar da promoção de seus produtos através de influenciadores especializados em armamentos e segurança.
+- **Educação da audiência:** Colaborar com influenciadores para educar o público sobre a segurança e as melhores práticas relacionadas ao uso de munições e armas de fogo.
+- **Construção de marca:** Estabelecer parcerias com influenciadores de segurança e defesa, promovendo uma imagem de responsabilidade e inovação no setor.
+
 ## 6. Audiência-Alvo e Segmentação
-- **Público-Alvo:** 
+- **Público-Alvo:**
   - Indivíduos envolvidos com esportes de tiro, caçadores e profissionais de segurança.
-  - Entidades governamentais (Forças Armadas e Policias).
-  
+  - Entidades governamentais (Forças Armadas e Polícia).
 - **Segmentação Demográfica:**
   - Principalmente homens e mulheres com mais de 18 anos.
-  - Interesse em esportes de tiro e armamentos.
-  
+  - Interesse em esportes de tiro, caçadores e segurança.
+
 ## 7. Estratégia de Prospecção
 - **Abordagem Personalizada:** Criar campanhas que falem diretamente sobre as inovações e benefícios dos produtos da CBC em relação à qualidade e tecnologia.
 - **Conteúdo Educativo:** Produzir conteúdo educativo e de conscientização sobre a segurança no uso de munições, explorando dados sobre a responsabilidade social da empresa.
