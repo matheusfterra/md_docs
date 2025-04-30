@@ -18,7 +18,7 @@
 ## Produtos e Serviços:
 1. **Criptomoedas:**
    - +330 opções de investimento.
-   - Inclui ativos populares como Bitcoin, Ethereum e XRP.
+   - Incluindo ativos populares como Bitcoin, Ethereum e XRP.
 2. **Renda Fixa Digital:**
    - Produtos com previsibilidade e estabilidade, com rendimento médio de 18% ao ano.
 3. **Cesta Inteligente:**
@@ -57,4 +57,4 @@
 - **Histórias de Sucesso:** Incluir testemunhos de usuários que tiveram sucesso investindo através da plataforma.
 - **Apoio Personalizado:** Oferecer consultoria a novos investidores buscando orientação.
 
-Este relatório serve como uma base detalhada para o copywriter criar um email direcionado e relevante, destacando as dores e necessidades do Mercado Bitcoin de forma eficaz.
+Esse relatório serve como uma base detalhada para o copywriter criar um email direcionado e relevante, destacando as dores e necessidades do Mercado Bitcoin de forma eficaz.
