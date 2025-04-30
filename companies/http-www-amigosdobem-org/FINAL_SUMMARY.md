@@ -1,58 +1,69 @@
-## Relatório de Prospecção: Amigos do Bem
+# Relatório de Prospecção: Amigos do Bem
 
-### 1. **Informações Gerais da Empresa**
+## 1. Informações Gerais da Empresa
 - **Nome:** Amigos do Bem
-- **Website:** [amigosdobem.org](http://www.amigosdobem.org)
-- **Localização:** Rua Dr. Gabriel de Resende, 122, São Paulo - SP, CEP: 03350-005
+- **Website:** [amigosdobem.org](https://www.amigosdobem.org)
+- **CNPJ:** 05.108.918/0001-72
+- **Endereço:** Rua Dr. Gabriel de Resende, 122, CEP: 03350-005, São Paulo, SP
 - **Telefone:** (11) 3019 0107
 - **Ano de Fundação:** 1993
-- **Fundadora:** Alcione Albanesi
+- **Presidente:** Alcione Albanesi
 
-### 2. **Missão, Visão e Valores**
-- **Missão:** Transformar vidas por meio da educação e de projetos autossustentáveis, promovendo o desenvolvimento local e a inclusão social.
-- **Visão:** Um futuro onde a fome e a miséria no sertão nordestino sejam apenas lembranças do passado.
-- **Valores:** Solidariedade, Humanidade e Transparência.
+## 2. Descrição da Organização
+O Amigos do Bem é uma ONG que atua no combate à fome, moradia e educação no sertão nordestino do Brasil. Eles atendem, regularmente, mais de 150 mil pessoas, promovendo a transformação de vidas por meio de projetos nas áreas de educação, saúde, moradia, água e geração de renda.
 
-### 3. **Contexto e Impacto**
-- **Público Alvo:** A organização atua principalmente no sertão nordestino, onde milhões de pessoas sofrem com a pobreza extrema, analfabetismo e falta de acesso à água e saúde.
-- **Dados Relevantes:**
-  - **150.000 pessoas atendidas mensalmente.**
-  - **10.000 crianças e jovens beneficiados em programas educacionais.**
-  - **1.500 empregos gerados.**
-  - **1,2 bilhões de litros de água distribuídos anualmente.**
-  - **543 casas construídas.**
-- **Problemas Enfrentados:** O sertão nordestino apresenta altos índices de pobreza, com mais de 20 milhões de pessoas abaixo da linha da pobreza e o maior percentual de analfabetos do Brasil.
+### 2.1. Missão e Visão
+- **Missão:** Transformar vidas por meio da educação e de projetos autossustentáveis visando o desenvolvimento local e a inclusão social, erradicando a fome e a miséria.
+- **Visão:** Um futuro em que a fome e a miséria no sertão nordestino sejam lembradas apenas como fatos históricos.
 
-### 4. **Necessidades e Dores Potenciais**
-- **Falta de recursos financeiros e materiais para manter e expandir os programas existentes.**
-- **Necessidade de visibilidade e apoio para atrair novos voluntários e doações.**
-- **Aumento das iniciativas de educação e capacitação em áreas afetadas pela pobreza e seca.**
-  
-### 5. **Projeções de Colaboração no Segmento de Marketing de Influência**
-- **Oportunidades de Parceria:**
-  - Colaboração com influenciadores que se identificam com causas sociais e podem ajudar a dar visibilidade à missão dos Amigos do Bem.
-  - Campanhas de arrecadação de recursos e mobilização de público através das redes sociais.
-  - Criação de conteúdos que mostrem o impacto real das doações e ações feitas pela instituição.
+### 2.2. Valores
+- Solidariedade
+- Humanidade
+- Transparência
 
-### 6. **Presença na Mídia**
-- **Reconhecimento e Certificações:** A instituição é reconhecida por diversos selos e instituições por sua transparência e impacto social.
-- **Artigos e Reportagens:** Diversas reportagens cobrem as ações dos Amigos do Bem, focando em temas como a insegurança alimentar e a importância do trabalho social na região.
+## 3. Contexto e Desafios
+### 3.1. Realidade do Sertão Nordestino
+- **Contexto:** O sertão nordestino enfrenta sérios desafios, como a falta de água, altos índices de pobreza e analfabetismo, e uma população vulnerável que vive em condições precárias.
+- **Dados:** Mais de 20 milhões de pessoas vivem abaixo da linha da pobreza na região. A seca é um problema constante, dificultando a agricultura e outras formas de subsistência.
 
-### 7. **Empresas Parceiras e Colaboradores**
-- **Listagem de Empresas:** Amigos do Bem possui parceiros como Carrefour, Volvo, Microsoft, entre outros, que apoiam a causa por meio de doações ou recursos materiais.
+### 3.2. Dores e Necessidades
+- Necessidade de água potável: Muitas famílias andam quilômetros por dia em busca de água.
+- Acesso à educação: Alta taxa de analfabetismo e evasão escolar.
+- Moradia adequada: Grande parte da população vive em casas de taipa, sem infraestrutura básica.
+- Assistência à saúde: Acesso limitado a cuidados médicos e medicamentos.
 
-### 8. **Criação de Campanhas Personalizadas**
-- **Sugestão para Copywriting:**
-  - **Tema:** Transformação de Vidas no Sertão.
-  - **Mensagem Central:** A importância do apoio contínuo para erradicar a pobreza e dar esperança às novas gerações.
-  - **Chamada à Ação:** Envolvimento ativo em campanhas de doação ou voluntariado, destacando o impacto positivo que suas ações podem gerar.
+## 4. Projetos e Atividades
+### 4.1. Educação
+- 4 centros de transformação que atendem 10 mil crianças e jovens.
+- Ofertas de cursos profissionalizantes e oficinas de diversas habilidades.
+- Programas de alfabetização e bolsas de estudos para jovens.
 
-### 9. **Conclusão e Próximos Passos**
-A Amigos do Bem é uma instituição consolidada, com um impacto significativo na vida de milhares de pessoas. O foco no marketing de influência pode ampliar ainda mais sua capacidade de mobilizar recursos e pessoas. A proposta de envolver influenciadores para colaborar em campanhas pode trazer visibilidade e sustentar suas iniciativas sociais. 
+### 4.2. Saúde
+- 4 centros de saúde e atendimento médico e odontológico a milhares de famílias.
+- Distribuição de medicamentos e óculos.
 
-### 10. **Contatos e Agradecimentos**
-Para mais informações ou para iniciar uma conversa sobre colaborações e campanhas, favor entrar em contato através do telefone ou site acima mencionados.
+### 4.3. Moradia
+- Construção de casas e 4 Cidades do Bem.
+- Entregas de mobiliário e enxovais para famílias em situação de vulnerabilidade.
+
+### 4.4. Água
+- Perfuração de poços artesianos e construção de cisternas.
+- Distribuição de água potável através de caminhões-pipa.
+
+## 5. Parcerias e Colaborações
+O Amigos do Bem tem vários parceiros corporativos e é comprometido com a responsabilidade social. Eles envolvem empresas na arrecadação de recursos para suas iniciativas, promovendo a transformação social através da solidariedade corporativa.
+
+## 6. Possíveis Oportunidades
+### 6.1. Colaboração com Influenciadores
+Dada a relevância da causa e o potencial de engajamento, uma estratégia eficaz de marketing de influência pode aumentar a visibilidade e o apoio financeiro, além de engajar a comunidade em campanhas de doação e voluntariado.
+
+### 6.2. Ações de Marketing de Influência
+- Criação de campanhas que destaquem stories de transformação, através de influenciadores que se alinhem com os valores da ONG.
+- Parcerias com influenciadores locais ou nacionais para promover as iniciativas de doação e como ajudar.
+
+## 7. Contato
+Para mais informações e propostas de colaboração, as empresas e influenciadores podem entrar em contato através do e-mail disponível no site oficial ou diretamente pelo telefone informado.
 
 ---
 
-Este relatório reúne informações detalhadas que servirão como base para a criação de um e-mail efetivo e personalizado, visando captar a atenção do Amigos do Bem e propor uma colaboração que pode beneficiar ambas as partes.
+Este relatório serve como base para a criação de e-mails personalizados voltados a empresas que buscam se engajar com ações sociais e em marketing de influência que podem reverberar positivamente na imagem da marca e na sociedade.
