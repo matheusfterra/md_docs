@@ -1,74 +1,64 @@
-# Relatório de Prospecção: Delly’s Food Service
+# Relatório de Prospecção: Delly's Food Service
 
 ## Informações Gerais da Empresa
-**Nome da Empresa:** Delly’s Food Service  
-**Segmento:** Distribuição de alimentos / Food Service  
+**Nome da Empresa:** Delly's Food Service  
 **Website:** [www.dellys.com.br](http://www.dellys.com.br)  
+**Segmento:** Distribuição de alimentos para o setor de food service  
+**Localização:** Atende diversas regiões do Brasil (incluindo AM, BA, DF, ES, GO, MG, MT, MS, PR, RS, SC e SP)  
+**Clientes Atendidos:** Mais de 180 mil  
 **CNPJ:** 81.611.931/0001-28  
-**Localização:** Operação nacional, atende estados como Amazonas, Bahia, Distrito Federal, Espírito Santo, Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Santa Catarina e São Paulo.
 
-## Missão e Visão
-**Missão:** Ser o melhor e mais confiável parceiro para negócios de food service no Brasil, oferecendo uma variedade de produtos de alta qualidade e serviço ágil e especializado.
-
-**Visão:** Ser referência nacional na distribuição de matérias-primas para o mercado Food Service, com um compromisso sólido de atendimento e qualidade.
-
-## Produtos e Serviços
-### Categorias de Produtos
-1. **Carnes e Pescados:**
-   - Diversidade de tipos de carnes: frango, bovino, suínos e pescado congelado.
-   - Oferece produtos como linguiças, salsichas, hamburgueres e outros embutidos.
-
-2. **Laticínios:**
-   - Variedade de queijos, leite, manteiga, e derivados.
-
-3. **Produtos de Panificação:**
-   - Farinha de trigo, fermentos, pães e insumos para confeitaria.
-
-4. **Frutas e Vegetais:**
-   - Legumes e vegetais congelados, prontos para preparo.
-
-5. **Condimentos e Molhos:**
-   - Ketchup, mostarda, molhos barbecue, extrato de tomate e outros.
-
-6. **Bebidas:**
-   - Achocolatados, refrigerantes, vinhos, entre outros.
+## Descrição do Negócio
+A Delly's é um dos maiores distribuidores de alimentos para o mercado de food service do Brasil, oferecendo mais de 16 mil itens em seu catálogo. A empresa se destaca na entrega ágil dos produtos, mantendo sempre a qualidade e segurança alimentar. O foco é atender restaurantes, confeitarias, padarias, hamburguerias e supermercados.
 
 ### Marcas Parceiras
-- **McCain Foods:** Produtos congelados de batata, como batatas fritas.
-- **BRF:** Produtos de carne e preparação.
-- **Cargill, Bunge, Unilever, Heinz:** Condimentos, laticínios, e ingredientes para capacidade de cozinha.
-- **Seara:** Carne e produtos de aves.
+Delly's colabora com grandes marcas reconhecidas no mercado, incluindo:
+- McCain
+- Ferrero (Nutella)
+- Seara
+- Unilever
+- Cargill
+- Heinz
+- Bunge
+- BRF
 
-## Diferenciais Competitivos
-- **Amplitude de Produtos:** Mais de 16 mil itens em catálogo, destacando-se em uma ampla gama de categorias.
-- **Atendimento Ágil:** Entregas são feitas em até 24 horas em várias regiões.
-- **Inovação e Tecnologia:** Utilização de um sistema especializado para facilitar a compra e gestão de pedidos, visando a agilidade e a segurança da entrega.
+## Portfólio de Produtos
+A Delly's oferece uma vasta gama de produtos estruturados em várias categorias:
 
-## Análise do Mercado
-### Tendências
-- Crescimento na demanda por alimentos congelados e práticas de distribuição eficientes para o setor de food service.
-- Aumento do uso de informações digitais e compras online no setor.
-- Foco crescente em sustentabilidade e práticas agrícolas responsáveis.
+### 1. Carnes e Pescados
+- **Pescados:** Salmão, tilápia, camarão, bacalhau, entre outros.
+- **Carnes:** Oferece avestruzes, bovinos, suínos, frango e laticínios.
 
-### Dores Potenciais
-- **Sazonalidade:** Necessidade de constantes reposições de estoque devido à variação de demanda.
-- **Competitividade:** Manter-se competitiva em um mercado crescente e dinâmico, especialmente em tempos de crises econômicas.
+### 2. Ingredientes e Insumos
+- **Confeitaria e Panificação:** Ingredientes para produção de pães, bolos, e sobremesas.
+- **Massas e Grãos:** Arroz, feijão e massas de diversos tipos.
+- **Molhos e Temperos:** Ketchup, maionese, extrato de tomate, entre outros.
+- **Laticínios:** Diversos tipos de queijos, manteiga e iogurtes.
 
-## Público-Alvo
-- Restaurantes, confeitarias, padarias, hamburguerias e supermercados.
-- Profissionais de food service em busca de fornecedores confiáveis e variedade de produtos.
+### 3. Bebidas
+- Variedade de bebidas, incluindo refrigerantes, destilados e achocolatados.
 
-## Contexto para Prospecção
-Delly's Food Service se posiciona como um player forte no mercado devido ao seu amplo portfólio e metodologia de entrega. As marcas parceiras como McCain e BRF são fundamentais no país, especialmente em segmentos que exigem produtos de qualidade e frescor. A comunicação com esses clientes deve destacar soluções práticas e rápidas, além de produtos que podem incrementar a qualidade das operações de ponta.
+### 4. Frutos do Mar
+- Dessa categoria, são oferecidos produtos como camarões, polacas e outros pescados.
 
-## Oportunidades de Engajamento
-- Promoções nos produtos sazonais para as festas e feriados.
-- Criação de conteúdos relevantes que possam ser compartilhados com influenciadores e chefs em redes sociais, destacando o uso de produtos em receitas especiais.
-- Parcerias com influenciadores do setor de gastronomia para receitas e demonstrações de produtos.
+## Diferenciais de Mercado
+- **Atendimento Especializado:** Sistema inovador e tecnológico que assegura o melhor atendimento ao cliente.
+- **Entrega Rápida:** A entrega dos produtos é feita em até 24 horas em diversas regiões do Brasil.
+- **Variedade:** A empresa possui um dos maiores catálogos de produtos para food service do Brasil com uma ampla gama de opções.
 
-## Recomendação para Follow-Up
-Contatar o Delly's e propôr uma reunião para apresentar uma proposta de campanha de marketing de influência, utilizando as plataformas sociais dos influenciadores para ampliá-los no mercado. Utilize também dados e campanhas específicas relacionadas a novos produtos ou promoções que possam interessar a marca e seu público-alvo.
+## Dores e Desafios
+- **Concorrência Intensa:** O setor de food service é altamente competitivo, onde é necessário melhorar constantemente a proposição de valor.
+- **Manutenção da Qualidade:** Garantir a qualidade dos produtos durante o transporte e armazenamento para evitar perdas e insatisfação do cliente.
+- **Adaptação às Novas Tendências do Mercado:** Estar sempre atualizado quanto às mudanças nas preferências dos consumidores e tendências de alimentação, como a demanda crescente por produtos saudáveis.
+
+## Recomendações para Prospecção
+- **Identificação de Influenciadores:** Prospecção de influenciadores que atuam na área de gastronomia ou nutrição, que possam divulgar os produtos da Delly's.
+- **Campanhas de Marketing:** Criar campanhas focadas em destacar a qualidade e a diversidade do portfólio de produtos.
+- **Eventos e Promoções:** Participar de eventos do setor de alimentos e bebidas para aumentar a visibilidade e as parcerias com restaurantes e chefs.
+
+## Conclusão
+A Delly's Food Service possui um forte posicionamento no segmento de distribuição de alimentos em todo o Brasil. Através da colaboração com marcas renomadas e da oferta de um extenso portfólio, a empresa está bem posicionada para enfrentar os desafios atuais do mercado e continuar crescendo.
 
 ---
 
-Este relatório visa equipar o copywriter com informações relevantes que facilitem a elaboração de comunicações personalizadas, garantindo um engajamento eficiente e impactante com a Delly's Food Service em sua estratégia de marketing de influência.
+Esse relatório deve servir como base informativa para o copywriter elaborar um e-mail altamente personalizado, abordando as necessidades e os pontos de dor da Delly's, e destacando oportunidades de colaboração através do marketing de influência.
