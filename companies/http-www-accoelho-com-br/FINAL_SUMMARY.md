@@ -1,83 +1,55 @@
-# Relatório de Prospecção: AC Coelho
+## Relatório de Prospecção - AC Coelho
 
-## Informações Gerais
-- **Nome da Empresa**: AC Coelho
-- **Setor**: Materiais para Construção
-- **Localização**: Brasília, Brasil
-- **Website**: [accoelho.com.br](http://www.accoelho.com.br)
-- **Ano de Fundação**: 1992
-- **Contato**: 
-  - Loja SIA: (61) 3403-3434
-  - Loja Asa Sul: (61) 3345-1052
-  - Loja Asa Norte: (61) 3273-5090
+### 1. Informações Gerais da Empresa
+- **Nome da Empresa:** AC Coelho
+- **Segmento:** Materiais de construção e acabamentos
+- **Localização:** Brasília, DF, Brasil
+- **Website:** [accoelho.com.br](http://www.accoelho.com.br)
+- **Ano de Fundação:** 1992
+- **Número de Lojas:** 6 (incluindo centros de distribuição)
+- **Contactos:**
+  - SIA: (61) 3403-3434
+  - Asa Sul: (61) 3345-1052
+  - Asa Norte: (61) 3273-5090
   - AC Tintas Asa Sul: (61) 3262-4434
   - AC Tintas Asa Norte: (61) 3424-9900
+  - CD SCIA: (61) 3209-3962
+  - CD STRC: (61) 3456-5050
 
-## Descrição da Empresa
-A AC Coelho é uma referência em materiais para construção em Brasília, oferecendo uma ampla gama de produtos que atendem desde reformas simples até obras de grande porte. A empresa se destaca pela qualidade de seus produtos e seu compromisso com a satisfação do cliente.
+### 2. Descrição da Empresa
+A AC Coelho é uma empresa de referência no segmento de materiais para construção em Brasília, oferecendo produtos variados para diferentes áreas, como banheiro, cozinha, hidráulica, elétrica, jardinagem e muito mais. Com mais de 30 anos de experiência, a empresa se destaca pela qualidade no atendimento e pela variedade de produtos de marcas renomadas.
 
-## Produtos e Categorias
-A AC Coelho possui uma vasta gama de produtos organizados em várias categorias:
+### 3. Produtos e Categorias
+A empresa oferece uma ampla gama de produtos, categorizados da seguinte forma:
+- **Banheiro:** Torneiras, bacias sanitárias, acabamentos, acessórios, e duchas.
+- **Cozinha:** Torneiras, cubas inox, e lixeiras.
+- **Hidráulica:** Acessórios, aquecedores, canos e conexões.
+- **Elétrica:** Caixas de passagem, interruptores, disjuntores.
+- **Eletrodomésticos:** Micro-ondas, coifas, cooktops.
+- **Tintas e Impermeabilizantes:** Adesivos, tintas, e texturas.
+- **Outras Categorias:** Jardinagem, iluminação, climatização e ferramentas.
 
-1. **Banheiro**
-   - Torneiras e misturadores
-   - Bacias sanitárias e assentos
-   - Acessórios para banheiros
-   - Acabamentos de registros e válvulas
+### 4. Público-Alvo
+- **Segmento:** Empresas de construção e reforma, arquitetos, designers de interiores, e consumidores finais.
+- **Demografia:** Famílias, construtoras, e profissionais da construção civil na região de Brasília.
 
-2. **Cozinha**
-   - Cubas de inox
-   - Torneiras e lixeiras
-   - Equipamentos elétricos (ex: cooktop, forno elétrico)
+### 5. Análise de Dores e Necessidades
+- **Dores Identificadas:**
+  - Necessidade de produtos de qualidade e durabilidade em projetos de construção.
+  - Aumento da competitividade no setor, exigindo inovação e diferenciação.
+  - Necessidade de uma plataforma prática de compra e acesso rápido a informações sobre produtos.
+- **Oportunidades:**
+  - Aumento de parcerias com influenciadores e arquitetos locais para promoção de produtos.
+  - Integração de marketing digital para ampliar a presença online e aumentar o alcance.
+  - Oferta de soluções personalizadas para os clientes, como consultoria em reforma.
 
-3. **Hidráulica**
-   - Canos e conexões
-   - Caixas d’água e aquecedores
+### 6. Sugestões de Estratégia de Marketing de Influência
+- **Influencers Relevantes:** Identificar influenciadores nas áreas de construção e design de interiores que sejam ativos nas redes sociais. Propor parcerias para mostrar os produtos em uso em projetos reais.
+- **Ações Promocionais:** criação de campanhas que estimulem a interação, como "transforme seu espaço com AC Coelho", incentivando os seguidores a compartilhar suas reformas usando a hashtag da marca.
+- **Conteúdo Educacional:** Oferecer webinars ou vídeos com dicas de especialistas, promovendo não apenas os produtos, mas também ensinando os clientes sobre sua utilização e benefícios.
 
-4. **Elétrica**
-   - Interruptores e tomadas
-   - Sensor de presença e porteiros eletrônicos
+### 7. Conclusão
+A AC Coelho possui uma sólida presença no setor de materiais para construção. A implementação de uma estratégia de marketing de influência poderá não apenas aumentar a conscientização da marca, mas também incentivar a fidelização e a venda de produtos. É fundamental abordar as necessidades e dores do cliente através de campanhas personalizadas e conteúdo relevante.
 
-5. **Eletrodomésticos**
-   - Micro-ondas, coifas
-
-6. **Ferramentas**
-   - Ferramentas elétricas e manuais
-
-7. **Iluminação**
-   - Luminárias e lâmpadas
-
-8. **Climatização**
-   - Exaustores e ventiladores
-
-9. **Jardim e Lazer**
-   - Churrasqueiras e jardinagem
-
-10. **Tintas e Acabamentos**
-    - Tintas, vernizes e impermeabilizantes
-
-## Estratégia de Marketing Atual
-### Presença Digital
-- O site é bem organizado, com fácil navegação e acesso a todas as categorias de produtos.
-- A AC Coelho utiliza promoções e destaques de produtos no site para atrair clientes.
-
-### Mídias Sociais
-- A empresa possui presença em plataformas como Instagram, onde promove produtos, ofertas e compartilha conteúdo sobre reformas e construção.
-
-## Potenciais Dores e Necessidades
-1. **Reconhecimento de Marca**: Apesar de ser uma referência local, pode haver necessidade de ampliar sua presença digital e nacional em segmentos de mercado específicos.
-2. **Engajamento do Cliente**: Aumento na interação e interação com o público jovem e digital.
-3. **Concorrência**: Concorrência crescente no setor de materiais de construção, especialmente online.
-
-## Oportunidades de Marketing de Influência
-1. **Campanhas com Influenciadores**: Uso de influenciadores de reforma e arquitetura pode ajudar a mostrar os produtos em uso real, além de atingir um público maior, especialmente nas redes sociais.
-2. **Conteúdo Educativo**: Colaboração com influenciadores para criar conteúdos educativos sobre escolha de materiais, reformas e dicas de decoração.
-3. **Promoções Exclusivas**: Criação de códigos promocionais exclusivos para seguidores de influenciadores, aumentando a atratividade da marca.
-
-## Conclusão
-A AC Coelho apresenta grande potencial para utilizar marketing de influência como uma estratégia para aumentar sua visibilidade e engajamento com clientes, especialmente jovens que estão se tornando proprietários de suas casas e buscando produtos de qualidade. A criação de campanhas personalizadas com influenciadores pode ser uma forma eficaz de abordar essas oportunidades, levando a um crescimento mais significativo e fidelização da marca. 
-
-### Ações Sugeridas
-1. Realizar um mapeamento de influenciadores adequados para a marca.
-2. Criar uma estratégia de conteúdo que destaque não apenas produtos, mas também dicas e experiências de reforma.
-3. Promover ofertas e parcerias que possam ser divulgadas em conjunto com influenciadores, incentivando a compra.
+### 8. Próximos Passos
+- A equipe de copywriting deve elaborar um e-mail baseado nas informações aqui apresentadas, focando nas soluções propostas e na criação de parcerias com influenciadores para maximizar o alcance da marca AC Coelho.
