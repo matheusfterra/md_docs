@@ -1,54 +1,66 @@
-# Relatório de Prospecção da Dental Med Sul
+# Relatório de Prospecção - Dental Med Sul
 
 ## Informações Gerais
+- **Nome da Empresa:** Dental Med Sul
+- **Segmento:** Comércio de materiais e equipamentos para o setor odontológico
+- **Website:** [www.dentalmedsul.com.br](https://www.dentalmedsul.com.br)
 
-- **Nome da Empresa:** Dental Med Sul Artigos Odontológicos Ltda
-- **Website:** [dentalmedsul.com.br](http://www.dentalmedsul.com.br)
-- **CNPJ:** 02.477.571/0001-47
-- **Endereço:** Rua Anne Frank, 5241 - Hauer, Curitiba - PR, 81730-010
-- **Centro de Distribuição:** Rua Tavares de Lyra, 3440 Vila Ina, São José dos Pinhais - PR, 83065-180
-- **Contato:**  
-  - **E-mail Comercial:** ecommerce@dentalmedsul.com.br  
-  - **WhatsApp:** (41) 99159-4198  
-  - **Telefones:** 0800 941 2490 (SAC)  
-- **Horários de Atendimento:** Segunda a Sexta das 08:00 às 18:00
+## Estrutura e Produtos
+### Principais Categorias de Produtos
+1. **Harmonização Orofacial**
+2. **Dentística e Estética**
+3. **Equipamentos**
+4. **Endodontia**
+5. **Anestesia**
+6. **Descartáveis**
+7. **Materiais Acadêmicos**
+8. **Promoções e Liquidações (Validade Curta)**
 
-## Descrição da Empresa
+### Destaques nos Produtos
+- **Ionômero Vidro Ionglass Photo Blue - Maquira**
+  - Preço: De R$85,90 por R$49,77 à vista.
+- **Cimento Endodôntico Biocerâmico Reparador MTA - Maquira**
+  - Preço: De R$199,90 por R$130,69 à vista.
+- **Fotopolimerizador Bluephase N G4 - Ivoclar**
+  - Preço: De R$8.769,90 por R$6.198,20 à vista.
 
-A Dental Med Sul é uma empresa especializada na comercialização de artigos odontológicos, oferecendo uma ampla gama de produtos, incluindo produtos para harmonização orofacial, dentística, ortodontia, endodontia, anestesia e equipamentos para consultórios odontológicos. A empresa atende tanto profissionais de odontologia quanto o público em geral, proporcionando facilidades de pagamento e opções de entrega.
+### Promoções em Andamento
+- Liquidação de produtos com validade curta.
+- Descontos significativos em itens acadêmicos e cirúrgicos, como Kits e Equipamentos.
 
-## Produtos e Serviços Oferecidos
+### Contexto do Site
+O site utiliza cookies para melhorar a experiência do usuário e promove a facilidade de compras online com opções de pagamento flexíveis, incluindo PayPal em até 12x sem juros.
 
-- **Categoria Principal:** Artigos Odontológicos
-- **Segmentos de Produtos:**
-  - **Harmonização Orofacial:** Fios de PDO, Bioestimuladores, Ácido Hialurônico.
-  - **Dental:** Resinas, Alginatos, Kits de Clareadores.
-  - **Equipamentos:** Fotopolimerizadores, Autoclaves, Ultrassons e Localizadores Apicais.
-  - **Materiais Descartáveis:** Luvas, lençóis, entre outros.
+## Análise do Público-Alvo
+### Segmentação
+- **Profissionais da Odontologia:** Dentistas e clínicos gerais que buscam materiais para uso em consultórios.
+- **Acadêmicos:** Estudantes de Odontologia em busca de produtos específicos para formação.
+- **Clínicas e hospitais:** Entidades que necessitam de equipamentos e suprimentos odontológicos.
 
-## Diferenciais da Empresa
+### Possíveis Dores
+- **Acesso a Produtos de Alta Qualidade:** Profissionais podem ter dificuldade em encontrar fornecedores confiáveis que ofereçam materiais de alta qualidade.
+- **Custo:** O preço dos produtos odontológicos pode ser uma barreira financeira, especialmente para clínicas pequenas ou iniciantes.
+- **Atualização Tecnológica:** Necessidade de adquirir novos equipamentos para atender as exigências do mercado e fidelizar clientes.
 
-- **Facilidades de Pagamento:** Oferece opções como pagamento via cartão de crédito em até 12 vezes sem juros, boleto, e pagamento via PIX com desconto.
-- **Promoções e Ofertas:** Regularmente promove liquidações e ofertas de validade curta, incentivando compras rápidas.
-- **Atenção ao Cliente:** Disponibiliza canais variados de atendimento como WhatsApp, e-mail e telefone, além de horário estendido para suporte ao cliente.
+## Oportunidades de Marketing de Influência
+### Estratégias Sugeridas
+1. **Parcerias com Influenciadores de Odontologia:**
+   - Dentistas e especialistas que compartilham dicas e informações sobre produtos odontológicos nas redes sociais.
+  
+2. **Campanhas de Conscientização:**
+   - Utilização de influenciadores para educar o público sobre a importância de materiais de qualidade na prática odontológica.
 
-## Análise do Mercado e Concorrência
-
-A Dental Med Sul se insere em um mercado crescente, onde a demanda por produtos odontológicos e de saúde estética está em ascensão. A presença online da empresa é um ativo valioso, possibilitando a concorrência com plataformas mais estabelecidas. A proposta de valor focada na qualidade e variedade de produtos, aliada a um suporte ao cliente efetivo, é crucial para a retenção e atração de novos clientes.
-
-## Possíveis Dores e Necessidades
-
-- Aumentar a visibilidade da marca em um mercado saturado.
-- Aumentar conversões em vendas online, especialmente para novos produtos.
-- Criar confiança e lealdade entre os clientes e profissionais de odontologia.
-- Se adaptar a novas tecnologias e métodos de marketing digital, especialmente marketing de influência.
-
-## Oportunidades de Influência
-
-- **Parcerias com Influenciadores:** Colaboração com dentistas influentes nas redes sociais para promover produtos e serviços.
-- **Conteúdo Educativo:** Produção de conteúdo sobre cuidados odontológicos e estética que possa ser compartilhado por influenciadores, aumentando a visibilidade dos produtos.
-- **Promoções Especiais:** Promoções exclusivas para seguidores de influenciadores que possam aumentar o tráfego para o site da empresa.
+3. **Testemunhos e Reviews:**
+   - Incentivar influenciadores a testarem e revisarem produtos, ampliando a visibilidade da marca e gerando credibilidade.
 
 ## Conclusão
+A Dental Med Sul possui uma ampla gama de produtos voltados para o setor odontológico e está bem posicionada para aproveitar o marketing de influência a fim de aumentar a visibilidade e engajamento com seu público-alvo. O próximo passo é criar um email direcionado aos influenciadores, oferecendo detalhes sobre as vantagens de parceria e propostas de colaboração.
 
-A Dental Med Sul tem um posicionamento favorável no mercado de odontologia, com um portfólio de produtos diversificado e uma estrutura de atendimento ao cliente bastante sólida. A implementação de uma estratégia de marketing de influência adequada pode oferecer uma vantagem competitiva, ajudando a empresa a atingir seus objetivos de vendas e presença de marca. Considera-se, portanto, uma abordagem direcionada e personalizada ao criar campanhas e conteúdo colaborativo com influenciadores do setor.
+## Ações Recomendadas
+1. **Desenvolver um email de prospecção personalizado** para potenciais influenciadores, destacando benefícios e oportunidades de parceria.
+2. **Criar conteúdo que destaque benefícios**, inovações e diferenciais dos produtos Dental Med Sul.
+3. **Monitorar feedback e engajamento** ao lançar campanhas para continuamente melhorar a abordagem de marketing.
+
+## Referências
+- Website Dental Med Sul: [www.dentalmedsul.com.br](https://www.dentalmedsul.com.br)
+- Política de Privacidade: [Link](https://www.dentalmedsul.com.br/politica-de-privacidade)
