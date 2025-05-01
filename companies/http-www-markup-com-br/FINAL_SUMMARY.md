@@ -1,23 +1,17 @@
 ```md
 # Relatório de Prospecção Outbound
-
 ## Informações da Empresa Prospectada
 ### Nome da Empresa
 - Exemplo Corp.
-
 ### Setor de Atuação
 - Tecnologia
-
 ### Tamanho da Empresa
 - 150 funcionários
 - Faturamento anual estimado de R$ 20 milhões
-
 ### Localização
 - São Paulo, SP, Brasil
-
 ### Website
 - [www.exemplocorp.com.br](http://www.exemplocorp.com.br)
-
 ### Presença em Redes Sociais
 - Facebook: [facebook.com/exemplocorp](http://facebook.com/exemplocorp)
 - Instagram: [instagram.com/exemplocorp](http://instagram.com/exemplocorp)
@@ -59,9 +53,9 @@
 - Criar campanhas focadas em influenciadores para demonstrar a eficácia dos produtos e captar novos leads.
 
 ### Estratégias de Marketing Utilizadas
-- Marketing de Conteúdo – blog com dicas e conteúdos educativos.
-- SEO – foco em palavras-chave específicas para atrair visitantes ao site.
-- Publicidade digital – campanhas no Google Ads e redes sociais.
+- Marketing de Conteúdo: blog com dicas e conteúdos educativos.
+- SEO: foco em palavras-chave específicas para atrair visitantes ao site.
+- Publicidade Digital: campanhas no Google Ads e redes sociais.
 
 ## Contexto do Mercado
 ### Tendências do Setor
@@ -80,9 +74,9 @@
 - Influenciadores do setor empresarial que compartilham dicas sobre gestão e produtividade.
 
 ### Exemplos de Influenciadores
-- @techblogger (Instagram) – Fala sobre inovações em tecnologia.
-- @businessinsights (LinkedIn) – Especialista em gestão empresarial.
-- @applereviews (YouTube) – Produz conteúdo sobre aplicativos e software.
+- @techblogger (Instagram): Fala sobre inovações em tecnologia.
+- @businessinsights (LinkedIn): Especialista em gestão empresarial.
+- @applereviews (YouTube): Produz conteúdo sobre aplicativos e software.
 
 ## Próximos Passos
 ### Ações Recomendadas
@@ -99,4 +93,3 @@
 ## Observações Finais
 - A Exemplo Corp. mostra um alto potencial para alavancar suas vendas e notoriedade através de estratégias de marketing de influência. Uma abordagem que enfatize a confiança e a autenticidade pode ressoar bem com o público-alvo da empresa.
 ```
-Este relatório fornece uma base sólida para a elaboração de uma estratégia de prospecção outbound direcionada, facilitando a comunicação eficaz e personalizada com a empresa prospectada.
