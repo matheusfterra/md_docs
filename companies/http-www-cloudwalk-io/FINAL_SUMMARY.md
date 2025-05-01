@@ -1,49 +1,63 @@
-# Relatório de Prospecção: CloudWalk
+# Relatório de Prospecção - CloudWalk
 
-## 1. Informações Gerais da Empresa
-**Nome:** CloudWalk  
-**Website:** [www.cloudwalk.io](http://www.cloudwalk.io/)  
-**Ano de Fundação:** 2013  
-**Localização:** São Paulo, Brasil  
+## Informações da Empresa
 
-### 1.1. Descrição da Empresa
-CloudWalk é uma fintech inovadora que atua no setor de pagamentos, com a missão de democratizar a indústria financeira e empoderar empreendedores por meio de soluções tecnológicas inclusivas e transformadoras. A empresa prioriza a integração da Inteligência Artificial (IA) e blockchain, oferecendo produtos que atendem às necessidades de milhares de clientes no Brasil.
+### 1. Nome e Segmento
+- **Nome da empresa:** CloudWalk
+- **Segmento:** Fintech, focada em soluções financeiras e de pagamentos com ênfase em tecnologia de inteligência artificial e blockchain.
 
-## 2. Produtos e Serviços
-- **InfinitePay:** Plataforma financeira que democratiza o acesso a produtos e serviços de pagamento de classe mundial.
-- **JIM:** Assistente de pagamento instantâneo que combina tecnologia de ponta com design inovador, permitiendo que vendedores aceitem pagamentos e recebam dinheiro instantaneamente.
-- **Stratus:** Blockchain de alto desempenho, seguro e escalável, projetada para redes de pagamento globais, com capacidade para processar até 1.800 transações por segundo.
+### 2. Histórico e Missão
+- **Fundação:** Maio de 2013.
+- **Missão:** Democratizar a indústria financeira, proporcionando soluções tecnológicas inclusivas e transformadoras. O foco é criar a melhor rede de pagamentos do mundo, visando a expansão não só na Terra, mas potencialmente em outros planetas.
 
-## 3. Missão da Empresa
-Desenvolver a melhor rede de pagamentos na Terra e, futuramente, em outros planetas, através da inovação tecnológica e da inclusão financeira.
+### 3. Produto Principal
+- **Principal Produto:** **InfinitePay** - Plataforma que democratiza o acesso a produtos e software de pagamentos de classe mundial, atendendo milhões de clientes no Brasil.
+- **Outros Produtos:** 
+  - **JIM:** Um assistente inteligente para empreendedores, capaz de ajudar em campanhas de marketing, gestão de vendas e finanças.
+  - **STRATUS:** Blockchain open-source projetada para redes de pagamento globais.
 
-## 4. Principais Características
-### 4.1. Visão de Futuro e Inovação
-CloudWalk possui uma abordagem de filosofia tecnológica, buscando não apenas resolver problemas imediatos, mas também repensar como o setor de pagamentos poderá funcionar futuramente.
+### 4. Tecnologia e Inovação
+- **Integração de IA:** CloudWalk incorpora inteligência artificial em diferentes frentes, como prevenção de fraudes, avaliação de crédito e atendimento ao cliente.
+- **Blockchain:** A plataforma STRATUS oferece alta escalabilidade, com capacidade de processar até 1.800 transações por segundo.
 
-### 4.2. Modelos de Negócio
-- **Desenho Disruptivo:** A CloudWalk adota um modelo de negócios que transforma a maneira como os comerciantes vendem e lucram, propondo os melhores preços do mercado.
-- **Foco No Cliente:** A empresa coloca os clientes como líderes, enfatizando que qualquer melhoria deve beneficiar diretamente o consumidor final.
+### 5. Recentes Conquistas
+- **Resultados de 2024:** Fechamento de 2024 com US$ 497 milhões em receita, triplicando o lucro líquido devido à utilização de IA e blockchain.
+- **Expansão Internacional:** Lançamento da InfinitePay nos EUA com o aplicativo JIM.
 
-## 5. Possíveis Dores Comuns da Indústria
-- **Taxas Altas de Transação:** Muitas empresas enfrentam margens de lucro reduzidas devido a altas taxas cobradas por intermediários de pagamentos.
-- **Desatualização Tecnológica:** A necessidade de modernizar plataformas de pagamento para atender expectativas de clientes em um mercado cada vez mais digital.
-- **Fraude e Segurança:** Preocupações com a segurança em transações digitais são uma dor persistente no setor, exigindo soluções robustas.
+## Mapeamento de Informações Relevantes
 
-## 6. Oportunidades de Parceria em Marketing de Influência
-- **Aumentar a Visibilidade:** Colaborar com influenciadores que falam sobre inovação em fintech e pagamentos poderia ampliar a visibilidade da CloudWalk.
-- **Educação do Consumidor:** Criar campanhas que educam consumidores sobre novos produtos e serviços, atenuando preocupações e destacando a eficiência das soluções.
-- **Engajamento com PME's:** Com a proposta de empoderar pequenos e médios empreendedores, a CloudWalk pode se beneficiar de influenciadores que atuam nesse nicho.
+### 1. Público-Alvo
+- **Micro, pequenas e médias empresas.**
+- Profissionais autônomos que buscam soluções práticas para gestão de pagamentos e finanças.
 
-## 7. Contexto Atual e Tendências
-CloudWalk está situada em um mercado dinâmico e competitivo, onde a adoção de soluções de IA e blockchain é cada vez mais importante. As conversas sobre transparência e inclusão financeira ganham espaço, e a CloudWalk busca se posicionar como líder inovadora nesse cenário.
+### 2. Necessidades e Dores
+- Facilidade no gerenciamento de pagamentos e finanças.
+- Acesso a tecnologias avançadas que tradicionalmente são custosas.
+- Soluções que proporcionem segurança e eficiência nas transações financeiras.
 
-### 7.1. Resultados Recentes
-A CloudWalk reportou um aumento significativo de receita, fechando 2024 com USD 497 milhões. Eles estão constantemente investindo em tecnologia e inovação, o que os torna uma força significativa dentro do setor.
+### 3. Oportunidades de Marketing de Influência
+- **Colaboração com Influenciadores:** Foco em influenciadores da área financeira e empreendedora que podem ajudar a promover a plataforma InfinitePay.
+- **Campanhas de Conscientização:** Educar o público sobre a importância da digitalização e das soluções financeiras integradas por meio de conteúdo gerado por influenciadores.
 
-## 8. Considerações Finais
-A CloudWalk é uma empresa que busca constantemente a inovação, focando nas necessidades de seus clientes e no futuro da tecnologia de pagamentos. Uma abordagem de marketing de influência poderia ajudar a aumentar a conscientização sobre suas soluções, educar o público e construir uma forte presença no mercado.
+### 4. Contexto de Mercado
+- **Concorrência:** Banking services tradicionais, fintechs e soluções de pagamento digitais.
+- **Tendências:** Crescente uso de IA e blockchain no setor financeiro, demanda por soluções acessíveis e escaláveis.
 
----
+### 5. Ponto de Dor do Cliente
+- Dificuldades na adoção de tecnologias financeiras e falta de compreensão em como essas tecnologias podem beneficiar diretamente seus negócios.
 
-Este relatório deve ajudar o copywriter a criar um e-mail personalizado que converse diretamente com as necessidades e características específicas da CloudWalk, abordando sua missão, produtos e as dores comuns na indústria de pagamentos.
+## Como Nosso Serviço Pode Ajudar
+
+### 1. Solução Personalizada para Sensibilização
+- **Abordagem Estratégica:** Propor campanhas com influenciadores que falem diretamente ao nicho das pequenas empresas, mostrando como o InfinitePay pode reduzir custos e simplificar processos.
+- **Estabelecer Autoridade e Confiança:** Utilizar influenciadores reconhecidos no setor financeiro para validar e promover os produtos da CloudWalk.
+
+### 2. Aumentar a Visibilidade de JIM
+- **Destaque da Personalização:** Mostrar como o assistente JIM pode agir como um “empregado extra”, facilitando a vida do empreendedor e economizando tempo.
+
+### 3. Engajamento com a Comunidade
+- **Eventos e Webinars:** Colaborar com influenciadores para realizar webinars explicativos sobre como o uso da tecnologia de CloudWalk pode transformar negócios.
+
+## Conclusão
+
+A CloudWalk representa uma oportunidade significativa para campanhas de marketing de influência focadas em micro e pequenas empresas. Através do entendimento profundo de suas necessidades e da maneira como a tecnologia pode preencher lacunas, é possível construir uma narrativa convincente que não apenas ressalte os benefícios dos produtos, mas também crie um engajamento genuíno com o público. Com a personalização e a adequação das mensagens, a proposta de marketing de influência pode ser decisiva para a adoção e o crescimento contínuo da CloudWalk no mercado financeiro.
