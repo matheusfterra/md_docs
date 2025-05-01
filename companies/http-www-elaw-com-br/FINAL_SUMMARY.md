@@ -1,67 +1,54 @@
-# Relatório de Prospecção para [Nome da Empresa]
+Para criar um relatório de prospecção detalhado e eficaz, é importante coletar uma variedade de informações sobre a empresa-alvo, seu mercado e suas possíveis necessidades. Aqui está uma estrutura sugerida para organizar esse relatório:
+
+# Relatório de Prospecção
 
 ## 1. Informações Gerais da Empresa
-- **Nome da Empresa**: [Nome]
-- **Setor**: [Setor da Empresa, e.g., E-commerce, Moda, Tecnologia]
-- **Localização**: [Endereço/ Cidade/ Estado]
-- **Site**: [URL do Site]
-- **Redes Sociais**: 
-  - Facebook: [URL]
-  - Instagram: [URL]
-  - Twitter: [URL]
-  - LinkedIn: [URL]
+- **Nome da Empresa:** [Nome da Empresa Prospectada]
+- **Website:** [URL do Site]
+- **Endereço:** [Endereço Completo]
+- **Telefone de Contato:** [Telefone]
+- **Email de Contato:** [Email]
 
-### 1.1. Dados de Contato
-- **Nome do Contato Principal**: [Nome do Contato]
-- **Cargo**: [Cargo do Contato]
-- **Email**: [Email do Contato]
-- **Telefone**: [Telefone do Contato]
+## 2. Setor de Atuação
+- **Segmento:** [Segmento da Indústria]
+- **Descrição do Negócio:** [Breve descrição da empresa e suas atividades principais]
+- **Tamanho da Empresa:** [Número de funcionários, receita anual, etc.]
+- **Localização dos Escritórios:** [Principais escritórios/filiais]
 
-## 2. Análise do Segmento
-### 2.1. Descrição do Mercado
-- **Tamanho do Mercado**: [Dados sobre o mercado em que a empresa atua, incluindo tamanho estimado em termos de valor ou volume e principais características]
-- **Concorrentes Principais**: [Lista de principais concorrentes e breves análises de suas estratégias de marketing, incluindo como utilizam influenciadores e marketing de influência]
+## 3. Análise de Mercado
+- **Posição no Mercado:** [Onde a empresa se posiciona em relação à concorrência]
+- **Concorrentes Principais:** [Lista de concorrentes diretos e indiretos]
+- **Tendências do Setor:** [Tendências relevantes no mercado de atuação]
 
-### 2.2. Tendências do Setor
-- **Tendências Atuais**: [Tendências relevantes no setor de atuação da empresa, como crescimento do uso de influenciadores, aumento do foco em vídeos curtos, entre outros]
-- **Mudanças de Comportamento do Consumidor**: [Observações sobre como os consumidores estão mudando suas preferências, especialmente em relação a influenciadores e marketing de influência, incluindo dados de pesquisa ou estudos relevantes]
+## 4. Perfil do Público-Alvo
+- **Demografia do Cliente:** [Idade, gênero, localização, interesses]
+- **Comportamento do Consumidor:** [Como os clientes geralmente interagem com a marca]
 
-## 3. Análise Interna da Empresa
-### 3.1. Visão e Missão
-- **Missão**: [Missão da Empresa]
-- **Visão**: [Visão da Empresa]
+## 5. Presença Online
+- **Redes Sociais Utilizadas:** [Quais plataformas sociais a empresa está presente?]
+- **Engajamento:** [A análise do engajamento nas redes sociais, incluindo seguidores e tipo de conteúdo gerado]
+- **Avaliações/Reputação:** [Análise de reviews e comentários]
 
-### 3.2. Produtos/Serviços Oferecidos
-- **Descrição dos Produtos/Serviços**: [Listagem detalhada dos principais produtos/serviços, incluindo características distintas]
-- **Diferenciais Competitivos**: [O que torna a empresa única em seu setor, como inovações, qualidade, atendimento ao cliente, sustentabilidade]
+## 6. Estrutura de Marketing
+- **Estratégias Atuais:** [Métodos de marketing e publicidade que a empresa já utiliza]
+- **Campanhas Recentes:** [Descrição de campanhas de marketing recentes e resultados]
+- **Uso de Influenciadores:** [Se já trabalham com influenciadores, quais estratégias têm adotado?]
 
-## 4. Estratégias de Marketing e Comunicação
-### 4.1. Presença Digital
-- **Website**: [Análise do site, incluindo foco em design, usabilidade, e conteúdo, e como isso se alinha com seu público]
-- **Mídias Sociais**: [Avaliação de suas postagens, interação com seguidores, e estratégias de conteúdo, incluindo frequência e engajamento]
+## 7. Possíveis Dores e Desafios
+- **Identificação de Dores:** [Dificuldades que a empresa pode estar enfrentando, como falta de visibilidade, engajamento baixo, entre outros]
+- **Oportunidades de Melhoria:** [Onde você pode ajudar? Como a colaboração com influenciadores pode resolver essas dores?]
 
-### 4.2. Campanhas Anteriores
-- **Campanhas de Influência Passadas**: [Resumo de campanhas passadas envolvendo influenciadores, incluindo resultados, impacto e aprendizados, como aumento de vendas ou engajamento]
-- **Estratégia de Conteúdo**: [Tipo de conteúdo utilizado nas campanhas e na presença online, abordagens visuais, narrativas e formatos]
+## 8. Proposta de Valor
+- **Por que trabalhar com influenciadores?** [Benefícios de uma estratégia de marketing de influência]
+- **Como se destacar no mercado atual:** [Possibilidades de diferenciação e inovação na área de atuação da empresa]
 
-## 5. Identificação de Dores e Oportunidades
-### 5.1. Possíveis Dores
-- **Desafios no Marketing**: [Desafios comuns enfrentados pela empresa no marketing de influência, como dificuldade em mensurar ROI ou encontrar influenciadores adequados]
-- **Limitações no Alcance de Público**: [Se a empresa tem dificuldade em atingir seu público-alvo, como questões de segmentação ou falta de engajamento]
-- **Feedbacks Negativos**: [Comentários ou reclamações comuns encontradas nas redes sociais ou feedbacks de clientes, incluindo áreas que precisam de melhoria]
+## 9. Objetivos de Prospecção
+- **Objetivos Relacionados à Prospecção:** [O que você espera alcançar com essa prospecção?]
 
-### 5.2. Oportunidades Adjacentes
-- **Novas Plataformas**: [Oportunidades em plataformas de mídia social emergentes que a empresa pode explorar para diversificar seu alcance]
-- **Colaborações Potenciais**: [Sugestões de influenciadores que podem se alinhar com a marca e os valores da empresa, com base no público-alvo e interesses]
-
-## 6. Proposta de Valor
-- **Como podemos ajudar**: [Exposição clara de como nossos serviços de marketing de influência podem alinhar-se às necessidades da empresa, reforçando soluções específicas para as dores identificadas]
-- **Resultados Esperados**: [Expectativas de resultados e impacto com a implementação da nossa solução, como aumento do reconhecimento de marca, engajamento superior e conversões]
-
-## 7. Conclusão
-- **Resumo de Insights**: [Resumo final da análise feita sobre a empresa, destacando os pontos fortes, fraquezas e oportunidades que podem ser abordadas]
-- **Próximos Passos**: [Sugestão para os próximos passos na prospecção e estabelecimento do contato, como agendar uma reunião ou enviar um convite para um evento pertinente]
+## 10. Conclusão e Próximas Etapas
+- **Resumo dos Principais Pontos:** [Recapitulação dos insights mais relevantes]
+- **Proposta de Ação:** [Próximos passos sugeridos para uma abordagem personalizada]
 
 ---
 
-*Obs.: Certifique-se de encher todos os campos com informações relevantes e atualizadas, além de adaptar o conteúdo para refletir a cultura e o tom de voz da empresa alvo.*
+Esse formato organizado e detalhado ajudará o copywriter a entender as nuances da empresa prospectada e a criar um e-mail que não apenas capture a atenção, mas que também ofereça soluções relevantes e personalizadas, aumentando as chances de sucesso na prospecção.
