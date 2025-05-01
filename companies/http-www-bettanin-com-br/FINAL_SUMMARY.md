@@ -37,7 +37,7 @@ Os produtos são categorizados com foco em diferentes ambientes dentro da casa:
 - Sala de Estar
 - Sala de Jantar
 
-Links diretos para as categorias:
+**Links diretos para as categorias:**
 - [Produtos para Área Externa](https://www.bettanin.com.br/produtos/?ambiente=area-externa)
 - [Produtos para Área Gourmet](https://www.bettanin.com.br/produtos/?ambiente=area-gourmet)
 - [Produtos para Banheiro](https://www.bettanin.com.br/produtos/?ambiente=banheiro)
@@ -58,7 +58,7 @@ A Bettanin possui diversas marcas associadas a diferentes linhas de produtos, de
 - Bettabanho
 - Bettagreen
 
-Links para as marcas:
+**Links para as marcas:**
 - [Noviça](https://www.bettanin.com.br/marcas/novica)
 - [Esfrebom](https://www.bettanin.com.br/marcas/esfrebom)
 - [Brilhus](https://www.bettanin.com.br/marcas/brilhus)
