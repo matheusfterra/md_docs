@@ -1,71 +1,59 @@
-# Relatório de Prospecção - Ilegra
+# Relatório de Prospecção - ilegra
 
-## 1. Contexto da Empresa
+## Dados da Empresa
+- **Nome da Empresa:** ilegra
+- **Setor:** Design, Inovação e Tecnologia
+- **Localização:** Escritórios em São Paulo, Porto Alegre, Miami, Lisboa
+- **Website:** [ilegra.com](http://www.ilegra.com)
 
-**Nome: Ilegra**  
-**Setor: Tecnologia, Inovação e Consultoria**  
-**Website: [www.ilegra.com](http://www.ilegra.com)**  
+## Descrição da Empresa
+A ilegra é uma empresa global que combina tecnologia e paixão humana para oferecer soluções integradas em estratégia, inovação e tecnologia. Eles se posicionam como aliados de negócios que buscam não apenas a execução de serviços, mas também a transformação digital e melhoria contínua das empresas com as quais trabalham.
 
-### 1.1. Visão Geral
+### Serviços Oferecidos
+- **Consultoria e Estratégia de Negócios**
+- **Inovação e Desenvolvimento de Produtos**
+- **Soluções em Dados e Analytics**
+- **Soluções em Nuvem**
 
-A Ilegra é uma empresa global de estratégia, inovação e tecnologia que atua na interseção entre tecnologia e a experiência humana. O foco da empresa está em oferecer soluções que combinam tecnologia e paixão, com ênfase no customer first.
+### Abordagem ao Cliente
+A ilegra destaca a personalização de seus serviços, adaptando-se às necessidades específicas de cada cliente e buscando entender profundamente suas operações e desafios. O foco na experiência do cliente é central para todas as suas ofertas.
 
-### 1.2. Objetivos e Missão
+## Casos de Sucesso
+1. **Unicred**
+   - **Desafio:** Transformar agências físicas em espaços focados no atendimento humanizado.
+   - **Resultado:** Criação de "Agências do Futuro" que integram canais digitais e físicos, promovendo uma melhor experiência ao cliente.
+   - **Depoimento:** "Fomos provocados pela ilegra em vários sentidos para pensar fora do convencional." - Maria Alice Delatorre
 
-A missão da Ilegra é transformar negócios através de inovação e tecnologia, fornecendo serviços personalizados e focando em resultados efetivos para seus clientes. A empresa tem um compromisso em contribuir com a transformação digital e sustentável de seus clientes.
+2. **Dexco**
+   - **Desafio:** Acelerar a jornada digital e melhorar a comunicação interna.
+   - **Resultado:** Redução de 33% nos custos com tecnologias e otimização dos processos de desenvolvimento e operação de softwares.
+   - **Depoimento:** “A parceria com a ilegra tem sido fundamental.” - Evandro Gussi Medrado
 
-## 2. Serviços Oferecidos
+3. **Braskem**
+   - **Desafio:** Criar um portal para promover a Economia Circular.
+   - **Resultado:** Lançamento do portal "Cazoolo", que facilita a conexão entre designers e projetos sustentáveis.
+   - **Depoimento:** "O resultado é um site dinâmico, moderno e intuitivo." 
 
-- **Business & Customer Strategy**: Consultoria em estratégia de negócios centrada no cliente.
-- **Innovation Lab**: Desenvolvimento de novas ideias e soluções inovadoras.
-- **Data Solutions**: Gestão e análise de dados para otimização de processos.
-- **Cloud Solutions**: Implementação e gerenciamento de soluções em nuvem.
+## Insights do Blog
+A ilegra possui um blog ativo onde compartilha insights e tendências relevantes sobre inovação e tecnologia. Alguns tópicos recentes incluem:
+- Inteligência Artificial no atendimento ao cliente.
+- Tendências de mercado e inovação para 2025.
+- Como o outsourcing de TI pode acelerar negócios.
 
-## 3. Características da Empresa
+## Oportunidades e Dores
+- **Desafios Identificados**: A transformação digital não é uniforme; muitos negócios ainda lutam para integrar adequadamente plataformas físicas e digitais.
+- **Oportunidades**: As empresas estão cada vez mais buscando expertise externa para inovar e se destacar em um mercado competitivo. A ilegra está bem posicionada para oferecer essas soluções.
 
-- **Localização**: Brasil, Miami (EUA), Lisboa (Portugal).
-- **Segmentos de Atuação**: Serve diversos setores, incluindo petroquímica (Braskem), móveis e construção civil (Dexco), e financeiro (Unicred).
-- **Na Mídia**: Participação em eventos e entrevistas sobre tendências de inovação e impacto da tecnologia no mercado.
+## Público-Alvo
+- **Setores**: Empresas de diversos setores, incluindo financeiro, petroquímico e móveis/construção civil.
+- **Variedade de Clientes**: De startups a grandes corporações, a ilegra é versátil e flexível em seus atendimentos.
 
-### 3.1 Casos de Sucesso Relevantes
+## Argumentos para Prospecção
+1. **Transformação Digital Necessária**: Com o crescimento do e-commerce e das interações digitais, a necessidade de soluções que conectem o físico e o digital é urgente.
+2. **Expertise Reconhecida**: Os casos de sucesso da ilegra demonstram uma capacidade comprovada de melhorar a eficiência e reduzir custos.
+3. **Personalização de Serviços**: A ilegra não oferece soluções prontas, mas sim estratégias personalizadas que atendem diretamente às dores dos clientes.
 
-- **Braskem**: Criação do portal de economia circular, focando na sustentabilidade.
-- **Dexco**: Transformação digital que resultou na redução de 33% nos custos operacionais.
-- **Unicred**: Transformação das agências em centros de experiência e consultoria.
+## Conclusão
+A ilegra se apresenta como uma empresa inovadora e alinhada às necessidades do mercado atual, com um forte foco em tecnologia e experiência do usuário. Essa abordagem torna-a ideal para parcerias em marketing de influência, ajudando empresas a conectarem-se de maneira mais humana e eficiente com seus clientes, utilizando o poder das tecnologias emergentes. 
 
-## 4. Pain Points e Desafios
-
-### 4.1 Identificação de Dores
-
-1. **Sustentabilidade**: As empresas estão cada vez mais sob pressão para implementar práticas sustentáveis, especialmente no setor petroquímico.
-2. **Transformação Digital**: Muitas organizações enfrentam dificuldades para integrar tecnologia de forma eficiente e escalável em suas operações.
-3. **Experiência do Cliente**: A necessidade de aprimorar a experiência do usuário em serviços financeiros, transformando-o em um processo mais humanizado e acessível.
-
-### 4.2 Oportunidades
-
-- Conectar a Ilegra com influenciadores no segmento de sustentabilidade.
-- Utilizar os cases de sucesso para demonstração de impacto
-- Aproximar influenciadores do setor financeiro para promover as inovações da Ilegra.
-
-## 5. Insights do Blog e Tendências
-
-No blog da Ilegra, são abordadas diversas tendências que podem impactar seus clientes, como:
-
-- A inclusão da Inteligência Artificial no atendimento ao cliente.
-- Inovações em estratégias digitais e desenvolvimento sustentável.
-- A importância da experiência do usuário e a transformação no ambiente de trabalho.
-
-## 6. Redes Sociais e Presença Digital
-
-- **Blog**: Com conteúdo abrangente sobre inovações e tecnologia.
-- **LinkedIn**: Usado para compartilhar insights da indústria e se conectar com profissionais de diferentes setores.
-
-## 7. Conclusão e Recomendações
-
-A Ilegra se posiciona como uma referência em inovação e tecnologia, especialmente em transformação digital e sustentabilidade. Destacar as principais dores das indústrias que a empresa atende e como a colaboração com influenciadores pode aumentar a visibilidade e engajamento pode ser um ponto-chave para a prospecção. 
-
-Recomenda-se um enfoque nos casos de sucesso e na forma como a Ilegra resolve problemas similares enfrentados pelas empresas prospectadas. Um email personalizado pode ser uma ótima forma de abordar os diretores e responsáveis por inovação e transformação digital dessas empresas.
-
---- 
-
-Este relatório fornece uma visão clara e estruturada das informações sobre a Ilegra, permitindo que sua equipe de copywritting crie conteúdo direcionado e impactante.
+Este relatório fornece informações abrangentes para que o copywriter da equipe possa criar uma comunicação altamente personalizada e relevante para a abordagem de prospecção.
