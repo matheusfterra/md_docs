@@ -1,51 +1,50 @@
-# Relatório de Prospecção para o Istituto Europeo di Design (IED)
+# Relatório de Prospecção: Istituto Europeo di Design (IED)
 
-## Informações Gerais
+## Informações Gerais da Empresa
 - **Nome da Empresa:** Istituto Europeo di Design (IED)
-- **Website:** [IED Brasil](http://www.ied.edu.br)
-- **Localização:** Sedes no Brasil (São Paulo e Rio de Janeiro) e várias na Itália (Milão, Turim, Florença, Roma, Como, Cagliari, Bilbao, Madrid e Barcelona).
-- **Ano de Fundação:** 1966
-- **Contato:** atendimento@ied.edu.br
-- **Telefone:**
-  - **São Paulo:** +55 11 3660 8000
-  - **Rio de Janeiro:** +55 21 97917-0110
+- **Website:** [ied.edu.br](http://www.ied.edu.br)
+- **Fundação:** 1966
+- **Sedes:** Presente em 11 locais (Itália: Milão, Roma, Florença, Turim, Cagliari; Espanha: Madri, Barcelona, Bilbao; Brasil: São Paulo, Rio de Janeiro)
+- **Missão:** Proporcionar uma educação inovadora em design e comunicação, unindo teoria e prática. 
+- **Público-Alvo:** Estudantes interessados em design, moda, comunicação e áreas afins.
 
-## Segmento
-- **Tipo de Negócio:** Educação e cursos nas áreas de design, moda, comunicação e artes.
-- **Modelo de Negócio:** Presencial e Online (Cursos de Graduação, Pós-Graduação, Extensão e Lifelong Learning).
-- **Área de Atuação:** Formação acadêmica em design que inclui design visual, moda, gestão e comunicação, entre outros.
+## Segmento de Atuação
+- **Tipo de Cursos Oferecidos:**
+  - Graduação (Design de Moda, Design Gráfico, etc.)
+  - Pós-Graduação (Gestão de Moda, Animação, Design Estratégico, etc.)
+  - Lifelong Learning (cursos de extensão e oficinas)
+- **Áreas Formativas:**
+  - Design de Interação
+  - Design Gráfico
+  - Design de Moda
+  - Gestão de Moda e Comunicação
+  - Animação e Design de Games
+  - Marketing e Comunicação
 
-## Produtos/Serviços
-### Cursos
-- **Graduação:** Oferece 3 cursos de graduação focados nas áreas de design em São Paulo.
-- **Pós-Graduação:** Mais de 11 cursos divididos em diversas áreas como marketing e comunicação, design estratégico, entre outros.
-- **Cursos de Lifelong Learning:** Aproximadamente 35 cursos, incluindo oficinas e cursos de extensão. 
-- **Cursos em Desenvolvimento:** Diversos cursos programados para início entre 2025 e 2026. 
+## Números e Estatísticas
+- **Mais de 50 anos de história.**
+- **Mais de 10.000 estudantes por ano.**
+- **Mais de 100 cursos em diferentes áreas.**
+- **Mais de 100.000 ex-alunos globalmente.**
+- **Parcerias internacionais com mais de 170 instituições.**
 
-### Diferenciais
-- **Rede de Contatos:** IED possui uma Comunidade Alumni ativa, com mais de 100 mil ex-alunos em todo o mundo, promovendo conexões e oportunidades de estágio com marcas reconhecidas.
-- **Experiências Internacional:** O IED proporciona programas de intercâmbio e experiências internacionais, favorecendo experiência intercultural e networking.
+## Características do Mercado
+- **Tendências:** O mercado de design está em constante evolução, com uma crescente demanda por habilidades relacionadas a tecnologia, sustentabilidade e inovação.
+- **Concorrência:** IED compete com instituições como o Instituto de Artes de São Paulo, Escola Superior de Propaganda e Marketing (ESPM), entre outras escolas de design e comunicação.
 
-## Público-Alvo 
-- **Estudantes e Profissionais:** Focados em categorias específicas como design, moda, comunicação, entre outros, que buscam avançar suas carreiras ou iniciar uma formação de alta qualidade.
-- **Empresas do Setor Criativo:** Marcas que buscam se conectar com novos talentos ou com estudos inovadores em design e moda.
+## Dores e Oportunidades
+### Dores:
+- **Captação de Talentos:** Dificuldade em atrair novos alunos em meio a concorrência acirrada.
+- **Alinhamento ao Mercado:** Necessidade de atualização constante dos currículos para atender as demandas do mercado de trabalho em design.
+- **Visibility & Branding:** Aumento da visibilidade e fortalecimento da marca em um cenário educacional competitivo.
 
-## Contexto de Mercado
-- **Concorrência:** Existem várias instituições que oferecem cursos de design e moda, tanto no Brasil quanto na Europa. O IED se destaca pelo renome e pela formação de qualidade com um forte enfoque prático e na inserção profissional.
+### Oportunidades:
+- **Campanhas de Marketing Digital:** Fortalecer a presença online através de campanhas focadas em redes sociais e influenciadores ligados ao universo do design e moda.
+- **Parcerias com Influenciadores:** Criar colaborações com influenciadores relevantes no segmento de design e moda para engajar um público jovem e aspiracional.
+- **Eventos e Workshops:** Organizar eventos com foco em inovações e tendências no design, atraindo tanto alunos quanto profissionais do setor.
 
-## Possíveis Dores e Necessidades
-- **Dificuldade em Atingir Jovens Talentos:** As marcas podem ter dificuldades em identificar e conectar-se com profissionais emergentes nas áreas criativas.
-- **Necessidade de Transformação Digital:** A necessidade de adaptação no modo de comunicar e de fazer marketing no ambiente digital.
-- **Sustentabilidade e Inovação:** Marcas e instituições estão cada vez mais necessitando de criar soluções sustentáveis no design e inovação em suas abordagens.
-
-## Oportunidades de Marketing de Influência
-- **Parcerias Estratégicas com Designers Reconhecidos:** Criar campanhas que utilizem influenciadores da área do design e moda que já foram formados pelo IED ou que são relevantes para seu público.
-- **Eventos e Workshops:** Promover e documentar eventos relevantes, como o DW! São Paulo Design Weekend e Fashion Revolution, utilizando influenciadores para aumentar a visibilidade e engajamento em redes sociais.
-- **Conteúdo Educativo:** Desenvolver conteúdo digital junto a influenciadores para abordar temas como tendências de design, sustentabilidade e inovação que se alinhem com os cursos e valores do IED.
-
-## Sugestões para Contato
-- **Email Marketing Personalizado:** Um email que saliente a conexão do IED com a indústria criativa, destacando casos de sucesso com alumni e a possibilidade de parcerias em projetos de influência.
-- **Chamadas Para Ação:** Incentivos para contato imediato com propostas de webinars ou workshops, para discutir como o marketing de influência pode beneficiar tanto o IED quanto as marcas.
+## Contexto para Comunicação
+A comunicação deverá se focar em como a IED se posiciona como uma das principais escolas de design, incentivando a criatividade e o desenvolvimento de habilidades práticas. É fundamental enfatizar a importância de um currículo alinhado às necessidades do mercado, a implementação de experiências internacionais e a possibilidade de networking com profissionais renomados da área. Além disso, a utilização de influenciadores para legitimar a qualidade e a relevância do que a IED oferece, pode impactar significativamente nas decisões dos potenciais alunos.
 
 ## Conclusão
-O Istituto Europeo di Design é uma instituição forte, com muitas oportunidades de parcerias no campo do marketing de influência. A combinação de sua vasta rede de ex-alunos, a tradição em ensino de design, e seu foco em sustentabilidade e inovação oferecem uma abordagem atraente para conectar marcas com clientes e talentos promissores.
+O Istituto Europeo di Design (IED) é uma instituição consolidada que se destaca na formação de profissionais qualificados no setor de design e comunicação. As oportunidades de colaboração com influenciadores no marketing de influência são amplas e podem levar a um aumento na captação de alunos e fortalecimento da marca. A proposta é criar uma abordagem que combine estratégias de marketing digital e eventos presenciais, aliando o brand awareness à atração de novos talentos para a instituição.
