@@ -1,40 +1,57 @@
 # Relatório de Prospecção - FACAMP
 
-## Dados da Empresa
-- **Nome:** FACAMP - Centro Universitário de Campinas
-- **Site:** [facamp.com.br](http://www.facamp.com.br)
-- **Endereço:** Av. Alan Turing, nº 805, Barão Geraldo, Campinas / SP, Caixa postal 6106, CEP 13083-898
+## Informações Gerais
+- **Nome da Empresa:** FACAMP (Faculdade de Campinas)
+- **Setor:** Educação Superior
+- **Localização:** Av. Alan Turing, nº 805, Barão Geraldo, Campinas - SP
 - **Contato:**
-  - Telefone: (19) 3754-8500
-  - E-mail: [informações via site](http://www.facamp.com.br/contato/)
+  - **Telefone:** (19) 3754-8500
+  - **E-mail:** [contato@facamp.com.br](mailto:contato@facamp.com.br)
+  - **Site:** [www.facamp.com.br](https://www.facamp.com.br)
 
-## Visão Geral
-A FACAMP é uma instituição de ensino superior que oferece cursos de graduação, pós-graduação, mestrado e programas de educação executiva. Reconhecida pela qualidade de seu ensino e pela formação de profissionais prontos para o mercado, a FACAMP se destaca em diversas áreas, incluindo administração, direito e engenharias. A instituição possui forte compromisso com a pesquisa e extensão, e promove intercâmbios e experiências internacionais.
+## Descrição da Empresa
+A FACAMP é um centro universitário reconhecido por sua formação de excelência em diversas áreas do conhecimento, incluindo graduação, pós-graduação, pesquisa e extensão. Oferece um ambiente de aprendizado que conecta teoria e prática, focando na preparação dos alunos para o mercado de trabalho.
 
-## Características da Instituição
-- **Segmentos:** Educação superior, pesquisa e extensão
-- **Cursos Oferecidos:** Graduação, pós-graduação, MBA, mestrado e educação executiva
-- **Diferenciais:**
-  - Parcerias com empresas e universidades internacionais
-  - Programas de intercâmbio e experiências internacionais
-  - Centro de Carreiras e Centro de Empreendedorismo
-  - Eventos voltados para desenvolvimento profissional (ex: Olimpíadas de Atualidades, cursos de capacitação para professores)
+### Serviços e Ofertas
+1. **Graduação:**
+   - Cursos em diversas áreas como Direito, Administração, Economia, Engenharia, entre outros.
 
-## Oportunidades e Possíveis Dores
-### Oportunidades
-1. **Marketing de Influência:** A FACAMP pode se beneficiar do marketing de influência ao promover eventos, intercâmbios e cursos com influenciadores que tenham afinidade com o segmento educacional e juvenil.
-2. **Promoção de Eventos:** A utilização de influenciadores na divulgação de eventos como a Olimpíada de Atualidades e intercâmbios pode aumentar a adesão e o engajamento do público jovem.
-3. **Aprimoramento da Imagem Institucional:** A presença de influenciadores em eventos pode reforçar a imagem da FACAMP como uma instituição moderna, conectada às novas mídias.
+2. **Pós-Graduação:**
+   - Oferece especializações, MBAs e mestrados.
 
-### Possíveis Dores
-1. **Baixo Engajamento em Eventos:** Apesar de sua relevância, a FACAMP pode enfrentar desafios na atração de alunos e interessados para eventos, especialmente em um cenário digital saturado.
-2. **Necessidade de Fortalecer a Marca:** Com a crescente concorrência no segmento de ensino superior, a FACAMP precisa de estratégias eficazes para se destacar e alcançar novos públicos.
-3. **Adaptação a Novos Formatos de Ensino:** A instituição pode ter dificuldades para engajar alunos em formatos de ensino remoto ou híbrido, especialmente sem uma comunicação clara e atrativa.
+3. **Programas de Imersão:**
+   - **FACAMP CONECTA:** Programa que aproxima alunos do mercado. Inclui cursos extracurriculares, palestras de profissionais do setor e visitas técnicas.
 
-## Atividades Recentes
-- **Olimpíadas de Atualidades 2025:** Inscrições abertas; concurso voltado para estudantes do ensino médio. Prêmios significativos que atraem o público jovem (ex: bolsas de estudos e carro).
-- **Participação em Eventos Internacionais:** A FACAMP esteve presente na XX Semana Internacional da ICN Business School, o que demonstra seu compromisso com a educação global.
-- **Capacitação de Professores:** Cursos como o VIII Curso de Capacitação para Professores em Simulações da ONU evidenciam seu foco em formação continuada e metodologias inovadoras.
+4. **Eventos:**
+   - Realiza diversas atividades, como as Olimpíadas de Atualidades e seminários sobre temas atuais no mundo acadêmico e profissional.
 
-## Conclusão
-A FACAMP apresenta-se como uma instituição sólida e com diversas oportunidades para a aplicação de estratégias de marketing de influência. A presença de influenciadores pode potencializar eventos e a divulgação de cursos, além de reforçar a imagem da FACAMP como uma referência em educação superior de qualidade. As informações aqui coletadas poderão ser utilizadas para criar campanhas de e-mail personalizadas, abordando diretamente as necessidades e características da instituição, garantindo elevada taxa de engajamento e interesse.
+## Eventos Recentes
+1. **FACAMP e ABRH Campinas**: Discutiram os desafios da nova NR-1 e a promoção da saúde mental no trabalho.
+2. **Evento sobre SAF**: Com a presença do ex-jogador Elano Blumer, focando no futuro do futebol brasileiro e a Sociedade Anônima do Futebol.
+3. **Relações Brasil-China**: Encontro com Dr. Thomas Law, abordando cooperação jurídica entre Brasil e China.
+
+## Público-Alvo
+- Estudantes do Ensino Médio, Cursos Pré-Vestibular, Alunos de Graduação e Pós-Graduação, Ex-alunos e Profissionais do mercado.
+
+## Dores Potenciais
+1. **Conexão com o Mercado:** A FACAMP busca cada vez mais aproximar seus alunos do mercado de trabalho, criando oportunidades em colaboração com empresas.
+2. **Destaque na Formação:** A pressão para oferecer uma formação que se destaque em um mercado competitivo é constante.
+
+## Oportunidades de Parceria
+Dada a atuação da FACAMP, existem oportunidades significativas para uma parceria em Marketing de Influência para:
+
+- **Promoção de Cursos e Eventos:** Utilização de influenciadores para promover cursos, seminários e eventos realizados pela FACAMP, ampliando a visibilidade e alcance.
+- **Engajamento em Projetos de Imersão:** Influenciadores podem auxiliar na promoção de programas como o FACAMP CONECTA, atraindo mais alunos para experiências imersivas únicas.
+- **Construção da Marca:** Trabalhar em conjunto para fortalecer a marca FACAMP no cenário educacional e ampliar seu reconhecimento.
+
+## Contexto do Setor
+A educação superior está em constante transformação, com crescente demanda por experiências práticas e ligação com o mercado de trabalho. Influenciadores podem ser uma ponte importante nessa conexão, ajudando a FACAMP a se destacar e se inserir nas conversas relevantes em educação.
+
+## Estratégia de Comunicação
+- **Personalização:** As mensagens a serem enviadas à FACAMP devem focar em como podemos colaborar para aumentar a visibilidade da instituição e seus programas, usando influenciadores de maneira estratégica para soluções específicas em suas necessidades.
+- **Foco em Resultados:** Mostrar exemplos de sucesso e como a parceria pode resultar em aumento de inscrições e engajamento nos eventos.
+- **Viabilidade de Projetos:** Apresentar uma proposta clara de como o marketing de influência pode ser implementado, incluindo cronograma e expectativas de resultados.
+
+---
+
+Esse relatório deve servir como base para a elaboração de comunicações personalizadas, visando estabelecer uma conexão forte e alinhada entre a FACAMP e a nossa empresa no segmento de Marketing de Influência.
