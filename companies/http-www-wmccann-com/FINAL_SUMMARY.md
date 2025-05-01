@@ -1,5 +1,5 @@
+```plaintext
 # Relatório de Prospecção: WMCCANN
-
 ## 1. Informações Básicas da Empresa
 - **Nome da Empresa:** WMCCANN
 - **Website:** [http://www.wmccann.com](http://www.wmccann.com) (apresenta erro 404 - página não encontrada)
@@ -52,3 +52,9 @@ Com base nas informações disponíveis e no contexto do setor de marketing, a W
 - Realizar uma pesquisa aprofundada no LinkedIn para identificar funcionários e a estrutura organizacional da WMCCANN.
 - Monitorar as redes sociais da WMCCANN para compreender seu posicionamento e as reações do público.
 - Aguardar confirmação sobre a situação do website ou identificar o motivo do erro 404 através de fontes confiáveis.
+```
+
+### Observações:
+1. **Verificação de Informações**: É essencial buscar informações atualizadas sobre a WMCCANN, especialmente no LinkedIn e nas redes sociais, uma vez que o site está fora do ar.
+2. **Contato Direto**: Caso existam canais de contato alternativos, como e-mail social ou telefone, considere entrar em contato para obter informações diretas.
+3. **Estratégia de E-mail**: O e-mail deve ser impactante e refletir as dores específicas identificadas neste relatório, posicionando a sua empresa como uma solução viável.
