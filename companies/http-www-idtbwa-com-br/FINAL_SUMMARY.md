@@ -1,73 +1,68 @@
-# Relatório de Prospecção SDR - iD\TBWA
+# Relatório de Prospecção - iD\TBWA
 
-## 1. Informações Gerais da Empresa
+## Informações Gerais da Empresa
+
 - **Nome da Empresa:** iD\TBWA
-- **Segmento:** Agência de Marketing e Publicidade (Focada em Criatividade e Dados)
+- **Website:** [idtbwa.com.br](http://www.idtbwa.com.br)
 - **Localização:** Rua Eugênio de Medeiros, 303, 14º andar – Pinheiros, São Paulo – SP, CEP 05425-000
-- **Contato Telefônico:** +55 (11) 99159-4215
-- **Website:** [iD\TBWA](http://www.idtbwa.com.br)
+- **Telefone:** +55 (11) 99159-4215
 - **CEO:** Camila Costa
-- **Estrutura Organizacional:** Composta por esquemas de squads multidisciplinares com mais de 160 profissionais.
 
-## 2. Visão Geral da Empresa
-A iD\TBWA é uma agência que combina criatividade e dados para acelerar o crescimento de marcas e negócios. A proposta da empresa é oferecer soluções inovadoras e personalizadas que conectem marcas a seus públicos de maneira eficaz e impactante.
+## Descrição da Empresa
+A iD\TBWA é uma agência de publicidade que combina criatividade e dados para acelerar o crescimento de marcas e negócios. A empresa destaca-se por sua abordagem inovadora e disruptiva, utilizando dados como ferramenta de autoconhecimento e desenvolvimento para suas estratégias de marketing.
 
-### Principais Valores
-- Criatividade impulsionada por dados.
-- Conexão e proximidade com o consumidor.
-- Inovação constante no uso de tecnologia e marketing.
-- Inclusão e diversidade no ambiente de trabalho.
+## Serviços Oferecidos
+1. **Estratégia de Marca**
+2. **Design de Experiência**
+3. **Campanhas Criativas**
+4. **Growth & Performance**
+5. **Social & Content**
 
-## 3. Portfolio e Principais Clientes
-A iD\TBWA gerencia campanhas para grandes marcas, como:
-- **Philips Walita**
-  - Campanha: "Transforme sua casa em um lar".
-- **Philips Avent**
-  - Conteúdo: Podcast "Mãe Amiga".
-- **Febraban**
-  - Campanha: "Pare & Pense #PodeSerGolpe".
-- **Claro**
-  - Projeto: Live Store, que envolve o uso de streaming e tecnologias interativas.
-- **Quickbooks**
-  - Campanha: "Histórias de Contador".
+### Núcleos Especialistas
+- **Laboratório de Inovação e Design de Experiência**
+- **Produtora Digital**
 
-### Dados Relevantes sobre Campanhas
-- Parcerias com influenciadores para aumentar o engajamento e a visibilidade das campanhas.
-- Uso de mídias sociais e TV para máxima exposição das mensagens.
-- Foco em novas tendências de e-commerce e experiência do consumidor.
+## Clientes
+A iD\TBWA possui um portfólio diversificado com clientes de grande renome, incluindo:
+- Claro
+- Philips
+- Quickbooks
+- Febraban
+- Audi
+- Microsoft
+- Bluefit
 
-## 4. Análise do Mercado e Tendências
-### Dores e Desafios da Indústria
-- **Desafios Tecnológicos:** Necessidade de adaptação a novas ferramentas e plataformas digitais.
-- **Mudança no Comportamento do Consumidor:** Hábito crescente de consumo online e falta de confiabilidade nas interações digitais.
-- **Criação de Conteúdo Relevante:** A necessidade de gerar conteúdos que realmente conectem com o público-alvo.
+## Principais Projetos e Campanhas
+1. **Claro Livestore** (2020)
+   - Um projeto focado em inovação no e-commerce com transmissão ao vivo para engajar consumidores.
 
-### Oportunidades
-- Aumento do uso de influenciadores como forma de autenticar a marca e gerar confiança.
-- Crescimento do marketing de experiências, onde as marcas oferecem interações significativas e memoráveis.
-- Expansão no mercado de e-commerce, especialmente usando tecnologias interativas.
+2. **Campanha "Pare & Pense #PodeSerGolpe" para a FEBRABAN** (2020)
+   - Uma ação educativa em múltiplos formatos (TV, rádio, digital) com influenciadores para aumentar a consciência sobre fraudes.
 
-## 5. Atuação em Influência e Marketing
-A iD\TBWA se destaca em:
-- **Conteúdo e Social:** Criação de conteúdo que promove interação e construção de comunidades.
-- **Campanhas Criativas:** Estratégias inovadoras que capturam a atenção do público e utilizam entretenimento para educar.
-- **Influenciadores:** Identificação e colaboração com influenciadores que melhor se alinham às necessidades de suas marcas clientes.
+3. **Philips Avent Podcast Mãe Amiga** (2022)
+   - Uma série de podcasts que aborda as experiências de gestantes, promovendo a conexão emocional com a marca.
 
-## 6. Contexto para Prospecção
-A iD\TBWA pode se beneficiar de uma conexão mais sólida entre marcas e influenciadores através de:
-- Soluções personalizadas de marketing de influência.
-- Ferramentas que ajudem a medir e analisar o impacto de campanhas com influenciadores.
-- Estratégias que alinhem as expectativas dos influenciadores às vozes das marcas.
+4. **Campanha "Histórias de Contador" para Quickbooks** (2020)
+   - Série de filmes com o humorista Fábio Porchat, que humaniza a figura do contador em tempos de crise.
 
-### Estratégia de Abordagem
-O e-mail de prospecção deve:
-- Enfatizar a importância de uma abordagem colaborativa e a combinação de criatividade com dados.
-- Destacar exemplos de campanhas bem-sucedidas que envolveram influenciadores para mostrar a eficácia da estratégia proposta.
-- Abençoar oportunidades de personalização e inovação que os produtos/serviços de marketing de influência da nossa empresa podem oferecer.
+## Análise do Mercado
+- **Segmento:** Marketing de Influência
+- **Tendências:** A crescente digitalização e o uso de influenciadores em estratégias de marketing requerem inovações constantes nas abordagens de engajamento e criação de conteúdos.
+- **Concorrência:** iD\TBWA compete com outras agências de marketing integradas e tradicionais, onde a combinação de dados e criatividade se torna crucial.
 
-## 7. Conclusão
-A abordagem deve ser altamente personalizada, ressaltando não apenas os serviços que oferecemos, mas também como podemos agregar valor considerando as necessidades e desafios específicos da iD\TBWA. A comunicação deve ser empática, refletindo a cultura de inclusão e inovação que a agência propõe em suas estratégias.
+## Possíveis Dores da Empresa
+- **Desafios de Visibilidade:** Com o crescente número de marcas no digital, há um desafio constante em se destacar no mercado saturado.
+- **Adaptação a Novas Tecnologias:** Acompanhamento das mudanças rápidas nas preferências dos consumidores e nas plataformas utilizadas.
+- **Gerenciamento de Expectativas de Clientes:** As empresas podem ter dificuldades em acompanhar as demandas por resultados rápidos e tangíveis, especialmente em operações de marketing digital.
+
+## Oportunidades de Colaboração
+- **Implementação de Estratégias de Marketing de Influência:** A associação da iD\TBWA com influenciadores pode ser ampliada para alcançar audiências específicas e engajadas.
+- **Criação de Conteúdo Personalizado e Relevante:** A iD\TBWA pode se beneficiar de uma colaboração que ofereça soluções de marketing personalizadas, potencializando a conexão emocional com os consumidores.
+
+## Conclusão
+A iD\TBWA é uma agência reconhecida por sua inovação e eficácia em marketing. A personalização da comunicação e a ampliação da presença digital são essenciais para a continuidade do seu crescimento. O conhecimento do portfólio de trabalhos e a identificação de dores podem oferecer insights valiosos para uma abordagem de prospecção que comunique promissora conexão e colaboração. 
+
+### Próximos Passos
+- Elaboração de um e-mail personalizado para prospecção, utilizando as informações deste relatório para abordar as necessidades e posicionamento da iD\TBWA no mercado. 
 
 ---
-
-Esse relatório contém informações cruciais que ajudarão o copywriter a criar um e-mail impactante e que conecte diretamente com os valores e necessidades da iD\TBWA no segmento de marketing de influência.
