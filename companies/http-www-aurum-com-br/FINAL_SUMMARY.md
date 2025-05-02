@@ -1,70 +1,53 @@
 # Relatório de Prospecção - Aurum Software
 
 ## Dados Gerais
-
 - **Nome da Empresa:** Aurum Software
 - **Website:** [aurum.com.br](http://www.aurum.com.br)
 - **Segmento:** Software Jurídico / Tecnologia para Advocacia
 - **Produtos principais:** 
-  - Astrea (para advogados autônomos e escritórios de advocacia)
-  - Themis (para departamentos jurídicos e grandes bancas)
+  - **Astrea:** Focado em advogados autônomos e pequenos a médios escritórios de advocacia.
+  - **Themis:** Voltado para departamentos jurídicos e grandes bancas.
 
-## Informações Estrutural
-
+## Informações Estruturais
 ### Produtos e Funcionalidades
+#### 1. Astrea
+- **Gestão de Processos:** Permite automação no acompanhamento de prazos.
+- **Controle Financeiro:** Integra questões financeiras com a gestão de processos.
+- **Relatórios Personalizados:** Gera relatórios fáceis de entender para melhor gestão de resultados.
+- **Documentos Jurídicos:** Ferramenta para criação e gestão de documentos diretamente no sistema.
+- **Acompanhamento de Publicações:** Atualizações automáticas de processos judiciais.
 
-1. **Astrea**
-   - Gestão automatizada de processos e prazos.
-   - Controle financeiro integrado.
-   - Relatórios estratégicos e personalizados.
-   - Criação e gestão de documentos jurídicos.
-   - Indicadores de desempenho para aumentar a produtividade do escritório.
-
-2. **Themis**
-   - Gestão de processos, prazos e contratos.
-   - Provisionamento de custos e análise preditiva.
-   - Integração com outras áreas da empresa.
-   - Gestão de equipes e criação de relatórios detalhados de desempenho.
-   - Controle financeiro avançado e automatizado.
+#### 2. Themis
+- **Gestão de Processos e Prazos:** Centraliza o gerenciamento de processos com prazos claros.
+- **Integração Decorporativa:** Facilita a comunicação entre o departamento jurídico e outras áreas da empresa.
+- **Análise Preditiva:** Usa dados históricos para prever resultados e otimizar alocação de recursos.
+- **Gestão Financeira:** Controle avançado de pagamentos, honorários e liquidando automaticamente despesas e receitas.
 
 ### Público-alvo
-
-- Advogados autônomos.
-- Escritórios de advocacia de todos os tamanhos.
-- Departamentos jurídicos de empresas.
-- Grandes bancas de advocacia.
+- **Astrea:** Advogados autônomos e pequenos a médios escritórios de advocacia.
+- **Themis:** Departamentos jurídicos de empresas de médio e grande porte e grandes bancas de advocacia.
 
 ### Dores e Desafios Enfrentados
-
 - **Para usuários do Astrea:**
-  - Dificuldade de gerenciar um alto volume de processos.
-  - Tempo perdido em atividades manuais e atualizações de processos.
-  - Falta de organização e controle de prazos, levando a riscos na gestão de tarefas.
-
+  - Dificuldade em gerenciar uma grande quantidade de processos simultaneamente.
+  - Falta de automação reduzindo a produtividade e aumentando o tempo de atividade manual.
+  
 - **Para usuários do Themis:**
-  - Complexidade de gerenciamento de processos e informações em departamentos jurídicos.
-  - Necessidade de ser reconhecido como uma área estratégica dentro da empresa.
-  - Dificuldade em monitoramento de prazos e tarefas.
-  - Necessidade de integração com outras áreas da empresa, otimizando processos.
+  - Complexidade no gerenciamento de um grande volume de informações processuais e contratuais.
+  - Necessidade de ser reconhecido como um área estratégica da empresa, enfrentando resistência e falta de colaboração com outros departamentos.
 
 ## Contexto do Setor
-
-- O mercado de tecnologia aplicada ao setor jurídico está em constante evolução, com crescente demanda por soluções que integrem a automatização de tarefas, gestão inteligente de informações e capacitação profissional.
-- Com a crescente digitalização dos serviços jurídicos, a busca por ferramentas que promovam eficiência e segurança na gestão tem se intensificado.
-- Além disso, a implementação da LGPD (Lei Geral de Proteção de Dados) e a exigência de maior transparência nas operações jurídicas são desafios que empresas como a Aurum enfrentam.
+- O ambiente jurídico e a advocacia estão se adaptando à digitalização, com a demanda por software que ofereça automação, segurança de dados e integração crescendo continuamente.
+- As leis, como a LGPD, impõem a necessidade de uma gestão eficiente de informações, que, junto com a automatização, minimiza riscos e melhora a reputação da prática jurídica.
 
 ## Oportunidades de Abordagem
-
-- **Proposta de Valor:** 
-  - A Aurum Software pode enfatizar sua experiência de mais de 25 anos no mercado, a satisfação dos seus mais de 100.000 usuários e a possibilidade de acesso a dados e relatórios intuitivos que promovem eficiência na gestão jurídica.
+- **Proposta de Valor:**
+  - As soluções da Aurum, com mais de 25 anos no setor e uma base de 100.000 usuários satisfeitos, oferecem não apenas software, mas um modelo estruturado de promover eficiência na advocacia.
   
 - **Pontos a serem destacados no Email:**
-  - Demonstração de como a ferramenta pode resolver as principais dores da firma, melhorando a produtividade e a organização.
-  - Oferecer um trial gratuito do software, incentivando o teste das funcionalidades.
-  - Casos de sucesso e depoimentos de clientes reais que destacam os benefícios do uso das soluções Aurum.
+  - Abordar como o Astrea pode melhorar a gestão diária e resolução de problemas enfrentados pelos advogados.
+  - Oferecer uma demonstração ou trial gratuito do software para incentivá-los a experimentar as funcionalidades.
+  - Apresentar casos de sucesso sobre como outros clientes melhoraram sua gestão com os produtos Aurum.
 
 ## Conclusão
-
-A Aurum Software apresenta uma proposta robusta para a gestão jurídica através de soluções como o Astrea e Themis. Oportunidades de engajamento e conversão se concentram na divulgação de seus benefícios práticos e na criação de um relacionamento próximo com potenciais clientes, mostrando como sua tecnologia não só resolve problemas diários, mas também promove a evolução das práticas jurídicas. 
-
-Um email de prospecção que considere essas informações pode ganhar destaque ao abordar as necessidades específicas do cliente e oferecer soluções tangíveis.
+A Aurum Software se destaca como uma empresa inovadora no mercado de software jurídico, oferecendo soluções como Astrea e Themis que respondem a necessidades específicas de seus públicos-alvo. Utilizar essas informações em um e-mail de prospecção permitirá uma abordagem mais personalizada, aumentando as chances de engajamento com os potenciais clientes. A comunicação deve ser focada nas dores e desafios específicos que eles enfrentam e apresentar soluções claras e práticas que a Aurum pode proporcionar.
