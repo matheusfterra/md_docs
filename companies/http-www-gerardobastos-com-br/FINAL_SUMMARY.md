@@ -25,27 +25,23 @@ A empresa oferece uma diversidade de serviços automotivos os quais incluem:
 
 1. **Centro Automotivo:**
    - Serviços para veículos leves e pesados, com ênfase na excelência.
-
 2. **Serviços Oferecidos:**
-   - **Ar-Condicionado**
-   - **Transmissão**
-   - **Balanceamento**
-   - **Borracharia**
-   - **Alinhamento**
-   - **Direção**
-   - **Escapamento**
-   - **Freios**
-   - **Injeção Eletrônica**
-   - **Motor**
-   - **Serviços Elétricos**
-   - **Suspensão**
-
+   - Ar-Condicionado
+   - Transmissão
+   - Balanceamento
+   - Borracharia
+   - Alinhamento
+   - Direção
+   - Escapamento
+   - Freios
+   - Injeção Eletrônica
+   - Motor
+   - Serviços Elétricos
+   - Suspensão
 3. **Distribuidora de Peças:**
    - Fornecimento de peças para manutenção.
-
 4. **GB Truck:**
    - Centro específico para serviços de caminhões, com laboratórios ZF e Bosch.
-
 5. **Renovadora de Pneus:**
    - Processo de recapagem com várias etapas de garantia de qualidade.
 
