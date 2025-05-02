@@ -37,7 +37,7 @@
    - **Benefícios:** Melhora na tomada de decisão gerencial.
 
 ## Público-Alvo
-- Pequenas e médias empresas (PMEs) que buscam uma gestão financeira simplificada e automatizada.
+- **Segmento Principal:** Pequenas e médias empresas (PMEs) que buscam gestão financeira simplificada e automatizada.
 
 ## Necessidades e Dores Potenciais da Empresa
 1. **Burocracia:** PMEs frequentemente enfrentam processos financeiros complicados e lentos.
@@ -46,7 +46,7 @@
 
 ## Contexto e Oportunidades de Marketing de Influência
 - **Influenciadores no Segmento Financeiro:** A Cora pode aumentar sua visibilidade através de parcerias com influenciadores focados em finanças pessoais e empresariais.
-- **Conteúdo Educativo:** Produção de conteúdo em colaboração com influenciadores para educar o público sobre a gestão financeira, uso do PIX e emissão de notas fiscais.
+- **Conteúdo Educativo:** Produção de conteúdo em colaboração com influenciadores para educar o público sobre gestão financeira, uso do PIX e emissão de notas fiscais.
 
 ## Sugestões de Copy para Email
 1. **Assunto:** "Transforme sua Gestão Financeira com Cora"
@@ -59,4 +59,4 @@
 
 ---
 
-Esse relatório visa fornecer à equipe de marketing uma visão abrangente sobre a Cora, possibilitando a construção de uma comunicação personalizada e focada nas necessidades do público-alvo. As informações aqui contidas permitirão um contato mais efetivo e uma abordagem direcionada nas campanhas de marketing.
+Esse relatório visa proporcionar à equipe de marketing uma visão abrangente sobre a Cora, possibilitando uma comunicação personalizada e focada nas necessidades do público-alvo. As informações aqui contidas permitirão um contato mais efetivo e uma abordagem direcionada nas campanhas de marketing.
