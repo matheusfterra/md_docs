@@ -1,84 +1,48 @@
-# Relatório de Prospecção para Hedgepoint Global Markets
+# Relatório de Prospecção - Hedgepoint Global Markets
 
-## 1. Informações Gerais da Empresa
+## Informações Gerais da Empresa
+- **Nome da Empresa**: Hedgepoint Global Markets
+- **Website**: [hedgepointglobal.com](https://hedgepointglobal.com/)
+- **Setor**: Gestão de Riscos (Agronegócio e Energia)
+  
+### Descrição do Negócio
+A Hedgepoint Global Markets é uma provedora de produtos de gestão de riscos, especializada em inteligência de mercado, finanças e produtos de hedge nas cadeias de valor agrícola e de energia. A marca se posiciona como a "ponto do hedge", facilitando para seus clientes o acesso a informações e produtos que são cruciais para a proteção contra a volatilidade dos preços.
 
-### Nome da Empresa
-Hedgepoint Global Markets
+## Produtos e Serviços Oferecidos
+### Segmentar de Mercado
+- **Agronegócio**: Oferece produtos que ajudam os clientes a gerenciar riscos relacionados a variáveis do campo, desde o plantio até a comercialização.
+- **Energia**: Fornece soluções contra a volatilidade dos preços do petróleo e outros recursos energéticos.
+- **Moedas**: Proporciona produtos de hedge para controlar as taxas de câmbio, importantes para empresas no setor.
 
-### Website
-[www.hedgepointglobal.com](http://www.hedgepointglobal.com)
+### Produtos Especializados
+- **Futuros e Opções**: Acesso eficiente às principais bolsas de futuros do mundo.
+- **OTC (Over the Counter)**: Desenvolvimento de produtos personalizados conforme as necessidades dos clientes.
+- **FX e NDF (Non-Deliverable Forward)**: essenciais para gestão de riscos em negociações globais.
 
-### Descrição
-A Hedgepoint é uma provedora de produtos de gerenciamento de risco que se especializa em inteligência de mercado, finanças e produtos de hedge ao longo das cadeias de valor agrícola e energética. 
+## Perfil do Cliente Ideal
+- **Tipo de Cliente**: Empresas no setor agrícola e energético, que lidam com riscos significativos em suas operações.
+- **Tamanho da Empresa**: PME’s até grandes corporações que necessitam de soluções de hedge e inteligência de mercado.
+- **Região**: Presença global, com foco especial na América do Sul e outros mercados emergentes.
 
-### Ano de Fundação
-2021 (spin-off de uma empresa anterior)
+## Dores e Desafios Potenciais
+1. **Volatilidade dos Preços**: As empresas enfrentam grandes flutuações de preços que podem impactar suas margens de lucro.
+2. **Complexidade em Gestão de Risco**: A necessidade de estratégias de hedge eficientes e personalizadas.
+3. **Acesso à Informação e Inteligência de Mercado**: A falta de conhecimento sobre as tendências do mercado pode levar a decisões erradas.
 
-### Localização
-Presença global, com raízes na agricultura sul-americana.
+## Objetivos e Metas
+- **Aumentar a Penetração no Mercado**: Expandir a oferta de produtos e serviços para clientes em novos segmentos.
+- **Melhoria da Experiência do Cliente**: Foco constante em atualizar a identidade visual e a proposta de valor da marca para que ela reflita a expertise da empresa em gestão de riscos.
+- **Desenvolvimento Sustentável**: Implementação de práticas de ESG (Ambientais, Sociais e de Governança) que considerem as melhores práticas em todas as operações.
 
-### Segmentos de Mercado
-- Agricultura
-- Energia
-- Moedas
+## Proposta de Valor
+A Hedgepoint não apenas oferece operações de hedge, mas também compartilha conhecimento e fornece insights críticos para decisões rápidas e informadas, ajudando os clientes a navegar por um ambiente de mercado complexo e em constante mudança.
 
-### Filosofia da Empresa
-A Hedgepoint não apenas realiza operações de hedge, mas também compartilha conhecimento e fornece informações estratégicas. O foco é entender profundamente as necessidades dos clientes para que possam tomar decisões informadas e autônomas em relação à proteção contra volatilidade.
+## Contexto para Prospecção
+A empresa Hedgepoint se destaca como um parceiro estratégico para empresas que enfrentam a volatilidade dos preços e precisam de soluções personalizadas de gestão de riscos. Ao abordar sua proposta, é essencial ressaltar a capacidade de adaptação da empresa em um mundo em transição e como seus serviços podem transformar riscos em oportunidades.
 
----
+## Exemplos de Conexão com o Cliente
+- Compartilhar estudos de caso de clientes existentes que demonstram o impacto positivo das soluções de hedge da Hedgepoint.
+- Discutir iniciativas de sustentabilidade e como isso pode beneficiar a organização do cliente.
 
-## 2. Produtos e Serviços
-
-### Principais ofertas
-- Produtos de hedge para a cadeia de valor de commodities, incluindo acesso a mercados financeiros globais.
-- Suporte especializado em gerenciamento de riscos nas áreas de agricultura e energia.
-- Produtos de hedge personalizados e soluções financeiras.
-
-### Abordagem Tecnológica
-A empresa possui uma plataforma digital que apoia consultas e transações, aumentando a eficiência e a autonomia dos clientes.
-
-### Inteligência de Mercado
-A Hedgepoint oferece análises e insights que permitem que os clientes tomem decisões mais bem informadas em relação ao gerenciamento de riscos.
-
----
-
-## 3. Dores e Necessidades Potenciais da Empresa
-
-### Desafios do Mercado
-- Volatilidade dos preços das commodities.
-- Mudanças nas condições climáticas e regulatórias que afetam a operação.
-- Necessidade de otimização nos processos de gerenciamento de riscos financeiro.
-
-### Dores dos Clientes
-- Incertezas nas cadeias de suprimento devido a flutuações de preço e condições climáticas.
-- A dificuldade em lidar com a complexidade da exposição cambial e de commodities.
-
-### Objetivos
-- Aumentar a estabilidade financeira dos clientes por meio de portfólios bem protegidos.
-- Contribuir para a segurança e sustentabilidade das cadeias de suprimento agrícolas e energéticas com práticas de ESG (Ambiental, Social e Governança).
-
----
-
-## 4. Estratégia de Mercado e Valor Adicionado
-
-### Proposta de Valor
-A Hedgepoint se posiciona como um "ponto de hedge" que oferece não somente produtos, mas também uma ampla gama de serviços de inteligência de mercado e suporte técnico, visando fortalecer a posição de seus clientes nas cadeias de commodities.
-
-### Iniciativas de ESG
-A empresa está comprometida em promover práticas de ESG através de sua governança, e está empoderando suas operações a partir da responsabilidade socioambiental.
-
----
-
-## 5. Observações Finais
-
-### Oportunidades para Prospecção
-A Hedgepoint parece necessitar de suporte adicional em marketing de influência, principalmente para:
-- Promover uma imagem de marca mais forte baseada em práticas de ESG.
-- Aumentar a conscientização em torno dos benefícios de seus produtos através de campanhas de marketing digital e narrativas impactantes.
-
-### Sugestões para Personalização do Email
-- Destacar como o marketing de influência pode trazer à tona a consciência sobre as práticas sustentáveis da Hedgepoint.
-- Apresentar exemplos de como influenciadores podem contribuir para a comunicação dos produtos de hedge e inteligência de mercado, reforçando a proposta de valor da empresa.
-- Abordar a criação de conteúdo que possa ser compartilhado em múltiplas plataformas, ampliando a presença digital da Hedgepoint e engajamento com stakeholders importantes.
-
-Este relatório deve fornecer uma base sólida para o copywriter elaborar um email atraente e direcionado à Hedgepoint Global Markets, focando em sua proposta de valor e raízes sul-americanas, ao mesmo tempo em que atende às suas necessidades e desafios específicos.
+## Resumo
+Ao redigir um e-mail para a Hedgepoint Global Markets, o copywriter deve enfatizar a capacidade da empresa de oferecer produtos de hedge personalizados e a importância de uma parceria baseada em confiança, conhecimento e experiência. A proposta deve ser adaptada para destacar como a Hedgepoint pode ajudar a resolver os desafios específicos que o cliente enfrenta no setor agrícola e energético.
