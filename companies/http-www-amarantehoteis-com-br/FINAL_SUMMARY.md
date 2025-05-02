@@ -1,63 +1,54 @@
 # Relatório de Prospecção: Amarante Hotéis
 
-## Informações Gerais da Empresa
+## Informações Gerais
 - **Nome da Empresa**: Amarante Hotéis
-- **Segmento**: Turismo | Hospitalidade | Resorts All Inclusive
+- **Segmento**: Turismo, Hospitalidade (Resorts All Inclusive)
 - **Localização**: Av. Conselheiro Aguiar, 1748 - 3º Andar - Boa Viagem, Recife - PE, 51111-010
 - **CNPJ**: 21.800.241/0001-95
-- **Website**: [amarantehoteis.com.br](http://www.amarantehoteis.com.br)
+- **Website**: [www.amarantehoteis.com.br](http://www.amarantehoteis.com.br)
+- **Redes Sociais**: (Especificar, se houver, a partir de pesquisa adicional)
 
 ## Descrição da Empresa
-A Amarante Hotéis é uma controladora hoteleira que opera três dos melhores resorts All Inclusive do Brasil, especializados em turismo de lazer na região nordeste do país, especialmente na Costa dos Corais. O foco da empresa é criar experiências únicas e memoráveis para os seus hóspedes em ambientes naturais deslumbrantes, com infraestrutura de alta qualidade.
+A Amarante é especializada em resorts de praia e é reconhecida por oferecer uma experiência de férias completa e de alta qualidade, com três resorts all inclusive localizados na Costa dos Corais: Salinas Maragogi, Salinas Maceió e Japaratinga Lounge Resort. A empresa tem o propósito de marcar a vida das pessoas através da hospitalidade e experiências felizes.
 
-### Resorts Oferecidos
-- **Salinas Maragogi**
-- **Salinas Maceió**
-- **Japaratinga Lounge Resort**
+### Estrutura e Proposta de Valor
+- **Proposta de Valor**: Proporcionar férias inesquecíveis e de alta qualidade, focadas em um conceito all inclusive que garante total tranquilidade ao hóspede.
+- **Diferenciais**: 
+  - Localização em áreas paradisíacas.
+  - Estratégia de marketing e fidelização através do programa "Tô de Volta", que oferece vantagens exclusivas.
+  - Enfoque em sustentabilidade e desenvolvimento responsável no turismo.
 
-## Proposta de Valor
-A Amarante Hotéis se destaca pela qualidade dos serviços oferecidos, diversidade gastronômica, e sucesso comprovado em proporcionar experiências de lazer e descontração em total harmonia com a natureza. O compromisso com a sustentabilidade é uma parte importante da sua missão, onde a empresa atua como um vetor de desenvolvimento sustentável no turismo.
+## Principais Produtos/Serviços
+1. **Hospedagem All Inclusive**: Amarante oferece experiências completas com alimentação e atividades inclusas.
+2. **Programas de Fidelidade**: O programa "Tô de Volta" que oferece benefícios progressivos com base em noites acumuladas.
+3. **Atividades e Passeios**: Oferecem diversos passeios, com destaque para experiências exclusivas para membros do programa de fidelidade.
 
-## Público-Alvo
-O público-alvo da Amarante Hotéis inclui:
-- Famílias em busca de férias relaxantes.
-- Casais que desejam celebrar datas especiais.
-- Grupos que buscam experiências de lazer em resort.
-- Turistas em busca de desconexão com a natureza.
+## Dores e Necessidades
+- **Visibilidade e Concorrência**: O setor de turismo é altamente competitivo. Criar um reconhecimento de marca forte e uma presença digital significativa pode ser um desafio.
+- **Engajamento com o Público**: Aumentar o engajamento digital, especialmente em redes sociais, para atrair influenciadores e novas clientelas.
+- **Dificuldade em Atingir o Público-Alvo**: Identificar e se conectar com influenciadores relevantes que alinhariam suas marcas a um público que busca experiências no turismo.
 
-## Networking e Parcerias
-A Amarante Hotéis tem um canal de fornecedores em seu site, indicando que está aberta a parcerias estratégicas que estejam alinhadas aos seus valores. Isso pode incluir produtos e serviços que melhoram a experiência do hóspede ou complementam as suas ofertas atual.
+## Oportunidades de Marketing de Influência
+- **Influenciadores e Criadores de Conteúdo**: Colaborações com influenciadores que possuem nichos em turismo, viagens, gastronomia e estilo de vida podem aumentar a visibilidade da Amarante.
+- **Campanhas Sazonais e Temáticas**: Realizar campanhas em conjunto com influenciadores, especialmente em alta temporada de turismo, pode resultar em aumento significativo de reservas.
+- **Foco em Sustentabilidade**: Conectar-se com influenciadores focados em turismo sustentável pode ressoar com o público que valoriza práticas ecológicas.
 
-### Links Relevantes para Fornecedores
-- [Formulário de Pré-Cadastro para Fornecedores](http://www.amarantehoteis.com.br/fornecedores/cadastro)
+## Competências e Recursos Internos
+- **Equipe de Marketing**: A Amarante possui uma estrutura que aparentemente mantém um foco em marketing de conteúdo e comunicação digital, mas pode se beneficiar de maior enfoque em estratégias de influenciadores.
+- **Capacidade de Criação de Conteúdo**: A empresa parece ter uma boa capacidade de produção de conteúdo visual (fotos e vídeos dos resorts e experiências).
+  
+## Conclusões e Recomendações
+Para se beneficiar de um programa robusto de marketing de influência, a Amarante Hotéis deve:
 
-## Oportunidades no Marketing de Influência
-1. **Promoção de Experiências**:
-   - Criação de campanhas que destacam a beleza natural dos resorts e as experiências exclusivas que oferecem (ex: gastronomia, atividades aquáticas, programas de bem-estar).
+1. **Desenvolver Relacionamentos com Influenciadores**: Criar parcerias estratégicas com influenciadores que refletem os valores da marca e possuem uma base de fãs engajada.
+2. **Campanhas Personalizadas**: Aproveitar datas específicas e épocas do ano para campanhas atraentes que possam gerar um maior envolvimento.
+3. **Aproveitar Ações de Sustentabilidade**: Comunicação clara sobre suas ações de sustentabilidade pode aumentar a atração de um grupo específico de consumidores e influenciadores.
+4. **Monitorar Resultados**: Medir o impacto das campanhas com influenciadores para entender o que funciona melhor para o público-alvo.
 
-2. **Colaboração com Influenciadores no Segmento de Viagens**:
-   - Identificação de influenciadores voltados para o nicho de turismo e viagens que podem criar conteúdo autêntico através de visitas aos resorts, destacando a infraestrutura, serviços e a experiência do hóspede.
+## Contato Recomendado
+- **E-mail para Propostas**: [to_de_volta@amarantehoteis.com.br](mailto:todevolta@amarantehoteis.com.br)
+- **Telefone Central de Relacionamento**: (82) 3142-0702
 
-3. **Sustentabilidade e Inovação**:
-   - Fortalecer a imagem da marca através de parcerias com influenciadores focados em sustentabilidade e práticas ambientais.
+---
 
-4. **Conteúdo Inspiracional**:
-   - Colaboração com criadores de conteúdo para compartilhar histórias de êxito que destacam a experiência do cliente e engajamento social, especialmente em momentos significativos da vida, como casamentos ou aniversários.
-
-## Possíveis Dores e Contexto
-- **Concorrência**: O segmento de resorts no Brasil é competitivo, com várias opções disponíveis. É fundamental que a Amarante Hotéis promova suas experiências exclusivas para se destacar.
-- **Experiência do Cliente**: Garantir que todos os aspetos da experiência do hóspede sejam consistentes e de alta qualidade, desde a primeira interação até a estadia.
-- **Gestão de Imagem**: Manter uma imagem positiva em canais digitais e responder rapidamente a feedbacks e críticas para evitar repercussões negativas.
-
-## Análise de Presença em Redes Sociais
-- **Instagram**: A Amarante Hotéis possui uma presença ativa onde promove suas ofertas, compartilha belas imagens dos resorts e as experiências dos hóspedes.
-- **LinkedIn**: O acompanhamento das iniciativas de carreira e inovações dentro da empresa pode atrair oportunidades de networking e parcerias corporativas.
-
-## Sugestões para a Estratégia de Email
-1. **Introdução**: Apresentar a empresa e a relevância da prospecção no âmbito do Marketing de Influência.
-2. **Contexto**: Mencionar a relevância do turismo e do setor de hospitalidade em um período pós-pandemia, focando na recuperação do setor.
-3. **Proposta**: Apresentar como a colaboração pode ajudar a Amarante a expandir sua presença e visibilidade de marca através de influenciadores.
-4. **Chamada à Ação**: Sugerir uma reunião para discutir estratégias de Marketing de Influência e como integrá-las nas campanhas da Amarante.
-
-## Conclusão
-A Amarante Hotéis representa uma oportunidade rica para implementar estratégias de Marketing de Influência que não apenas visam promover seus resorts, mas também reforçar sua posição no mercado por meio de parcerias estratégicas. Criar uma narrativa forte que ressoe com o público é essencial para maximizar esse potencial.
+Este relatório pode ser entregue ao copywriter da equipe para que este possa elaborar um e-mail que destaque as oportunidades específicas do marketing de influência para a Amarante Hotéis, usando um tom personalizado e abordando diretamente as suas necessidades e características.
