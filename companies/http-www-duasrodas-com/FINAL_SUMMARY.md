@@ -1,7 +1,6 @@
 # Relatório de Prospecção - Duas Rodas
 
 ## Informações Gerais da Empresa
-
 ### Nome da Empresa:
 Duas Rodas
 
@@ -16,7 +15,6 @@ Indústria de Alimentos (especializada em aromas, ingredientes e soluções para
 - A empresa possui uma equipe de mais de 200 especialistas em sabor.
 
 ## História e Missão
-
 ### História:
 A Duas Rodas é reconhecida pelo seu compromisso com a inovação e a qualidade no desenvolvimento de ingredientes para alimentos e bebidas. Desde sua fundação, a empresa tem se dedicado em proporcionar sabores que atendem às expectativas de seus clientes.
 
@@ -27,7 +25,6 @@ Desenvolver soluções integradas, unindo conhecimento técnico à tecnologia e 
 Ser referência mundial em aromas e ingredientes, sempre buscando a inovação e a cocriação com seus parceiros.
 
 ## Produtos e Serviços
-
 ### Principais Linhas de Produtos:
 1. **Aromas:** Soluções para diversas categorias de alimentos e bebidas.
 2. **Sorvetes:** Ingredientes e soluções para o segmento de sorvetes.
@@ -40,13 +37,11 @@ Ser referência mundial em aromas e ingredientes, sempre buscando a inovação e
 A empresa enfatiza a cocriação com seus clientes para desenvolver soluções personalizadas e inovadoras.
 
 ## Características e Diferenciais
-
 - **Especialização:** Forte conhecimento técnico e expertise na criação de sabores.
 - **Customização:** Oferece serviços e produtos adaptados às necessidades específicas de cada cliente.
 - **Sustentabilidade:** Compromisso com práticas sustentáveis em seus processos produtivos.
 
 ## Contexto de Mercado
-
 ### Desafios do Setor:
 - Necessidade de inovação constante para atender às demandas dos consumidores por produtos naturais e saudáveis.
 - Aumento da concorrência no segmento de aromas e ingredientes.
@@ -58,7 +53,6 @@ A empresa enfatiza a cocriação com seus clientes para desenvolver soluções p
 - Potencial para aumentar parcerias com influenciadores e marcas que se alinhem aos valores da Duas Rodas.
 
 ## Possíveis Dores e Oportunidades
-
 ### Dores:
 - Dificuldade em se destacar em um mercado saturado com muitos concorrentes.
 - Desafios em comunicar o valor agregado de seus produtos para o consumidor final.
@@ -75,7 +69,6 @@ A Duas Rodas é uma empresa consolidada no setor de ingredientes alimentares e p
 ---
 
 ### Ações Recomendadas para o Copywriter
-
 - Construa um e-mail que destaque a expertise da Duas Rodas em aromas e a importância de adaptar as soluções às novas tendências de consumo.
 - Apresente a empresa como uma parceira valiosa que pode ajudar as marcas a se destacarem através de produtos inovadores e sustentáveis.
 - Sugira colaborações específicas com influenciadores que têm afinidade com a missão da Duas Rodas e podem amplificar a comunicação da marca.
