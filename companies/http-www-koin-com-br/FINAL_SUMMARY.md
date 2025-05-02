@@ -1,62 +1,95 @@
-# Relatório de Prospecção: Koin
+# Relatório de Prospecção - Koin - Marketing de Influência
 
-## 1. Informações Gerais da Empresa
-
-**Nome da Empresa:** Koin
-
-**Website:** [www.koin.com.br](http://www.koin.com.br)
-
+## Informações Gerais
+**Nome da empresa:** Koin  
+**Segmento:** Fintech de Pagamentos  
+**Website:** [www.koin.com.br](http://www.koin.com.br)  
+**Tipo de Serviço:** Meio de pagamento com parcelamento via Boleto e Pix   
+**Localização:** Avenida Paulista, 2421 – 13º Andar – Bela Vista, São Paulo, SP, Brasil.  
 **CNPJ:** 17.991.841/0001-00
 
-**Endereço:** Avenida Paulista, 2421 – 13º Andar – Bela Vista – CEP: 01310-300, São Paulo, SP
+---
 
-**Segmento:** Fintech de meios de pagamento, especializada em soluções de parcelamento como Boleto Parcelado e Pix Parcelado, conectando consumidores a uma variedade de lojas parceiras.
+## Sobre a Koin
 
-## 2. Cenário do Mercado
+A Koin é uma plataforma de pagamentos que atua no Brasil com soluções inovadoras para facilitar a realização de compras à vista ou parceladas, permitindo que os usuários escolham como pagar. A empresa tem se posicionado como um meio de pagamento ágil e seguro, especialmente para aqueles que não desejam utilizar cartão de crédito.
 
-### Visão Geral do Setor
-- **Crescimento do E-commerce:** Com o aumento das compras online, soluções de financiamento e parcelamento têm se tornado cada vez mais relevantes.
-- **Democratização do Crédito:** O acesso facilitado ao crédito é uma tendência crescente, impulsionando inovações no sector financeiro, como o BNPL (Buy Now, Pay Later).
+### Missão e Valores
 
-### Dores do Cliente
-- **Acesso ao Crédito:** Muitos consumidores enfrentam dificuldades em obter crédito tradicional, o que limita suas opções de compras.
-- **Falta de Flexibilidade em Pagamentos:** Consumidores querem mais opções para parcelar compras de forma acessível, especialmente em tempos de crise econômica.
-- **Preocupações com Fraudes:** Há um crescente medo de fraudes em transações online, o que torna soluções seguras e eficientes ainda mais importantes.
+- **Missão:** Democratizar o acesso ao crédito e às opções de pagamentos, permitindo compras de forma prática e segura.
+- **Valores:** Simplicidade, inovação, eficiência e responsabilidade.
 
-## 3. Proposta de Valor da Koin
+### Prêmios Recentes
+- **Great Place To Work 2022:** Reconhecimento como uma das melhores empresas para se trabalhar no Brasil.
+- **Virtuous Company 2022:** Ocupou o 2º lugar no ranking das fintechs mais éticas do Brasil.
 
-### O que a Koin oferece:
-- **Boleto Parcelado e Pix Parcelado:** Possibilidade de parcelar compras sem a necessidade de cartão de crédito, facilitando a compra para consumidores que não têm acesso a cartões ou preferem evitar dívidas com os mesmos.
-- **Plataforma de Antifraude:** Sistema que utiliza machine learning para proteger transações, conferindo mais segurança aos consumidores e lojistas.
-- **Experiência do Usuário:** Processo de compra simples e intuitivo via aplicativo, além de um suporte ao cliente ativo.
+---
 
-### Benefícios para os Negócios:
-- Aumento nas vendas em até 20% e no ticket médio em até 35% ao oferecer opções de parcelamento.
-- Acesso a uma plataforma que permite gerenciar vendas de maneira eficiente, aumentando a performance geral da loja.
+## Serviços Oferecidos
 
-## 4. Gatilhos e Oportunidades para Prospecção
+1. **Pix Parcelado:** Permite ao consumidor pagar à vista via Pix e parcelar o valor sem comprometer o limite do cartão de crédito.
+2. **Boleto Parcelado:** Sem necessidade do uso de cartões, o consumidor pode parcelar pagamentos e recebe os boletos mensalmente.
+3. **Antifraude:** Sistema baseado em machine learning para identificar transações fraudulentas e proteger dados de compras.
 
-### Gatilhos de Interesse
-- Empresas que já utilizam soluções de BNPL ou estão buscando modernizar suas operações de pagamento.
-- Lojas que desejam aumentar suas vendas e atrair mais consumidores, especialmente durante períodos promocionais ou datas sazonais.
+### Vantagens e Benefícios
+- Flexibilidade de pagamento (parcelamento em até 12x).
+- Ofertas exclusivas em lojas parceiras.
+- Sistema de segurança robusto com tecnologia de reconhecimento facial e análise avançada de crédito.
 
-### Oportunidade de Colaboração
-- **Parcerias Estratégicas:** A Koin busca ampliar seu portfólio de lojas parceiras, por isso, pode se beneficiar de colaborações com influenciadores e marcas que desejam inovar em suas estratégias de venda.
+---
 
-## 5. Contexto e Insights
+## Público-alvo
 
-### Análise do Cliente-Alvo
-- **Perfil dos Lojistas:** Pequenas e médias empresas em segmentos como moda, eletrônicos, e serviços que buscam maneiras de aumentar suas vendas.
-- **Comportamento do Consumidor:** Consumidores informados e exigentes que buscam segurança, conforto e flexibilidade nas suas transações financeiras.
+- **Consumidores:** Pessoas que buscam meios alternativos de pagamento sem o uso de cartões de crédito.
+- **Lojistas:** Empresas que desejam integrar soluções de pagamento que aumentem suas vendas e ticket médio.
 
-### Como a Proposta da Koin se Alinha com as Necessidades
-- A Koin pode ser apresentada como solução ideal para os negócios que desejam acompanhar as tendências de pagamento e aprimorar a experiência do cliente em suas compras.
+### Características do Consumidor
+- Idade de 18 anos ou mais.
+- Motivados pela segurança e simplicidade no processo de compra.
+- Preferência por parcelamento de compras, especialmente em tempos de crise econômica.
 
-## 6. Considerações Finais
+---
 
-Para chamar a atenção da Koin na sua prospecção, o e-mail deve destacar:
-- **Como seus produtos (serviços de marketing de influência)** podem agregar valor à Koin e aumentar sua visibilidade junto ao público.
-- **Estudos de caso ou exemplos** de sucesso prévios de influencers que geraram aumento de vendas ou notoriedade para marcas parceiras.
-- Sugerir uma **reunião para discutir potenciais sinergias** entre as suas ofertas e os serviços que a Koin oferece.
+## Dores e Oportunidades
 
-Este relatório fornece uma visão clara do que a Koin representa e como suas operações se encaixam no ecossistema atual de soluções de pagamento, permitindo ao time de copywriter redigir um e-mail que ressoe com suas necessidades e valores.
+### Possíveis Dores:
+
+1. **Falta de opções de parcelamento:** Consumidores estão mais conscientes sobre suas finanças, buscando formas de evitar endividamento excessivo.
+2. **Desconfiança em relação a compras online:** Crescente preocupação com segurança em transações digitais.
+3. **Dificuldade com limites de cartões de crédito:** Muitos consumidores enfrentam limitações financeiras e buscam alternativas.
+
+### Oportunidades:
+
+1. **Educação do cliente:** Atividades de marketing e conteúdo educativo sobre a utilização de serviços de pagamento alternativos.
+2. **Parcerias com influenciadores:** Colaborações para promover as soluções Koin através de redes sociais, aumentando visibilidade e reforçando a confiança.
+3. **Aprimoramento da experiência do usuário:** Foco em feedback contínuo e melhorias nos serviços baseadas em sugestões de usuários.
+
+---
+
+## Contexto e Percepções do Mercado
+
+- **Crescimento das Fintechs:** O setor de fintechs está em expansão e a Koin está posicionada para capitalizar sobre essa tendência, oferecendo alternativas de pagamento viáveis.
+- **Adoção Aumentada das Compras Online:** O crescimento das compras online durante e após a pandemia criou uma oportunidade significativa para a Koin se estabelecer como uma opção de pagamento confiável.
+- **Democratização do Crédito:** O foco em criar acessibilidade a soluções financeiras é uma necessidade crescente no mercado, especialmente entre consumidores sub-bancarizados.
+
+---
+
+## Estratégia de Contato
+
+**Abordagem inicial sugerida para o e-mail:**
+- Introdução personalizada mencionando o contexto atual do mercado de pagamentos e a proposta de valor da Koin.
+- Destacar a capacidade da Koin em atender necessidades específicas dos consumidores, focando em sua flexibilidade e segurança.
+- Convidar para um agendamento de uma conversa ou uma demonstração do produto, caso o interessado tenha mostrado abertura.
+
+---
+
+## Conclusão
+
+A Koin possui um produto que se insere perfeitamente nas novas demandas do consumidor moderno, que busca não só conveniência mas também segurança e alternativas de pagamento. Com uma abordagem alinhada às suas necessidades e vantajosa em termos de marketing e influência, é possível posicionar a Koin como uma solução líder no mercado de pagamentos.
+
+---
+
+### Ações sugeridas:
+1. Enviar o e-mail com a proposta conforme os detalhes coletados.
+2. Iniciar follow-up e monitorar engajamento.
+3. Analisar feedback e ajustar o discurso conforme necessário.
