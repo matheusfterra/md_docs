@@ -1,4 +1,4 @@
-# Relatório de Prospecção - Cora Sociedade de Crédito, Financiamento e Investimento S.A.
+# Relatório de Prospecção - Cora Sociedade de Crédito, Financiamento e Investimento S.A. 
 
 ## Informações Gerais
 - **Nome da Empresa:** Cora Sociedade de Crédito, Financiamento e Investimento S.A.
@@ -19,19 +19,19 @@
      - Cartão PJ internacional sem anuidade.
      - Gestão de cobranças integrada.
    - **Benefícios:** Redução da burocracia, economia em taxas financeiras, acompanhamento em tempo real.
-   
+
 2. **Gestão de Cobranças**
    - **Descrição:** Plataforma para emissão e controle de cobranças, que permite:
      - Criação de boletos, links de pagamento e cobranças via PIX.
      - Notificações automatizadas de cobrança.
    - **Benefícios:** Controle de inadimplência e maior eficiência na gestão financeira.
-   
+
 3. **Cartão PJ**
    - **Descrição:** Cartão internacional de crédito e débito, caracterizado por:
      - Sem anuidade.
      - Permissão para múltiplos cartões virtuais para sócios.
      - Monitoramento de gastos em tempo real.
-     
+
 4. **PIX**
    - **Descrição:** Sistema de pagamento instantâneo com:
      - Transferências em segundos, 24/7, sem taxas de operação.
@@ -40,7 +40,7 @@
    - **Descrição:** Emissão de Notas Fiscais Eletrônicas com:
      - Integração ao sistema de cobrança.
    - **Benefícios:** Minimiza erros e acelera os processos administrativos.
-   
+
 6. **Análise de Fluxo de Caixa**
    - **Descrição:** Ferramenta de monitoramento financeiro em tempo real, que permite a visualização das entradas, saídas e lançamentos futuros.
 
