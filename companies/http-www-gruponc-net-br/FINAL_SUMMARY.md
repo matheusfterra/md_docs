@@ -24,7 +24,7 @@ O Grupo NC é um conglomerado brasileiro de destaque, atuando principalmente no 
 
 ### Prêmios e Reconhecimentos
 - **Prêmio Líderes do Brasil** na categoria Indústria Farmacêutica desde 2011.
-- **Valor 1000**: Reconhecimento pela performance financeira e responsabilidade corporativa.
+- **Valor 1000:** Reconhecimento pela performance financeira e responsabilidade corporativa.
 
 ## Características da Empresa
 ### Produtos e Serviços
