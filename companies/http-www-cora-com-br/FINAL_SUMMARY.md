@@ -25,13 +25,13 @@
      - Criação de boletos, links de pagamento e cobranças via PIX.
      - Notificações automatizadas de cobrança.
    - **Benefícios:** Controle de inadimplência e maior eficiência na gestão financeira.
-
+   
 3. **Cartão PJ**
    - **Descrição:** Cartão internacional de crédito e débito, caracterizado por:
      - Sem anuidade.
      - Permissão para múltiplos cartões virtuais para sócios.
      - Monitoramento de gastos em tempo real.
-
+     
 4. **PIX**
    - **Descrição:** Sistema de pagamento instantâneo com:
      - Transferências em segundos, 24/7, sem taxas de operação.
@@ -40,7 +40,7 @@
    - **Descrição:** Emissão de Notas Fiscais Eletrônicas com:
      - Integração ao sistema de cobrança.
    - **Benefícios:** Minimiza erros e acelera os processos administrativos.
-
+   
 6. **Análise de Fluxo de Caixa**
    - **Descrição:** Ferramenta de monitoramento financeiro em tempo real, que permite a visualização das entradas, saídas e lançamentos futuros.
 
@@ -48,13 +48,13 @@
 - Pequenas e médias empresas (PMEs) que necessitam de gestão financeira automatizada e simplificada.
 
 ## Necessidades e Dores Potenciais da Empresa
-1. **Burocracia:** Processo financeiro muito complicado e lento.
+1. **Burocracia:** Processo financeiro complicado e lento.
 2. **Taxas Elevadas:** Frustração com tarifas excessivas dos bancos tradicionais.
 3. **Gestão de Fluxo de Caixa:** Necessidade de controle financeiro claro e eficiente.
 
 ## Contexto e Oportunidades de Marketing de Influência
 - **Influenciadores no Segmento Financeiro:** Usar influenciadores focados em finanças pessoais e empresariais para aumentar a visibilidade da Cora.
-- **Conteúdo Educativo:** Produção de conteúdo em parceria com influenciadores para educar o público sobre gestão financeira simplificada, o uso do PIX e a emissão de notas fiscais.
+- **Conteúdo Educativo:** Produção de conteúdo em parceria com influenciadores para educar o público sobre gestão financeira simplificada, uso do PIX e emissão de notas fiscais.
 
 ## Sugestões de Copy para Email
 1. **Assunto:** "Transforme sua Gestão Financeira com Cora"
@@ -67,4 +67,4 @@
 
 ---
 
-Este relatório oferece uma visão abrangente da Cora e seus serviços, permitindo que a equipe de marketing e o copywriter desenvolvam uma comunicação direta e alinhada com as necessidades do público-alvo.
+Este relatório fornece uma visão abrangente da Cora e dos seus produtos e serviços, permitindo que a equipe de marketing e o copywriter desenvolvam uma comunicação direta e alinhada com as necessidades do público-alvo.
