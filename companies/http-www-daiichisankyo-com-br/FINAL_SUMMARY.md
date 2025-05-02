@@ -1,60 +1,51 @@
 # Relatório de Prospecção - Daiichi Sankyo Brasil
 
-## 1. Informações Gerais
-### Empresa:
-**Nome:** Daiichi Sankyo Brasil Farmacêutica LTDA  
-**Setor:** Indústria farmacêutica  
-**Fundada no Brasil:** 15 de setembro de 2006 (fusão de duas empresas japonesas)  
-**Sede:** São Paulo, Brasil  
+## Informações Gerais da Empresa
+- **Nome da Empresa:** Daiichi Sankyo Brasil Farmacêutica LTDA
+- **Website:** [Daiichi Sankyo Brasil](https://www.daiichisankyo.com.br/)
+- **Setor:** Farmacêutico
+- **Localização:** São Paulo, Brasil
+- **Ano de Fundação no Brasil:** 2006
+- **Público-Alvo:** Profissionais da saúde, clínicas e hospitais, pacientes.
 
-### Descrição da Empresa:
-Daiichi Sankyo é uma empresa farmacêutica global comprometida com a inovação e pesquisa no desenvolvimento de medicamentos. Com mais de 17.000 colaboradores no mundo e mais de 100 anos de expertise científica, a empresa atua nas áreas de Cardiologia, Oncologia e outras especialidades médicas. O portfólio de produtos inclui opções para psiquiatria, gastroenterologia, ortopedia, inflamação e dor.
+## História e Evolução
+- **Início das Atividades:** A Daiichi Sankyo começou suas operações no Brasil em 1962, como Luitpold Produtos Farmacêuticos. Em 2006, com a fusão de duas grandes farmacêuticas japonesas, passou a atuar sob o nome Daiichi Sankyo.
+- **Marco Importante:** Lançamento de produtos como TAVANIC® e LEVAQUIN®, e sua recentíssima entrada no mercado oncológico com o lançamento de Enhertu® (trastuzumabe deruxtecana).
 
-## 2. Missão, Visão e Valores
-### Missão:
-Criar produtos farmacêuticos inovadores que atendam a diversas necessidades médicas e contribuir para o enriquecimento da qualidade de vida em todo o mundo.
+## Missão, Visão e Valores
+- **Missão:** Criar produtos farmacêuticos inovadores que atendam a diversas necessidades médicas.
+- **Visão 2030:** Ser uma empresa global de saúde inovadora contribuindo para o desenvolvimento sustentável da sociedade.
+- **Valores:**
+  - Inovação
+  - Integridade
+  - Responsabilidade
+  - Inclusão e diversidade
+  - Colaboração e confiança
+  - Desenvolvimento contínuo
 
-### Visão:
-Ser uma empresa de saúde global inovadora que contribui para o desenvolvimento sustentável da sociedade.
+## Produtos e Serviços
+- Foco em áreas como **Cardiologia, Oncologia, Gastroenterologia e Psiquiatria**.
+- **Destaques de Produtos:** 
+  - Olmesartana medoxomila (Benicar®)
+  - Medicamentos para hipertensão
+  - Produtos oncológicos como Enhertu®.
 
-### Valores:
-- **Inovação**
-- **Integridade**
-- **Responsabilidade**
-- **Inclusão e Diversidade**
-- **Colaboração**
+## Ações de Responsabilidade Social
+- O programa social foca em inclusão e diversidade, promovendo ações como:
+  - O programa de estágio direcionado a jovens em situação de vulnerabilidade.
+  - Iniciativas de rastreamento de câncer de mama, especialmente em áreas menos acessíveis como a Amazônia.
 
-## 3. Contexto do Mercado
-### Problemas/Desafios:
-- **Necessidade de Diferenciação:** A indústria farmacêutica enfrenta um ambiente altamente competitivo, exigindo inovação contínua.
-- **Atenção às Demandas do Paciente:** A crescente demanda por soluções personalizadas e inovadoras para doenças complexas, como o câncer e doenças cardiovasculares.
-- **Sustentabilidade e Responsabilidade Social:** Pressão para práticas empresariais sustentáveis e responsabilidade social, alinhando-se às expectativas dos consumidores e regulamentações governamentais.
+## Principais Dores e Desafios
+- **Desafios no Mercado:** A concretização de um pipeline robusto de inovação frente à  competição acirrada no setor farmacêutico.
+- **Regulação e Compliance:** Manter altos padrões de compliance e adaptação às normas regulatórias do setor, que são rigorosas e frequentemente mudam.
+- **Acesso ao Mercado:** Transformar inovações em produtos acessíveis para o público, especialmente em regiões carentes.
 
-## 4. Propostas de Co-criação e Parcerias em Marketing de Influência
-### Atividades de Marketing de Influência:
-- **Campanhas Educativas:** Colaboração com influenciadores para promover a conscientização sobre doenças e tratamentos (ex: campanhas de saúde cardiovascular, prevenção de câncer).
-- **Histórias de Pacientes:** Utilização de histórias reais de impacto na vida das pessoas como parte de iniciativas de responsabilidade social e campanhas motivacionais.
-- **Apoio à Pesquisa e Desenvolvimento:** Parcerias com influenciadores do setor de saúde e ciência para divulgação de novos produtos e inovações.
-  
-### Oportunidades:
-- **Implementação de Conteúdo Atraente:** Criar narrativas engajadoras que conectem os novos medicamentos com histórias emocionais e reais de pacientes que se beneficiaram deles.
-- **Aumentar a Visibilidade da Marca:** Por meio de influenciadores alinhados com os valores de inclusão e diversidade da Daiichi Sankyo, ampliando o alcance e a aceitação da marca.
+## Oportunidades de Colaboração no Marketing de Influência
+- **Influenciadores da Saúde:** Conectar com médicos, farmacêuticos e influenciadores da saúde que compartilhem conteúdos sobre produtos e inovações da Daiichi Sankyo.
+- **Educação e Consciência:** Campanhas voltadas a conscientização sobre doenças, especialmente cardiovasculares e oncológicas, utilizando influenciadores da área de saúde e bem-estar.
+- **Diversidade e Inclusão:** Colaborar com influenciadores que promovem diversidade e inclusão, alinhando-se às metas da empresa neste campo.
 
-## 5. Exemplos de Casos de Sucesso e Iniciativas
-### Iniciativa de Rastreamento de Câncer de Mama:
-A Carreta da Mamografia, projeto que atendeu aproximadamente 4 mil mulheres na região amazônica, demonstrando o comprometimento da empresa com a saúde pública.
+## Conclusão
+A Daiichi Sankyo Brasil é uma empresa sólida e inovadora com compromisso visível em atender as necessidades médicas e com forte engajamento em ações de responsabilidade social. Essa perspectiva de crescimento e responsabilidade social, alinhada às suas iniciativas de inclusão, oferece amplas oportunidades para campanhas de marketing de influência que podem reforçar ainda mais sua imagem no mercado. 
 
-### Programa de Inclusão e Diversidade:
-Objetivo de ter 50% de mulheres em posições de liderança e 35% de colaboradores de grupos minorizados até o final do exercício fiscal de 2025.
-
-## 6. Considerações Finais
-A Daiichi Sankyo Brasil destaca-se não apenas pela sua contribuição ao desenvolvimento de medicamentos, mas também pelo seu compromisso com a responsabilidade social e inclusão. Esses pontos devem ser considerados ao criar campanhas de marketing de influência, buscando uma conexão genuína entre os influenciadores e a missão da empresa.
-
-## 7. Contato para Seguimento
-**Gerente de Recrutamento e Seleção, Responsabilidade Social e Assuntos Institucionais**: Simone Teixeira  
-**Gerente da Garantia de Qualidade**: Emile Mariano  
-**Website:** [Daiichi Sankyo Brasil](http://www.daiichisankyo.com.br)  
-
----
-
-Este relatório é uma ferramenta que ajudará a elaborar propostas mais alinhadas às necessidades e valores da Daiichi Sankyo, garantindo a criação de campanhas de marketing de influência que sejam impactantes e eficazes.
+Essa informação é essencial para que o copywriter da equipe desenvolva um email altamente relevante, que aborde as possíveis dores e o contexto atual da empresa, utilizando uma abordagem personalizada que agregue valor à proposta de colaborações futuras.
