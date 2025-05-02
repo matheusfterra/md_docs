@@ -15,7 +15,6 @@
 2. **Linha Pesada**
 3. **Linha Agrícola**
 4. **Linha Motocicleta**
-
 ### Tipos de Filtros:
 - **Filtros de Óleo**
 - **Filtros de Ar**
@@ -24,7 +23,6 @@
 - **Filtros Ecológicos**
 - **Filtros Separadores**
 - **Filtros Desumidificadores**
-
 ### Lançamentos Recentes:
 - **ARL6086** – Filtro de Ar (Volkswagen Polo, 1.6, 2015-2021)
 - **ARL9121** – Filtro de Ar (Chery Tiggo 5X turbo flex, 2018-)
@@ -39,19 +37,19 @@
 - **Consumidores Finais:** Motoristas e proprietários de veículos que buscam qualidade em manutenção automotiva.
 
 ## Possíveis Dores e Desafios
-- **Concorrência Aumentada:** Mercado automotivo em crescimento atrai novos concorrentes.
-- **Necessidade de Inovação:** Pressão para lançar produtos com tecnologia superior e inovação em função das novas normas e demandas do mercado.
-- **Sustentabilidade:** Crescente demanda por produtos ecologicamente corretos e que respeitem as normas ambientais.
-- **Reconhecimento da Marca:** Aumentar a visibilidade da marca frente a um público que já utiliza filtros de outras marcas.
+- **Concorrência Aumentada:** O mercado automotivo em crescimento atrai novos concorrentes.
+- **Necessidade de Inovação:** Pressão para lançar produtos com tecnologia superior em função das novas normas e demandas do mercado.
+- **Sustentabilidade:** Crescente demanda por produtos ecologicamente corretos que respeitem as normas ambientais.
+- **Reconhecimento da Marca:** Necessidade de aumentar a visibilidade da marca em um mercado saturado.
 
 ## Contexto e Oportunidades
-- **Crescimento do Mercado Automotivo:** Com a expansão do setor automotivo no Brasil, há uma maior demanda por peças de reposição e manutenção, abrindo uma porta para aTecfil.
-- **Educação do Consumidor:** Materiais e treinamentos oferecidos pela empresa ajudando usuários finais e mecânicos na correcta escolha e troca de filtros.
+- **Crescimento do Mercado Automotivo:** Com a expansão do setor, há uma maior demanda por peças de reposição e manutenção, abrindo portas para a Tecfil.
+- **Educação do Consumidor:** A empresa pode popularizar o uso de filtros de qualidade por meio de materiais educativos e treinamentos para usuários finais e mecânicos.
 - **Eventos e Feiras:** Participação em eventos do setor, como a Automec, para aumentar o reconhecimento da marca e networking com influenciadores do setor automotivo.
 
 ## Estratégia de Engajamento
-- **Campanhas de Marketing de Influência:** Identificar influenciadores no segmento automotivo e de mecânica que possam promover a marca e educar o consumidor sobre a importância da troca de filtros e a qualidade dos produtos Tecfil.
-- **Conteúdo Educacional:** Criar conteúdo que explique os benefícios de usar filtros de qualidade e realizar a manutenção regular do veículo, com testemunhos de influenciadores e especialistas na área.
+- **Campanhas de Marketing de Influência:** Identificar influenciadores relevantes no segmento automotivo e de mecânica que possam promover a marca e educar o consumidor sobre a importância da troca de filtros e a qualidade dos produtos Tecfil.
+- **Conteúdo Educacional:** Criar materiais que expliquem os benefícios de utilizar filtros de qualidade, acompanhados de testemunhos de influenciadores e especialistas na área.
 
 ## Conclusão
 Com base no perfil da Tecfil e no cenário de mercado, é fundamental abordar essa empresa com uma proposta clara que explique como nosso serviço de marketing de influência pode ajudá-los a atingir seus objetivos, melhorar sua presença no mercado e educar os consumidores sobre a importância de seus produtos. A personalização do contato será crucial para chamar a atenção da Tecfil.
