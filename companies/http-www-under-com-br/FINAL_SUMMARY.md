@@ -1,5 +1,11 @@
-# Relatório de Prospecção: Under
-
+```plaintext
+├── FINAL_SUMMARY.md
+└── http-www-under-com-br.md
+```
+                    ---
+                    ## 📄 `FINAL_SUMMARY.md`
+                    ```md
+                    # Relatório de Prospecção: Under
 ## Informações Gerais da Empresa
 - **Nome da Empresa**: Under
 - **Website**: [under.com.br](http://www.under.com.br)
@@ -13,7 +19,7 @@
 A Under atua como um elo entre marcas e influenciadores, facilitando o processo de identificação e seleção de influenciadores que mais se alinham com as necessidades e objetivos de marketing das marcas. O foco é maximizar o engajamento e a visibilidade das marcas por meio de campanhas autênticas e impactantes.
 
 ## Características da Empresa
-- **Modelo de Negócio**: Monetização através de comissões sobre contratos fechados entre influenciadores e marcas e pacotes de serviços de consultoria.
+- **Modelo de Negócio**: Monetização através de comissões sobre contratos fechados entre influenciadores e marcas, além de oferecer pacotes de serviços de consultoria.
 - **Serviços Oferecidos**:
   - Conexão entre marcas e influenciadores.
   - Gestão completa de campanhas de marketing de influência, incluindo execução e monitoramento.
@@ -21,7 +27,7 @@ A Under atua como um elo entre marcas e influenciadores, facilitando o processo 
   - Consultoria de estratégias de marketing de influência para maximizar resultados.
 
 ## Público-Alvo
-- **Segmentos de Mercado**: Marcas de diversos setores buscando aumentar sua notoriedade através do uso de influenciadores.
+- **Segmentos de Mercado**: Marcas de diversos setores em busca de aumentar sua notoriedade através do uso de influenciadores.
 - **Indústrias**: Moda, beleza, tecnologia, fitness, alimentação e bebidas, saúde e bem-estar.
 - **Tamanho das Empresas**: Variável, atuando principalmente com PMEs a grandes corporações que desejam investir em marketing de influência.
 
@@ -51,13 +57,12 @@ Abaixo estão algumas ideias e pontos que podem ser abordados no e-mail que ser�
 - **Fornecer insights valiosos sobre as mais recentes tendências e melhores práticas no setor de marketing de influência.**
 
 Esse relatório visa fornecer uma compreensão aprofundada das necessidades e contextos da empresa Under, permitindo criar uma abordagem personalizada que ressoe com seus objetivos de marketing de influência. 
+                    ```
 
----
-
-## Arquivo de Acesso ao Website
-### 📄 `http-www-under-com-br.md`
-```md
-# http://www.under.com.br
+                    ---
+                    ## 📄 `http-www-under-com-br.md`
+                    ```md
+                    # http://www.under.com.br
 # under.com.br
 Verifying you are human. This may take a few seconds.
 under.com.br needs to review the security of your connection before proceeding.
@@ -65,8 +70,6 @@ Verification successful
 Waiting for under.com.br to respond...
 Ray ID: `93982e8f5d040c82`
 Performance & security by 
-```
+                    ``` 
 
----
-
-Esse documento é uma base sólida para o copywriter elaborar um e-mail direcionado e persuasivo, ajudando a Under a alcançar seus objetivos de marketing de influência de forma mais eficaz.
+Esse documento pode ser utilizado para que o copywriter elabore um e-mail focado e impactante, alinhado com as necessidades específicas da Under e a realidade do mercado de marketing de influência.
