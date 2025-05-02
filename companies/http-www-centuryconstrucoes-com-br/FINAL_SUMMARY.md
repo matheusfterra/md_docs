@@ -1,75 +1,89 @@
-# Relatório de Prospecção da Century Projetos e Construções
+# Relatório de Prospecção - Century Projetos e Construções
 
-## Visão Geral da Empresa
+## Informações Gerais
 
-- **Nome da Empresa:** Century Projetos e Construções
-- **Website:** [centuryconstrucoes.com.br](https://centuryconstrucoes.com.br)
-- **Localização:** São Paulo, Brasil
-- **Tempo de Mercado:** 26 anos
-- **CNPJ:** 03.299.563/0001-10
+- **Nome da Empresa**: Century Projetos e Construções
+- **Site**: [centuryconstrucoes.com.br](https://centuryconstrucoes.com.br)
+- **Localização**: São Paulo, Brasil
+- **Segmento**: Construção Civil
+- **Ano de Fundação**: Mais de 26 anos no mercado
+- **Sócios**:
+  - Luiz Henrique Cabral Ricciarelli
+  - Lourenço Maluly Cardoso
+  - Rafael Vercelli
 
-## Descrição da Empresa
+## Missão, Visão e Valores
 
-A Century Projetos e Construções é uma empresa consolidada na área de construção civil, reconhecida pela sua solidez e credibilidade no mercado, oferecendo serviços em obras comerciais, industriais e de infraestrutura. A empresa é formada por uma equipe qualificada e se destaca na proposta de soluções inovadoras e ousadas que elevam o padrão de engenharia. A relação com o cliente é um dos principais focos, priorizando a ética, transparência e eficiência nas operações.
-
-### Nichos de Atuação
-
-- **Construção comercial**: Desenvolvimento de projetos para estabelecimentos comerciais.
-- **Construção industrial**: Trabalhos focados em edificações para indústrias.
-- **Gerenciamento de obras**: Coordenação e supervisão na execução de projetos.
-- **Infraestrutura**: Construção e manutenção de obras de infraestrutura.
-- **Equipe de manutenção**: Serviços de manutenção em edificações.
-
-### Missão, Visão e Valores
-
-- **Missão:** Construir crescimento e superar as expectativas dos clientes diariamente.
-- **Visão:** Ser uma construtora que excede as necessidades dos clientes através da inovação, prazos competitivos, qualidade elevada e excelente atendimento nos próximos três anos.
-- **Valores:**
+- **Missão**: Construir crescimento e superar expectativas todos os dias.
+- **Visão**: Ser uma construtora que excede as necessidades dos clientes com inovação, prazos competitivos e qualidade excepcional nos próximos 3 anos.
+- **Valores**:
   - Humanização
   - Transparência
   - Proximidade
-  - Gana por crescer
+  - Gana por Crescer
 
-### Diferenciais Competitivos
+## Diferenciais Competitivos
 
-- Aplicação de novas tecnologias na execução de projetos.
-- Relação humanizada e transparente com os clientes.
-- Compromisso em superar prazos e expectativas de qualidade.
+1. **Inovação**: Uso de novas tecnologias.
+2. **Relação Humanizada**: Manutenção de uma comunicação transparente e próxima ao cliente.
+3. **Superação de Expectativas**: Qualidade e prazos que superam as demandas dos clientes.
 
-## Análise do Mercado
+## Serviços Oferecidos
 
-### Contexto Atual
+- **Construtora**: Obras comerciais, industriais e de infraestrutura.
+- **Gerenciamento de Obras**: Acompanhamento integral de projetos.
+- **Desenvolvimento de Projetos**: Elaboração de projetos mediante as exigências dos clientes.
 
-O setor da construção civil no Brasil tem enfrentado um cenário de desafios e novas demandas, especialmente no que diz respeito à sustentabilidade e à adoção de tecnologias inovadoras, como a inteligência artificial. Há uma crescente necessidade de otimização dos processos e entrega de projetos com prazos mais competitivos e maior qualidade.
+## Informações sobre o Website
 
-### Dores Possíveis da Century
+- **Blog**: [centuryconstrucoes.com.br/blog](https://centuryconstrucoes.com.br/blog)
+- **Categorias de Conteúdo**:
+  - Corporativo
+  - Gerenciamento de Obras
+  - Industrial
+  - Infraestrutura
+  - Projetos
 
-1. **Concorrência Intensa:** O mercado de construção conta com diversas empresas que disputam a mesma fatia de mercado. Desta forma, manter-se atualizado e inovador é um desafio constante.
-  
-2. **Gestão de Projetos:** A complexidade e a demanda de projetos em prazos mais curtos podem dificultar a entrega de qualidade e podem levar a erros e retrabalho.
+### Exemplo de Artigos
 
-3. **Sustentabilidade:** Adaptação às novas exigências ambientais e regulamentações em relação a práticas de construção sustentáveis.
+1. **Inteligência Artificial na Engenharia Civil** 
+   - Discussão sobre como AI pode otimizar projetos.
+2. **Tendências de Decoração 2023**
+   - Diretrizes e investimentos em decoração.
+3. **Quando Reformar Seu Apartamento ou Casa**
+   - Sinais que indicam a necessidade de reforma.
 
-4. **Atração de Talentos:** Dificuldade em encontrar e reter profissionais qualificados que possam cumprir as expectativas de inovação e excelência da empresa.
+## Contexto de Mercado
 
-## Objetivo da Prospecção
+- **Desafios da Construção Civil**:
+   - Aumento na demanda por inovações tecnológicas.
+   - Necessidade de alinhamento com tendências sustentáveis.
+   - Concorrência crescente na indústria.
 
-### Razão para Contato
+- **Posicionamento da Century**:
+   - O foco na humanização e atendimento ao cliente é um diferencial importante em um mercado onde a transparência e o relacionamento são cada vez mais exigidos.
 
-A Century Projetos e Construções pode se beneficiar da nossa expertise em Marketing de Influência para:
+## Possíveis Dores da Empresa
 
-1. **Aumentar sua Visibilidade:** Conectar-se com influenciadores do setor de construção e arquitetura para aumentar a percepção de marca e expandir seu alcance.
-   
-2. **Educação do Mercado:** Criar conteúdos relevantes e engajadores que demonstrem a expertise e resultados obtidos em projetos, educando o mercado sobre suas soluções inovadoras.
+1. **Acompanhamento de Obras**:
+   - Desafios para manter prazos e orçamentos em projetos variados.
 
-3. **Gerar Leads Qualificados:** Atração de novos clientes através de campanhas de marketing segmentadas com influenciadores que se alinhem aos valores e à missão da empresa.
+2. **Visibilidade de Marca**:
+   - Necessidade de aumentar a presença online e o reconhecimento da marca.
 
-4. **Construir Reputação:** Fortalecer a imagem e credibilidade da marca através de depoimentos de influenciadores e cases de sucesso.
+3. **Educação do Cliente**:
+   - Necessidade de condições didáticas para orientar os clientes sobre processos e serviços oferecidos.
 
-## Conclusão
+## Sugestões de Contato
 
-Com mais de 26 anos de mercado, a Century é uma potência no setor da construção civil que pode se beneficiar enormemente de uma estratégia de Marketing de Influência adaptada a suas necessidades e desafios específicos. O foco deve ser em conectar a empresa a influenciadores no segmento de construção e arquitetura, destacando seus diferenciais e experiências de sucesso para maximizar sua visibilidade e engajamento no mercado.
+- **Métodos de Contato**:
+   - Formulário de contato direto: [Contato](https://centuryconstrucoes.com.br/contato/)
+   - Proposta de Parceria: [Seja nosso Parceiro](https://centuryconstrucoes.com.br/contato/seja-nosso-parceiro/)
+
+## Análise de Oportunidade de Parceria
+
+A Century Projetos e Construções pode se beneficiar de um trabalho conjunto com influenciadores de nicho que tratem de temas como construção, arquitetura, e design de interiores. A promoção de suas obras, serviços e expertise através de campanhas de marketing de influência pode aumentar a visibilidade da marca e ajudar a superar os desafios de comunicação e educação do cliente.
 
 ---
 
-Este relatório fornece uma base sólida para a elaboração de um email personalizado e profundo por parte do copywriter da equipe. A integração dos elementos apresentados aqui deve facilitar a conexão com as necessidades e dores da Century Projetos e Construções, buscando um estabelecimento de parceria que agregue valor ao seu negócio.
+Esse relatório reúne as informações fundamentais que servirão de base para um email personalizado ao prospect. A abordagem deve focar na humanização, inovação e como a Century pode maximizar o impacto de suas iniciativas através de colaborações estratégicas com influenciadores.
