@@ -1,63 +1,69 @@
-# Relatório de Prospecção - Ascenty
+# Relatório de Prospecção: Ascenty
 
-## Informações Gerais da Empresa
-- **Nome da Empresa**: Ascenty
-- **Segmento de Atuação**: Data Centers e Conectividade
-- **Localização**: Brasil, Colômbia, Chile e México
-- **Site**: [ascenty.com](https://ascenty.com)
-- **Contato**: 
-  - Telefone: +55 (11) 3508-8910
-  - E-mail: contato@ascenty.com
-  - CNPJ: 13.743.550/0001-42
+## Informações da Empresa
 
-## Visão Geral do Serviço
-A Ascenty é uma empresa líder em infraestrutura de Data Centers na América Latina e oferece soluções de Colocation, Disaster Recovery, e conectividade através de uma rede própria de fibra óptica de mais de 5.000 km. A empresa se destaca pela flexibilidade e segurança de seus serviços, que são ideais para empresas que precisam expandir sua capacidade de armazenamento e processar dados de forma segura.
+- **Nome da Empresa:** Ascenty Data Centers e Telecomunicações S.A.
+- **Website:** [ascenty.com](https://ascenty.com)
+- **Segmento:** Data Centers e Conectividade
+- **Setor de Atuação:** Infrastrutura de TI, Colocation, conectividade de alta performance e soluções de recuperação de desastres.
+- **Localização:** Brasil (São Paulo, Rio de Janeiro, Ceará), Colômbia (Bogotá), Chile (Santiago), México (Querétaro).
 
-### Principais Soluções Ofertadas
-1. **Data Centers Dedicados**: Ambientes totalmente personalizados com segurança máxima e controle de acesso exclusivo.
-2. **Cages**: Espelhos de segurança em áreas definidas dentro dos Data Centers.
-3. **Racks em Fileiras**: Espaços de hospedagem otimizados dentro dos Data Centers.
-4. **Data Halls**: Estruturas isoladas dentro dos Data Centers para maior privacidade.
-5. **Smart Hands**: Suporte técnico para gerenciamento e manutenção de equipamentos.
-6. **Disaster Recovery**: Soluções para garantir continuidade de negócios em casos de interrupção.
-7. **Work Areas**: Escritórios totalmente equipados dentro dos Data Centers para uso em situações críticas.
+## Sobre a Empresa
 
-## Características Distintivas
-- **SLA de Disponibilidade de 100%**: A Ascenty é a única empresa no mercado que garante 100% de SLA de disponibilidade em contrato.
-- **Compliance e Certificações**: Mais de 200 certificações de segurança, qualidade e sustentabilidade, com cumprimento da LGPD.
-- **Sustentabilidade**: Compromisso com a prática de Data Centers "verdes", sendo totalmente carbono zero desde 2020.
-- **Ecosistema Conectado**: Acesso a provedores de nuvem e integração com a Digital Realty, maior empresa de Data Centers do mundo.
+A Ascenty é reconhecida como a líder de data centers e conectividade na América Latina. A empresa é apoiada pela Digital Realty, uma das maiores empresas de data centers do mundo, e pela Brookfield Infrastructure, com mais de 100 anos de experiência. A missão da Ascenty é prover soluções avançadas para empresas que buscam segurança, escalabilidade e conectividade em suas infraestruturas digitais.
 
-## Dores Potenciais
-- **Necessidade de Segurança da Informação**: Empresas que não têm controle sobre a segurança de seus dados podem enfrentar riscos.
-- **Expansão e Escalabilidade**: Empresas em crescimento precisam de soluções que suportem a expansão de infraestrutura sem altos investimentos iniciais.
-- **Continuidade de Negócios**: Em caso de desastres ou interrupções operacionais, a continuidade dos negócios se torna crítica; a falta de um planejamento pode resultar em perdas severas.
+## Produtos e Serviços
 
-## Concorrência
-A Ascenty se utiliza de sua estrutura robusta e de uma alta taxa de confiabilidade para se diferenciar de concorrentes menores. A presença da Digital Realty em sua estratégia de negócio também a coloca em um patamar elevado em relação a outras empresas do setor.
+### Colocation
+- **Data Centers Dedicados:** Ambientes personalizados de acordo com as necessidades do cliente, com segurança e controle elevados.
+- **Cages:** Espaços delimitados com segurança adicional para servidores e equipamentos críticos.
+- **Racks em Fileiras:** Espaço compartilhado em infraestrutura de data center.
 
-## Objetivos da Prospecção
-- **Captar empresas que buscam aumentar a segurança de seus dados.**
-- **Identificar negócios em fase de crescimento que precisem de soluções escaláveis e flexíveis.**
-- **Oferecer soluções de continuidade de negócios para empresas expostas a riscos.**
+### Conectividade
+- **AICX (Ascenty Internet Connectivity Exchange):** Plataforma de alta capacidade conectada a provedores de conteúdo.
+- **Cloud Connect:** Conexão direta com provedores de nuvem como AWS, Microsoft Azure, Oracle e Google Cloud.
+- **Rede Própria de Fibra Óptica:** Extensa rede com mais de 5.000 km para garantir alta disponibilidade e baixa latência.
 
-## Perfil de Cliente Ideal
-- **Setores**: Tecnologia, Finanças, Saúde, Indústria e Comércio, onde a segurança da informação e a continuidade operacional são primordiais.
-- **Tamanho**: Médias a grandes empresas que necessitam de infraestrutura dedicada e suporte de TI.
+### Soluções Complementares
+- **Disaster Recovery:** Soluções para assegurar a continuidade dos negócios em casos de interrupções.
+- **Smart Hands:** Suporte técnico especializado para a gestão das operações do data center.
+- **Work Areas:** Espaços de trabalho equipados dentro dos data centers.
 
-## Mensagem Personalizada (Sugestão)
-"Olá [Nome do Contato],
+## Características e Diferenciais
 
-Espero que você esteja bem! Sou [Seu Nome], da [Sua Empresa]. Notei que sua empresa [Nome da Empresa do Prospecto] tem crescido e acredito que possa se beneficiar de soluções escaláveis e seguras para a gestão de dados. A Ascenty é líder na América Latina em Data Centers e oferece infraestrutura em nuvem, Disaster Recovery e um suporte técnico especializado.
+1. **Infraestrutura de Classe Mundial:** A Ascenty se destaca pela alta qualidade de seus equipamentos e pela robustez de suas instalações.
+2. **Flexibilidade e Escalabilidade:** Oferece soluções customizáveis para atender diferentes demandas e tamanhos de empresas.
+3. **Certificações de Segurança:** Mais de 200 certificações que comprovam a segurança e confiabilidade dos serviços prestados.
+4. **Compromisso com a Sustentabilidade:** Práticas de eficiência energética e uma operação carbono neutro desde 2020.
+5. **Suporte 24/7:** Atendimento técnico especializado disponível em português, inglês e espanhol.
 
-Com um compromisso firme com a segurança e a sua continuidade operacional, a Ascenty pode garantir que os dados da sua empresa estejam sempre protegidos e disponíveis, mesmo diante de imprevistos. Se estiver interessado, podemos marcar uma call rápida para discutir como podemos ajudar na evolução digital da sua empresa.
+## Dores e Desafios Potenciais
 
-Aguardo seu retorno!
+- **Escalabilidade da Infraestrutura:** Muitas empresas enfrentam dificuldades em acompanhar o crescimento rápido de dados sem comprometer a segurança e a performance.
+- **Complexidade na Conexão com Nuvens:** A conexão com vários provedores de nuvem é crítica, mas pode ser complicada e custosa se não for bem planejada.
+- **Interrupções no Serviço:** Interrupções inesperadas podem causar enormes prejuízos, tornando as soluções de recuperação de desastres essenciais.
+- **Necessidade de Conformidade:** As empresas precisam garantir que estão em conformidade com as legislações de proteção de dados (como a LGPD no Brasil).
 
-Atenciosamente,  
-[Seu Nome]"
+## Contexto de Mercado
 
----
+No cenário atual, a demanda por soluções em cloud, data centers e conectividade tem crescido exponencialmente, especialmente após a aceleração digital decorrente da pandemia. As empresas estão cada vez mais buscando parceiros que possam oferecer soluções seguras, rápidas e escaláveis, tornando a Ascenty uma opção atrativa.
 
-### Considerações Finais
-A Ascenty oferece um portfólio robusto de soluções que pode atender empresas de diferentes setores, especialmente aquelas que estejam em fase de crescimento ou que queiram aprimorar a segurança de seu ambiente de TI. A personalização da mensagem e a abordagem centrada nas dores do cliente são essenciais para garantir uma prospecção eficiente.
+## Público-Alvo
+
+- Empresas de tecnologia em crescimento que buscam soluções flexíveis de armazenamento e conectividade.
+- Empresas que operam no setor financeiro, saúde e retail, onde a segurança de dados é primordial.
+- Provedores de conteúdo e ISPs que necessitam de interconexão ágil e alta disponibilidade.
+
+## Sugestões para o Email de Prospecção
+
+**Assunto:** Impulsione sua Infraestrutura Digital com a Ascenty
+
+1. **Abertura Personalizada:** Referenciar uma interação anterior ou dados que demonstrem conhecimento sobre a empresa prospectada.
+2. **Identificação da Dor:** Abordar a dificuldade de escalar infraestrutura enquanto garante segurança e performance.
+3. **Solução Oferecida:** Apresentar os serviços específicos da Ascenty que podem ajudar a resolver essas dores.
+4. **Testemunhos ou Casos de Sucesso:** Incluir breves exemplos de soluções bem-sucedidas em empresas similares.
+5. **Chamada para Ação:** Incentivar uma reunião ou telefonema para discutir soluções personalizadas que atendam às necessidades da empresa.
+
+### Conclusão
+
+Com uma abordagem focada nas dores do cliente e nas soluções adequadas que a Ascenty oferece, é possível captar a atenção do prospecto e gerar interesse nos serviços da empresa.
