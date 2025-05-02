@@ -1,9 +1,8 @@
 # Relatório de Prospecção - Grupo NC
 
 ## Informações Gerais sobre o Grupo NC
-**Website:** [Grupo NC](https://gruponc.net.br)
-
-**Descrição Geral:**
+**Website:** [Grupo NC](https://gruponc.net.br)  
+**Descrição Geral:**  
 O Grupo NC é um conglomerado brasileiro de destaque, atuando principalmente no setor farmacêutico através de suas empresas que incluem a EMS, reconhecida como líder nacional. O grupo, que conta com mais de 70 anos de história, também se expande para os setores de energia renovável e imobiliário.
 
 ### Informações sobre a Empresa
@@ -15,7 +14,7 @@ O Grupo NC é um conglomerado brasileiro de destaque, atuando principalmente no 
 - **NC Farma:** Principal área com empresas como EMS, Germed, Legrand Pharma, Brace Pharma e Novamed.
 - **NC Invest:** Focado em investimentos fora do setor farmacêutico.
 - **NC Par:** Joint venture Bionovis, especializada em medicamentos biológicos.
-- **Ads:** Focado em energias renováveis (eólica e solar).
+- **ADS:** Focado em energias renováveis (eólica e solar).
 - **3Z Realty:** Incorporação e desenvolvimento imobiliário.
 
 ### Missão e Valores
