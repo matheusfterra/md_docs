@@ -8,7 +8,6 @@
 
 ## Produtos e Serviços
 A Gupy oferece diversas soluções, incluindo:
-
 1. **Recrutamento e Seleção:** Utilizando IA para triagem de currículos e recomendações de talentos.
 2. **Admissão Digital:** Processos de contratação totalmente digitalizados, melhorando a experiência do departamento pessoal.
 3. **Treinamento e Desenvolvimento:** Plataforma de educação corporativa que permite a criação de cursos e monitoramento de progresso de forma integrada.
@@ -16,7 +15,7 @@ A Gupy oferece diversas soluções, incluindo:
 5. **Gestão de Desempenho:** Ferramentas para avaliação e desenvolvimento contínuo dos colaboradores.
 
 ## Contexto do Setor
-A Gupy atua em um setor em crescimento, onde as empresas estão buscando formas cada vez mais eficientes de gerenciar suas equipes e processos de contratação. A crescente necessidade por diversidade nas contratações e a digitalização dos processos são algumas das principais tendências que moldam o ambiente de atuação da Gupy.
+A Gupy atua em um setor em crescimento, onde as empresas estão buscando formas mais eficientes de gerenciar suas equipes e processos de contratação. A crescente necessidade por diversidade nas contratações e a digitalização dos processos são algumas das principais tendências que moldam o ambiente de atuação da Gupy.
 
 ## Dores e Necessidades Potenciais
 1. **Longos Processos de Contratação:** Empresas enfrentam dificuldades em agilizar o recrutamento e seleção, o que a Gupy se propõe a resolver.
@@ -32,17 +31,16 @@ A Gupy atende a uma diversidade de empresas, desde startups até grandes corpora
 
 ## Histórias de Sucesso
 A Gupy já demonstrou resultados significativos, como:
-
-- Redução no tempo para fechamento de vagas em 30%.
-- Aumento em contratações diversas também em 30%.
-- 50% de redução no tempo de admissões, validando documentos em até 120 minutos.
-- Aumento no engajamento em treinamentos em 3x.
+- **Redução no tempo para fechamento de vagas em 30%.**
+- **Aumento em contratações diversas em até 30%.**
+- **50% de redução no tempo de admissões, validando documentos em até 120 minutos.**
+- **Aumento no engajamento em treinamentos em até 3x.**
 
 ## Pontos de Contato e Ações Futuras
-1. **E-mail de Apresentação Personalizado:** Criar uma mensagem que aborde as dores mencionadas.
-2. **Demonstração do Produto:** Sugerir uma call para apresentar as ferramentas praticas da Gupy.
+1. **E-mail de Apresentação Personalizado:** Criar uma mensagem que aborde as dores mencionadas e como a Gupy pode ajudar.
+2. **Demonstração do Produto:** Sugerir uma call para apresentar as ferramentas práticas da Gupy.
 3. **Materiais Informativos:** Disponibilizar estudos de caso e whitepapers sobre sucesso na utilização da plataforma.
 
 ---
 
-Com estas informações em mãos, o copywriter poderá desenvolver um email que se conecte diretamente com as necessidades da empresa, apresentando casos de sucesso relevantes e destacando como a Gupy pode simplificar e otimizar seus processos de recrutamento e gerenciamento de talentos.
+Com estas informações em mãos, o copywriter poderá desenvolver um e-mail que se conecte diretamente com as necessidades da Gupy, apresentando casos de sucesso relevantes e destacando como as soluções podem simplificar e otimizar os processos de recrutamento e gerenciamento de talentos da empresa.
