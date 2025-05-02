@@ -9,13 +9,13 @@
 ## 2. Análise de Mercado e Posicionamento
 ### 2.1 Segmento de Mercado
 - O Melhor Envio atua no setor de logística, especificamente no ecossistema de e-commerce, onde a eficiência em entregas expressas e a redução de custos são cruciais.
-- O segmento de mercado é altamente competitivo, com uma crescente demanda por soluções logísticas que integrem múltiplas transportadoras para otimizar custos e tempo de entrega.
+- O segmento de mercado é altamente competitivo, com crescente demanda por soluções logísticas que integrem múltiplas transportadoras para otimizar custos e tempo de entrega.
 
 ### 2.2 Concorrência
 - **Concorrentes Diretos**: Frete Rápido, Loggi, Jadlog, Correios e outras plataformas de integração de fretes.
 - **Vantagens Competitivas**: 
   - Integração com mais de 80 plataformas de e-commerce.
-  - Oferta de fretes até 80% mais baratos comparado aos preços do balcão.
+  - Fretes até 80% mais baratos comparados aos preços do balcão.
   - Coleta gratuita em algumas modalidades.
 
 ## 3. Características do Público Alvo
@@ -46,7 +46,7 @@
 ## 5. Estrutura de Comunicação
 ### 5.1 Mensagem de Proposta
 - **Proposta de Valor**: "Reduza seus custos logísticos em até 80% e otimize suas entregas com a plataforma que conecta você a mais de 61 milhões de envios através de 480 mil lojistas."
-  
+
 ### 5.2 Canais de Comunicação
 - Site da empresa, blogs informativos sobre logística e e-commerce, e suporte ao cliente através de chat online.
 
@@ -60,4 +60,4 @@
 
 ---
 
-Este relatório fornece uma visão clara sobre o Melhor Envio, suas oportunidades e como a empresa se posiciona no mercado de logística, especialmente para o e-commerce. Com base nisso, o copywriter pode criar uma estratégia de comunicação focada em resolver as principais dores dos prospects e enfatizar a economia e a eficiência logística.
+Este relatório fornece uma visão clara sobre o Melhor Envio, suas oportunidades e posicionamento no mercado de logística, especialmente para o e-commerce. O copywriter pode usar essas informações para criar uma comunicação eficaz que aborde diretamente as dores e necessidades dos prospects, enfatizando a economia e a eficiência logística proporcionadas pela empresa.
