@@ -3,7 +3,7 @@
 ## Resumo da Empresa
 A Blip é uma plataforma de marketing conversacional focada em transformar a comunicação digital de marcas por meio da integração de inteligência artificial e soluções de mensagens. A empresa atua como fornecedora oficial da API do WhatsApp e atende a um amplo espectro de indústrias, incluindo saúde, varejo, bens de consumo, serviços financeiros e logística.
 
-### Informações gerais:
+### Informações Gerais:
 - **Nome da Empresa:** Blip
 - **Segmento:** Marketing Conversacional
 - **Localização:** Belo Horizonte, MG, Brasil
@@ -21,7 +21,7 @@ A Blip oferece soluções que permitem:
 - **Integração com WhatsApp:** Solução oficial para comunicação com clientes em um dos mais utilizados aplicativos de mensagens no Brasil.
 - **Inteligência Artificial:** Utilização de chatbots equipados com processamento de linguagem natural para interações mais humanizadas.
 - **Análises e Relatórios:** Ferramentas avançadas para medir engajamento e performance das campanhas.
-  
+
 ## Contexto do Mercado
 - A transformação digital nas empresas está em crescimento exponencial, especialmente em comerciantes que buscam alternativas para melhorar a conversão e reduzir os custos operacionais.
 - O uso de canais de mensagens se tornou essencial para o atendimento ao cliente, com 75% dos consumidores querendo se conectar com empresas via chat.
