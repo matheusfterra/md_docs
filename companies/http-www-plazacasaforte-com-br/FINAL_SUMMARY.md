@@ -12,30 +12,26 @@ Plaza Shopping é um centro de compras e entretenimento que oferece uma variedad
 
 ### Eventos e Atrações Recentes
 1. **Páscoa Divertida Plaza (Abril 2025)**:
-   - Oficina de personalização de ovos de Páscoa e cupcakes.
+   - Oficinas de personalização de ovos de Páscoa e cupcakes.
    - Atividades interativas como penteados e maquiagens para crianças.
-   - Caça aos ovos com a participação de diversas lojas.
+   - Caça aos ovos com a participação de lojas.
 
 2. **Arena Gamer Plaza (Janeiro a Fevereiro 2025)**:
-   - Uma área dedicada a jogos que inclui fliperamas e consoles de nova geração.
-   - Experiências em realidade virtual e simuladores de corrida.
+   - Uma área dedicada a jogos com fliperamas e consoles da nova geração.
+   - Experiências em realidade virtual.
 
 3. **Bailinho do Plaza (Fevereiro 2025)**:
-   - Evento de Carnaval para crianças com shows infantis e desfiles de fantasias.
-   - Parcerias com artistas locais, como Nena Queiroga.
+   - Evento de Carnaval para crianças com shows e desfiles de fantasias.
+   - Parcerias com artistas, como Nena Queiroga.
 
-4. **Bailinho Pet Plaza (Fevereiro 2025)**:
-   - Evento de Carnaval para pets, com desfile e atividades interativas.
-   - Colaboração com a ONG Anjos do Poço.
+4. **Festival de Hambúrguer (Março e Abril 2025)**:
+   - Evento com opções de comida e entretenimento, incluindo bandas locais.
 
-5. **Festival de Hambúrguer (Março e Abril 2025)**:
-   - Um evento com diversas opções de comida e entretenimento, incluindo bandas locais.
-
-6. **Festival Viva Mães (Abril e Maio 2025)**:
+5. **Festival Viva Mães (Abril e Maio 2025)**:
    - Celebrações para mães com atrações musicais e atividades para toda a família.
 
 ### Perfil do Público-Alvo
-O Plaza Shopping atende um público diversificado:
+O Plaza Shopping atende um público diversificado, incluindo:
 - Famílias com crianças pequenas.
 - Jovens e adultos interessados em entretenimento e cultura.
 - Proprietários de pets durante eventos específicos para animais.
@@ -44,22 +40,22 @@ O Plaza Shopping atende um público diversificado:
 - **Dores:**
   - Necessidade de inovação constante para atrair clientes.
   - Aumento da competição entre shoppings e plataformas de compras online.
-  
+
 - **Oportunidades:**
-  - Fortalecer ações de marketing digital, especialmente em redes sociais, para promover eventos e atrair novos visitantes.
-  - Colaboração com influenciadores locais para maximizar a divulgação das atrações e eventos.
+  - Fortalecer ações de marketing digital, especialmente em redes sociais.
+  - Colaboração com influenciadores locais para maximizar divulgação dos eventos.
 
 ### Estratégia de Marketing Proposta
 1. **Campanhas de Influência:**
-   - Trabalhar com influenciadores locais que tenham um público familiar e que possam promover os eventos, como o Bailinho do Plaza e os hotéis temáticos.
+   - Trabalhar com influenciadores que tenham um público familiar para promover os eventos.
 
 2. **Conteúdo Visual:**
-   - Investir em conteúdo visual atrativo nas redes sociais que destaque as experiências únicas proporcionadas nos eventos.
+   - Investir em conteúdo visual atrativo nas redes sociais.
 
 3. **Marketing Colaborativo:**
-   - Estabelecer parcerias com marcas de produtos infantis e de pets para promover eventos, aumentando a visibilidade e engajamento.
+   - Estabelecer parcerias com marcas de produtos infantis e animais de estimação para promover eventos.
 
 ### Oportunidade de Conexão
-Sugere-se que a empresa estabeleça um relacionamento com influenciadores que compartilhem os valores da marca e tenham interesse em promover experiências interativas de entretenimento, especialmente voltadas para a família e para eventos especiais que ocorrem no Plaza Shopping.
+Sugere-se que a empresa estabeleça um relacionamento com influenciadores que compartilhem os valores da marca e tenham interesse em promover experiências interativas, especialmente voltadas para a família e para eventos especiais que ocorrem no Plaza Shopping.
 
 Este relatório visa facilitar a elaboração de uma estratégia de prospecção mais profunda e personalizada, destacando a importância do marketing de influência para o crescimento e engajamento do Plaza Shopping.
