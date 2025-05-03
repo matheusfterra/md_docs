@@ -1,68 +1,66 @@
-# Relatório de Prosporação – ZMES Marketing
+# Relatório de Prospecção: Zmes Marketing
 
-## Visão Geral da Empresa
-**Nome da Empresa:** ZMES Marketing  
-**Site:** [zmes.marketing](http://www.zmes.marketing)  
-**Localização:** São Paulo, Av. das Nações Unidas, No14.261 - Torre B, 17o andar, Chácara Sto. Antônio, CEP 04794-000  
-**Data de Criação:** Novembro de 2020  
-**Impacto Financeiro Gerado:** R$4 bilhões até a data atual  
-
-### Estrutura da Empresa
-A ZMES Marketing é uma empresa que combina agenciamento e consultoria de negócios, oferecendo um portfólio diversificado englobando experiência digital, criação de conteúdo, mídia full funnel, e utilização de estratégias avançadas em CRM e personalização.
-
-### Liderança
-- **Marcelo Tripoli** - Co-Fundador e CEO
-  - Experiência anterior como Vice-Presidente da McKinsey e Fundador da iThink. Ele também foi considerado um dos 15 maiores influenciadores da internet no Brasil pela GQ Brasil.
+## I. Informações Gerais da Empresa
+- **Nome da Empresa:** Zmes Marketing
+- **Website:** [www.zmes.marketing](http://www.zmes.marketing)
+- **Data de Fundacão:** Novembro de 2020
+- **Localização:** Av. das Nações Unidas, No14.261 - Torre B, 17º andar, Chácara Sto. Antônio, São Paulo, SP, Brasil
+- **Contato:** [informações de contato não fornecidas]
   
-- **Daniel Ottoni** - Diretor de Criação
-  - 27 anos de experiência, tendo liderado equipes em agências renomadas e contribuído para grandes conquistas da indústria.
+## II. Visão Geral
+A Zmes é uma agência de marketing que combina consultoria de negócios, criatividade e tecnologia. Tem como missão fornecer transformação digital para seus clientes, oferecendo serviços que abrangem desde a criação de conteúdo até estratégias de CRM e mídia de desempenho.
 
-- **Filipe Ferminiano** - Diretor de Growth
-  - Especialista em marketing e vendas com experiência em transformação digital e estratégias de mercado.
+### Diferenciais:
+1. **Modelo de Negócios Integrado:** Une a consultoria de negócios, criatividade e tecnologia.
+2. **Remuneração Baseada em Resultados:** O pagamento está atrelado ao impacto gerado pelos serviços.
+3. **Customização Intensiva:** Equipes são customizadas e atuam como extensão da equipe do cliente.
 
-- **Carlos Borges** - Diretor de Planejamento
-  - 20 anos de experiência focando na integração das áreas de planejamento e mídia em grandes grupos.
+## III. Análise das Áreas de Atuação
+A Zmes se destaca em várias áreas, conforme descrito abaixo:
 
-### Estrutura de Serviços
-1. **Experiência & Conteúdo**
-   - Criação de conteúdos nativos e estratégias de UX/UI.
-   
-2. **Mídia Full Funnel**
-   - Gestão de campanhas desde a conscientização até a conversão, utilizando dados para otimizar o ROI.
-   
-3. **CRM e Personalização**
-   - Estratégias de engajamento e fidelização com base em análise de dados.
+### 1. Experiência & Conteúdo
+- **Objetivo:** Criar experiências digitais e conteúdos nativos para maximizar o engajamento do público.
+- **Serviços:** Criação de conteúdo para TikTok, YouTube, Instagram e WhatsApp, alinhando estratégias de UX/UI.
 
-### Metodologia de Trabalho
-- **Trabalho em Squads Multidisciplinares:** As equipes combinam habilidades diversas e trabalham como uma extensão das empresas clientes, garantindo sinergia máxima.
-- **Modelo de Remuneração:** Baseado no impacto gerado, assegurando que a ZMES só ganha quando o cliente também ganha.
+### 2. Mídia Full Funnel
+- **Objetivo:** Gerar resultados em todas as etapas da jornada do consumidor, da conscientização à conversão.
+- **Serviços:** Planejamento estratégico e execução de campanhas utilizando insights de dados.
 
-## Contexto e Necessidades do Potencial Cliente
-### Desafios do Mercado
-- Necessidade de inovação na criação de conteúdo e engajamento digital.
-- Aumento da competição e a necessidade de diferenciação em um ambiente saturado de anúncios.
-- Valorização de estratégias de marketing centradas no cliente, com uso assertivo de dados.
+### 3. CRM, Personalização e CDP
+- **Objetivo:** Aumentar o engajamento e fidelização do cliente através de análises de dados.
+- **Serviços:** Desenvolvimento de estratégias personalizadas que fortalecem a relação entre marcas e consumidores.
 
-### Dores Potenciais
-- Dificuldade em medir e otimizar o retorno de investimentos em campanhas.
-- Problemas para estabelecer um relacionamento duradouro com os consumidores que vai além da venda.
-- Necessidade de adaptação às novas tendências e tecnologias emergentes que impactam o comportamento do consumidor.
+### 4. Consultoria de Negócios
+- **Objetivos:** Construir estratégias de negócios de longo prazo e implementá-las assertivamente.
+- **Exemplos:** Diagnóstico e redesenho estratégico, otimização de modelos operacionais.
 
-## Oportunidades de Sinergia
-- **Parcerias para Influência:** A ZMES está bem posicionada para intermediar parcerias entre marcas e influenciadores, criando campanhas de marketing de influência que ressoem com públicos específicos.
-- **Desenvolvimento de Campanhas Personalizadas:** A empresa pode ajudar marcas a criar campanhas que não apenas vendem, mas que também criam narrativas eficazes e envolventes que impactam o consumidor.
-- **Aproveitamento de Insights do Consumidor:** Com sua abordagem de coleta e análise de dados, a ZMES pode ajudar marcas a entender melhor seu público e ajustar suas estratégias de marketing para atender às expectativas do consumidor moderno.
+### 5. Consumer Insights
+- **Objetivo:** Compreender profundamente o público-alvo para direcionamento efetivo das campanhas.
+- **Serviços:** Desenvolvimento de personas e jornadas do consumidor, pesquisas qualitativas e quantitativas.
 
-## Conclusão
-A ZMES Marketing é uma empresa inovadora e com um histórico comprovado de resultados no mercado. Seu mix de serviços de marketing integrados e foco em resultados mensuráveis a coloca como um parceiro ideal para qualquer marca que precisa se destacar no ambiente digital atual. Considerando as dores e necessidades que foram identificadas, uma abordagem de prospecção focada em suas soluções direcionadas poderá gerar um engajamento significativo.
+### 6. Growth & Performance
+- **Objetivo:** Aumentar a receita e reduzir custos através da implementação de um novo playbook de marketing.
+- **Serviços:** Estratégias de mídia, personalização de jornadas e otimização de conversão.
 
----
+## IV. Liderança
+### Marcelo Tripoli - Co-Fundador e CEO
+- **Experiência:** Ex-Vice-Presidente da McKinsey; autor de "Marketing Significativo", colunista da CNN.
+- **Reconhecimento:** Um dos 15 maiores influenciadores da internet no Brasil segundo GQ.
 
-### Anexos
-- [Imagem do banner da ZMES](http://www.zmes.marketing/img/banner-home-zmes.png)
-- [Notícias e Reportagens](https://zmes.marketing/img/upload/estadao-reportagem.jpg), [Valor Econômico](https://zmes.marketing/img/upload/valor-reportagem.jpg)
+### Daniel Ottoni - Diretor de Criação
+- **Experiência:** Mais de 27 anos de atuação, com 150 prêmios internacionais.
 
-## Ações Recomendadas
-1. Preparar campanha focada nas vantagens da ZMES em marketing de influência.
-2. Customizar e adaptar o email marketing para ressoar com as dores e desafios do cliente.
-3. Marcar uma apresentação para discutir como a ZMES pode personalizar suas soluções para atender às necessidades específicos do cliente.
+### Filipe Ferminiano - Diretor de Growth
+- **Experiência:** Ex-consultor da McKinsey, especialista em transformação digital.
+
+## V. Dores Potenciais
+1. **Concorrência Alta:** As marcas estão cada vez mais investindo em influenciadores e conteúdos digitais. A Zmes precisa se destacar em um mercado competitivo.
+2. **Mudanças no Comportamento do Consumidor:** O impacto da digitalização exige que as empresas se adaptem rapidamente às novas dinâmicas de consumo.
+3. **Necessidade de Resultados Mensuráveis:** Muitas empresas demandam comprovação de retorno sobre investimento em campanhas de influenciadores.
+
+## VI. Contexto e Oportunidades
+- **Crescimento do Marketing de Influência:** A Zmes pode explorar mais profundamente o uso de influenciadores em suas campanhas, criando estratégias que conectem emocionalmente os consumidores a marcas através de histórias autênticas.
+- **Integração de Dados:** O uso crescente de ferramentas de automação e dados para segmentação de público apresenta uma oportunidade significativa para personalização e aumento da eficácia das campanhas.
+
+### Conclusão
+A Zmes Marketing possui um modelo de negócios robusto e inovador, que a posiciona de forma competitiva no mercado de marketing digital. Com seu foco em resultados mensuráveis e personalização, a agência se encontra em uma excelente posição para explorar o crescente mercado de marketing de influência, oferecendo soluções estratégicas e criativas que atendam às demandas de marcas em constante transformação.
