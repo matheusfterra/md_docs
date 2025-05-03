@@ -11,8 +11,8 @@
 ### Divisões:
 1. **FQM Consumo:** Produtos voltados para o consumidor final, incluindo suplementos e produtos de beleza.
    - Exemplos de produtos: 
-     - Imecap (beleza e bem-estar)
-     - Sedavan (saúde)
+     - **Imecap** (beleza e bem-estar)
+     - **Sedavan** (saúde)
 2. **FQM Farma:** Focada em produtos para profissionais de saúde e farmácias, proporcionando medicamentos e equipamentos.
 3. **FQM Melora:** Especializada em produtos dermatológicos e cosméticos, focando no tratamento e cuidados da pele.
 
@@ -23,19 +23,19 @@
 - **Nutracêuticos**
 
 ### Produtos Destaques:
-- Imecap (suplementos para cabelo, pele e unhas)
-- Varicell (cremes e pomadas)
-- Melatol (suplementos para sono)
-- Sedavan (comprimidos para ansiedade)
+- **Imecap:** Suplementos para cabelo, pele e unhas.
+- **Varicell:** Cremes e pomadas.
+- **Melatol:** Suplementos para sono.
+- **Sedavan:** Comprimidos para ansiedade.
 
 ## Público-Alvo
-- Profissionais de saúde (médicos, farmacêuticos)
-- Consumidores de produtos saudáveis, suplementos e cosméticos
-- Empresas e clínicas que buscam soluções de saúde.
+- **Profissionais de saúde:** Médicos, farmacêuticos.
+- **Consumidores:** Interessados em produtos saudáveis, suplementos e cosméticos.
+- **Empresas e clínicas:** Buscando soluções de saúde.
 
 ## Análise de Mercado
 ### Tendências:
-- A crescente demanda por produtos naturais e suplementos alimentares.
+- Crescente demanda por produtos naturais e suplementos alimentares.
 - Aumento do uso de influenciadores digitais e marketing de influência para promoção de produtos de saúde e beleza.
 - Consumidores estão cada vez mais preocupados com a qualidade e eficácia dos produtos, buscando referências e recomendações.
 
@@ -50,7 +50,7 @@
 ## Oportunidades de Parceria com Influenciadores
 - Integração de campanhas de marketing de influência, utilizando influenciadores da saúde e beleza para promover os produtos.
 - Criação de conteúdo rico que traduza a eficácia e segurança dos produtos, educando o consumidor.
-- O uso de micro e nano influenciadores para alcançar nichos específicos de mercado, aumentando a percepção de autenticidade e confiança.
+- Uso de micro e nano influenciadores para alcançar nichos específicos de mercado, aumentando a percepção de autenticidade e confiança.
 
 ## Abordagem Personalizada
 ### Proposta de Valor:
@@ -64,4 +64,6 @@ Iniciar o contato com uma apresentação focada nos valores que a FQM representa
 - **Telefone:** 0800 025 0110
 - **E-mail:** sac@fqm.com.br
 
-Este relatório serve como um guia para o copywriter, proporcionando insights detalhados sobre a FQM e permitindo que a equipe desenvolva abordagens de comunicação eficazes, personalizadas para cativar a atenção da empresa e fomentar uma parceria frutífera.
+---
+
+Este relatório é um guia detalhado que visa fornecer insights sobre a FQM e permitir que a equipe de marketing desenvolva abordagens de comunicação eficazes e personalizadas, aumentando as chances de cativar a empresa e fomentar uma parceria frutífera.
