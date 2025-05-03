@@ -9,11 +9,10 @@
 
 ## Visão e Missão
 - **Missão**: Ser a empresa de refrigerantes mais dinâmica, criando um amanhã melhor. Proporcionar uma variedade de marcas para os consumidores, ajudando-os a desfrutar os momentos do dia a dia.
-- **Compromisso**: Foco em saúde e bem-estar, tanto para consumidores quanto para o planeta. 
+- **Compromisso**: Foco em saúde e bem-estar, tanto para consumidores quanto para o planeta.
 
 ## Portfólio de Marcas
 Britvic possui um extenso portfólio de 39 marcas amadas, que incluem:
-
 1. **7UP**: Refrigerante de limão e lima, sem corantes e conservantes.
 2. **Aqua Libra**: Água com sabor, com um foco em hidratação sustentável.
 3. **Gatorade**: Bebida esportiva focada em desempenho atlético.
@@ -25,7 +24,7 @@ Britvic possui um extenso portfólio de 39 marcas amadas, que incluem:
 
 ## Novas Iniciativas e Tendências
 - **Sustentabilidade**: Britvic tem um foco significativo em práticas sustentáveis, utilizando 75% de eletricidade gerada por energia solar e comprometendo-se a remover bilhões de calorias da dieta dos consumidores por meio da reformulação de produtos.
-- **Inovações em sabores**: Recentemente, a Britvic lançou novos sabores como Orange & Mango na linha Robinsons e está trazendo de volta sabores como Cherry e Raspberry Blast da marca Tango.
+- **Inovações em sabores**: Recentemente, a Britvic lançou novos sabores como Orange & Mango na linha Robinsons e está trazendo de volta sabores como Cherry Blast e Raspberry Blast da marca Tango.
 
 ## Desafios e Oportunidades
 ### Dores Potenciais
@@ -47,6 +46,5 @@ Ao elaborar uma comunicação, um e-mail direcionado a Britvic deve enfatizar os
 - Como marcas concorrentes têm se beneficiado de estratégias similares.
 - A importância de alinhar parcerias de influência com a missão da Britvic de promover um futuro mais saudável.
 
---- 
-
-Esse relatório fornece uma visão abrangente sobre a Britvic, abordando tanto suas operações quanto oportunidades no âmbito do Marketing de Influência.
+## Notas Finais
+A Britvic, ao se tornar parte do Carlsberg Group, tem tido a chance de ampliar suas operações e innovar em um setor que evolui rapidamente. O alinhamento com influenciadores pode maximizar suas iniciativas de sustentabilidade e novos produtos, convertendo desafios em oportunidades de crescimento e engajamento de marca. É essencial que a comunicação seja feita de maneira a enfatizar a transformação social e ambiental que a marca está promovendo, criando uma narrativa que ressoe com os valores dos consumidores modernos.
