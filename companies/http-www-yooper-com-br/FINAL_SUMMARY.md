@@ -8,7 +8,7 @@
 - **Website:** [yooper.com.br](https://yooper.com.br)
 
 ## 2. Visão Geral da Empresa
-A Yooper Digital Marketing, anteriormente conhecida como Compre Clicks, se destaca no mercado de marketing digital brasileiro ao oferecer soluções inovadoras que conectam marcas a influenciadores. Com uma equipe de mais de 100 especialistas, a agência se foca em performance e entrega resultados acima da média através de estratégias personalizadas.
+A Yooper Digital Marketing, anteriormente conhecida como Compre Clicks, se destaca no mercado brasileiro de marketing digital ao oferecer soluções inovadoras que conectam marcas a influenciadores. Com uma equipe de mais de 100 especialistas, a agência se foca em performance e entrega resultados acima da média através de estratégias personalizadas.
 
 ## 3. Serviços Oferecidos
 A Yooper oferece uma variedade de serviços, com especial ênfase em:
@@ -45,7 +45,7 @@ O email de prospecção deve comunicar a importância do marketing de influênci
 
 Olá [Nome do Destinatário],
 
-Vivemos um momento onde 66% dos consumidores confiam nas recomendações de influenciadores ao fazer compras. A Yooper Digital Marketing se destaca nesse cenário ao facilitar a conexão entre marcas e influenciadores que compartilham valores genuínos.
+Vivemos num momento onde 66% dos consumidores confiam nas recomendações de influenciadores ao fazer compras. A Yooper Digital Marketing se destaca nesse cenário ao facilitar a conexão entre marcas e influenciadores que compartilham valores genuínos.
 
 Compreendemos que muitos negócios enfrentam desafios, como a dificuldade em encontrar o influenciador certo ou otimizar o retorno sobre investimento em campanhas. Nossa experiência com clientes como [Exemplo de Cliente] resultou em [Descrição de Resultado].
 
@@ -53,7 +53,7 @@ Gostaríamos de explorar como podemos potencializar sua estratégia de marketing
 
 Aguardamos seu retorno!
 
-Atenciosamente,
+Atenciosamente,  
 [Seu Nome]  
 [Seu Cargo]  
 Yooper Digital Marketing
