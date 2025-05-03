@@ -1,57 +1,51 @@
-# Relatório de Prospecção: Comgás
+# Relatório de Prospecção - Comgás
 
-## Informações da Empresa
-- **Nome da Empresa:** Comgás
-- **Site Oficial:** [www.comgas.com.br](http://www.comgas.com.br/)
-- **Segmento:** Distribuição de gás natural encanado
-- **Localização:** Operação em mais de 96 municípios, com foco em São Paulo, Brasil
-- **Ano de Fundação:** 1872 (150 anos em 2022)
-- **Tipo de Empresa:** Controlada pela Compass, uma das maiores distribuidoras de gás natural da América Latina
-- **Número de Clientes:** 2,6 milhões
-- **Rede de Gasodutos:** 22 mil km
+## **Informações Gerais da Empresa**
+- **Nome**: Comgás
+- **Segmento**: Distribuição de gás natural
+- **Localização**: Atuação em todo o estado de São Paulo, Brasil
+- **Website**: [www.comgas.com.br](https://www.comgas.com.br)
+- **Ano de Fundação**: 1872
+- **Clientes Atendidos**: Mais de 2,6 milhões
+- **Rede de Distribuição**: Aproximadamente 22 mil km de gasodutos em mais de 96 municípios.
 
-## Missão e Visão
-- **Missão:** Oferecer conforto, praticidade e segurança, potencializando negócios e desenvolvendo cidades.
-- **Visão:** Evoluir continuamente em fontes de energia cada vez mais limpas e eficientes.
-  
-## Valores
-- Segurança
-- Sustentabilidade
-- Valorização das pessoas
-- Inovação
+## **Histórico e Contexto**
+- **150 Anos de História**: A Comgás é a maior distribuidora de gás natural encanado da América Latina e completou 150 anos em 2022. A história da empresa está ligada à evolução do fornecimento de gás natural e à sua adaptação às demandas do mercado e às necessidades ambientais.
+- **Inovações**: Tem se concentrado em inovações sustentáveis e eficientemente energéticas, como a implementação de gás natural, que tem menor impacto ambiental em comparação com outros combustíveis fósseis.
+- **Compromissos de Sustentabilidade**: A Comgás possui metas alinhadas aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, com uma redução de 30% nas emissões de gases de efeito estufa.
 
-## Produtos e Serviços
-- **Soluções Residenciais:** Gás natural para cozinha, aquecimento de água, aquecimento de ambientes.
-- **Soluções Comerciais:** Gás natural para restaurantes, padarias, e indústrias.
-- **Veículos:** Provisão de GNV para carros.
-- **Indústrias:** Gás natural para caldeiras, estufas e outros equipamentos industriais.
-- **Soluções Especiais:** Geração de energia, climatização e cogeração.
+## **Produtos e Serviços**
+- **Residências**: Gás para aquecimento, cozinhas e outras necessidades domésticas.
+- **Comércio**: Fornecimento de gás para restaurantes, escritórios, hotéis, etc.
+- **Indústrias**: Gás para equipamentos industriais, caldeiras e processos produtivos.
+- **Soluções Especiais**: Projetos customizados e soluções em energia, climatização e cogeração.
+- **Serviços Online**: Comgás oferece um portal de autoatendimento, com funcionalidades como solicitação de gás, consulta de conta e agendamento de serviços.
 
-## Sustentabilidade
-- **Compromissos Ambientais:** Redução de 30% nas emissões de gases de efeito estufa nos últimos 3 anos, alinhados aos Objetivos de Desenvolvimento Sustentável (ODS).
-- **Ações Sociais:** Projetos de inclusão e suporte a comunidades, valorizando a diversidade e a inclusão.
+## **Características e Dores Potenciais**
+- **Dores Potenciais**:
+  - **Concorrência**: O aumento da concorrência com fornecedores alternativos de energia pode ser uma preocupação.
+  - **Regulamentações**: A indústria é altamente regulada, e mudanças nas políticas públicas podem gerar incertezas.
+  - **Percepção sobre Segurança**: Os clientes podem ter preocupações com segurança no fornecimento de gás natural, especialmente em relação a vazamentos.
+  - **Sustentabilidade**: Necessidade de adaptação a um ambiente cada vez mais consciente sobre questões ambientais e soluções de energia limpa.
 
-## Segurança e Emergências
-- **24/7 Emergência:** Atendimento para emergência com gás (08000 110 197).
-- **Políticas de Segurança:** Treinamento de colaboradores e protocolos rigorosos para garantir a segurança dos clientes e do meio ambiente.
+- **Oportunidades**:
+  - **Marketing de Influência**: Promover testemunhos de clientes usando gás natural, destacando benefícios como economia, praticidade e segurança.
+  - **Conteúdo Educacional**: Criar campanhas educacionais em diversas plataformas, abordando segurança no uso do gás e práticas sustentáveis.
+  - **Parcerias**: Colaboração com influenciadores do segmento de sustentabilidade e vida saudável.
 
-## Desafios e Necessidades
-1. **Consciência e Educação do Cliente:** Importância de educar os clientes sobre o uso seguro e eficiente do gás natural.
-2. **Concorrência no Setor Energético:** Necessidade de destaque em meio a novas fontes de energia renovável.
-3. **Sustentabilidade e Mídia:** A empresa precisa de estratégias contínuas para comunicar suas iniciativas sustentáveis e construir uma imagem positiva entre os clientes e a comunidade.
+## **Comunicação e Tom da Mensagem**
+- A comunicação deve ser empática e abordável, ressaltando a história e o compromisso da Comgás com a segurança e a sustentabilidade.
+- Mensagens que abordem a modernidade dos serviços da Comgás, com um foco em inovação, podem ser relevantes.
+- Importância de reforçar a segurança e a facilitação do atendimento online, especialmente em tempos de maior digitalização.
 
-## Contexto e Oportunidades
-- **Crescimento do Mercado de Gás Natural:** O gás natural é visto como uma opção mais limpa em comparação com combustíveis fósseis, aumentando a demanda.
-- **Interesse em Sustentabilidade:** Consumidores e investidores estão cada vez mais focados em empresas que se preocupam com o meio ambiente.
+## **Público-Alvo**
+- Famílias que buscam conforto e segurança em soluções energéticas.
+- Empresários e gestores de negócios em setores que utilizam gás natural, como restaurantes e indústrias.
+- Clientes que se preocupam com sustentabilidade e eficiência energética.
 
-## Abordagem para Proposta
-- **Objetivo do Contato:** Propor uma campanha de marketing de influência em formato de conteúdo que destaque as ações sustentáveis da Comgás e a importância do uso do gás natural.
-- **Dores Identificadas:** Aumentar a conscientização sobre a importância da segurança do gás natural e as suas vantagens em relação a outras fontes de energia.
+## **Conclusão**
+O email deve focar em destacar a tradição e o comprometimento da Comgás na melhoria contínua da experiência do cliente e na oferta de soluções inovadoras e seguras. Além disso, é fundamental ressaltar como o marketing de influência pode ajudar a fortalecer a marca, conquistar novos clientes e lidar com as preocupações da concorrência e da regulamentação.
 
-## Conclusão
-A Comgás é uma empresa com um longo histórico de operações e um compromisso sólido com a segurança, sustentabilidade e inovação. Uma proposta de marketing de influência focada em suas iniciativas sustentáveis e práticas seguras pode aumentar sua presença de marca e engajamento com os clientes, além de promover uma imagem positiva em um momento em que a responsabilidade ambiental é fundamental. 
+---
 
-### Recomendações
-- Envolver influenciadores que compartilhem a visão de sustentabilidade e energia limpa.
-- Criar conteúdos que possam educar o público sobre a eficiência e segurança no uso de gás natural em casa e no trabalho.
-- Promover testemunhos de clientes existentes que possam validar o valor e a eficiência dos serviços oferecidos pela Comgás.
+Ao utilizar este relatório, o copywriter deve adaptar a comunicação para que seja clara, empática e direta, aproveitando as informações mapeadas para criar uma mensagem personalizada e engajadora.
