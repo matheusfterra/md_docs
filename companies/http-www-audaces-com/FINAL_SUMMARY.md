@@ -1,3 +1,4 @@
+```markdown
 # Relatório de Prospecção para Audaces
 
 ## Informações Gerais da Empresa
@@ -31,28 +32,29 @@
   - **Easy:** Corte com máxima eficiência.
 
 ## Mercados-Alvo
-- **Profissionais da Indústria Têxtil**: Donos de confecções, designers, modelistas e engenheiros de produção.
-- **Startups de Moda**: Programas como o Audaces Lab visa apoiar startups com soluções de IA que buscam inovação no setor.
+- **Profissionais da Indústria Têxtil:** Donos de confecções, designers, modelistas e engenheiros de produção.
+- **Startups de Moda:** Programas como o Audaces Lab buscam apoiar startups com soluções de IA que trazem inovação ao setor.
 
 ## Possíveis Dores Identificadas
-- **Ineficiência em Processos Manuais**: A transição do manual para o digital é um desafio para muitas empresas.
-- **Desperdício de Materiais**: Os custos podem aumentar significativamente devido ao desperdício de tecido.
-- **Desagregação nas Etapas de Produção**: A falta de integração entre as etapas (design e produção) leva a erros e perdas de tempo.
-- **Dificuldade em Cumprir Prazos de Entrega**: A lentidão nos processos de corte e modelagem causa atrasos frequentes.
+- **Ineficiência em Processos Manuais:** Empresas enfrentam desafios durante a transição do manual para o digital.
+- **Desperdício de Materiais:** Os custos aumentam significativamente devido ao desperdício de tecido.
+- **Desagregação nas Etapas de Produção:** Falta de integração entre design e produção leva a erros e perdas de tempo.
+- **Dificuldade em Cumprir Prazos de Entrega:** Processos lentos de corte e modelagem causam atrasos frequentes.
 
 ## Oportunidades de Estabelecimento de Parcerias
-1. **Influenciadores da Moda**: Criar campanhas que mostrem como a tecnologia da Audaces revoluciona o setor, utilizando influenciadores que atuem nesse nicho. 
-2. **Colaboração com Designers Ecológicos**: Promover práticas sustentáveis na moda pode ajudar na redução do desperdício e trazer visibilidade à marca.
-3. **Programas de Demonstração**: Oferecer testes gratuitos e workshops com influenciadores que atraiam novos clientes e demonstrem o valor das soluções.
+1. **Influenciadores da Moda:** Criar campanhas que demonstrem como a tecnologia da Audaces muda o setor, utilizando influenciadores relevantes.
+2. **Colaboração com Designers Ecológicos:** Promover práticas sustentáveis pode reduzir o desperdício e trazer visibilidade à marca.
+3. **Programas de Demonstração:** Oferecer testes gratuitos e workshops com influenciadores para atrair novos clientes e demonstrar o valor das soluções.
 
 ## Contexto e Tendências do Setor
-- **Indústria 4.0**: O crescimento da digitalização e automação na moda.
-- **Sustentabilidade**: Aumento na demanda por práticas que reduzam o impacto ambiental da moda.
-- **Integração de Tecnologias**: A tendência por soluções que ofereçam integração, reduzindo a desagregação nos processos.
+- **Indústria 4.0:** Crescendo a digitalização e automação na moda.
+- **Sustentabilidade:** Aumento da demanda por práticas que reduzam o impacto ambiental.
+- **Integração de Tecnologias:** A tendência é por soluções que integrem processos, reduzindo a desagregação.
 
 ## Estrutura para Contato
-1. **Proposta de valor personalizada**: Mostrar como a Audaces pode resolver os problemas específicos da empresa alvo.
-2. **Demonstração de sucesso**: Apresentar casos de sucesso, como o da marca LIVE!,
-3. **Parceria em Inovação**: Destacar oportunidades de colaborações para criar conteúdo relevante e engajador.
+1. **Proposta de Valor Personalizada:** Destacar como a Audaces pode resolver problemas específicos da empresa-alvo.
+2. **Demonstração de Sucesso:** Apresentar casos de sucesso como o da marca LIVE!.
+3. **Parceria em Inovação:** Enfatizar oportunidades de colaboração para criar conteúdo relevante e engajador.
 
-Com este relatório, o copywriter da equipe terá uma base sólida para desenvolver um e-mail que não apenas capte a atenção da empresa prospectada, mas também demonstre uma compreensão profunda das necessidades e desafios que a Audaces pode ajudar a resolver no âmbito do marketing de influência. A abordagem deve ser centrada em como as soluções oferecidas podem trazer inovação e eficiência para a indústria da moda, capturando a essência do que significa ser uma marca sustentável e inovadora na era digital.
+Com este relatório, o copywriter da equipe terá uma base sólida para desenvolver um e-mail profundo e personalizado, centrando-se em como as soluções da Audaces podem trazer inovação e eficiência para a indústria da moda, capturando a essência do que significa ser uma marca sustentável e inovadora na era digital.
+```
