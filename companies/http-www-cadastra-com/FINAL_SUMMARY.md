@@ -13,19 +13,19 @@
    - Estratégias personalizadas de marketing digital.
    - Integração entre canais online e offline.
    - Produção de conteúdo otimizado.
-
+   
 2. **Tecnologia e Dados:**
    - Análise de dados utilizando Inteligência Artificial (IA).
    - Ferramentas de automação e CRM.
    - Desenvolvimento de plataformas de e-commerce e integração com marketplaces.
-
+   
 3. **Consultoria Estratégica:**
    - Estruturas de negócios baseadas em dados.
    - Transformação digital e otimização de processos.
-
+   
 4. **Marketing de Influência:**
    - Conexão entre marcas e influenciadores.
-   - Criação de campanhas com foco em resultados e geração de leads.
+   - Criação de campanhas focadas em resultados e geração de leads.
 
 ## Características da Cadastra
 - **Compromisso Ético:** Uso responsável da IA em suas soluções.
@@ -59,4 +59,4 @@
 4. **Chamada à Ação:** Convidar o prospect para descobrir como a Cadastra pode moldar suas iniciativas de marketing e potencializar vendas.
 
 ## Conclusão
-O relatório fornece uma visão abrangente da Cadastra, permitindo que o copywriter crie um email que ressoe com as dores e necessidades do prospect, ao mesmo tempo que posiciona a Cadastra como a solução ideal, aumentando assim as chances de conversão.
+O relatório fornece uma visão abrangente da Cadastra, permitindo que o copywriter crie um e-mail que ressoe com as dores e necessidades do prospect, ao mesmo tempo que posiciona a Cadastra como a solução ideal, aumentando assim as chances de conversão.
