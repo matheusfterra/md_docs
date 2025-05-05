@@ -1,78 +1,94 @@
-# Relatório de Prospecção de Outbound
+# Relatório de Prospecção - Play9
 
-## Informações da Empresa Prospectada
+## Informações Gerais sobre a Empresa
 
-### Razão Social
+### Nome da Empresa
 Play9
 
-### Site
-[http://www.play9.com.br/](http://www.play9.com.br/)
+### Website
+[play9.com.br](https://www.play9.com.br)
 
-### Segmento
-Marketing de Influência - Conexões entre marcas e influenciadores digitais.
+### Descrição da Empresa
+A Play9 é uma empresa atuante no ecossistema de marketing, com foco no desenvolvimento de conteúdo e expansão de audiência, conectando marcas e influenciadores. Possui uma forte presença em várias plataformas digitais, oferecendo soluções personalizadas em comunicação e marketing, especialmente em influência social.
 
-### Especializações
-- Branded Content
-- Produção Audiovisual
-- Gestão de Redes Sociais
-- Influenciadores Digitais
-- Comunicação Integrada
-
-### Prêmios
-- Prêmio IBest 2022: Melhor Agência de Influenciadores
-- Prêmio Caboré 2022: Melhor Produtora do Brasil
-
-## Dados Operacionais
-
-### Números Relevantes
-- 7 bilhões de views mensais
-- 650 milhões de seguidores/as inscritos em plataformas
-- 140 milhões de inscritos no YouTube
-- 800 milhões de views mensais no YouTube
-- 185 milhões de seguidores no Instagram
-- 155 milhões de seguidores no TikTok
-
-### Produto/Serviço
-Play9 atua como uma MediaTech que desenvolve conteúdos e estratégias de marketing voltadas para marcas e influenciadores. Oferece um ecossistema completo de soluções que permitem a gestão e ampliação de audiências.
-
-### Público-Alvo
-Empresas de diversos setores que buscam aumentar sua visibilidade e engajamento na internet, utilizando a conexão com influenciadores digitais reconhecidos.
-
-## Análise e Contexto do Mercado
-
-### Cenário do Marketing de Influência
-O mercado de marketing de influência tem apresentado crescimento constante, com a digitalização e a busca por autenticidade nas comunicações das marcas. As empresas estão investindo em influenciadores devido à sua capacidade de gerar engajamento e autenticidade que as campanhas publicitárias tradicionais, muitas vezes, não conseguem alcançar.
-
-### Dores Possíveis
-- Dificuldade em se destacar em um mercado saturado.
-- Necessidade de mensurar resultados de campanhas de forma eficaz.
-- Busca por influenciadores autênticos que se alinhem aos valores da marca.
-
-### Oportunidades
-- Oferecer insights baseados em dados sobre o desempenho de campanhas.
-- Propor soluções que integrem diferentes formatos de conteúdo e mídias sociais.
-- Criar parcerias que reforcem a imagem da marca.
-
-## Sugestões de Abordagem
-
-1. **Apresentação de Dados**: Iniciar a comunicação destacando os números expressivos que Play9 possui, evidenciando a expertise em influenciar a audiência.
+### Objetivos da Empresa
+- Criar e gerir estratégias de conteúdo para marcas.
+- Conectar influenciadores a marcas, aumentando o engajamento e monetização.
+- Fornecer dados para performance e decisões informadas.
   
-2. **Personalização**: Adicionar personalização na abordagem com focos nas especificidades da empresa prospectada. Identificar stakeholders e suas futuras campanhas que poderiam se beneficiar da parceria.
+---
 
-3. **Educação sobre Estratégias**: Fornecer insights sobre como campanhas de marketing com influenciadores podem ser integradas nas estratégias gerais de marketing da empresa prospectada.
+## Dados e Métricas Relevantes
 
-4. **Proposta de Valor**: Reforçar como a Play9 pode aliviar as "dores" identificadas da empresa, demonstrando como a colaboração pode resultar em resultados mensuráveis e visibilidade ampliada.
+### Visibilidade e Alcance
+- **Views Mensais**: 7 bilhões+
+- **Seguidores e Inscritos**: 650 milhões+
+- **Inscritos no YouTube**: 140 milhões+
+- **Views Mensais no YouTube**: 800 milhões+
+- **Seguidores no Instagram**: 185 milhões+
+- **Seguidores no TikTok**: 155 milhões+
+- **Likes no TikTok**: 4.5 bilhões+
+- **Total de Conteúdo**: 35,000 vídeos no YouTube e 41,000 vídeos no TikTok.
 
-5. **Estudos de Caso**: Incluir exemplos de trabalhos realizados que apresentem resultados significativos para outras marcas, especialmente dentro do mesmo setor da empresa prospectada.
+### Reconhecimento e Prêmios
+- **Prêmio iBest**: Melhor Agência de Influenciadores (2022) e Top 3 (2021).
+- **Prêmio Caboré**: Melhor Produtora do Brasil (2022).
 
-### Dicas para Copy do Email
-- Utilize uma linguagem amigável e próxima.
-- Faça perguntas que incentivem a reflexão sobre os desafios atuais da empresa.
-- Sugira uma breve chamada para discutir como Play9 pode trazer soluções personalizadas para suas necessidades.
-  
-### Chamadas à Ação
-- Propor um agendamento para uma conversa mais detalhada.
-- Oferecer um e-book ou relatório sobre tendências de marketing de influência como parte do follow-up.
+---
 
-## Conclusão
-O objetivo deste relatório é fornecer ao copywriter informações ricas e contextualizadas para elaborar comunicações personalizadas que efetivamente ressoem com a empresa prospectada. A abordagem deve focar na identificação das necessidades da marca e como a Play9 pode ser um parceiro estratégico decisivo para o sucesso em suas campanhas de marketing.
+## Soluções e Serviços Oferecidos
+
+1. **YouTube**: Gestão e criação personalizada de conteúdo.
+2. **Produção Audiovisual**: Produção de conteúdos de áudio e vídeo, forte presença em publicidade e lives.
+3. **Mídia Online**: Estratégias personalizadas para campanhas com análise em tempo real.
+4. **Social Media**: Curadoria de influenciadores e gestão de audiências nas principais plataformas.
+5. **Dados e Performance**: Análise de performance e métricas de mercado para tomada de decisão estratégica.
+6. **Comunicação Integrada**: Projetos de comunicação 360º, abrangendo RP, branding e live marketing.
+7. **Tecnologia**: Desenvolvimento de soluções tecnológicas e inovações digitais.
+
+---
+
+## Perfil dos Influenciadores
+
+A Play9 trabalha com um diversificado grupo de influenciadores em várias categorias, como:
+
+- **Entretenimento**: Felipão Neto e Dani Calabresa.
+- **Educação e Conhecimento**: Felipe Castanhari e Kananda Eller.
+- **Moda e Estilo**: Lili Almeida e Raquel Natu.
+- **Saúde e Bem-Estar**: Dr. Fred Nicácio.
+
+### Destaques Importantes
+- A empresa conecta influenciadores com mais de 80 criadores digitais, abrangendo diversas áreas e nichos, o que permite uma grande flexibilidade e personalização nas campanhas de marketing.
+
+---
+
+## Possíveis Dores e Desafios do Cliente
+
+1. **Necessidade de Autenticidade**: As empresas estão buscando formas mais autênticas e impactantes de se conectar com as audiências. A Play9 pode proporcionar essa conexão genuína através da curadoria de influenciadores que alinham com a identidade da marca.
+
+2. **Variedade e Qualidade de Conteúdo**: Com a saturação de conteúdo disponível online, as marcas precisam se destacar. A Play9 deve reforçar a qualidade e a inovação nos formatos de conteúdo.
+
+3. **Análise de Performance**: Muitas marcas sentem falta de uma análise detalhada e em tempo real das campanhas, algo que a Play9 pode otimizar com seu time de especialistas em dados.
+
+4. **Mudanças de Algoritmos e Plataformas**: As constantes mudanças nas plataformas digitais podem impactar as estratégias de marketing. A Play9 precisa estar sempre atualizada e pronta para ajustar as campanhas.
+
+---
+
+## Oportunidades de Conexão
+
+### Personalização do Pitch
+O copywriter deve elaborar um email que transmita a importância de conectar as empresas a influenciadores de forma autêntica, utilizando dados relevantes para provar o impacto e a eficácia das campanhas.
+
+### Temas de Conteúdo
+- Casos de sucesso com métricas impressionantes (ex: campanhas anteriores com grandes nomes e suas performances).
+- A importância de influenciadores autênticos na construção de uma imagem de marca positiva em redes sociais.
+- Como a Play9 utiliza dados e tecnologia para otimizar campanhas, proporcionando analytics em tempo real e relatórios detalhados.
+
+### Chamadas para Ação
+1. Agendar uma reunião para discutir como a Play9 pode ajudar a marca a alcançar suas metas.
+2. Oferecer uma análise gratuita do impacto que a integração com influenciadores poderá gerar para a empresa.
+
+---
+
+### Conclusão
+Este relatório detalhado servirá como um guia útil para a equipe de copywriting, permitindo a criação de um email de prospecção que se alinhe com as necessidades e desafios do cliente. Essa abordagem personalizada e informada ajudará a aumentar a taxa de conversão da prospecção outbound.
