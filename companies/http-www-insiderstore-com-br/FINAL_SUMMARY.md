@@ -11,13 +11,13 @@
 
 ## Produtos e Serviços
 ### Principais Categorias de Produtos
-1. **Roupas Femininas**:
+1. **Roupas Femininas**
    - Blusas, camisetas, calças, shorts, saias, roupas esportivas, lingeries.
    - Funcionalidades: secagem rápida, antiodor, tecidos que não amassam.
-2. **Roupas Masculinas**:
+2. **Roupas Masculinas**
    - Camisetas, camisas sociais, calças, roupas de treino.
    - Funcionalidades semelhantes às femininas, com foco na regulagem da temperatura corporal.
-3. **Roupas Tecnológicas**:
+3. **Roupas Tecnológicas**
    - Produtos com tecidos que inibem a proliferação de bactérias e controlam odores.
    - Design atemporal, focado em conforto e praticidade.
 
@@ -51,11 +51,12 @@
 
 ## Prepare-se para o Contato
 ### Mensagem Personalizada
-O copywriter deve enfatizar a importância de construir parcerias com influenciadores que representem os valores da Insider. Destacar como o marketing de influência pode amplificar a consciência da marca, engajar novos consumidores e fortalecer a lealdade dos clientes. 
+O copywriter deve enfatizar a importância de construir parcerias com influenciadores que representem os valores da Insider. Destacar como o marketing de influência pode amplificar a consciência da marca, engajar novos consumidores e fortalecer a lealdade dos clientes.
 
 ### Exemplo de Abertura de Email
-"Olá [Nome do Contato],  
+"Olá [Nome do Contato],
 Estou animado para conectar com você e explorar como a Insider, conhecida por suas roupas tecnológicas e sustentáveis, pode beneficiar-se do poder do marketing de influência. Sabemos que a personalização e o engajamento são fundamentais para os consumidores modernos, e acreditamos que juntos podemos criar experiências valiosas que terão um impacto positivo sobre o público."
 
 ---
+
 Este relatório fornece uma base sólida para o desenvolvimento de campanhas de marketing mais eficazes e personalizadas, com foco na Insider e sua proposta de valor no mercado de moda e vestuário.
