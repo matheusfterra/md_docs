@@ -1,7 +1,6 @@
 # Relatório de Prospecção - FSB Comunicação
 
 ## 1. Visão Geral da Empresa
-
 ### Nome da Empresa
 FSB Comunicação
 
@@ -18,7 +17,6 @@ Agência de comunicação com foco em gerenciamento de reputação, imagem e mar
 - **Brasília**: SHS Quadra 6, conj. A, bloco E, Ed. Business Center Park, cj. 712
 
 ## 2. História e Expertise
-
 ### Anos de Atuação
 - **Mais de 40 anos** no mercado
 
@@ -30,7 +28,6 @@ Agência de comunicação com foco em gerenciamento de reputação, imagem e mar
 A FSB acredita na criação de relações que geram resultados, utilizando dados para desenvolver estratégias de comunicação. A empresa se define como **#PRIGITAL**, unindo PR e marketing digital.
 
 ## 3. Soluções Oferecidas
-
 ### Portfólio de Serviços
 1. **PR + Digital**: Integração entre comunicação digital e offline.
 2. **Comunicação para o Setor Privado**: Atendimento a mais de 150 grandes empresas.
@@ -47,11 +44,10 @@ A FSB acredita na criação de relações que geram resultados, utilizando dados
 **Missão**: Proporcionar mais do que o cliente espera, apoiando nas necessidades de comunicação.
 
 ## 5. Identificação de Possíveis Dores e Necessidades
-
 ### Dores Potenciais
-- **Necessidade de Inovação**: A dificuldade em se adaptar rapidamente às novas dinâmicas de mercado.
-- **Gerenciamento de Reputação**: A importância crítica da boa reputação em tempos de críticas rápidas nas redes sociais.
-- **Engajamento com o Público**: Necessidade de criar comunicação que ressoe e converta o engajamento em lealdade.
+- **Necessidade de Inovação**: Adaptação rápida às novas dinâmicas de mercado.
+- **Gerenciamento de Reputação**: Importância crítica da boa reputação em tempos de críticas rápidas nas redes sociais.
+- **Engajamento com o Público**: Criar comunicação que ressoe e converta engajamento em lealdade.
 
 ### Contexto Atual
 O mercado muda constantemente devido à digitalização, e as empresas precisam de parceiros que as ajudem a navegar nessas transições.
@@ -64,6 +60,5 @@ O mercado muda constantemente devido à digitalização, e as empresas precisam 
 - [Página de Contato Completa](https://www.fsb.com.br/contato/)
 
 ## 7. Considerações Finais para o Copywriter
-
 ### Apelo para o E-mail
 O e-mail deve considerar as dores de inovação e gerenciamento de reputação, apresentando a FSB como parceira ideal para ajudar a prospectada a superar esses desafios. Uma menção à integração entre PR e marketing digital pode ser um forte diferencial a ser abordado. A mensagem deve refletir a filosofia de oferecer sempre mais do que o cliente espera e como a FSB está equipada para atender essas novas demandas do mercado.
