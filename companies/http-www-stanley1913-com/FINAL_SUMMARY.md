@@ -54,4 +54,10 @@
   - Promoções e desafios que incentivem a participação do cliente.
 
 ## Conclusão
-A Stanley 1913 possui uma história rica, produtos de alta qualidade e um forte apelo para um público que valoriza a durabilidade e a sustentabilidade. Através de uma estratégia de marketing de influência focada nas necessidades do consumidor moderno e campanhas interativas, a empresa pode aumentar seu alcance e solidificar sua presença no mercado.
+A Stanley 1913 possui uma história rica, produtos de alta qualidade e um forte apelo para um público que valoriza a durabilidade e a sustentabilidade. Através de uma estratégia de marketing de influência focada nas necessidades do consumidor moderno e campanhas interativas, a empresa pode aumentar seu alcance e solidificar sua presença no mercado. 
+
+### Ações Recomendadas para o Copywriting
+1. **Personalização:** Utilize informações relevantes sobre os produtos e seu apelo sustentável.
+2. **Dores do Consumidor:** Aborde as necessidades específicas do público-alvo, como durabilidade e funcionalidade.
+3. **Oportunidades de Campanha:** Sugira campanhas em torno do Dia das Mães e eventos ao ar livre que possam aumentar o engajamento.
+4. **Influenciadores:** Inclua exemplos específicos de influenciadores e como eles podem ajudar a promover os produtos.
