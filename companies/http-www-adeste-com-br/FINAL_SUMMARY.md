@@ -1,73 +1,65 @@
 # Relatório de Prospecção - Adeste
-
 **Data da Prospecção:** [Inserir data]  
 **Nome do SDR:** [Seu Nome]  
 **Ponto de Contato:** [Inserir informação de contato, se necessário]  
 
 ## Informações Gerais da Empresa
-
 ### Nome da Empresa: 
 Adeste
-
 ### Site Oficial: 
 [adeste.com.br](https://www.adeste.com.br)
-
 ### Setores de Atuação:
 1. Saúde
 2. Alimentos
 3. Nutrição Animal
 4. Pet Care
-
 ### Breve História:
-Fundada em 1952, a Adeste surgiu da visão de seus fundadores de expandir o mercado de alimentos e saúde no Brasil. Desde então, a empresa tem se adaptado às demandas do mercado, expandindo suas operações e diversificando suas atividades, incluindo a produção de princípios ativos farmacêuticos, soluções alimentícias e nutrição animal.
+A Adeste foi fundada em 1952, refletindo a visão de seus fundadores de expandir e inovar nos segmentos de alimentos e saúde no Brasil. Desde a sua origem, a empresa tem se adaptado e evoluído de acordo com as demandas do mercado, diversificando suas operações para incluir a produção de princípios ativos farmacêuticos, soluções alimentícias e nutrição animal.
 
 ## Estrutura de Negócios
-
 ### Principais Divisões:
-- **Health:** Produção e comercialização de produtos farmacêuticos, incluindo Heparina e Sulfato de Condroitina.
-- **Food:** Desenvolvimento de soluções para a indústria de alimentos com foco em aditivos e ingredientes.
-- **Animal Nutrition:** Produtos para nutrição animal, incluindo petiscos para cães com formulações inovadoras.
-- **InnovaFeed:** Suplementos alimentares para animais, com ênfase em proteínas hidrolisadas.
+- **Health:** Foco em produtos farmacêuticos, incluindo Heparina Sódica e Sulfato de Condroitina.
+- **Food:** Desenvolvimento de soluções alimentícias com ênfase em aditivos e ingredientes inovadores.
+- **Animal Nutrition:** Criação de produtos para nutrição animal, incluindo petiscos e suplementos.
+- **InnovaFeed:** Fabricação de suplementos alimentares focados em proteínas hidrolisadas.
 
 ### Produtos e Inovações:
-- **Heparina Sódica:** Anticoagulante bovino de alta qualidade.
-- **Fios de Sutura Catgut:** Produzidos com rigor experimental voltado à segurança cirúrgica.
-- **Soro Fetal:** Utilizado em pesquisas científicas e na produção de vacinas.
-- **Peptipro:** Fonte de proteína para alimentação animal, focado em jovens animais.
+- **Heparina Sódica:** Anticoagulante utilizado em procedimentos médicos.
+- **Fios de Sutura Catgut:** Desenvolvidos com rigor para atender aos padrões de segurança cirúrgica.
+- **Soro Fetal Bovina:** Utilizado em pesquisas científicas e na produção de vacinas.
+- **Peptipro:** Fonte de proteína para alimentação de animais, com ênfase em jovens.
 
 ### Visão Institucional:
-- **Missão:** Promover progresso por meio de tecnologia e inovação, criando relações duradouras com parceiros.
-- **Visão:** Ser referência no mercado, triplicando o tamanho até 2030.
-- **Valores:** Inovação, atendimento ao cliente e compromisso com resultados excepcionais.
+- **Missão:** Promover progresso por meio de inovação e tecnologia, estabelecendo parcerias duradouras.
+- **Visão:** Tornar-se referência no mercado, com a meta de triplicar seu tamanho até 2030.
+- **Valores:** Inovação, compromisso com resultados, e atendimento ao cliente excepcional.
 
 ## Análise de Mercado e Tendências
-
 ### Contexto Atual:
-A Adeste opera em mercados onde as tendências incluem um aumento na demanda por produtos naturais, saudáveis e éticos. Há um foco crescente em alimentos que promovem saúde e bem-estar, tanto para humanos quanto para animais, refletindo uma mudança nos hábitos consumidores.
+A Adeste está inserida em um ambiente de crescente demanda por produtos naturais e sustentáveis, tanto em saúde quanto em nutrição animal. Os consumidores estão cada vez mais conscientes das origens dos produtos que consomem, buscando qualidade e ética.
 
 ### Possíveis Dores da Indústria:
-- Aumento da concorrência nas áreas de nutrição animal e saúde.
-- Necessidade constante de inovação e adaptação às regulamentações mais rigorosas.
-- Desafios na comunicação eficaz das vantagens competitivas dos produtos a um público diversificado.
+- **Aumenta a Concorrência:** Com a entrada de novos players no mercado de nutrição animal e saúde.
+- **Inovação Necessária:** Pressão constante para inovar e lidar com regulamentações rigorosas.
+- **Comunicação com o Consumidor:** Desafios na efetiva comunicação do valor e das vantagens competitivas dos produtos.
 
 ## Oportunidades de Marketing de Influência
-A empresa pode se beneficiar significativamente de iniciativas de marketing de influência para:
-- Promover produtos em segmentos como nutrição animal, onde os influenciadores podem educar os consumidores sobre os benefícios dos produtos.
-- Criar campanhas focadas em sustentabilidade e qualidade que ressoam com os valores da empresa.
-- Engajar em colaborações com influenciadores e especialistas na área da saúde que possam atestar a qualidade dos princípios ativos farmacêuticos.
+A Adeste pode explorar várias iniciativas de marketing de influência:
+- **Educação do Consumidor:** Engage influenciadores do setor de saúde e nutrição para educar o público sobre produtos e suas vantagens.
+- **Campanhas de Sustentabilidade:** Colaboração com influenciadores que promovem práticas sustentáveis, conectando os valores da marca com seu público.
+- **Testemunhos de Influenciadores:** Utilização de influenciadores e especialistas da área de saúde para aumentar a credibilidade e confiança nos produtos oferecidos.
 
 ## Proposta de Ação
-1. **Campanha Focada em Influenciadores do Setor de Saúde:** Parcerias com nutricionistas e veterinários.
-2. **Conteúdo Educacional:** Criação de materiais informativos que podem ser distribuídos através de canais sociais e blogs, informando o público sobre a importância dos produtos.
-3. **Relatos de Clientes:** Estimular influenciadores e clientes satisfeitos a compartilharem suas experiências com os produtos Adeste, criando um impacto positivo e autêntico.
+1. **Campanha de Influência na Saúde:** Parcerias com nutricionistas e profissionais de saúde para promoção de produtos.
+2. **Conteúdo Educacional:** Produção de materiais informativos para distribuição em canais sociais e blogs, educando os consumidores sobre a importância de seus produtos.
+3. **Depoimentos de Clientes Satisfeitos:** Incentivar influenciadores e clientes a compartilhar suas experiências com os produtos Adeste, construindo ampla evidência social e credibilidade.
 
 ---
-
 **Notas Finais:**  
-A Adeste possui uma ótima posição no mercado, com um histórico de inovação e compromisso com a qualidade. A proposta de levar isso às suas audiências através do marketing de influência pode trazer resultados significativos, tanto em visibilidade quanto em vendas. 
+A Adeste possui uma sólida posição no mercado e um forte legado de inovação e compromisso com a qualidade. Implementar uma estratégia de marketing de influência pode significativamente aumentar sua visibilidade e, consequentemente, suas vendas.
 
 **Próximos Passos:**
-- Aproximar-se da equipe de marketing da Adeste para discutir estratégias de marketing de influência personalizadas.
-- Preparar uma apresentação com propostas detalhadas sobre como o marketing de influência pode aumentar a conscientização e as vendas dos produtos da Adeste.
+- Agendar uma reunião com a equipe de marketing da Adeste para discutir estratégias de marketing de influência.
+- Criar uma apresentação detalhada sobre como a implementação do marketing de influência pode resultar em aumento da consciência e vendas dos produtos Adeste.
 
-**Contato:** [Nome do SDR] | [Email do SDR] | [Telefone do SDR] 
+**Contato:** [Nome do SDR] | [Email do SDR] | [Telefone do SDR]
