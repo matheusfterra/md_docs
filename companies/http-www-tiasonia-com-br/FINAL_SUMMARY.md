@@ -1,72 +1,62 @@
-# Relatório de Prospecção - Tia Sônia
+# Relatório de Prospecção: Tia Sônia
 
-## Dados da Empresa
-- **Nome da Empresa:** Tia Sônia
-- **CNPJ:** 08.385.685/0007-39
-- **Endereço:** Av. Gupê, 10767, Barueri, SP
-- **Segmento:** Alimentação saudável e produtos naturais
-- **Contato:** 
-  - Telefones: (77) 3424-8000 | (77) 99902-8293
-  - Website: [www.tiasonia.com.br](http://www.tiasonia.com.br)
+## 1. Informações Gerais da Empresa
+- **Nome da empresa**: Tia Sônia
+- **CNPJ**: 08.385.685/0002-24
+- **Endereço**: Av. Gupê, 10767, Barueri, SP
+- **Website**: [www.tiasonia.com.br](http://www.tiasonia.com.br)
+- **Segmento**: Alimentos saudáveis, focado em granolas, barras de cereais, snacks, entre outros.
 
-## História da Empresa
-A Tia Sônia surgiu em 1995, criada por Marcos e Dona Sônia a partir de uma receita de granola caseira desenvolvida durante uma viagem a Machu Picchu. Desde então, a empresa cresceu, passando de uma produção caseira na garagem para uma linha diversificada de produtos saudáveis, com foco em nutrição e bem-estar. 
+## 2. Histórico da Empresa
+- **Fundação**: 1995, com a criação da granola caseira inspirada na receita de Dona Sônia.
+- **Evolução**:
+  - **1996**: Início da produção caseira na garagem.
+  - **1998**: Abertura da primeira fábrica para expansão.
+  - **2000**: Lançamento de uma linha diversificada de produtos.
+  - **2010**: Compromisso com a sustentabilidade e ecoeficiência.
+  - **2021**: Renovação da identidade visual em comemoração aos 25 anos.
+  - **2022**: Certificação como Empresa B, evidenciando responsabilidade social e ambiental.
+  - **2024**: Lançamento da Gemada em Pó, um novo produto que resgata sabores tradicionais.
 
-### Linha do Tempo
-- **1995:** Lançamento da granola caseira.
-- **1996:** Início da produção na garagem.
-- **1997:** Criação da primeira logo e embalagem.
-- **1998:** Abertura da primeira fábrica.
-- **2000 a 2010:** Expansão do portfólio para incluir barras, snacks e granolas salgadas.
-- **2015:** Consolidação como marca favorita no Nordeste.
-- **2021:** Renovação da identidade visual ao 25º aniversário.
-- **2022:** Certificação como Empresa B.
-- **2024:** Lançamento da Gemada em pó.
+## 3. Portfólio de Produtos
+- **Granolas**
+- **Barras de Cereais**
+- **Snacks**
+- **Açúcares**
+- **Cookies**
+- **Bebidas em pó**
+- **Produtos integrais**
 
-## Produtos
-A Tia Sônia oferece uma ampla gama de produtos, incluindo:
-- Granolas
-- Barras de cereais
-- Snacks
-- Açúcares (como açúcar de coco e melado)
-- Cookies
-- Pastas (como pasta de amendoim)
-- Bebidas em pó
+### Produtos em Destaque
+- Gemada Tia Sônia (novo lançamento)
+- Granolas Salgadas (variações de sabor)
+- Barras Funcionais
 
-### Categorias e Links
-- [Granola](http://www.tiasonia.com.br/granola-tia-sonia)
-- [Snacks](http://www.tiasonia.com.br/snacks)
-- [Integrais](http://www.tiasonia.com.br/integrais)
-- [Açúcares](http://www.tiasonia.com.br/acucares)
-- [Cookies](http://www.tiasonia.com.br/cookies)
-- [Pastas](http://www.tiasonia.com.br/pastas-tia-sonia)
-- [Barras](http://www.tiasonia.com.br/barras)
-- [Todas as Ofertas](http://www.tiasonia.com.br/p/ofertas)
+## 4. Público-Alvo
+- Consumidores de produtos saudáveis, com preocupação com a nutrição e alimentação consciente.
+- Segmento B2B através do portal de compras (compre.tiasonia.com.br), visando revendedores e supermercados.
 
-## Público-alvo
-A marca Tia Sônia se posiciona para consumidores que buscam um estilo de vida saudável, priorizando produtos naturais, sustentáveis e de qualidade. Isso inclui pessoas com restrições alimentares, como veganos, intolerantes ao glúten e lactose, além de aqueles que buscam uma alimentação natural e consciente.
+## 5. Presença Digital e Comunicação
+- **Website**: Oferece uma experiência clara e acessível sobre os produtos, acompanhada de informações sobre sustentabilidade e iniciativas sociais.
+- **Redes Sociais**: A empresa parece estar ativa, embora não tenhamos dados para confirmar suas presenças específicas.
 
-## Características e Diferenciais
-- **Foco em Sustentabilidade:** A Tia Sônia se compromete com a responsabilidade ambiental, utilizando ingredientes orgânicos e práticas de reciclagem.
-- **Identidade Emocional:** A empresa se apresenta como próxima aos seus consumidores, comunicando-se de maneira calorosa e amigável.
-- **Certificações Importantes:** Além da certificação como Empresa B, a Tia Sônia possui o selo 'Eu Reciclo' que garante a logística reversa de suas embalagens.
+## 6. Características da Marca
+- **Slogan**: "Nutre com Amor."
+- **Mensagem**: Foco na conexão emocional, tradição familiar e compromisso com a qualidade e saúde.
+- **Sustentabilidade**: Utilização de ingredientes orgânicos e práticas responsáveis, com selo "Eu Reciclo" para comprometer-se com a logística reversa de embalagens.
 
-## Possíveis Dores
-1. **Dificuldade em se destacar em um mercado saturado** de produtos saudáveis.
-2. **Necessidade de conectar com influenciadores** que tenham um público engajado e alinhado com os valores da marca.
-3. **Aumento da concorrência** no segmento de alimentação saudável, o que pode resultar em perda de market share.
+## 7. Dores e Desafios
+- **Concorrência**: Mercado de alimentos saudáveis e snacks em crescente competição, especialmente com novas marcas emergentes.
+- **Mudanças nas tendências do consumidor**: Necessidade de se adaptar às preferências em constante mudança dos consumidores por alimentos mais saudáveis e práticas ambientais.
+- **Visibilidade da Marca**: Potencial de ampliação na comunicação, especialmente nas plataformas digitais, para alcançar um público mais amplo e diversificado.
 
-## Contexto
-Com o crescente interesse por produtos saudáveis e naturais, marcas como a Tia Sônia têm a oportunidade de expandir sua presença no mercado através de estratégias de marketing que envolvam parcerias com influenciadores que compartilham seus valores. A utilização de influenciadores pode não apenas aumentar a visibilidade da marca, mas também construir credibilidade e confiança entre os consumidores.
+## 8. Oportunidades para Marketing de Influência
+- **Colaboração com Influenciadores**: Engajar influenciadores no segmento de saúde e bem-estar pode ajudar a promover a marca e seus novos produtos, especialmente com a recente introdução de itens como a Gemada em Pó.
+- **Conteúdo Autêntico**: A marca pode se beneficiar de histórias autênticas sobre sua trajetória e filosofia de vida saudável, que podem ser bem exploradas por influenciadores.
 
-## Estratégia de Prospecção
-- Apresentar propostas personalizadas para a Tia Sônia que mostrem como o marketing de influência pode revelar a essência da marca, expandir seu alcance e fortalecer a conexão emocional com seu público.
-- Utilizar dados de engajamento e análises de influenciadores que trabalham com produtos saudáveis para apresentá-los como potenciais novos parceiros.
+## 9. Sugestões de Ações
+- Realizar campanhas com influenciadores no eixo saúde e nutrição, destacando o compromisso com a qualidade e responsabilidade ambiental.
+- Focar na comunicação de lançamentos e inovações, incentivando influenciadores a compartilhar suas experiências com os produtos.
 
-## Sugestões para E-mail do Copywriter
-1. **Abordagem Pessoal:** Iniciar com uma referência à rica história da Tia Sônia e a conexão emocional com o consumidor.
-2. **Enfatizar Sustentabilidade:** Destacar como os influenciadores podem impulsionar a mensagem de sustentabilidade da marca.
-3. **Soluções para Dores:** Apresentar estratégias específicas de marketing de influência que podem ajudar a melhorar a posição da Tia Sônia no mercado.
-4. **Chamada para Ação:** Incentivar uma reunião para discutir como a parceria pode beneficiar a marca e explorar novas possibilidades de crescimento.
-
-Esse relatório serve como uma base sólida para o copywriter da equipe, garantindo um abordagem personalizada e relevante na comunicação com a Tia Sônia.
+## 10. Conclusão
+A Tia Sônia tem uma história rica e um portfólio bem definido, alinhado com a surante interesse do público por alimentos saudáveis e sustentáveis. Com um bom plano de marketing de influência, há potencial para expandir sua presença no mercado e engajar novos consumidores, reforçando a imagem da marca como uma alternativa confiável e saborosa.
