@@ -9,7 +9,7 @@
 
 ## 2. Cultura e Valores
 - **Cultura**: Inovadora, acolhedora e respeitosa, promovendo um ambiente de trabalho colaborativo e inclusivo.
-- **Valorização da diversidade**: A empresa se destaca por suas políticas de inclusão e diversidade, sendo reconhecida entre as 10 melhores empresas nacionais para mulheres e LGBTQIAPN+.
+- **Valorização da diversidade**: A empresa se destaca por suas políticas de inclusão e diversidade, reconhecida entre as 10 melhores empresas nacionais para mulheres e LGBTQIAPN+.
 - **Missão Social**: Conectar pessoas e valorizar o potencial humano através da tecnologia e da inclusão.
 
 ## 3. Prêmios e Reconhecimentos
@@ -23,16 +23,15 @@
 - **Apoio para Estudo de Língua Inglesa**: Reembolso de até R$150 por mês.
 - **Alimentação**: R$900/mês via cartão Caju (VR ou VA).
 - **Política de Férias**: Férias com manutenção de alimentação (VR/VA).
-- **Apoio a Diversidade**: Programa "Abraço Trans" que oferece apoio jurídico, psicológico e financeiro.
-- **Folga no Aniversário** e **Integração Mensal**: R$70,00 mensais no Caju.
+- **Apoio a Diversidade**: Programa "Abraço Trans" oferece apoio jurídico, psicológico e financeiro.
+- **Integração Mensal**: R$70,00 mensais no Caju.
 
 ## 5. Políticas de Inclusão
-- **Diversidade e Respeito**: Compromisso em oferecer igualdade de oportunidades independentemente de gênero, orientação sexual, raça, religião ou deficiência.
+- **Diversidade e Respeito**: Compromisso em oferecer igualdade de oportunidades independente de gênero, orientação sexual, raça, religião ou deficiência.
 - **Ambiente Inclusivo**: Práticas que promovem a igualdade dentro do ambiente de trabalho.
 
 ## 6. Estrutura de Trabalho
-- **Anywhere Office**: Modelo de trabalho remoto que permite liberdade geográfica aos colaboradores.
-- **Flexibilidade**: Horários flexíveis, trabalho remoto e dress code casual promovem um ambiente de trabalho descontraído e inclusivo.
+- **Anywhere Office**: Modelo de trabalho remoto que permite liberdade geográfica aos colaboradores. A flexibilidade é promovida através de horários flexíveis, trabalho remoto e dress code casual.
 
 ## 7. Processo Seletivo
 1. **Candidatura**: Análise cuidadosa de perfis.
@@ -43,11 +42,18 @@
 
 ## 8. Possíveis Dores e Desafios
 - **Desafios na Integração de Novos Colaboradores**: A transição para um ambiente de trabalho remoto pode ser desafiadora, e a inclusão de pessoas de diversas origens pode exigir atenção especial.
-- **Divulgação da Cultura Inclusiva**: A necessidade de comunicar efetivamente suas políticas de diversidade e inclusão para atrair talentos e parcerias com empresas que compartilhem esses valores.
+- **Divulgação da Cultura Inclusiva**: Necessidade de comunicar efetivamente suas políticas de diversidade e inclusão para atrair talentos e parcerias com empresas que compartilhem esses valores.
 
 ## 9. Contexto do Mercado
 - **Crescimento do Marketing de Influência**: A crescente necessidade de marcas interagirem com influenciadores que têm um papel vital nas comunicações modernas pode ser uma grande oportunidade para colaboração.
-- **Tendências de Inclusão**: O mercado está cada vez mais atento à inclusão e diversidade, representando uma grande oportunidade para a Atlas Technologies se destacar ao trabalhar com marcas que valorizem essas práticas.
+- **Tendências de Inclusão**: O mercado está cada vez mais atento à inclusão e diversidade, representando uma oportunidade para a Atlas Technologies se destacar ao trabalhar com marcas que valorizem essas práticas.
 
 ## 10. Conclusão
-Atlas Technologies é uma empresa inovadora que valoriza a inclusão e a diversidade. Sua cultura acolhedora e suas políticas de benefícios robustas fazem dela uma referência no setor. As oportunidades no marketing de influência, alinhadas com seu compromisso social, podem levar a colaborações frutíferas, ajudando tanto a empresa quanto os influenciadores a crescerem juntos. Este contexto deve ser considerado na elaboração de uma comunicação personalizada para a equipe da Atlas, abordando suas conquistas e alinhando possíveis sinergias.
+Atlas Technologies é uma empresa inovadora que valoriza a inclusão e a diversidade. Sua cultura acolhedora e políticas de benefícios robustas fazem dela uma referência no setor. As oportunidades no marketing de influência, alinhadas com seu compromisso social, podem levar a colaborações frutíferas, ajudando tanto a empresa quanto os influenciadores a crescerem juntos. Esse contexto deve ser considerado na elaboração de uma comunicação personalizada para a equipe da Atlas, abordando suas conquistas e alinhando possíveis sinergias. 
+
+### Recomendações para Estratégia de Prospecção
+- Focar na comunicação sobre como o marketing de influência pode reforçar as iniciativas de inclusão da Atlas Technologies.
+- Customizar o conteúdo de e-mails destacando casos de sucesso de campanhas que tiveram impacto nas comunidades diversas.
+- Incentivar a participação em eventos que promovam a diversidade e inclusão, mostrando sinergia entre os objetivos da Atlas e as iniciativas de marketing de influência. 
+
+Este relatório fornece uma visão abrangente da Atlas Technologies, permitindo que a equipe de copywriting elabore uma comunicação que ressoe com a cultura empresarial e os objetivos estratégicos da empresa.
