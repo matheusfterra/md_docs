@@ -1,11 +1,11 @@
 # Relatório de Prospecção - Zig Fun
 
 ## Informações Gerais
-**Nome da Empresa:** Zig Fun  
-**Website:** [zig.fun](http://www.zig.fun)  
-**Segmento:** Tecnologia para gerenciamento de eventos, bares e restaurantes.  
-**Localização:** Operações em 8 países, incluindo Brasil, Portugal e México.  
-**Anos de Experiência:** Mais de 10 anos no mercado de entretenimento.
+- **Nome da Empresa:** Zig Fun
+- **Website:** [zig.fun](http://www.zig.fun)
+- **Segmento:** Tecnologia para gerenciamento de eventos, bares e restaurantes.
+- **Localização:** Operações em 8 países, incluindo Brasil, Portugal e México.
+- **Anos de Experiência:** Mais de 10 anos no mercado de entretenimento.
 
 ## Produtos e Serviços Oferecidos
 1. **Sistemas de Venda de Ingressos:**
