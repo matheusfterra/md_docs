@@ -1,50 +1,60 @@
 # Relatório de Prospecção - Construmarket
 
-## Informações Gerais da Empresa
+## 1. Informações Gerais
 
-- **Nome:** Construmarket
-- **Segmento:** Construção Civil, Facilities e Manutenção
-- **Website:** [construmarket.com.br](http://www.construmarket.com.br)
-  
-### Descrição da Empresa
-Construmarket é um hub de plataformas digitais que conecta marcas e empresas do setor da construção civil a influenciadores, assim como a diversos fornecedores de serviços e produtos, gerando soluções completas para gestão de projetos, compras e manutenção industrial. Com mais de 2 milhões de usuários e mais de 150 mil obras digitalizadas, a Construmarket tem se destacado como a maior construtech do Brasil.
+**Nome da Empresa:** Construmarket  
+**Website:** [construmarket.com.br](http://www.construmarket.com.br)  
+**Segmento:** Marketing de Influência, Construção Civil, Facilities e Manutenção  
 
-## Plataformas Oferecidas
+## 2. Visão Geral da Empresa
 
-1. **Construmanager:** Plataforma para gestão e colaboração em projetos de obras civis.
-2. **Construcompras:** Plataforma para compra e venda de materiais e serviços da construção civil.
-3. **Construpoint:** Software para gerenciamento de qualidade, engenharia e planejamento de obras.
-4. **Optimus:** Plataforma para gestão de manutenção predial e facilities.
-5. **Sim+:** Plataforma focada em gestão de manutenção industrial.
-6. **Rede de Obras:** Conecta fornecedores com informações de obras em andamento e sua fase de desenvolvimento.
-7. **Marketplace:** Facilita a venda de produtos e serviços, conectando fabricantes a distribuidores.
+A Construmarket se apresenta como um hub de plataformas digitais focadas na construção civil. Ela conecta construtoras a fornecedores de materiais e serviços, e oferece soluções para gestão de projetos, manutenção e facilities. A empresa se destaca como líder no setor, com mais de 1 milhão de usuários nas suas plataformas.
 
-## Características e Vantagens
-- **Inteligência de Mercado:** Construmarket oferece dados precisos e atualizados sobre obras, permitindo uma prospecção mais eficaz.
-- **Automação:** Soluções digitalizadas que promovem a eficiência em processos como gestão de manutenção e compras.
-- **Conectividade:** Capacidade de conectar usuários a fornecedores e facilitar o networking entre influenciadores e marcas do setor.
-- **Analytics:** Integração de dados que ajudam na tomada de decisões e no acompanhamento em tempo real de projetos e manutenções.
+### Plataformas Oferecidas
+- **Construmanager**: Gestão e colaboração em projetos de obras civis.
+- **Construcompras**: Plataforma de compra e venda de materiais e serviços.
+- **Construpoint**: Gerenciamento de obras e qualidade.
+- **Optimus**: Gestão de manutenção predial.
+- **Sim+**: Gestão de manutenção industrial.
+- **Rede de Obras**: Inteligência de mercado para a construção civil.
+- **Marketplace**: Conexão entre fabricantes e redes de vendas.
 
-## Possíveis Dores e Desafios
-- **Dificuldade na prospecção de obras:** Muitas empresas enfrentam o desafio de identificar quais obras estão em andamento e quais insumos oferecer.
-- **Gerenciamento de manutenção:** A falta de uma gestão eficiente pode deixar obras e facilities com problemas recorrentes e custos elevados.
-- **Conexão com influenciadores adequados:** As empresas precisam identificar influenciadores que realmente se alinham com seus objetivos e valores.
+## 3. Público-Alvo
 
-## Contexto do Mercado
-O mercado da construção civil no Brasil está em crescimento, com contínuas inovações tecnológicas e um foco cada vez maior na digitalização. A pandemia impulsionou o uso de plataformas digitais, e as empresas estão buscando maneiras de se adaptar a este novo normal, destacando a importância de uma gestão eficiente e da comunicação clara nas etapas de construção.
+- **Construtoras**: Empresas que buscam otimizar seus processos de compras, gestão de projetos e manutenção.
+- **Fornecedores**: Fabricantes e distribuidores que desejam aumentar suas oportunidades de negócios e conectar-se com construtoras.
 
-## Objetivos da Prospecção
-1. **Estabelecer parcerias com influenciadores do setor:** Auxiliar as marcas a se conectarem com influenciadores que atendem seu nicho de mercado.
-2. **Demonstrar as vantagens das soluções Construmarket:** Mostrar como suas plataformas digitais podem resolver as dores enfrentadas pelas empresas no setor.
-3. **Fornecer dados e insights relevantes:** Utilizar a inteligência de mercado da Construmarket para oferecer uma visão detalhada que ajude na tomada de decisões.
+## 4. Características do Mercado
 
-## Ações Sugeridas para abordagem
-- **Email marketing personalizado:** Usar as dores específicas mencionadas nas comunicações e dados do mercado para moldar a mensagem para cada empresa prospectada.
-- **Oferecer uma demonstração gratuita:** Incentivar a experimentação das plataformas que a Construmarket oferece, destacando como elas podem facilitar os processos.
+- **Necessidade de Integração**: Muitas construtoras enfrentam desafios em integrar suas operações com fornecedores, o que resulta em atrasos e custos adicionais.
+- **Digitalização**: Com a evolução da tecnologia, há uma crescente demanda por soluções digitais que otimizem a gestão de obras e manutenção.
+- **Concorrência**: O setor é altamente competitivo, demandando soluções que garantam eficiência e redução de custos.
 
-## Considerações Finais
-A Construmarket se destaca por suas soluções inovadoras e pela qualidade de seus produtos e serviços. Com a crescente demanda por digitalização na construção civil, a prospecção de clientes deve focar em como a Construmarket pode se tornar um parceiro estratégico valioso para empresas que buscam melhorar sua eficiência, conectividade e gestão.
+## 5. Dores e Desafios do Cliente
+
+- **Burocracia**: Construtoras lidam com processos burocráticos complexos ao contratar fornecedores e gerenciar projetos, resultando em desperdício de tempo.
+- **Falta de Visibilidade**: Dificuldade em acompanhar o progresso de obras e a coordenação entre equipes.
+- **Aumento de Custos**: Custos elevados devido à ineficiência na gestão de suprimentos e falta de acesso a informações relevantes de mercado.
+
+## 6. Proposta de Valor da Construmarket
+
+A Construmarket promete permitir que seus clientes digitalizem, integrem e otimizem suas operações de construção civil e serviços de manutenção, resultando em aumento de produtividade e redução de custos. Sendo uma plataforma completa, é capaz de atender diversas necessidades, desde a gestão de projetos até a compra de materiais.
+
+## 7. Contexto e Diferença Competitiva
+
+A empresa se diferencia através de suas várias plataformas que unem tecnologias de ponta, como IoT e BIM (Modelagem da Informação da Construção), oferecendo uma solução integrada que abrange todas as etapas da construção civil. A Construmarket se posiciona como uma "Construtech", demonstrando um forte compromisso com a inovação e a eficiência operacional.
+
+## 8. Referências e Casos de Sucesso
+
+- **Depoimentos de Clientes**: Clientes destacam a eficiência em processos de gestão que a Construmarket proporciona, com aumento significativo na produtividade e redução de erros.
+- **Estudos de Caso**: Muitas empresas relataram uma melhoria nos índices de eficiência após a implementação das soluções Construmarket.
+
+## 9. Conclusão
+
+A Construmarket está bem posicionada para atender as necessidades de construtoras e fornecedores no setor da construção civil, oferecendo soluções ágeis, integradas e tecnológicas. O entendimento profundo das dores no ramo e a aplicação de tecnologia coloca a empresa em um bom caminho para fortalecer sua presença no mercado e auxiliar seus clientes a atingirem melhores resultados.
 
 ---
 
-Este relatório deve ser utilizado para que o copywriter da equipe desenvolva um email profundo e personalizado que chamará a atenção das empresas prospectadas, focando sempre nas soluções e benefícios que a Construmarket pode oferecer.
+## Ação Proposta
+
+Elaborar um email de prospecção que aborde as principais dores do cliente, utilize a proposta de valor da Construmarket e inclua um convite para uma demonstração personalizada das soluções.
