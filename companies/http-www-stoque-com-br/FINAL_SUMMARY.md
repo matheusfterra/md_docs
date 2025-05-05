@@ -1,66 +1,66 @@
-## Relatório de Prospecção para Stoque
+# Relatório de Prospecção para a Stoque
 
-### Informações Gerais da Empresa
-
+## Informações Gerais da Empresa
 - **Nome da Empresa:** Stoque
-- **Website:** [stoque.com.br](https://stoque.com.br)
-- **Setor:** Automação Digital e Processos de Gestão
-- **Localização:** Sede em Belo Horizonte/MG, com escritórios em São Paulo/SP, Serra/ES e Belém/PA
-- **Ano de Fundação:** 2002
-- **Número de Funcionários:** Mais de 450 colaboradores
-- **Principais Mercados:** Instituições Financeiras, Educação, Gráficas e Setores Públicos
+- **Website:** [stoque.com.br](http://www.stoque.com.br)
+- **Setor:** Automação Digital
+- **Localização:** Sede em Belo Horizonte, com escritórios em São Paulo, Serra (ES) e Belém (PA).
+- **Tempo de Atuação no Mercado:** 21 anos
+- **Número de Colaboradores:** +450
+- **Número de Clientes Atendidos:** +500
 
-### Descrição da Empresa
+## Serviços Oferecidos
+A Stoque fornece soluções de automação digital para processos e documentos focando em quatro áreas principais:
 
-A Stoque é uma empresa especializada em automação digital full service, oferecendo soluções para a transformação de processos e documentos, abarcando a digitalização e automação inteligente de operações. A empresa ajuda seus clientes a simplificar processos e impulsionar resultados por meio de tecnologias como Robotic Process Automation (RPA) e inteligência artificial.
+1. **Automação como Serviço (AaaS):**
+   - Utiliza tecnologias de RPA (Robotic Process Automation) e inteligência artificial para otimizar processos de negócios.
+   - **Benefícios:** Redução de atividades manuais, aumento da eficiência operacional e melhoria na experiência do cliente.
 
-#### Portfólio de Serviços
-1. **Automação as a Service (AaaS):** Automação inteligente de processos de ponta a ponta utilizando RPA e inteligência artificial.
-2. **Business Process as a Service (BPaaS):** Nova abordagem para o BPO, integrando tecnologia e processos para digitalizar operações de back office.
-3. **Impressão Digital:** Soluções de impressão e gestão de documentos, integrando tecnologia para eficiência e rentabilidade.
-4. **Plataformas Digitais:** Soluções SaaS como o Ábaris para gestão de conteúdo e automação de fluxos.
-5. **Onboarding Digital:** Aceleração da aquisição e conversão de novos usuários com validações em segundos.
-6. **Plataforma de Automação de Crédito:** Digitalização e automação da esteira de crédito para instituições financeiras.
+2. **Business Process as a Service (BPaaS):**
+   - Integra tecnologia, pessoas e processos para digitalizar operações de back office.
+   - **Benefícios:** Agilidade, segurança e escalabilidade nas operações.
 
-### Características dos Produtos e Serviços
+3. **Plataformas Digitais (Ábaris e Zeev):**
+   - **Ábaris:** Solução SaaS para gestão e automação de processos acadêmicos, especialmente voltada para instituições de ensino superior.
+   - **Zeev:** Plataforma low-code para modelagem e automação de processos de negócio.
 
-#### 1. Automação as a Service (AaaS)
-   - Combinação de RPA e IA para otimizar processos e diminuir a intervenção humana.
-   - Aumento de eficiência operacional.
-   - Integração com sistemas críticos e políticas de segurança avançadas.
+4. **Impressão Digital:**
+   - A Stoque está focando suas operações em automação digital e decidiu vender sua carteira de clientes do setor de impressão para a Selbetti.
 
-#### 2. Business Process as a Service (BPaaS)
-   - Transformação de processos de back office tradicionais em operações digitais eficientes.
-   - Aumento na produtividade e redução de custos operacionais.
+5. **Automação de Crédito:**
+   - Plataforma para digitalização, automação e orquestração da esteira de crédito.
 
-#### 3. Ábaris - Plataforma de Gestão
-   - Solução modular para a gestão de secretarias acadêmicas de IES, atendendo a normativas do MEC.
-   - Digitalização e automação de processos acadêmicos.
+## Principais Mercados de Atuação
+- **Instituições Financeiras:** Oferece automação de processos de crédito, onboarding digital e soluções para otimização de custos nos back offices.
+- **Educação:** Desenvolvimento de soluções para digitalização de secretarias acadêmicas.
+- **Gráficas Digitais:** Otimização de operações para gráficas.
 
-### Contexto de Mercado e Segmento
+## Dores Identificadas nos Clientes
+- **Ineficiência Operacional:** Muitos clientes enfrentam desafios com processos manuais e repetitivos, que afetam a produtividade.
+- **Altos Custos Operacionais:** A necessidade de reduzir custos para melhorar a margem de lucro é uma preocupação comum, especialmente em setores competitivos.
+- **Risco de Fraudes:** Em instituições financeiras, a segurança e a redução de fraudes são cruciais, principalmente no onboarding de clientes e na automação de processos de crédito.
+- **Conformidade Regulatória:** Instituições educacionais e financeiras estão constantemente sob pressão para se manterem em conformidade com as regulamentações (ex: normas do MEC).
 
-A Stoque atua em um contexto onde a transformação digital e automação se tornaram essenciais para a competitividade nas indústrias. Com o crescimento de fintechs e a pressão por eficiência, especialmente no setor financeiro, a demanda por soluções que digitalizem e automatizem processos está em alta. A empresa se posiciona como uma parceira estratégica para organizações que buscam modernizar suas operações através de tecnologia.
+## Contexto de Prospecção
+A Stoque está posicionada como uma parceira estratégica para empresas que desejam transformar seus processos digitais. O foco em automação digital e a experiência de 21 anos são fatores que podem ser destacados para potencializar o interesse de possíveis clientes.
 
-### Possíveis Dores do Cliente e Oportunidades de Vendas
+## Oportunidades
+- **Setor de Educação:** A demanda por soluções digitalizadas está crescendo devido à pressão para modernizar as práticas acadêmicas e atender às exigências do MEC.
+- **Instituições Financeiras:** Com o aumento do uso de fintechs, há uma necessidade crescente de automação em processos financeiros para melhorar a experiência do cliente e reduzir custos.
 
-- **Dores Identificadas:**
-  - Processo manual e moroso de análise e formalização de crédito, que pode levar a aumento de custos e riscos de erro.
-  - Necessidade de digitalização de altos volumes de documentos acadêmicos e administrativos.
-  - Falta de integração entre sistemas legados, resultando em dificuldade de acesso à informação e aumento da burocracia.
+## Mensagem Personalizada para Prospecção
+"Olá [Nome do Contato],
 
-- **Oportunidades:**
-  - Oferecer soluções de AaaS para otimização de operações financeiras, reduzindo a equipe de back office.
-  - Apresentar o Ábaris como uma ferramenta essencial para instituições de ensino que precisam digitalizar entradas acadêmicas e registros.
-  - Implementar soluções de onboarding digital para acelerar processos de aquisição de clientes em instituições financeiras.
+Estamos vivendo um momento de transformação digital sem precedentes, e a [Nome da Empresa] pode se beneficiar significativamente ao aprimorar seus processos. Na Stoque, temos o compromisso de simplificar operações e impulsionar resultados com nossas soluções de automação digital e plataformas personalizadas.
 
-### Informações para Personalização do Contato
+Com mais de 21 anos de experiência e uma ampla gama de serviços focados em [Inserir o Nome do Segmento da Empresa Potencial], temos ajudado centenas de empresas a conquistar eficiência, reduzir custos operacionais e melhorar a experiência do cliente.
 
-#### Persona Ideal
-- **Decisores:** Diretores de Tecnologia da Informação, Gerentes de Operações, Diretores Administrativos, Gestores de Processos nas áreas de Educação e Finanças.
-- **Objetivos:** Otimização de processos, redução de custos, aumento da segurança da informação, melhoria na experiência do cliente e adaptação às exigências legais.
+Gostaríamos de ter a oportunidade de discutir como podemos ajudar [Nome da Empresa Potencial] a dar um salto em sua transformação digital, garantindo não apenas conformidade com regulamentações, mas também uma experiência aprimorada para seus clientes.
 
-#### Mensagem Central para Prospecção
-A Stoque oferece a transformação digital que sua instituição precisa, com soluções que não só modernizam processos, mas também garantem eficiência e segurança nas operações. Vamos conversar sobre como podemos ajudar sua organização a atingir novos patamares de eficiência e agilidade.
+Aguardo seu retorno para conversarmos mais!
 
-### Conclusão
-A Stoque é uma empresa bem posicionada para atrair setores que estão cada vez mais priorizando a automatização e a digitalização de seus processos. Com soluções robustas e adaptáveis, é vital destacar a experiência e os resultados comprovados com outros clientes no mesmo segmento ao abordar novas possibilidades de negócios. O foco deve ser em demonstrar como a Stoque pode efetivamente remover as dores do cliente e colaborar na transformação de suas operações.
+Atenciosamente, [Seu Nome]"
+  
+--- 
+
+Esse relatório deve equipar o copywriter com informações cruciais para personalizar a abordagem durante a prospecção outbound, destacando as soluções e expertise da Stoque e como elas se aplicam às necessidades e desafios da empresa alvo.
