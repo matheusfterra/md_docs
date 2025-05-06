@@ -52,7 +52,7 @@
 - **Parceria no crescimento:** "Acreditamos que a aprendizagem contínua é fundamental para o sucesso e estamos aqui para oferecer a melhor educação em tecnologia voltada para o futuro."
 
 ## 7. Conclusão
-A FIAP é uma instituição forte e consolidada no mercado de educação tecnologia, com uma ampla gama de cursos e parcerias que potencializam a formação de alunos e capacitação de empresas. A prospecção junto a essa instituição deve ser cuidadosa, respeitando suas necessidades e focando em como a colaboração pode trazer benefícios mútuos. 
+A FIAP é uma instituição forte e consolidada no mercado de educação tecnologia, com uma ampla gama de cursos e parcerias que potencializam a formação de alunos e capacitação de empresas. A prospecção junto a essa instituição deve ser cuidadosa, respeitando suas necessidades e focando em como a colaboração pode trazer benefícios mútuos.
 
 ### Ação próxima
 - Propor uma reunião para apresentar as soluções de marketing de influência, evidenciando como esses serviços podem potencializar a visibilidade e o engajamento dos programas da FIAP.
