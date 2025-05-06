@@ -1,5 +1,5 @@
+```markdown
 ## 📄 `FINAL_SUMMARY.md`
-
 # Relatório de Prospecção - Nuvemshop
 
 ## 1. **Informações Gerais da Empresa**
@@ -19,10 +19,10 @@ A Nuvemshop fornece uma solução completa para empreendedores que desejam criar
   - Atendimento ao cliente reconhecido como um dos melhores do setor
 
 ## 3. **Público-Alvo**
-- Empreendedores iniciantes no e-commerce
-- Lojistas que desejam migrar de plataformas existentes (como Shopify)
-- Empresas buscando escalar suas operações de venda online
-- Negócios com altos volumes de vendas que necessitam de soluções personalizadas
+- **Empreendedores iniciantes no e-commerce:** Buscando um caminho simples para iniciar suas vendas online.
+- **Lojistas que desejam migrar de plataformas existentes** (como Shopify): Procurando uma solução mais personalizada e com suporte local.
+- **Empresas buscando escalar suas operações de venda online:** Precisa de soluções robustas e acessíveis para um alto volume de vendas.
+- **Negócios com altos volumes de vendas que necessitam de soluções personalizadas:** Demandando recursos específicos e maior atenção no suporte.
 
 ## 4. **Funções e Funcionalidades da Nuvemshop**
 - **Criação de Lojas:** Ferramenta intuitiva para montagem de lojas virtuais.
@@ -33,14 +33,14 @@ A Nuvemshop fornece uma solução completa para empreendedores que desejam criar
 
 ## 5. **Dores e Necessidades do Cliente**
 - **Complexidade no gerenciamento de e-commerce:** Dificuldades na gestão do site, movimentação de estoque e atendimento ao cliente.
-- **Alta taxa de abandono de carrinho:** Necessidade de otimização do processo de checkout.
-- **Integração com múltiplos canais de vendas:** Busca de soluções para competir em marketplaces e redes sociais.
+- **Alta taxa de abandono de carrinho:** Necessidade de otimização do processo de checkout para melhorar a conversão.
+- **Integração com múltiplos canais de vendas:** Busca de soluções que permitam vender através de marketplaces e redes sociais.
 - **Aprimoramento no SEO:** Necessidade de aumentar a visibilidade e tráfego da loja.
 
 ## 6. **Características do Cliente Ideal (ICP)**
-- Empreendedores com conhecimento sobre e-commerce, mas sem estrutura adequada.
-- Pequenas e médias empresas que buscam uma plataforma personalizável com custo inicial reduzido.
-- Marcas que desejam expandir rapidamente suas operações online com suporte contínuo.
+- Empreendedores com conhecimento sobre e-commerce, mas sem estrutura adequada para gerenciar uma loja online.
+- Pequenas e médias empresas que buscam uma plataforma personalizável, com custo inicial reduzido e escalabilidade.
+- Marcas que desejam expandir suas operações online rapidamente e com suporte contínuo.
 
 ## 7. **Concorrência**
 - Shopify
@@ -50,24 +50,25 @@ A Nuvemshop fornece uma solução completa para empreendedores que desejam criar
 
 ## 8. **Diferenciação da Nuvemshop em Relação à Concorrência**
 - Atendimento ao cliente de alta qualidade e suporte técnico personalizado.
-- Planos acessíveis com opções gratuitas.
-- Foco em soluções adequadas ao mercado latino-americano, além de recursos que permitem escalabilidade sem altos custos.
+- Planos acessíveis, incluindo opções gratuitas para iniciar.
+- Foco em soluções adaptadas ao mercado latino-americano, com potenciais de escalabilidade sem altos custos.
 
 ## 9. **Mensagens e Propostas de Valor**
-- **"Empreenda com a Nuvemshop"** - Alinha-se ao perfil de novos empreendedores.
-- **"Cresça sem limites"** - Conecta-se com lojistas visando escalar rapidamente.
-- **"Facilite suas vendas"** - Enfatiza a simplicidade na gestão da loja.
+- **"Empreenda com a Nuvemshop":** Alinhando-se ao perfil de novos empreendedores que buscam iniciar suas vendas online.
+- **"Cresça sem limites":** Conectando-se com lojistas com o desejo de escalar rapidamente seus negócios.
+- **"Facilite suas vendas":** Enfatiza a simplicidade na gestão da loja, removendo complexidades do e-commerce.
 
 ## 10. **Recomendações Estratégicas para Prospecção**
 - **Contato Personalizado:** E-mails que abordem as dores específicas do cliente ideal e como a Nuvemshop pode resolvê-las.
-- **Webinars e Demonstrações:** Demonstrações práticas da plataforma para validar seu uso e eficácia.
+- **Webinars e Demonstrações:** Promoção de demos práticas da plataforma para mostrar sua eficácia e funcionalidade.
 - **Campanhas de Retargeting:** Direcionar campanhas a visitantes e leads que não converteram.
 
 ## 11. **Próximos Passos**
-- Criar uma campanha de e-mail marketing focada em empresas sem presença online ou insatisfeitas com suas plataformas existentes.
-- Desenvolver conteúdo educacional, como guias e e-books para apoiar os leads em sua jornada pelo e-commerce.
+- Criar uma campanha de e-mail marketing focando em empresas sem presença online ou insatisfeitas com suas plataformas existentes.
+- Desenvolver conteúdo educacional, como guias e e-books, para guiar leads em sua jornada pelo e-commerce.
 
 ---
 
 ### Observações Finais
 Este relatório foi elaborado para fornecer informações essenciais que permitirão à equipe de copywriting compor um e-mail de prospecção autêntico, relevante e que converse diretamente com as necessidades do público-alvo da Nuvemshop.
+```
