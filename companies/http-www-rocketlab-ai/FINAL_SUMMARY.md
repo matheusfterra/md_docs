@@ -13,9 +13,7 @@
    - **Apple Search Ads (ASA)**: Atração de usuários no ecossistema iOS.
    - **Publicidade Programática**: Utilização de tecnologia para escalabilidade nas campanhas publicitárias.
    - **Reach Beyond**: Diversificação de fontes de tráfego.
-
 2. **Plataforma de Dados**: A Rocket Lab utiliza uma plataforma tecnológica chamada Space para executar campanhas de aquisição programática com foco na otimização de custo por aquisição (CPA).
-
 3. **Serviço de Consultoria**: A Rocket Lab atua como um parceiro estratégico, criando campanhas personalizadas com foco em resultados.
 
 ## Mercado e Clientes
@@ -25,7 +23,6 @@
   - PicPay
   - Movistar
   - Banco Azteca
-
 - **Tendências do Mercado**: 
   - Com um foco crescente na transformação do marketing digital e no uso de dados para personalizar a experiência do cliente, Rocket Lab está posicionada para atender às necessidades de marketing mobile, especialmente no contexto de aquisição e retenção de usuários.
 
@@ -46,11 +43,12 @@
 ## Mensagem para Copywriter
 - **Tom da Mensagem**: A abordagem deve ser consultiva e centrada na solução, destacando como a Rocket Lab pode ajudar a resolver desafios específicos do cliente por meio de suas soluções integradas.
 - **Elementos-Chave a Serem Incluídos**:
-  - Resultados quantificáveis de campanhas bem-sucedidas (ex: HBO Max, aumento de 300% nas instalações).
-  - ênfase na capacidade da Rocket Lab de adaptar a estratégia às necessidades locais.
+  - Resultados quantificáveis de campanhas bem-sucedidas (ex: HBO Max, aumento de 300% nas instalações de usuários).
+  - Ênfase na capacidade da Rocket Lab de adaptar a estratégia às necessidades locais.
   - Convite para que as marcas compartilhem seus desafios atuais e como a Rocket Lab pode atuar como parceira na superação desses obstáculos.
 
 ### Exemplo de Assunto para E-mail
 - "Transforme o Futuro do Seu App com Estratégias de Aquisição Customizadas"
 
-**Notas Finais**: O e-mail deve ser personalizado ao máximo, citando exemplos relevantes do setor do cliente prospectado e compartilhando casos de sucesso que se assemelhem aos desafios que eles podem estar enfrentando.
+## Notas Finais
+O e-mail deve ser personalizado ao máximo, citando exemplos relevantes do setor do cliente prospectado e compartilhando casos de sucesso que se assemelhem aos desafios que eles podem estar enfrentando.
