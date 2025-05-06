@@ -1,75 +1,62 @@
-# Relatório de Prospecção: Obramax
+# Relatório de Prospecção - Obramax
 
-## Resumo da Empresa
-**Nome da Empresa:** Obramax  
-**Website:** [www.obramax.com.br](http://www.obramax.com.br)  
-**Setor:** Materiais de Construção e Ferramentas  
-**Localização:** Brasil  
-**Tipo de Negócio:** Atacado e Varejo  
+## 1. Informações gerais da empresa
+- **Nome:** Obramax
+- **Website:** [www.obramax.com.br](https://www.obramax.com.br/)
+- **Segmento:** Materiais de construção e home improvement (DIY)
+- **Tipo de negócio:** Atacado e varejo
+- **Localização:** Brasil (especificamente em diversas regiões)
+- **Contato:** Central de atendimento 3003-3400; canais de atendimento via WhatsApp e redes sociais.
 
-## Produtos e Serviços Oferecidos
-A Obramax oferece uma ampla gama de produtos no setor de construção, que se dividem nas seguintes categorias:
+## 2. Produtos e serviços oferecidos
+### Categorias Principais:
+1. **Materiais de Construção**: Cimentos, argamassas, telhados, aços, entre outros.
+2. **Pisos e Revestimentos**: Cerâmicas, porcelanatos, pisos vinílicos, argamassas, entre outros.
+3. **Drywall e Construção Seca**: Chapas, perfis, isolantes.
+4. **EPI's (Equipamentos de Proteção Individual)**: Produtos de segurança para o trabalho.
+5. **Tintas e Acessórios**: Várias marcas e tipos de tintas, acessórios para pintura.
+6. **Banheiros e Acessórios**: Vasos sanitários, pias, acessórios para banheiros.
 
-1. **Banheiros:**
-   - Vasos sanitários, cubas, lavatórios, duchas, torneiras e acessórios.
-   - Indicado para projetos de reformas e construções residenciais e comerciais.
+### Notáveis:
+- **Feira de Pisos, Louças e Metais**: Evento periódico que promove a venda de produtos específicos.
+- **Academia de Profissionais**: Plataforma de capacitação e formação de profissionais do setor.
 
-2. **Climatização e Ventilação:**
-   - Ar condicionado, ventiladores, climatizadores de ar, exaustores e acessórios.
-   - Soluções para conforto térmico em diversos ambientes.
+## 3. Antecedentes e histórico
+- A Obramax é conhecida no mercado de materiais de construção e home improvement, destacando-se pela variedade de produtos e compromisso com a qualidade.
+- Eles oferecem tanto preços de atacado quanto de varejo, o que os torna atraentes tanto para consumidores finais quanto para empresas do setor.
 
-3. **Drywall e Perfis Steel Frame:**
-   - Chapas de drywall, perfis, forros e isolantes.
-   - Ideal para construções rápidas e sustentáveis.
+## 4. Marketing e presença digital
+### Plataformas:
+- **Website com blog integrado**: Oferece informações úteis sobre instalação, manutenção e outros temas relevantes para o público-alvo.
+- **Redes sociais**: Utilização ativa de canais como Instagram, Facebook e YouTube para engajamento com os clientes, promoções e dicas de produtos.
+  
+### Conteúdo do Blog:
+- O blog da Obramax possui conteúdo educacional focado em DIY, dicas de instalação, segurança, além de comparar produtos e técnicas de construção.
 
-4. **EPIs (Equipamentos de Proteção Individual):**
-   - Botas, luvas, capacetes, uniformes e outros itens de segurança.
-   - Foco na segurança do trabalhador em canteiros de obra.
+## 5. Dores e desafios do cliente
+- **Desinformação sobre produtos**: Clientes muitas vezes não têm clareza sobre qual produto é mais apropriado para suas necessidades.
+- **Preocupações com segurança**: Os consumidores estão cada vez mais preocupados com a qualidade e segurança dos materiais usados nas construções.
+- **Custo**: Equilibrar qualidade e preço é uma dor constante, tanto para consumidores finais quanto para empresas do setor.
 
-5. **Materiais de Construção:**
-   - Inclui cimento, telhas, aços, tijolos e agregados.
-   - Essenciais para a base de qualquer construção.
+## 6. Público-alvo
+- **Profissionais da construção civil**: Pedreiros, arquitetos, engenheiros e empreiteiros que necessitam de materiais em grandes quantidades.
+- **Consumidores DIY (Faça Você Mesmo)**: Pessoas que buscam realizar reformas e construções em suas residências, que podem ser atraídas por conteúdos educacionais e promocionais.
 
-6. **Materiais Elétricos:**
-   - Fios, cabos, disjuntores, tomadas, interruptores.
-   - Produtos necessários para instalações elétricas seguras.
+## 7. Oportunidades de Colaboração
+### 7.1 Marketing de Influência
+- **Influenciadores de DIY e Construção**: Colaboração com influenciadores que fazem tutoriais e projetos DIY pode impulsionar a visibilidade da marca e cativar o público-alvo.
+- **Eventos e Parcerias**: Participação em feiras e eventos do setor para incrementar a presença da marca e explorar parcerias com outros fornecedores.
 
-7. **Pisos e Revestimentos:**
-   - Porcelanatos, cerâmicas, pisos vinílicos e acessórios de instalação.
-   - Variedade para atender diferentes estilos de decoração.
+### 7.2 Conteúdo Personalizado
+- **Guias e Tutoriais**: Desenvolvimento de guias e tutoriais em vídeo em colaboração com influenciadores, utilizando os produtos da Obramax para mostrar como realizá-los.
 
-8. **Tintas e Acessórios:**
-   - Tintas para alvenaria, esmaltes e produtos de preparação de superfícies.
-   - Soluções para acabamento e decoração.
+## 8. Conclusão e Proposta de Ação
+- A Obramax representa uma oportunidade sólida para o marketing de influência, dado seu portfólio diversificado de produtos e o crescente interesse por reformas e construções DIY.
+- Uma estratégia de marketing que una influenciadores da área poderá fazer com que a empresa amplie sua base de clientes e estabeleça-se ainda mais como uma referência no mercado de materiais de construção.
 
-## Público-alvo
-O público-alvo da Obramax inclui:
-- Construtoras e empreiteiras
-- Arquitetos e designers de interiores
-- Consumidores finais (proprietários de imóveis)
-- Profissionais do setor de reforma e manutenção
+## 9. Suggestions para o Copywriter
+- Abordar as dores do cliente e como a Obramax resolve essas questões.
+- Promptar uma ação de explorar a variedade de produtos pela abordagem de influenciadores especializados em DIY para dar credibilidade à marca.
+- Personalizar o email com casos de sucesso de utilização dos produtos em projetos de influenciadores demonstrando resultados práticos e estéticos.
 
-## Dores e Desafios Potenciais
-- **Concorrência:** O segmento de materiais de construção é altamente competitivo, com várias empresas oferecendo produtos similares.
-- **Inovação:** A constante necessidade de introduzir novos produtos ou melhorar os existentes para atender à demanda do mercado.
-- **Distribuição e Logística:** Garantir que os produtos estejam disponíveis e sejam entregues em tempo hábil aos clientes. 
-- **Educação:** A necessidade de educar clientes sobre produtos novos e soluções eficazes para construções.
-
-## Oportunidades no Marketing de Influência
-A Obramax pode se beneficiar significativamente do marketing de influência, por meio de:
-- **Colaborações com influenciadores do nicho de construção:** Parcerias com profissionais respeitados que estão engajados nas redes sociais podem aumentar a visibilidade da marca e produtos.
-- **Conteúdo educativo:** Produzir conteúdos que ajudem os clientes a entender como utilizar os produtos da Obramax de forma eficaz.
-- **Testemunhais e projetos:** Mostrar casos reais de uso dos produtos da Obramax em construção e reforma pode incentivar novos clientes a escolher a marca.
-
-## Concorrentes
-- **Constrular:** Conhecida por sua gama de materiais de construção a preços competitivos.
-- **Leroy Merlin:** Uma das maiores redes de varejo de materiais de construção do Brasil, com uma grande variedade de produtos e forte presença online.
-- **Telhanorte:** Específica em materiais de construção, com foco em preços baixos e promoções frequentes.
-
-## Sugestões para Abordagem
-1. **Personalização do Conteúdo:** Utilizar dados relevantes sobre o desempenho de vendas atuais da Obramax, seguidores em redes sociais e engajamento.
-2. **Estabelecer uma narrativa:** Mostrar como a Obramax tem um compromisso com a segurança e os projetos de construção de alta qualidade e como a parceria pode ajudar a alcançar novos públicos.
-3. **Proposta de Valor Clara:** Destacar como a ligação com influenciadores pode aumentar a percepção da marca e gerar vendas adicionais, aproveitando do envolvimento emocional que a construção e reforma proporcionam aos consumidores.
-
-## Conclusão
-Obramax é uma empresa bem posicionada no setor de materiais de construção, com um portfólio diversificado que atende a várias necessidades no segmento. A implementação de estratégias de marketing de influência pode ajudar a impulsionar as vendas, melhorar a percepção da marca e atrair um novo público. É fundamental que a Obramax adapte sua comunicação para atender às necessidades e interesses de seu público-alvo.
+Com estas informações, o copywriter poderá redigir um email impactante e altamente personalizado, maximizando as chances de despertar o interesse da Obramax pela sua proposta de marketing de influência.
