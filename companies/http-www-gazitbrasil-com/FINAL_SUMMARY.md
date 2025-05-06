@@ -1,10 +1,10 @@
+```markdown
 # Relatório de Prospecção para [Nome da Empresa]
-
 ## 1. Informações Básicas da Empresa
 - **Nome da Empresa:** [Nome da Empresa]
 - **Segmento de Atuação:** [Ex: E-commerce, Moda, Beleza, Tecnologia, etc.]
 - **Site:** [URL do site]
-- **Ano de Fundacao:** [Ano]
+- **Ano de Fundação:** [Ano]
 - **Localização:** [Cidade, Estado, País]
 
 ## 2. Dados de Contato
@@ -47,11 +47,10 @@
   - [Descrever problemas comuns no setor que a empresa pode estar enfrentando]
   - [Listar possíveis dificuldades em engajar o público-alvo]
   - [Desafios na criação de campanhas autênticas e que gerem impacto]
-  
 - **Oportunidades:**
   - [Como o marketing de influência pode ajudar a resolver as dores mencionadas]
   - [Sugestões de como a empresa pode aumentar sua visibilidade e engajamento através de influenciadores]
-  
+
 ## 8. Concorrência
 - **Principais Concorrentes:**
   - [Concorrente 1]
@@ -63,18 +62,15 @@
 - **Tendências do Mercado de [Segmento]:** 
   - [Principais tendências e mudanças no comportamento do consumidor]
   - [Mudanças relevantes no marketing digital e de influência]
-  
 - **Desempenho da Indústria:**
   - [Dados estatísticos sobre o crescimento do setor de marketing de influência]
 
 ## 10. Conclusão
 - **Resumo das Oportunidades de Conexão:**
   - [Listar de forma sucinta os pontos que podem ser expostos na abordagem]
-  
 - **Próximos Passos Sugeridos:** 
   - [Chamada à ação, como marcar uma reunião ou enviar um e-mail de follow-up]
-
 ---
-
 ### Nota para o Copywriter:
 Por favor, utilize as informações acima para criar um e-mail de aproximação altamente relevante e personalizado para [Nome da Empresa]. O foco deve ser em como o nosso serviço de marketing de influência pode resolver as dores identificadas e explorar as oportunidades que a empresa pode não estar aproveitando ao máximo.
+```
