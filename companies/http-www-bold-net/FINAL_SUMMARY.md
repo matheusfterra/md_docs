@@ -1,78 +1,55 @@
-# Relatório de Prospecção: Bold
+# Relatório de Prospecção - Bold
 
 ## Informações Gerais da Empresa
+- **Nome da Empresa**: Bold
+- **Website**: [www.bold.net](http://www.bold.net)
+- **Segmento**: Marketing de Influência, especialmente no fornecimento de materiais de comunicação visual, como chapas de acrílico, ACM (Alumínio Composto), PVC e Policarbonato.
+  
+## Descrição da Plataforma
+A Bold é uma plataforma que conecta marcas a produtos de alta qualidade para projetos de comunicação visual. A empresa oferece uma variedade de produtos, incluindo chapas de acrílico, chapas de ACM, chapas de PVC, e coberturas em policarbonato. 
 
-- **Nome da Empresa:** Bold
-- **Website:** [www.bold.net](http://www.bold.net)
-- **Segmento:** Marketing de Influência e Comercialização de Materiais de Construção (especializado em acrílico, ACM e policarbonato)
-- **Localização:** Rua Manoel Francisco da Costa, 4500, Bairro: João Pessoa, Jaraguá do Sul - SC
-- **CNPJ:** 04.626.152/0001-55
-- **Telefone:** (47) 3307-3335
-- **Horário de Atendimento:** Segunda a Sexta-feira, das 07:30h às 18:00h (exceto feriados)
+## Produtos e Categorias
+### Produtos Principais:
+- **Chapas de Acrílico**:
+  - Acrílico EcoBold
+  - Acrílico Espelhado
+  - Acrílico Antireflexo
+  - Acrílico Glamour
+  - Acessórios para Acrílico
+- **Chapas de ACM (Alumínio Composto)**:
+  - ACM EASYBOLD
+  - ACM SIGNBOLD
+  - ACM SUPERBOLD
+  - ACM ENGEBOLD
+  - Acessórios para ACM
+- **Coberturas**:
+  - Policarbonato Alveoar
+  - Policarbonato Compacto
+  - Telhas de Policarbonato
+  - Acessórios para Cobertura
+  
+### Promos e Ofertas
+A Bold mantém promoções que podem variar por categoria de produto. A navegação no site oferece uma experiência fácil e intuitiva para busca e compra de produtos.
 
-## Produtos e Serviços
+## Dores Potenciais da Empresa
+- **Visibilidade nas Redes Sociais**: Com a saturação de conteúdo, a empresa pode enfrentar dificuldades em se destacar nas plataformas de redes sociais, onde marcas e produtos competem por atenção.
+- **Criação de Conteúdo Consistente**: A necessidade de ter conteúdo visual atrativo e de alta qualidade para campanhas de marketing.
+- **Conexão com Influenciadores**: A dificuldade em encontrar influenciadores que se alinhem perfeitamente com os valores da marca e que tenham um público-alvo semelhante.
+- **Dificuldade em Mensurar Resultados**: A incapacidade de medir o ROI (Retorno sobre Investimento) das campanhas de marketing de influência, levando a incertezas na alocação de recursos.
 
-A Bold oferece uma ampla gama de produtos, com foco em materiais de construção que se destacam pela qualidade e inovação. Os principais produtos incluem:
+## Contexto e Oportunidades
+- **Aumento da Dependência de Comunicação Visual**: As empresas estão cada vez mais focadas em soluções visuais para se destacar no mercado.
+- **Necessidade de Inovação e Diversificação**: Com a evolução das plataformas digitais, há uma necessidade de inovação em abordagens de marketing, que podem beneficiar a Bold, considerando a ampla variedade de produtos que oferece.
+- **Crescimento do eCommerce**: Com a crescente migração para o comércio eletrônico, a Bold tem a oportunidade de expandir sua presença online e aumentar suas vendas através de campanhas direcionadas.
+  
+## Conclusão e Recomendações
+A Bold apresenta uma rica gama de produtos que atende a necessidades específicas de comunicação visual, além de um modelo de negócios que pode ser potencializado com estratégias certas de marketing de influência. A equipe deve focar em criar conteúdos visuais consistentes que não só promovam os produtos, mas também contem histórias que conectem emocionalmente com seu público. Uma campanha direcionada de marketing de influência poderia ser implementada para melhorar a visibilidade da marca e aumentar as conversões.
 
-1. **Chapas de Acrílico:**
-   - Acrílico EcoBold
-   - Acrílico Espelhado
-   - Acrílico Antireflexo
-   - Acrílico Glamour
-2. **Chapas de ACM (Alumínio Composto):**
-   - ACM EASYBOLD
-   - ACM SIGNBOLD
-   - Outros modelos especiais
-3. **Coberturas:**
-   - Policarbonato Alveoar
-   - Policarbonato Compacto
-   - Telhas de Policarbonato
-4. **Materiais Complementares:**
-   - Acessórios para chapas
-   - Ofertas especiais
+### Ações Sugestionadas
+1. **Identificação de Influenciadores**: Mapear influenciadores que se alinhem com a marca e seu público-alvo específico.
+2. **Criação de Conteúdo**: Desenvolver um plano de conteúdo visual que destaque a qualidade e a inovação dos produtos.
+3. **Mensuração e Análise de Resultados**: Implementar ferramentas de análise para monitorar o desempenho das campanhas e ajustar estratégias conforme necessário.
 
-Os produtos são voltados principalmente para os setores de construção civil, arquitetura e design de interiores.
+-----
 
-## Persona de Compra
-
-Os principais compradores da Bold incluem:
-
-- **Arquitetos e Designers de Interiores:** Buscando materiais de alta qualidade e design para seus projetos.
-- **Construtoras e Empresas de Engenharia:** Precisam de produtos para construção e acabamento com boa durabilidade e estética.
-- **Lojistas de Materiais de Construção:** Interessados em revender materiais de alta qualidade.
-
-## Dores e Necessidades
-
-As dores e necessidades dos potenciais clientes incluem:
-
-- **Qualidade do Produto:** Busca constante por materiais que ofereçam durabilidade e boa estética visual para a entrega de projetos.
-- **Inovação e Praticidade:** Necessidade de produtos fáceis de instalar e que tenham versatilidade nas aplicações.
-- **Custo-Benefício:** A busca por preços competitivos e condições de pagamento vantajosas é fundamental.
-
-## Contexto do Mercado
-
-- A demanda por materiais sustentáveis e de qualidade tem crescido, com um interesse crescente em fornecedores que se alinhem com esses valores.
-- O marketing de influência está se tornando uma estratégia popular, onde as marcas buscam aumentar sua visibilidade colaborando com influenciadores que podem usar e promover os produtos da Bold em seus projetos.
-
-## Oportunidades de Prospecção
-
-1. **Colabore com influenciadores do segmento de Arquitetura e Design:** Isso pode ajudar a Bold a aumentar sua visibilidade e atrair novos clientes.
-2. **Crie campanhas de co-marketing:** Parcerias com empresas de construção e design podem gerar novos projetos e maior promoção da marca.
-3. **Desenvolva conteúdos educativos:** Produção de vídeos e postagens no blog sobre a utilidade e aplicação dos produtos, ajudando a engajar tanto clientes quanto influenciadores.
-
-## Linhas de Comunicação
-
-Os e-mails enviados ao lead devem incluir:
-
-- Destaque para os produtos inovadores e de qualidade que a Bold oferece.
-- Mencione a importância das colaborações com influenciadores na construção da visibilidade da marca.
-- Inclua referências ou estudos de caso de colaborações de sucesso que a Bold já tenha realizado.
-- Um convite para uma conversa que discuta potenciais colaborações.
-
-## Conclusão
-
-A Bold está em uma posição privilegiada para aproveitar a crescente demanda por materiais de construção de alta qualidade e um marketing de influência que se mostra promissor. Colaborações com influenciadores estratégicos podem resultar em benefícios significativos tanto para as partes envolvidas quanto para o público-alvo.
-
---- 
-
-Vamos focar na criação de um e-mail que reflita essa narrativa e conecte com os interesses e necessidades do lead.
+Este relatório servirá como base para a criação de e-mails personalizados e estratégias de prospecção para a Bold.
