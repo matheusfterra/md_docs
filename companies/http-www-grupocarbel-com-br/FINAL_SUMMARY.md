@@ -1,62 +1,99 @@
-# Relatório de Prospecção da Empresa: Grupo Carbel
+# Relatório de Prospecção para Grupo Carbel
 
-## 1. Informações Gerais
-**Nome da Empresa:** Grupo Carbel  
-**Segmento:** Automotivo / Vendas Diretas / Marketing de Influência  
+## 1. Informações Gerais da Empresa
+
+**Nome:** Grupo Carbel  
 **Website:** [www.grupocarbel.com.br](http://www.grupocarbel.com.br)  
-**CNPJ:** 06.036.371/0001-00  
-**E-mail de Contato:** grupocarbel@seu.grupocarbel.com.br  
+**Segmento:** Automotivo - Concessionárias e serviços relacionados  
+**Localização:** Minas Gerais, Brasil  
+**Anos de atuação:** 55 anos  
+**Missão:** Inovar para simplificar a experiência automotiva.  
+**Visão:** Aumentar valor de mercado, sendo referência no setor automotivo.  
+**Valores:** Personalização, Liderança, Foco em resultados, Desenvolvimento contínuo das pessoas, Agilidade, Inovação, Ética, Trabalho em equipe, Sustentabilidade.
 
-## 2. Breve Histórico e Missão
-O Grupo Carbel é um ecossistema de negócios com 55 anos de tradição, dedicado a oferecer a melhor experiência automotiva através de inovação e excelência no serviço. A missão da empresa é inovar para simplificar a experiência automotiva, aumentando seu valor de mercado e sendo referência no setor.
+---
 
-### 2.1 Visão e Valores
-- **Visão:** Aumentar o valor de mercado, sendo referência no setor automotivo.
-- **Valores:** Personalização, inovação, ética, foco em resultados, agilidade, trabalho em equipe e sustentabilidade.
+## 2. Produtos e Serviços Ofertados
 
-## 3. Estrutura do Negócio
-O Grupo Carbel representa 10 marcas automotivas e oferece serviços variados, que incluem:
-- **Vendas de Veículos:** Carros novos, seminovos, e veículos por assinatura.
-- **Assistência Técnica:** Serviços em oficinas autorizadas para mecânica, funilaria, pintura e revisões programadas.
-- **Venda Direta:** Vendas para taxistas, produtores rurais, locadoras de veículos e CNPJ, com condições especiais.
-- **Consórcio e Seguros:** Para facilitar a aquisição de veículos. 
-- **Tecnologia e Marketing:** A martech Alpes One oferece soluções digitais focadas no setor automotivo.
+### 2.1 Concessionárias
+- Representação de 10 marcas automotivas e marcas próprias em veículos seminovos.
+- **Marcas Destacadas:**
+  - Audi
+  - BYD
+  - Nissan
+  - Hyundai
+  - Honda
+  - Jeep
+  - Ram
+  - Fiat
 
-## 4. Produtos e Serviços
-### 4.1 Serviços de Vendas Diretas
-- **Taxistas:** Condições especiais para aquisição de veículos, incluindo isenção de impostos.
-- **Produtores Rurais:** Descontos e foco nas necessidades do agronegócio.
-- **Locadoras de Veículos:** Soluções para aquisição de frotas.
-- **Microempresas:** Condições exclusivas para aquisição de veículos 0km.
-- **Pessoas com Deficiência:** Isenções de impostos e veículos adaptados.
-- **Autoescolas:** Carros modernos que oferecem segurança e conforto aos alunos.
+### 2.2 Serviços de Assistência
+- Revisões programadas
+- Diagnóstico avançado
+- Troca de óleo e filtro
+- Alinhamento e balanceamento
+- Troca de pastilha de freio
+- Higienização do ar-condicionado
+- Funilaria e pintura
 
-### 4.2 Assistência Técnica
-- Revisões programadas, diagnósticos avançados, troca de óleo, alinhamento e balanceamento, troca de pastilhas de freio e mais.
+### 2.3 Vendas Diretas
+- Condições especiais para públicos-alvo como taxistas, produtores rurais, locadoras de veículos, CNPJ e microempresários, pessoas com deficiência e autoescolas.
 
-## 5. Análise do Mercado
-### 5.1 Concorrência
-O Grupo Carbel enfrenta concorrência acirrada no setor automotivo, especialmente de concessionárias locais e plataformas digitais que oferecem venda direta e consultoria. A personalização e atendimento ao cliente são diferenciais que o Grupo busca explorar.
+### 2.4 Outras Empresas do Grupo
+- **Martech Alpes One:** Serviços de marketing digital para o setor automotivo.
+- **Usecar:** Locadora de veículos com atuação nacional.
+- **Pêssego:** Corretora de seguros.
 
-### 5.2 Oportunidades
-- **Marketing de Influência:** Potencial para aumentar a visibilidade da marca através de parcerias com influenciadores que alcancem o público-alvo, especialmente no segmento de automóveis e serviços relacionados.
-- **Expansão Digital:** Melhorar a presença online, utilizando redes sociais e campanhas direcionadas para atrair novos clientes.
+---
 
-## 6. Possíveis Dores
-- **Fidelização de Clientes:** Aumentar a satisfação e manter clientes existentes é um desafio.
-- **Inovação:** Acompanhamento das tendências do setor para não ficar atrás da concorrência.
-- **Visibilidade:** Precisam ampliar a notoriedade da marca, especialmente nas redes sociais e plataformas digitais.
-- **Engajamento em Vendas Diretas:** Atração de empresas e organismos para as vendas diretas com condições especiais.
+## 3. Público-Alvo
 
-## 7. Estratégia de Prospecção
-### 7.1 Táticas de Conexão
-- **Marketing de Influência:** Propor parcerias com influenciadores do setor automotivo para gerar conteúdo autêntico e atrativo.
-- **Campanhas Direcionadas:** Usar dados coletados em serviços internos para segmentar campanhas marketing de email para potenciais clientes em busca de carros.
+- **B2C:** Consumidores finais em busca de compra de veículos novos ou seminovos.
+- **B2B:** Empresas e locadoras de veículos que necessitam de uma frota, incluindo setores específicos como transporte público, agronegócio e autoescolas.
 
-### 7.2 Proposta de Valor
-- Apresentar soluções personalizadas de sua empresa que foquem nas necessidades específicas do Grupo Carbel, como aumentar seu engajamento social e fidelização de clientes através de campanhas influenciadas.
+---
 
-## 8. Conclusão
-O Grupo Carbel é um forte concorrente no mercado automotivo, com uma ampla gama de serviços e um legado significativo de experiência. Para compreender melhor suas necessidades e desafios, é vital uma abordagem com um planejamento de marketing que coloque ênfase em soluções personalizadas, especialmente em como o marketing de influência pode potencializar sua presença e conexão com as audiências. 
+## 4. Dores e Desafios
 
-Este relatório deve fornecer ao copywriter as informações necessárias para criar um e-mail de prospecção efetivo e persuasivo, abordando as necessidades e soluções para o Grupo Carbel.
+### 4.1 Para Clientes Finais
+- Encontrar veículos com boa relação custo-benefício.
+- Processo de compra muitas vezes burocrático e complicado.
+- Necessidade de investir em manutenção e assistência técnica qualificada.
+
+### 4.2 Para Clientes B2B
+- Necessidade de veículos que atendam especificações técnicas e orçamentárias.
+- Gestão de frota e eficiência operacional.
+- Confiabilidade e qualidade nos serviços pós-venda.
+
+---
+
+## 5. Oportunidades de Marketing de Influência
+
+### 5.1 Influenciadores Potenciais
+- Especialistas em automóveis.
+- Criadores de conteúdo em tecnologia e inovação automotiva.
+- Influenciadores focados em sustentabilidade e veículos eletrificados.
+- Personalidades que atuam no nicho de mobilidade urbana.
+
+### 5.2 Estratégias Sugeridas
+- **Campanhas de Test Drive:** Influenciadores podem realizar experiências com os veículos e compartilhar em suas redes.
+- **Conteúdo Educativo:** Educar o público sobre a manutenção e funcionalidades dos veículos através de vídeos com especialistas.
+- **Eventos de Lançamento:** Organizar eventos com influenciadores para o lançamento de novos modelos ou serviços.
+
+---
+
+## 6. Contatos Importantes
+
+**Assessoria de Imprensa:**  
+- **Janaina Massote | Rede Comunicação**  
+- **Izabela Ferreira | Rede Comunicação**  
+- Email: izabela.ferreira@redecomunicacao.com  
+- Telefone: (31) 99835-6427  
+
+---
+
+## 7. Conclusão
+
+O Grupo Carbel é uma empresa consolidada no mercado automotivo, com uma ampla gama de produtos e serviços voltados tanto para consumidores finais quanto para empresas. A utilização de marketing de influência pode ajudar a promover tanto a imagem das marcas que representam quanto os diversos serviços que oferecem, ao mesmo tempo que responde às dores identificadas nos clientes.  
+
+Este relatório deve servir como um guia para a elaboração de estratégias personalizadas de abordagem a potenciais influenciadores e clientes, maximizando as oportunidades de conexão entre marcas e influenciadores no segmento automotivo.
