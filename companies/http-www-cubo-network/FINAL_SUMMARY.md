@@ -1,94 +1,62 @@
-# Relatório de Prospecção Outbound
+# Relatório de Prospecção para [Nome da Empresa Prospectada]
 
 ## 1. Informações Gerais da Empresa
-
-### Nome da Empresa
-[Nome da Empresa]
-
-### Segmento de Atuação
-[Ex.: E-commerce de Moda, Tecnologia, Alimentação, etc.]
-
-### Localização
-[Endereço completo ou, ao menos, cidade e estado]
-
-### Website
-[URL do site da empresa]
-
-### Redes Sociais
-- Facebook: [Link]
-- Instagram: [Link]
-- LinkedIn: [Link]
-- Twitter: [Link]
-- YouTube: [Link]
-
-### Dados de Contato
-- Contato Principal: [Nome do contato, se disponível]
-- Cargo: [Cargo do contato]
-- E-mail: [E-mail do contato]
-- Telefone: [Telefone, se disponível]
+- **Nome da Empresa:** [Nome da Empresa Prospectada]
+- **Website:** [URL do site]
+- **Endereço:** [Endereço completo]
+- **Telefone:** [Número de telefone]
+- **Email de Contato:** [Email do contato principal]
+- **Nome do Contato Principal:** [Nome e cargo do contato]
+- **Segmento de Atuação:** [Segmento específico de mercado, ex: moda, beleza, tecnologia, etc.]
 
 ## 2. Análise do Mercado
+- **Tamanho do Mercado:** [Dados sobre o mercado em que a empresa atua]
+- **Principais Concorrentes:**
+  - [Concorrente 1]
+  - [Concorrente 2]
+  - [Concorrente 3]
+- **Tendências no Setor:** [Tendências atuais e futuras que impactam a indústria]
 
-### Tamanho do Mercado
-[Descrição do mercado em que a empresa está inserida, incluindo dados de crescimento e tendências recentes]
+## 3. Presença Digital da Empresa
+- **Redes Sociais:**
+  - **Facebook:** [URL da página]
+  - **Instagram:** [URL da conta]
+  - **Twitter:** [URL da conta]
+  - **LinkedIn:** [URL da página]
+- **Atividades em Redes Sociais:** [Análise das postagens, engajamento, frequência]
+- **Blog/Conteúdo:** [Link para o blog, análise de conteúdo relevante]
 
-### Concorrência
-[Listar 3 a 5 concorrentes diretos e indiretos, e suas respectivas estratégias de marketing de influência]
+## 4. Análise de Influenciadores
+- **Tipo de Influenciadores que Trabalha:** [Micro, macro, celebridades]
+- **Campanhas Passadas:** 
+  - [Campanha 1 com Briefing e resultados]
+  - [Campanha 2 com Briefing e resultados]
+- **Influenciadores Parcerias:** [Lista de influenciadores com os quais a empresa já trabalhou]
 
-### Posição da Empresa no Mercado
-[Descrição de como a empresa se posiciona em relação à concorrência. Inclua pontos como inovações, participação de mercado, reputação de marca]
+## 5. Possíveis Dores e Oportunidades
+- **Desafios Identificados:**
+  - [Desafio 1, por exemplo, baixa visibilidade da marca]
+  - [Desafio 2, por exemplo, dificuldade em atingir um público específico]
+- **Oportunidades:**
+  - [Oportunidade 1, por exemplo, aumento no engajamento através de novos influenciadores]
+  - [Oportunidade 2, por exemplo, utilização de conteúdos gerados por usuários]
 
-## 3. Análise de Clientes e Público-Alvo
+## 6. Proposta de Valor
+- **Como Podemos Ajudar:**
+  - [Solução 1, por exemplo, conectar com influenciadores relevantes]
+  - [Solução 2, por exemplo, criar campanhas de marketing de influência sob medida]
+- **Benefícios Esperados com a Parceria:**
+  - [Benefício 1, por exemplo, aumento de alcance e visibilidade da marca]
+  - [Benefício 2, por exemplo, construção de relacionamentos com o público-alvo]
 
-### Perfil do Cliente Ideal
-[Descrever o perfil demográfico e psicográfico do cliente final]
-
-### Necessidades e Dores
-[Listar problemas comuns enfrentados pelos clientes que a empresa pode ajudar a resolver]
-- [Ex.: Baixa visibilidade nas redes sociais, falta de engajamento, dificuldade em converter seguidores em vendas]
-
-### Feedback de Clientes
-[Citar possíveis avaliações ou feedbacks em plataformas como Google, Facebook, etc. que ilustrem a reputação da empresa e as experiências de clientes anteriores]
-
-## 4. Presença Digital e Atividades de Marketing
-
-### Análise de Presença Digital
-- [Avaliar a atividade nas redes sociais; frequência de postagens, tipo de conteúdo, engajamento]
-- [Qualidade do site; usabilidade, design e informações disponíveis]
-
-### Estratégias de Marketing Utilizadas
-[Analisar as estratégias de marketing atuais da empresa, como campanhas, promoções, ou colaborações com influenciadores]
-
-### Exemplos de Campanhas Anteriores
-[Citar campanhas de marketing de influência realizadas anteriormente, se disponíveis, e seus principais resultados]
-
-## 5. Oportunidades de Marketing de Influência
-
-### Segmentos Potenciais para Colaboração
-[Listar segmentos ou nichos que não estão sendo explorados atualmente pela empresa ou onde há espaço para crescimento]
-
-### Influenciadores Relevantes
-[Sugerir influenciadores que se alinham com a marca e que podem ajudar a promover produtos ou serviços]
-- Nome do influenciador
-- Seguidor (nicho)
-- Plataformas que atuam
-
-### Possíveis Parcerias
-[Listar marcas ou organizações que poderiam agregar valor à marca em potencial através de parcerias no marketing de influência]
-
-## 6. Contexto e Considerações Finais
-
-### Expectativas e Resultados Esperados
-[Definir o que a empresa espera alcançar com estratégias de marketing de influência, como aumento de vendas, notoriedade da marca, etc.]
-
-### Desafios Identificados
-[Identificar quaisquer barreiras potenciais que a empresa pode estar enfrentando ao considerar o marketing de influência]
-
-### Mensagem Chave para a Prospecção
-[Definir uma mensagem chave que resuma como a parceria com a sua empresa pode ajudar a resolver as dores identificadas e atender às expectativas]
+## 7. Contexto e Conclusão
+- **Contexto Atual da Empresa:** [Descrição do contexto atual da empresa, como posicionamento no mercado, iniciativas recentes]
+- **Proposta de Abordagem:** [Estratégia de contato, por exemplo, e-mail ou ligação inicial, e tom a ser utilizado]
 
 ---
+### Notas Finais:
+- **Fontes de Informação:** [Listar fontes usadas para coleta de dados, como relatórios de mercado, redes sociais, etc.]
+- **Observações Pessoais:** [Qualquer insight ou informação adicional relevante para o copywriter]
 
-## 7. Conclusão
-
-A elaboração deste relatório tem como objetivo fornecer uma base sólida de informações que auxiliarão na criação de uma abordagem personalizada e atraente para a empresa prospectada. Todas as informações devem ser cuidadosamente analisadas e traduzidas em uma comunicação clara e persuasiva, destacando como os serviços de marketing de influência podem agregar valor ao negócio.
+### Próximas Ações:
+- [Responsável pela prospecção deve seguir as ações listadas, como agendar reunião ou preparar material específico]
