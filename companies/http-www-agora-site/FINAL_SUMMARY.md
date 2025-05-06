@@ -1,62 +1,71 @@
-# Relatório de Prospecção: ágora – Marketing de Influência
+# Relatório de Prospecção: ágora Consultoria
 
-## **Informações Gerais da Empresa:**
-- **Nome:** ágora
-- **Website:** [agora.site](https://agora.site/)
-- **Fundação:** 2014
-- **Localizações:**
-  - **Argentina (Buenos Aires):** Monroe 899, C1428BKC
-  - **Brasil (São Paulo):** Rua Bruxelas, 188, 1º andar
-  - **Colômbia (Bogotá):** Calle 80 No. 10 - 43, Edificio de Profissionais, Oficina 601
-  - **Colômbia (Medellín):** Calle 13 # 36 A 156 (902), El Poblado
-  - **México (Cidade do México):** Barranca del muerto 210 PB 1B, Colonia Guadalupe Inn
-  
-## **Serviços Oferecidos:**
-- **Gestão de Reputação:** Criação e manutenção de imagem positiva para marcas, gerenciando percepções públicas e respondendo a crises.
-- **Comunicação e Relações Públicas:** Estratégias que fortalecem a presença das marcas.
-- **Assuntos Públicos:** Envolvimento em políticas que impactam os negócios de seus clientes.
-- **Advocacy e Impacto Social:** Promoção de causas sociais e identificação de oportunidades para impacto positivo.
-- **Conteúdo Digital e Engajamento:** Desenvolvimento de conteúdo que aumenta o envolvimento nas plataformas digitais.
+## Informações da Empresa
 
-## **Experiência e Clientes:**
-- **Setor de Atuação:** Consultoria de relações públicas e comunicação estratégica, com forte atuação na América Latina.
-- **Principais Clientes:** BP Bunge, Diageo, Havaianas, Netflix, Pfizer, Starbucks, entre outros.
+- **Nome da Empresa**: ágora
+- **Website**: [agora.site](https://agora.site)
+- **Ano de Fundação**: 2014
+- **Localização**: 
+  - **Argentina**: Buenos Aires
+  - **Brasil**: São Paulo
+  - **Colômbia**: Bogotá e Medellín
+  - **México**: Cidade do México
+- **Contato**: 
+  - **Telefone - Buenos Aires**: +54 11 5279-9000
+  - **Telefone - São Paulo**: +55 11 5990-3906
+  - **Telefone - Bogotá**: +57 1 756 0585
+  - **Telefone - Cidade do México**: +52 55 8852 2823
 
-## **Diferenciais Competitivos:**
-- Finalista do "Best Agency in LATAM" nos PRWeek Global Awards 2022.
-- Presença em regiões relevantes (América do Norte e Europa) através de parcerias estratégicas.
-- Abordagens que combinam criatividade, estratégia, dados e pesquisa.
-- Expertise em diversos setores: bens de consumo, farmacêuticos e infraestrutura.
+## Descrição da Empresa
 
-## **Público-Alvo e Mercado:**
-- **Segmentos de Mercado:** Empresas de médio a grande porte com interesse em reforçar a comunicação e a gestão reputacional.
+ágora é uma consultoria de assuntos públicos e comunicação estratégica com foco na construção e proteção da reputação das marcas em um mundo complexo e dinâmico. A empresa atua nas Américas e está rapidamente ampliando sua presença internacional. Em 2022, foi finalista do PRWeek Global Awards na categoria "Melhor Agência na América Latina". 
 
-### **Desafios Identificados:**
-1. **Gestão de Crises:** Dificuldades das marcas em gerenciar crises de reputação nas redes sociais.
-2. **Engajamento com o Público:** Necessidade de comunicações mais autênticas e alinhadas aos interesses do público.
-3. **Impacto Social:** Pressão para ações que gerem impacto positivo e promovam a responsabilidade social.
-4. **Monitoramento de Tendências:** Necessidade de acompanhamento contínuo do mercado e opiniões públicas.
+### Expertise
+ágora se especializa em diversas áreas de serviços:
+- **Gestão de Reputação**
+- **Comunicação Estratégica e Relações Públicas**
+- **Assuntos Públicos**
+- **Advocacy e Impacto Social**
+- **Conteúdo Digital e Engajamento**
 
-## **Dores Potenciais:**
-- **Gestão de Crises:** Desafios em mitigar danos de crises inesperadas.
-- **Engajamento com o Público:** Dificuldade em criar comunicações que ressoem com o público-alvo.
-- **Impacto Social:** Necessidade de integrar responsabilidade social nas estratégias de comunicação.
-- **Monitoramento do Mercado:** Necessidade de adaptação rápida às mudanças do mercado e expectativas dos consumidores.
+Além dos serviços, há um forte enfoque em criatividade, estratégia, e inovação utilizando dados e pesquisa para desenvolver soluções personalizadas para os clientes.
 
-## **Proposta de Valor do Serviço de Marketing de Influência:**
-- **Construção de Reputação e Engajamento:** Através de influenciadores, as marcas podem transmitir suas mensagens de forma autêntica, aumentando credibilidade e alcance.
+## Clientes e Casos de Sucesso
 
-## **Contexto e Oportunidade:**
-- **Transformação Digital:** A digitalização e evolução das interações online oferecem grandes oportunidades para que a ágora integre estratégias de Marketing de Influência, potencializando suas ofertas e conexão com o público.
+A empresa já trabalhou com várias marcas de alta relevância, incluindo:
+- BP
+- Netflix
+- Diageo
+- Havaianas
+- L'Oréal
+- Pfizer
 
-## **Sugestões para Abordagem:**
-- **Email de Prospecção Personalizado:**
-  - Destacar desafios como gestão de crises e engajamento com o público, que são altamente relevantes no contexto atual.
-  - Compartilhar exemplos de sucesso onde a ágora ajudou a melhorar a reputação e presença digital de outras marcas.
-  - Propor uma reunião para discutir a implementação de estratégias de Marketing de Influência nas ofertas da ágora, promovendo conexões significativas com influenciadores que estejam alinhados aos valores e à missão da marca.
+### Exemplos Concretos
+- **Acordo Social e Produtivo para o Setor Automotivo Argentino 2030**:
+  - Desafio: Reunir stakeholders diversos para um plano estratégico.
+  - Resultado: O documento foi apresentado ao presidente da Argentina, possuindo um alcance de 50 milhões e gerando mais de 300 publicações na mídia.
 
-## **Conclusão:**
-- **União de Forças:** Propor uma colaboração que fortaleça a atuação da ágora em Marketing de Influência, ampliando seu impacto no mercado e fornecendo soluções inovadoras que atendam suas necessidades estratégicas.
+## Identificação de Dores
 
----
-Este relatório fornece uma visão detalhada da ágora, destacando as oportunidades no campo do Marketing de Influência e os desafios específicos que podem ser abordados para aprimorar ainda mais a estratégia de comunicação da empresa. A proposta visa não apenas melhorar a reputação, mas também fomentar um engajamento autêntico e responsável com o público.
+As empresas que buscam serviços da ágora estão frequentemente enfrentando alguns desafios comuns:
+- A dificuldade em comunicar efetivamente suas ideias e inovações para o público, especialmente em um ambiente saturado de informações e polarização.
+- A necessidade de construir e proteger sua reputação em tempos de crise, onde mudanças rápidas em políticas públicas e demandas sociais podem impactar diretamente a imagem corporativa.
+- A busca por estratégias eficazes de engajamento que se conectem com o público-alvo por meio de plataformas digitais.
+
+## Contexto e Oportunidades
+
+Atualmente, a sociedade e o mercado estão cada vez mais conectados e informados, proporcionando um terreno fértil para o Marketing de Influência. A ágora, com sua experiência em comunicação e reputação, pode se beneficiar ao integrar influenciadores de modo a humanizar a comunicação e fortalecer as marcas na percepção do consumidor.
+
+Diante da polarização e dos desafios atuais de comunicação, há uma grande oportunidade para a utilização de influenciadores que possam alinhar as marcas a valores e narrativas que ressoam com o público contemporâneo. As estratégias da ágora podem ser potencializadas através da mediação de influenciadores, aumentando o engajamento e a fidelização dos clientes.
+
+## Público-Alvo
+
+- Setores industriais diversos, com foco em marcas que buscam melhorar sua comunicação e reputação.
+- Empresas que desejam influenciar mudanças políticas ou sociais através de campanhas de lobbying ou advocacy.
+- Marcas que precisam de soluções criativas e personalizadas para engajar com novos públicos, especialmente através de plataformas digitais.
+
+## Conclusão
+
+Este relatório destaca como a ágora atua no espaço de marketing de influência, com forte ênfase em comunicação estratégica e construção de reputação. Com os desafios atuais enfrentados pelas marcas e um mercado em rápida mudança, a colaboração com influenciadores pode se revelar uma estratégia valiosa. O próximo passo é explorar como integrar campanhas de influenciadores para maximizar a eficácia das estratégias de comunicação propostas na ágora. 
+
+Esse contexto é fundamental para que o copywriter possa criar um email personalizado e eficaz que ressoe com as necessidades e desafios da ágora.
