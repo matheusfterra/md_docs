@@ -1,63 +1,54 @@
-# Relatório de Prospecção Beontag
+# Relatório de Prospecção - Beontag
 
-### Identificação da Empresa
+### 1. Informações gerais
+- **Nome da Empresa:** Beontag
+- **Segmento:** Tecnologia e materiais autoadesivos, incluindo soluções de IoT (RFID, NFC, BLE).
+- **Localização:** 
+  - Sede em Trotwood, OH, EUA
+  - Presença em mais de 20 países com operações significativas na América do Norte, América do Sul, Europa e Ásia.
+- **Site:** [Beontag](https://www.beontag.com)
 
-**Nome da Empresa:** Beontag  
-**Segmento:** Fabricação de adesivos autoadesivos, etiquetas inteligentes (RFID, NFC) e soluções de rotulagem.  
-**Website:** [beontag.com](http://www.beontag.com)  
-**Localização:** Operações em mais de 20 países com presença em mais de 40 mercados.
+### 2. Produtos e Serviços
+#### 2.1. Categorias de Produtos
+- **Materiais Gráficos e Etiquetas:** 
+  - **Adesivos Sensíveis à Pressão:** Usados em rótulos e etiquetas para identificação.
+  - **Liner de Liberação:** Utilizado para evitar que a superfície adesiva grude prematuramente.
+  - **Produtos Sustentáveis:** Materiais que atendem às necessidades de sustentabilidade dos clientes, como o EarthFirst, uma película feita de recurso renovável e 100% compostável.
+  
+- **Habilitadores de RFID e IoT:**
+  - Soluções de identificação e digitalização que conectam trilhões de itens, permitindo transformação digital de forma sustentável.
 
-### Segmento de Atuação
+#### 2.2. Aplicações
+- As soluções da Beontag são aplicáveis em diversas indústrias, incluindo:
+  - **Logística e Cadeia de Suprimentos**
+  - **Saúde e Farmacêutica**
+  - **Alimentos e Bebidas**
+  - **Moda e Varejo**
+  - **A indústria automotiva (com RFID em pneus)**
 
-Beontag atua no segmento de soluções de rotulagens e adesivos autoadesivos, oferecendo produtos como:
+### 3. Diferenciais Competitivos
+- **Presença Global:** Mais de 20 instalações industriais em mais de 40 países.
+- **Diversificação:** Produtos personalizados de alta qualidade.
+- **Compromisso com a Sustentabilidade:** Investimento em soluções que atendam às metas de sustentabilidade dos clientes.
+- **Inovação:** Investimentos contínuos em instalações de ponta e centros de P&D.
 
-1. **Materiais Gráficos e Adesivos:**
-   - Adesivos sensíveis à pressão
-   - Liners de liberação
-   - Produtos sustentáveis
+### 4. Contexto Atual do Negócio
+- **Iniciativas Recentes:** 
+  - Lançamento de papéis térmicos livre de fenol, atendendo à demanda por soluções de etiquetagem mais seguras.
+  - Parceria com a Michelin para desenvolver pneus com RFID integrado, melhorando a rastreabilidade e a eficiência.
 
-2. **Soluções RFID e IoT:**
-   - Inlays e etiquetas padrão
-   - Etiquetas especializadas
-   - Tags duras e etiquetas em metal
+### 5. Dores e Desafios Potenciais
+- **Necessidade de Soluções Sustentáveis:** Pressão crescente para reduzir o uso de materiais prejudiciais, como bisfenóis, e atender a novas regulamentações (ex: leis da Califórnia e Washington).
+- **Concorrência no Setor:** Presença de outros fabricantes oferecendo soluções similares, exigindo inovação constante e diferenciação.
 
-### Diferenciais Competitivos
+### 6. Oportunidades de Prospecção
+- **Educação sobre Sustentabilidade:** Oferecer workshops ou webinars sobre a importância de materiais sustentáveis.
+- **Lançamento de Produtos:** Colaboração para lançar campanhas de marketing ao redor de novos produtos e inovações (como o projeto de pneus RFID).
+- **Segmentação das Indústrias:** Estratégias personalizadas para setores como alimentos e saúde, onde a rastreabilidade e a segurança são essenciais.
 
-- **Inovação:** Investimentos substanciais em tecnologia de ponta, como o desenvolvimento de produtos RFID e NFC.
-- **Sustentabilidade:** A empresa busca ser uma facilitadora sustentável, com produtos que atendem aos padrões ambientais e de saúde.
-- **Escala Global:** Com mais de 20 instalações industriais, a Beontag tem a capacidade de atender a um amplo mercado global.
-- **Diversificação de Produtos:** Oferece personalização em produtos de alta qualidade que atendem à variedade de necessidades do cliente.
+### 7. Estratégias de Atração
+- **Email Marketing Personalizado:** Utilizar as informações acima para criar campanhas que abordem diretamente as necessidades e desafios da Beontag.
+- **Conteúdo Educativo:** Criar e compartilhar conteúdos sobre como soluções de marketing de influência podem beneficiar as colaborações entre empresas e influenciadores, especialmente nas áreas de sustentabilidade e inovação.
 
-### Missão e Visão
-
-**Missão:** Proporcionar soluções de rotulagem seguras e sustentáveis, que atendam as necessidades do mercado e contribuam para a modernização da cadeia de suprimentos.  
-**Visão:** Ser uma referência global em soluções de rotulagem e adesivos inovadores, promovendo o desenvolvimento sustentável no setor.
-
-### Produtos e Inovações Recentes
-
-1. **RFID em Pneus:** Parceria com a Michelin para o desenvolvimento de pneus "inteligentes" com RFID, permitindo rastreamento completo do ciclo de vida do produto (lançamento, manutenção, reciclagem).
-2. **Papéis Térmicos Livres de Fenol:** Lançamento recente de uma linha de papéis térmicos livres de químicos nocivos, destinada a melhorar a segurança no manuseio e na aplicação.
-
-### Dores e Necessidades do Mercado
-
-As empresas que utilizam adesivos e soluções de rotulagem enfrentam desafios como:
-
-- **Regulamentações Ambientais Crescentes:** Necessidade de produtos que não apenas cumpram as regulamentações atuais, mas que também sejam sustentáveis em sua produção e descarte.
-- **Rastreamento Eficiente:** Com a crescente demanda por rastreamento de produtos, uma solução eficaz é necessária para garantir a integridade e a conformidade durante todo o ciclo de vida dos produtos.
-- **Aumento de Segurança:** Demanda por rótulos e adesivos que não contenham substâncias químicas nocivas, promovendo ambientes de trabalho mais seguros.
-
-### Público-alvo
-
-1. **Indústrias de Alimentos e Bebidas:** Necessitando de rótulos e identificações que sejam seguras e que atendam às exigências regulatórias.
-2. **Setor Automotivo:** Empresas buscando soluções avançadas para rastreamento e gerenciamento de produtos como pneus.
-3. **Varejo e Moda:** Necessidade de produtos que unam estética e funcionalidade, com a segurança de impressão em rótulos exclusivos.
-
-### Contexto do Mercado
-
-A indústria de adesivos e soluções de rotulagem está em constante evolução, impulsionada pela necessidade de soluções mais seguras e sustentáveis. A pressão por inovação e regulamentações ambientais exige que empresas como a Beontag adaptem e diversifiquem seus produtos constantemente.
-
-### Observações Finais
-
-O Beontag demonstra um compromisso sólido com inovação e sustentabilidade, posicionando-se como um parceiro valioso para empresas que buscam modernizar suas operações e garantir conformidade regulatória. Oferecer soluções que atendem as demandas de rastreamento, além de manter um padrão de segurança na manipulação de matérias-primas, são fatores essenciais para a proposta de valor da Beontag.
-
-O copywriter da equipe poderia usar essas informações para elaborar um email personalizado que destaque a necessidade da empresa prospectada por soluções de rotulagem que sejam inovadoras e sustentáveis, reforçando a importância de parcerias com fornecedores comprometidos com a satisfação das exigências ambientais e regulatórias.
+### 8. Conclusão
+Beontag possui um posicionamento forte no mercado de tecnologia de materiais autoadesivos com um foco crescente em soluções sustentáveis. Através de propostas personalizadas que abordem diretamente suas dores e desafios, bem como o fortalecimento de suas capacidades de marketing digital, há um grande potencial para desenvolver uma colaboração forte e mutuamente benéfica.
