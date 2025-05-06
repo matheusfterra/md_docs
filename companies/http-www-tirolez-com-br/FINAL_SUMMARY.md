@@ -1,64 +1,51 @@
-# Relatório de Prospecção para Tirolez - SDR Especialista em Prospecção Outbound
+# Relatório de Prospecção - Tirolez
 
-## 1. **Informações Gerais da Empresa**
+## Informações Gerais da Empresa
+
 - **Nome da Empresa:** Tirolez
-- **Segmento:** Laticínios (especializada em queijos)
 - **Website:** [tirolez.com.br](http://www.tirolez.com.br)
-- **Contato:** Não especificado, investigar fontes sociais ou diretórios corporativos para mais informações.
+- **Segmento:** Laticínios (queijos, iogurtes, etc.)
 - **Localização:** Brasil
+- **Ano de Fundação:** (informação a ser pesquisada)
+- **Número de Funcionários:** (informação a ser pesquisada)
+- **Faturamento Anual:** (informação a ser pesquisada)
 
-## 2. **Visão Geral e Missão da Empresa**
-A Tirolez se destaca por oferecer uma ampla gama de queijos e laticínios, cultivando uma identidade de compromisso com a qualidade e frescor de seus produtos. A marca se posiciona como um aliado das “famílias”, buscando integrar seus produtos em momentos cotidianos e especiais, promovendo o sabor e a tradição familiar.
+## Descrição da Empresa
 
-### Missão
-Oferecer produtos laticínios de alta qualidade que proporcionem segurança e sabor à mesa dos consumidores.
+A Tirolez é uma marca conhecida no Brasil, especialmente no segmento de laticínios, com uma forte presença no mercado de queijos, iogurtes e outros derivados do leite. A empresa se destaca pela qualidade de seus produtos e pela sua tradição na fabricação de laticínios.
 
-## 3. **Produtos e Categorias**
-### Principais Produtos
-A Tirolez possui uma ampla gama de queijos, incluindo:
-- **Queijo Mussarela:** Variantes em fatias e em stick (ex: Stick Mussarela Pouch com 8 unidades).
-- **Queijo Prato:** Distribuído em diferentes formas e versões, inclusive light.
-- **Queijo Minas Frescal e Padrão:** Variantes em diferentes tamanhos e formatos.
-- **Queijo Brie e Camembert:** Oferecendo um toque gourmet aos laticínios.
-- **Creme de Ricota e Requeijão:** Produtos para variedade de consumo, incluindo opções zero lactose.
+## Análise do Mercado
 
-### Produtos Alternativos
-- Diversificação na linha de queijos para intolerantes à lactose.
-- Mix de produtos, entre eles manteigas e receitas.
+- **Concorrência:** A Tirolez compete com diversas marcas de laticínios no Brasil, como Danone, Nestlé, Itambé e outras. A análise da concorrência deve incluir estratégias de marketing e presença digital.
+- **Tendências de Consumo:** O aumento da demanda por produtos naturais e com menor teor de gordura pode influenciar a linha de produtos da Tirolez. A tendência de consumo saudável precisa ser observada.
+- **Público-Alvo:** O público-alvo da Tirolez inclui consumidores que valorizam qualidade e tradição em laticínios, além de famílias que buscam produtos para o dia a dia.
 
-### Receitas
-O site apresenta uma variedade considerável de receitas fáceis de preparar, que utilizam seus produtos, facilitando a inserção dos queijos na rotina dos consumidores. Exemplos incluem: 
-- Pão de queijo Minas Frescal.
-- Crepioca de Cottage.
-- Waffle de Queijos Parmesão e Minas Padrão com bacon crocante.
+## Pontos de Dor e Necessidades
 
-## 4. **Público-Alvo**
-O público-alvo da Tirolez se compõe de:
-- Famílias que buscam agregar sabor e qualidade às refeições.
-- Consumidores que buscam opções saudáveis, como laticínios sem lactose.
-- Chefs e amantes de culinária que desejam ingredientes de qualidade.
-  
-### Insights sobre o Consumidor
-- **Saúde e Bem-Estar**: A crescente demanda por produtos saudáveis e livres de lactose indica uma oportunidade crescente.
-- **Praticidade**: Produtos como o Stick de Mussarela são direcionados para consumidores que valorizam a conveniência.
+- **Conexão com Consumidores:** Apesar de já ter uma base de consumidores, a Tirolez pode estar buscando maneiras mais eficazes de se conectar com eles, especialmente através das redes sociais.
+- **Aumento da Visibilidade da Marca:** Com a concorrência crescente, a Tirolez pode precisar de ajuda para se destacar no mercado e na mente dos consumidores.
+- **Promoção de Novos Produtos:** Quando lançando novos produtos, a empresa poderá enfrentar dificuldades em promovê-los e gerar buzz nas redes sociais.
 
-## 5. **Análise das Dores e Necessidades**
-- **Dores**: A Tirolez deve lidar com a concorrência do mercado de queijos e laticínios, que tem crescido, assim como a necessidade de se adaptar às novas exigências de consumo saudável.
-- **Necessidades**: 
-  - Incremento na comunicação de valores nutricionais, especialmente em produtos zero lactose.
-  - Aumento de presença e engajamento digital, como nas redes sociais.
+## Estratégia de Marketing de Influência
 
-## 6. **Referências e Ponto de Contato de Marketing**
-- **Site Principal**: [Tirolez.com.br](http://www.tirolez.com.br)
-- **Instagram e Facebook**: Prospecção em canais digitais para entender o engajamento da marca com influenciadores.
-- **Influencers**: Investigar influencers que já estão promovendo ou podem promover os produtos Tirolez.
+- **Conteúdo Gerado por Usuários:** Incentivar consumidores a compartilhar suas experiências com os produtos Tirolez nas redes sociais pode ser uma estratégia eficaz.
+- **Parcerias com Influenciadores:** A Tirolez pode se beneficiar muito de parcerias com influenciadores que se alinhem com seus valores e produtos, aumentando a autenticidade e a visibilidade da marca.
+- **Campanhas Temáticas:** Desenvolver campanhas sazonais ou temáticas em parceria com influenciadores pode gerar maior engajamento.
 
-## 7. **Proposta de Comunicação**
-Elaborar uma comunicação clara e envolvente com a Tirolez, utilizando:
-- Histórias sobre o uso de seus produtos nas receitas cotidianas.
-- Sugestões sobre a parceria com influenciadores que podem ressoar com a marca e o ethos familiar da Tirolez.
-- Propostas de campanhas que valorizem o uso do queijo nas refeições diárias.
-  
+## Proposta de Valor
+
+Oferecer à Tirolez uma estratégia customizada de marketing de influência que alavanque sua presença nas redes sociais, utilizando influenciadores adequados que falem diretamente ao seu público-alvo e ajudem a solucionar suas dores identificadas, promovendo a visibilidade de seus produtos e fortalecendo a conexão com os consumidores.
+
+## Informações Adicionais Necessárias
+
+Para que o copywriter tenha um entendimento completo e mais direcionado da empresa, algumas informações adicionais serão necessárias:
+
+1. Dados sobre as atuais campanhas de marketing da Tirolez.
+2. Informações sobre a presença nas redes sociais.
+3. Análise de feedbacks e reviews dos consumidores sobre os produtos da Tirolez.
+4. Exemplos de projetos ou parcerias anteriores com influenciadores (se houver).
+5. Diretrizes da marca e conteúdo que têm funcionado ou não.
+
 ---
 
-Este relatório oferece um panorama detalhado sobre a Tirolez, suas ofertas, e comportamentos de compra, além de proporcionar insights para a abordagem da comunicação e eventualmente, estratégias de relacionamento com influenciadores.
+**Nota:** O conteúdo deste relatório é fundamental para a elaboração de e-mails personalizados e atrativos que envolvam a Tirolez e demonstrem o valor agregado que uma parceria com a nossa empresa de marketing de influência pode oferecer.
