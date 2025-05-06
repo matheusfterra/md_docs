@@ -1,6 +1,7 @@
 # Relatório de Prospecção - Zig Fun
 
 ## Informações Gerais
+
 - **Nome da Empresa:** Zig Fun
 - **Website:** [zig.fun](http://www.zig.fun)
 - **Segmento:** Tecnologia para gerenciamento de eventos, bares e restaurantes.
@@ -8,6 +9,7 @@
 - **Anos de Experiência:** Mais de 10 anos no mercado de entretenimento.
 
 ## Produtos e Serviços Oferecidos
+
 1. **Sistemas de Venda de Ingressos:**
    - Soluções online (site e app) e offline (via POS).
    - Controle de check-in, gerenciamento de cupons de desconto e vendas em grupos.
@@ -20,7 +22,7 @@
 
 3. **Gestão e CRM:**
    - Monitoramento de vendas, performance de produtos e análise de dados.
-   - Ferramentas de BI para decisões estratégicas.
+   - Ferramentas de Business Intelligence (BI) para decisões estratégicas.
 
 4. **Marketplace de Ingressos:**
    - Vendas com alta visibilidade e navegação intuitiva.
@@ -31,21 +33,21 @@
    - Aceita diversos tipos de pagamento, aumentando a eficiência no atendimento.
 
 ### Produtos Destacados
-- **Cashless Digital:** Cartão virtual disponível em carteiras digitais. Visa reduzir filas e melhorar a experiência do cliente.
+- **Cashless Digital:** Cartão virtual disponível em carteiras digitais que visa reduzir filas e melhorar a experiência do cliente.
 - **Autoatendimento com Totem:** Oferece soluções autônomas em eventos e estabelecimentos.
 - **Gestão de Reservas:** Suporte para reservas com pagamentos antecipados, otimizando o fluxo de atendimento.
 
 ## Público-Alvo
 - **Bares, Restaurantes, Eventos e Casas Noturnas:** Estabelecimentos que buscam modernizar a gestão, otimizar vendas e oferecer uma experiência diferenciada ao cliente.
-- **Organizações de Eventos:** Grande foco em festivais, shows, e eventos de grande escala como Rock in Rio e Lollapalooza.
+- **Organizações de Eventos:** Grande foco em festivais, shows e eventos de grande escala, como Rock in Rio e Lollapalooza.
 
 ## Contexto do Mercado
-O mercado de entretenimento e eventos está cada vez mais competitivo. As empresas demandam soluções que não só otimizem processos, mas também ofereçam uma experiência personalizada ao consumidor, especialmente diante do aumento da digitalização e das carteiras digitais. A pandemia fez com que muitos estabelecimentos buscassem formas de reduzir filas e espera, além de maximizar o uso de dados para entender melhor o comportamento do cliente.
+O mercado de entretenimento e eventos é cada vez mais competitivo. As empresas necessitam de soluções que não só otimizem processos, mas também ofereçam uma experiência personalizada ao consumidor, especialmente diante do aumento da digitalização e das carteiras digitais. A pandemia fez com que muitos estabelecimentos buscassem formas de reduzir filas e espera, além de maximizar o uso de dados para entender melhor o comportamento do cliente.
 
 ## Possíveis Dores das Empresas
 1. **Gestão Ineficiente:** Dificuldades em gerenciar ações de venda, reservas e pagamentos de maneira integrada.
 2. **Tempo de Atendimento:** Filas longas e lentidão nas transações são um problema constante.
-3. **Fidelização do Cliente:** A dificuldade em manter clientes recorrentes e criar promoções atraentes.
+3. **Fidelização do Cliente:** Dificuldade em manter clientes recorrentes e criar promoções atraentes.
 4. **Análise de Dados:** Falta de ferramentas para coletar e analisar dados de consumo e vendas.
 
 ## Estudo de Caso Relevante
@@ -57,4 +59,4 @@ O mercado de entretenimento e eventos está cada vez mais competitivo. As empres
 - Solicitar uma reunião para demonstrar a plataforma e suas funcionalidades, focando nas dores específicas identificadas na empresa prospectada.
 
 ## Conclusão
-A Zig Fun é uma empresa posicionada como líder no fornecimento de soluções de tecnologia para o segmento de entretenimento, com um portfólio robusto e diversificado. A prospecção deve focar não apenas em vender um produto, mas em apresentar uma solução integral que alinha as necessidades modernas do mercado de eventos e hospitalidade com as inovações tecnológicas disponíveis. O próximo passo deve ser a abordagem de leads com um e-mail personalizado, destacando as soluções que resolvem suas dores específicas e convidando para uma apresentação.
+A Zig Fun posiciona-se como líder no fornecimento de soluções tecnológicas para o segmento de entretenimento, com um portfólio robusto e diversificado. A prospecção deve focar não apenas em vender um produto, mas em apresentar uma solução integral que alinha as necessidades modernas do mercado de eventos e hospitalidade com as inovações tecnológicas disponíveis. O próximo passo deve ser a abordagem de leads com um e-mail personalizado, destacando as soluções que resolvem suas dores específicas e convidando para uma apresentação.
