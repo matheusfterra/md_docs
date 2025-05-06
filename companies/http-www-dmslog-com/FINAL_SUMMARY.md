@@ -7,30 +7,25 @@
 - **Tempo de Atuação:** Mais de 30 anos
 - **Missão:** Simplificar conexões para tornar o mundo melhor, oferecendo soluções logísticas personalizadas.
 - **Valores Centrais:**
-  - Desenvolvimento: Crescimento contínuo e aprendizado.
-  - Colaboração: Trabalho em equipe e comunicação clara.
-  - Humanidade: Respeito e cuidado com pessoas.
-  - Inovação: Melhoria constante e adaptação às mudanças.
-  - Foco no Cliente: Entendimento profundo das necessidades do cliente.
+  - **Desenvolvimento:** Crescimento contínuo e aprendizado.
+  - **Colaboração:** Trabalho em equipe e comunicação clara.
+  - **Humanidade:** Respeito e cuidado com pessoas.
+  - **Inovação:** Melhoria constante e adaptação às mudanças.
+  - **Foco no Cliente:** Entendimento profundo das necessidades do cliente.
 
 ## Produtos e Serviços
 1. **Transporte Aéreo**
    - Parcerias com grandes companhias aéreas.
    - Soluções rápidas e eficazes.
-
 2. **Transporte Marítimo**
    - Melhores rotas e acompanhamento em tempo real.
    - Processos computadorizados para agilidade.
-
 3. **Transporte Terrestre**
    - Logística rodoviária customizada para diferentes necessidades.
-
 4. **Desembaraço Alfandegário**
    - Processos ágeis e seguros voltados para a desburocratização.
-
 5. **Seguro Internacional**
    - Políticas de seguro adaptadas às necessidades dos clientes.
-
 6. **Tecnologia**
    - Sistema próprio de gestão (DMSYS) que permite o acompanhamento em tempo real.
 
@@ -41,13 +36,10 @@
 ## Dores Potenciais da Empresa
 1. **Complexidade em Operações Logísticas:**
    - Desafios em gerenciar diferentes modais de transporte e garantir eficiência.
-
 2. **Necessidade de Visibilidade em Tempo Real:**
    - Clientes exigem informações imediatas sobre a localização e status de suas cargas.
-
 3. **Regulamentações Alfandegárias:**
    - O processo de desembaraço alfandegário pode ser um ponto de frustração e demora.
-
 4. **Busca por Sustentabilidade:**
    - Necessidade crescente por processos logísticos que sejam social e ambientalmente responsáveis.
 
@@ -55,10 +47,8 @@
 - **Colaboração com Influenciadores do Setor:**
    - Estabelecer parcerias para criar conteúdo educativo sobre logística e transporte.
    - Realizar webinars e eventos online com especialistas em logística.
-
 - **Campanhas de Marketing de Influência:**
    - Lançamento de campanhas que abordem inovações tecnológicas no setor de logística.
-
 - **Testemunhos e Estudos de Caso:**
    - Utilizar influenciadores para apresentar casos de sucesso e impactar a decisão de potenciais clientes.
 
