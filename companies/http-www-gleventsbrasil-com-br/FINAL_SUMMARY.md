@@ -1,50 +1,49 @@
-# Relatório de Prospecção: GL Events Brasil
+## Relatório de Prospecção - GL Events Brasil
 
-## Informações da Empresa
-**Nome da Empresa:** GL Events Brasil  
-**Website:** [gleventsbrasil.com.br](http://www.gleventsbrasil.com.br)  
-**Segmento:** Eventos, Feiras, Congressos, Entretenimento, Hospitality   
-**Localização:** Escritórios em Rio de Janeiro, Santos, São Paulo e Salvador.  
-**CEO:** Milena Palumbo - [LinkedIn Milena](https://linkedin.com/in/milena-palumbo)  
-**Data de Fundação:** 1978 (como Polygone Services)  
-**Faturamento:** 1,041 milhões de € (em 2018)  
-**Empregados:** Aproximadamente 4.500 colaboradores globalmente.  
+### 1. Informações Gerais da Empresa
+- **Nome:** GL Events Brasil
+- **Website:** [GLEvents Brasil](https://www.gleventsbrasil.com.br)
+- **Segmento:** Eventos e Exposições
+- **Localização:** Brasil (com presença em mais de 20 países)
+- **Ano de Fundação:** 1978 (como parte do grupo GL Events)
+  
+### 2. Estrutura e Produtos/Serviços
+#### Principais Áreas de Atuação:
+- **Live:** Concepção e entrega completa de eventos, incluindo cenografia, montagem de estandes, locação de móveis e estruturas temporárias.
+- **Exhibitions:** Organização de feiras e exposições B2B e B2C.
+- **Venues:** Gestão de espaços para eventos, incluindo centros de convenções e espaços multiuso.
+  
+#### Dados Financeiros:
+- **Faturamento Overall:** Aproximadamente €600 milhões em Live e €231.4 milhões em Exhibitions.
+- **Número de Funcionários:** Cerca de 4.500 funcionários em todo o grupo.
 
-## Visão Geral e Contexto
-A GL Events é uma das maiores empresas no segmento de organização de eventos e exposições no mundo, operando em mais de 20 países. A empresa destaca-se pela oferta de soluções completas que vão desde a concepção e execução de eventos até a gestão de espaços para eventos. Em 2023, a GL Events continua se expandindo e investindo em infraestrutura no Brasil, com um foco em tornar seus espaços de eventos mais versáteis e sustentáveis.
+### 3. Características e Diferenciais
+- **Modelo de Negócio:** Possui uma cadeia completa de produção de eventos (da concepção à execução).
+- **Experiência Internacional:** Atuando em eventos globais como Copa do Mundo, Jogos Olímpicos e feiras internacionais relevantes.
+- **Inovação:** Projetos de responsabilidade social e ambiental, com políticas de ESG implementadas (Ex: redução da pegada de carbono e uso de energias renováveis).
 
-## Produtos e Serviços
-- **Live:** Concepção e execução de eventos ao vivo, incluindo shows e cerimônias.
-- **Exhibitions:** Organização e gestão de feiras e exposições, com experiência em grandes eventos internacionais.
-- **Venues:** Gestão de mais de 50 espaços para eventos, como centros de convenções e exposições, garantindo versatilidade e alta qualidade em serviços.
+### 4. Contexto do Mercado
+- **Concorrência:** Atuam no mercado altamente competitivo de eventos e exposições, com concorrentes tanto nacionais quanto internacionais.
+- **Tendências:** Aumento da digitalização e eventos híbridos, que exigem uma conexão mais forte com influenciadores para ampliação do alcance e engajamento.
+  
+### 5. Possíveis Dores e Necessidades
+- **Capacitar Eventos com Influenciadores:** É vital para tornar os eventos mais atrativos, aumentando a interação e visibilidade.
+- **Criar experiências memoráveis:** Necessidade de se destacar em um mercado saturado com soluções criativas que engajem os participantes.
+- **Ajustar-se a novas demandas:** Com o crescimento de eventos híbridos e digitais, adaptar a comunicação e estratégias de marketing é crucial.
 
-## Características e Valores
-- **Prioridade na Sustentabilidade:** A GL Events implementou políticas de ESG (Ambientais, Sociais e de Governança) focando na redução da pegada de carbono e na responsabilidade social corporativa.
-- **Inovação:** A empresa investe em tecnologia e inovação para melhorar a experiência dos participantes e a eficiência na organização de eventos.
-- **Diversidade e Inclusão:** Valorização da diversidade no ambiente de trabalho, assegurando oportunidades iguais para todos os colaboradores.
+### 6. Exemplos de Sucesso e Cases
+- **Inauguração do Centro de Convenções Salvador:** Eventos já agendados com grande destaque nas mídias sociais.
+- **Feiras e Exposições bem-sucedidas:** Casos como a Bienal do Livro da Bahia que atraem um grande número de visitantes.
 
-## Possíveis Dores/Desafios
-1. **Concorrência Crescente:** O mercado de eventos é altamente competitivo, e a GL Events pode enfrentar dificuldades para se destacar continuamente.
-2. **Expectativas em Alta:** Clientes e convidados esperam experiências únicas e memoráveis, o que requer inovação constante.
-3. **Sustentabilidade e Conformidade:** Com a crescente preocupação com questões ambientais, garantir práticas sustentáveis em eventos pode ser um desafio.
+### 7. Considerações Finais
+Para uma abordagem efetiva, é essencial ressaltar como a GL Events pode aumentar o engajamento dos participantes utilizando influenciadores. O e-mail pode destacar a importância de contar com influenciadores alinhados à visão da marca para maximizar o impacto de cada evento, além de promover uma imagem de inovação e responsabilidade social, alavancando os eventos da GL Events para um novo patamar no cenário brasileiro.
 
-## Oportunidades
-1. **Marketing de Influência:** A GL Events pode se beneficiar de parcerias com influenciadores para ampliar a visibilidade de eventos e aumentar o engajamento do público.
-2. **Eventos Híbridos:** O crescimento de eventos virtuais e híbridos oferece uma nova dimensão para interação com o público, que pode ser explorada pela empresa.
-3. **Expansão em Novos Mercados:** O investimento em novas locações e a ampliação da atividade em diferentes regiões do Brasil.
-
-## Datas e Eventos Relacionados
-- **Inauguração do Centro de Convenções de Salvador:** 15 de Abril de 2025 - Um importante passo na expansão de infraestrutura para eventos no Brasil.
-- **Participação em eventos internacionais:** A GL Events tem um histórico significativo de instrumentalização em eventos globais, como a FIFA World Cup e Jogos Olímpicos.
-
-## Estratégia Recomendada para Prospecção
-- **Customização do Pitch:** A equipe de copywriting deve criar comunicações que conectem as capacidades da GL Events com a necessidade de experiências diferenciadas no evento. A inclusão de casos de sucesso de eventos passados pode ilustrar a eficácia dos serviços.
-- **Abordagem Focada em Parcerias:** Apresentar a proposta de uma parceria que utilize influenciadores para potencializar eventos e engajar novos públicos, especialmente em feiras e exposições.
-- **Trilhas de Sustentabilidade:** Destacar como a GL Events pode alinhar eventos a práticas sustentáveis e como parcerias com influenciadores podem reforçar esta imagem positiva.
-
-## Conclusão
-A GL Events Brasil é uma empresa sólida com vasta experiência e potencial de crescimento significativo no mercado de eventos. Com a implementação de uma estratégia de marketing focada em influenciadores, a GL Events pode não só aumentar sua presença no mercado, mas também construir uma narrativa que ressoe com as demandas contemporâneas por experiências únicas e sustentáveis em eventos.
+### 8. Contato
+- **Contatos Relevantes:**
+  - Milena Palumbo - CEO LATAM GL Events Brasil
+  - Renato Souza - CFO GL Events Brasil
+- **Telefone (Sede):** (55) 11 5067-1770 para São Paulo e (55) 21 2441-9100 para Rio de Janeiro.
 
 ---
 
-Esse relatório serve como base para uma abordagem personalizada na prospecção de clientes, destacando as características da GL Events e as oportunidades que podem ser exploradas através do marketing de influência.
+Este relatório agrupa as informações essenciais para personalizar a prospecção junto à GL Events Brasil, destacando como o Marketing de Influência pode ser uma solução-chave para o engajamento e sucesso dos eventos organizados pela empresa.
