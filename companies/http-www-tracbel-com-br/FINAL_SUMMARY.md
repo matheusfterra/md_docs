@@ -1,57 +1,102 @@
-# Relatório de Prospecção: Grupo Tracbel
+# Relatório de Prospecção - Tracbel
 
-## Informações Gerais
-**Nome da Empresa:** Grupo Tracbel  
-**Website:** [tracbel.com.br](http://www.tracbel.com.br)  
-**Segmento:** Maquinário e Equipamentos para Construção, Transporte, Mineração, Agricultura e Florestal.  
-**Localização:** Brasil (presença em várias regiões do país)  
-**Telefones de Contato:**
-- Máquinas e Equipamentos: 0800 200 1000
-- Ônibus e Caminhões - Norte: 0800 200 8880
-- Ônibus e Caminhões - Nordeste: 0800 085 7500  
-**Email de contato:** [via site](http://www.tracbel.com.br/contato/)  
+## 1. Introdução
+
+**Objetivo:** O objetivo deste relatório é fornecer uma visão detalhada da Tracbel, uma empresa que atua no setor de máquinas e equipamentos pesados, incluindo caminhões, escavadeiras e carregadeiras. As informações aqui apresentadas servirão de base para a elaboração de uma comunicação mais personalizada e direcionada para iniciativas de marketing de influência.
 
 ---
 
-## Análise do Website
-O site do Grupo Tracbel apresenta uma interface amigável e informações organizadas sobre seus produtos e serviços, incluindo seções específicas para:
-- Vendas de máquinas e equipamentos
-- E-commerce para peças
-- Classificados de seminovos
-- Notícias e blog sobre o setor
+## 2. Informações Gerais da Empresa
 
-### Produtos Oferecidos
-A empresa oferece uma gama de produtos divididos em várias categorias:
-- **Caminhões e Ônibus:** Volvo
-- **Máquinas de Construção:** Retroescavadeiras Bull, Escavadeiras Volvo, Carregadeiras SDLG e Volvo, Motoniveladoras SDLG.
-- **Equipamentos de Mineração e Florestal:** Escavadeiras e Feller Buncher.
-- **Empilhadeiras Diesel e Elétricas:** Kalmar.
+**Nome da Empresa:** Tracbel
 
-### Características das Máquinas
-- Alta tecnologia e eficiência: Produtos como a nova série de carregadeiras Volvo são promovidos como tecnológicos e eficientes.
-- Variedade de máquinas para diferentes segmentos como construção, mineração, indústria, transporte, florestal e agrícola.
+**Website:** [tracbel.com.br](http://www.tracbel.com.br)
 
----
+**Segmento:** Máquinas e Equipamentos Pesados
 
-## Oportunidades no Marketing de Influência
-### Potenciais Dores/Desafios
-1. **Reconhecimento de Marca:** O Grupo Tracbel atua em um segmento altamente competitivo, onde o reconhecimento da marca é crucial para a diferenciação frente a concorrentes.
-2. **Comunicação do Valor Agregado:** É importante destacar a eficiência e a tecnologia dos seus produtos, especialmente em um setor onde a performance das máquinas tem impacto direto no custo e no resultado da operação.
-3. **Conectividade com Clientes Finais:** A conexão com influenciadores que possam compartilhar experiências e depoimentos sobre as máquinas e equipamentos pode aumentar a confiança e o interesse dos potenciais compradores.
+**Localização:** Brasil
 
-### Propostas de Ação
-1. **Campanhas com Influenciadores do Setor:** Colaborar com influenciadores na área de construção e maquinário pode ajudar a compartilhar a experiência positiva dos produtos, como eficiência e tecnologia.
-2. **Conteúdos Educacionais:** Criar parcerias com influenciadores para desenvolver conteúdos educacionais a respeito dos benefícios de escolher equipamentos de qualidade e como isso impacta positivamente os projetos de construção e transporte.
-3. **Testemunhos e Reviews:** Levar influenciadores a utilizar os produtos e compartilhar suas experiências em plataformas sociais e blogs.
+**Segmentos Atendidos:**
+- Construção
+- Mineração
+- Indústria
+- Transporte
+- Florestal
+- Agrícola
+- Reciclagem
+- Portuário
 
 ---
 
-## Público-Alvo
-- **Empresas de Construção:** Que utilizam maquinário pesada regularmente e buscam eficiência e economia operacional.
-- **Empresas de Mineração:** Que necessitam de máquinas robustas e confiáveis para operar em condições adversas.
-- **Agronegócios:** Que utilizam máquinas específicas para cultivo e colheita.
+## 3. Produtos e Serviços Oferecidos
+
+### 3.1. Produtos
+
+- **Caminhões:**
+  - Caminhões Articulados Volvo
+  - Caminhões da Linha F e Linha VM Volvo
+
+- **Máquinas de Construção:**
+  - Retroescavadeiras Bull
+  - Carregadeiras e Escavadeiras e da marca Volvo
+  - Motoniveladoras SDLG
+
+- **Equipamentos de Elevação e Manipulação:**
+  - Empilhadeiras Elétricas e a Diesel Kalmar
+  - Reachstackers e manipuladores de containers
+
+### 3.2. Serviços
+
+- **Treinamentos:** Capacitação técnico-operacional para o uso dos equipamentos.
+- **Soluções Financeiras:** Opções de financiamento e leasing para aquisição de máquinas.
+- **Manutenção e Suporte:** Suporte pós-venda, manutenção preventiva e corretiva.
 
 ---
 
-## Conclusão
-Através de um contato estratégico e campanhas direcionadas de marketing de influência, o Grupo Tracbel poderá fortalecer sua posição no mercado, destacando suas inovações e a qualidade dos seus produtos frente à concorrência. A experiência compartilhada através de influenciadores poderá criar um engajamento significativo com o público-alvo, aumentando a taxa de conversão e a lealdade à marca.
+## 4. Diferenciais da Tracbel
+
+- **Peças Genuínas:** Venda de peças genuínas em um e-commerce próprio, permitindo que os clientes comprem peças a qualquer hora e lugar.
+- **Histórico:** Mais de 10 anos de experiência no mercado com um volume significativo de máquinas e veículos vendidos.
+- **Responsabilidade Social:** Parte dos lucros revertidos para o projeto Profissionalizar, contribuindo com a formação e a inclusão social.
+
+---
+
+## 5. Contexto de Marketing de Influência
+
+### 5.1. Oportunidades de Influência
+
+Dado o perfil da Tracbel e os setores que atende, existe um potencial significativo para engajamentos com influenciadores que atuem em nichos relacionados a: 
+
+- Engenharia e Construção
+- Agronegócio e Indústria
+- Sustentabilidade e Responsabilidade Social
+- Tecnologia em Máquinas e Equipamentos
+
+### 5.2. Dores Possíveis
+
+- A concorrência acirrada no setor de máquinas e equipamentos pesados pode dificultar a visibilidade da marca.
+- O público-alvo pode ter dificuldades em perceber a importância de utilizar peças genuínas e serviços de manutenção de qualidade.
+- A necessidade de educar o mercado sobre os benefícios de suas máquinas para aumentar a eficiência e produtividade em diversas indústrias.
+
+---
+
+## 6. Estratégias de Aproximação
+
+### 6.1. Propostas de Conteúdo
+
+- Educar o público-alvo através de seminários, webinários, e conteúdos digitais que ressaltem os diferenciais técnicos dos produtos.
+- Colaborações com influenciadores para demonstrações de produtos e suas aplicações no dia a dia em obras e fábricas.
+- Criação de cases de sucesso com clientes que utilizem seus produtos, dando voz a influenciadores no segmento a falar sobre a eficácia.
+
+### 6.2. Proposta de Influenciadores
+
+- Identificar influenciadores que atuem em regiões onde a Tracbel tem maior presença.
+- Analisar influenciadores que compartilharem valores e práticas sustentáveis em sua comunicação.
+
+---
+
+## 7. Conclusão
+
+A Tracbel oferece um portfólio robusto em um setor que possui oportunidades significativas para ações de marketing de influência. Através de uma comunicação focada nas necessidades e dores da indústria, aliada a colaborações com influenciadores relevantes, é possível aumentar a percepção e o engajamento da marca no mercado.
+
+**Próximos passos:** Compartilhar este relatório com a equipe de copywriting para elaboração de conteúdos e estratégias de outreach personalizadas.
