@@ -1,58 +1,76 @@
-# Relatório de Prospecção - PM3 
+# Relatório de Prospecção para PM3
 
-## Informações Gerais
-- **Nome da Empresa:** PM3 
-- **Website:** [www.cursospm3.com.br](http://www.cursospm3.com.br)
-- **Segmento:** Educação e Formação em Produtos Digitais
-- **Foco Principal:** Capacitação de profissionais em gestão de produtos, marketing e crescimento digital.
+## 1. Informações Gerais da Empresa
+**Nome da Empresa:** PM3  
+**Website:** [pm3.com.br](https://pm3.com.br)  
+**Segmento:** Educação em Produto Digital e Gestão  
+**Localização:** Brasil  
+**Ano de Fundacão:** 2018  
+**CNPJ:** 30.904.079/0001-46  
+**Contato:** contato@pm3.com.br | Telefone: 011 91321-6688
 
-## Descrição da Empresa
-A PM3 é uma escola que se destaca na formação de profissionais de Produtos Digitais. Oferece uma gama diversificada de cursos e formações, desde bootcamps até pós-graduação, com certificações reconhecidas no mercado. A proposta da PM3 é conectar teoria à prática, utilizando cases de empresas renomadas para proporcionar uma experiência educacional robusta.
+## 2. Visão Geral dos Produtos e Serviços
+### 2.1 Cursos Oferecidos
+A PM3 oferece uma variedade de cursos e sprints em diferentes áreas relacionadas a produtos digitais, incluindo:
+- **Formações:** Cursos aprofundados como Product Management, Product Marketing, Product Analytics, Product Design, entre outros.
+- **Sprints:** Cursos rápidos focados em habilidades específicas, como entrevistas com usuários, metodologias ágeis, e criação de Roadmaps.
+- **Academia de Cases:** Um programa que propõe a aplicação de teoria em casos reais, permitindo interação com mentores e outros profissionais do setor.
 
-## Estrutura e Produtos
-### Formações
-- **Cursos Aprofundados:** Destinados a profissionais já atuantes na área que desejam se especializar.
-- **Bootcamps:** Programas dinâmicos, ao vivo, para desenvolvimento de habilidades específicas.
-- **Pós-Graduação:** Certificação oficial com foco na formação de gestores de produtos digitais.
-- **Academia de Cases:** Aprendizado através de metodologias práticas e cases reais.
-  
-### Metodologias
-A PM3 enfatiza a aprendizagem, troca e aplicação das habilidades, promovendo um ciclo contínuo de desenvolvimento.
+### 2.2 Metodologia e Diferenciais
+- **Metodologia Mista:** Combina teoria e prática, utilizando cases reais e preparando os alunos para desafios do mercado.
+- **Networking:** Acesso a uma comunidade
+- de mais de 40 mil profissionais, promovendo troca de experiências.
+- **Certificações Reconhecidas:** Todos os cursos oferecem certificados que agregam valor ao currículo dos alunos.
 
-## Ponto de Contato
-- **E-mail para contato:** contato@pm3.com.br
+## 3. Público-Alvo
+- **Profissionais de Produto:** Product Managers, Product Owners e equipes de desenvolvimento de produtos digitais.
+- **Profissionais de Marketing:** Aqueles que buscam se especializar em marketing de produtos digitais.
+- **Empresas:** Oferecem soluções em treinamento corporativo.
 
-## Dados demográficos do público-alvo
-- O público da PM3 é composto majoritariamente por profissionais que atuam ou desejam atuar em tecnologia, marketing e gestão de produtos.
-- A empresa atende a uma diversidade de empresas, incluindo startups, empresas de médio porte e grandes corporações.
-
-## Desafios e Oportunidades no Mercado
-### Dores Potenciais
-1. **Falta de Talento:** O mercado enfrenta uma escassez de profissionais qualificados em gerenciamento de produtos digitais.
-2. **Adaptação às Mudanças do Mercado:** Empresas lutam para acompanhar as rápidas transformações das tecnologias digitais.
-3. **Estagnação em Inovações:** Muitas empresas, apesar de terem produtos digitais, não conseguem inovar devido à falta de capacitação em suas equipes.
-
-### Oportunidades Identificadas
-- O relatório "Panorama do Mercado de Produto" destaca a importância do crescimento de equipes de Marketing de Produto e a demanda crescente por habilidades em inteligência artificial e liderança em produtos.
-- Parcerias e colaborações com empresas que necessitam de capacitação contínua para suas equipes.
-
-## Contexto do Setor
-- Relatórios prévios e estudos relacionados indicam a urgência na formação de profissionais qualificados na área de Produtos Digitais e tecnologia, especialmente com o advento de novas ferramentas e práticas digitais que estão transformando o mercado.
-- A presença de mais profissionais de Marketing de Produto indica uma tendência de crescimento que pode ser explorada pelas empresas.
-
-## Concorrência
-A PM3 competirá com outras plataformas de ensino digital, escolas e universidades que oferecem formação em produtos, marketing e tecnologia, como:
+## 4. Competidores e Diferenciais
+### 4.1 Competidores
 - Alura
 - Udemy
-- Coursera
-- Escolas tradicionais
+- Cursos do Coursera focados em produto e marketing.
 
-## Análise de Conteúdo e Recursos
-1. **Site da PM3** contém informações detalhadas sobre cursos, metodologia e impacto na carreira.
-2. **Material de Apoio:** O "Panorama do Mercado de Produto" é um recurso valioso que poderá ser utilizado na elaboração de conteúdo envolvente.
-3. **Testemunhos de Alunos:** São fundamentais para demonstrar a eficácia da metodologia de ensino e o impacto na carreira dos alunos.
+### 4.2 Diferenciais
+- **Foco em casos práticos:** A abordagem prática pode ser um grande atrativo para as empresas que buscam aplicar conhecimento imediatamente.
+- **Mentorias:** Acompanhamento de especialistas do setor.
+- **Ofertas de treinamento In Company:** Oportunidade para empresas de capacitar equipes de maneira personalizada.
 
-## Resumo da Prospecção
-A PM3 é uma escola que busca preencher a lacuna de talentos na área de produtos digitais no Brasil. Ao trabalhar com a PM3, poderíamos ajudar a promover sua abordagem e capacitação de forma que atraíssem mais marcas que desejam desenvolver suas equipes para enfrentar os desafios do mercado digital. 
+## 5. Análise de Mercado e Contexto
+### 5.1 Oportunidades de Crescimento
+Dada a crescente demanda por profissionais capazes de gerir produtos digitais de maneira eficaz e a transição para métodos de trabalho mais ágeis, a PM3 está bem posicionada para crescer. A evolução digital das empresas no Brasil também aumenta a necessidade de cursos especializados.
 
-Esse entendimento profundo sobre a empresa PM3, suas capacidades e o ambiente de mercado permitirá que o copywriter elabore um email altamente personalizado e impactante a ser enviado em ações de prospecção outbound.
+### 5.2 Desafios
+- Concorrência com plataformas de ensino tradicionais e inovações de cursos online.
+- Necessidade de distinguir-se continuamente por meio da entrega de conteúdo relevante e atual.
+
+## 6. Possíveis Dores do Cliente
+### 6.1 Identificações
+- **Incerteza em Gerenciamento de Produtos:** Profissionais e empresas que enfrentam dificuldades na implementação efetiva de práticas de gerenciamento e marketing para novos produtos.
+- **Necessidade de Conexão e Networking:** Aumento da importância do networking e da troca de conhecimentos entre profissionais para resolver problemas comuns.
+- **Desatualização de Habilidades:** Profissionais que sentem a necessidade de atualização constante em um cenário digital em rápida evolução.
+
+## 7. Sugestões de Abordagem
+### 7.1 Mensagem Personalizada
+- **Assunto do Email:** "Transforme a Gestão de Produtos na Sua Empresa com a PM3"
+- **Introdução:** Reconhecer a evolução do mercado digital e o desafio enfrentado pelas empresas em se adaptar a novas demandas.
+- **Apresentação do Valor:** Apresentar como a PM3 pode ajudar a desenvolver a gestão de produtos na empresa, utilizando cursos práticos e casos reais que promovem resultados tangíveis.
+
+### 7.2 Chamada à Ação
+- **Interesse em uma Demonstração:** Convidar a empresa para entender melhor os benefícios dos cursos para suas equipes.
+- **Oferecer uma Consultoria Inicial:** Propor uma conversa para discutir as necessidades específicas da empresa e como a PM3 pode ajudar.
+
+## 8. Conclusão
+A PM3 apresenta uma proposta robusta de treinamento e capacitação na área de gestão de produtos digitais, perfeitamente alinhada com as exigências do mercado atual. Com um foco em aprendizado prático e ligação com especialistas do setor, a empresa está preparada para oferecer valor significativo a indivíduos e organizações. Este relatório pode servir como uma base sólida para a elaboração de uma campanha de prospecção eficaz. 
+
+### 9. Links Relacionados
+- [Página Principal PM3](https://pm3.com.br) 
+- [Cursos da PM3](https://pm3.com.br/cursos) 
+- [Academia de Cases](https://www2.pm3.com.br/academia-de-cases) 
+- [Contato PM3](https://pm3.com.br/pm3-para-empresas)
+
+--- 
+
+Este relatório busca compilar informações relevantes para auxiliar a equipe na elaboração de uma comunicação assertiva e que gere interesse nos serviços oferecidos pela PM3.
