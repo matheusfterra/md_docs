@@ -13,16 +13,13 @@
    - Estratégias personalizadas de marketing digital.
    - Integração entre canais online e offline.
    - Produção de conteúdo otimizado.
-   
 2. **Tecnologia e Dados:**
    - Análise de dados utilizando Inteligência Artificial (IA).
    - Ferramentas de automação e CRM.
    - Desenvolvimento de plataformas de e-commerce e integração com marketplaces.
-   
 3. **Consultoria Estratégica:**
    - Estruturas de negócios baseadas em dados.
    - Transformação digital e otimização de processos.
-   
 4. **Marketing de Influência:**
    - Conexão entre marcas e influenciadores.
    - Criação de campanhas focadas em resultados e geração de leads.
