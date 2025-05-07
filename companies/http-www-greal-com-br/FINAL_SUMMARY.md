@@ -1,3 +1,9 @@
+```plaintext
+└── FINAL_SUMMARY.md
+```
+---
+## 📄 `FINAL_SUMMARY.md`
+```md
 # Relatório de Prospecção - Empresa XYZ
 
 ## 1. Informações Gerais da Empresa
@@ -27,10 +33,8 @@
 ### 4.2. Redes Sociais
 - **Instagram:** @xyzmarketing (20k seguidores)
   - Conteúdo sobre campanhas de influencers e cases de sucesso, com engajamento médio de 4%.
-  
 - **Facebook:** facebook.com/xyzmarketing (5k curtidas)
   - Postagens diárias sobre marketing digital e anúncios.
-  
 - **LinkedIn:** linkedin.com/company/xyzmarketing (3k seguidores)
   - Postagens sobre novidades do setor, além de algumas vagas disponíveis.
 
@@ -70,5 +74,5 @@ A empresa XYZ Marketing apresenta um potencial significativo para a colaboraçã
 - Mensurar a eficácia das campanhas de prospecção geradas a partir deste relatório para contínua melhoria de abordagem.
 
 ---
-
 Esse relatório pode ser utilizado como um guia tanto para criar uma mensagem personalizada quanto para entender melhor o contexto da empresa e suas necessidades.
+```
