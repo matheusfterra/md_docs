@@ -3,48 +3,48 @@
 ## Informações Gerais
 - **Nome da Empresa**: Feedz
 - **Segmento**: Tecnologia para Gestão de Pessoas
-- **Website**: [www.feedz.com.br](http://www.feedz.com.br)
+- **Website**: [www.feedz.com.br](https://www.feedz.com.br)
+- **Grupo Corporativo**: TOTVS
 
 ## Descrição da Empresa
-A Feedz é uma plataforma de gestão de pessoas, focada em otimizar o desempenho e engajamento dos colaboradores. Com mais de 1.500 clientes e mais de 200.000 colaboradores ativos, a empresa oferece soluções que incluem avaliação de desempenho, avaliação de experiência, gestão de metas e objetivos, pesquisas de clima, e outros serviços relacionados ao departamento pessoal. A Feedz faz parte do grupo TOTVS, reconhecida como uma das maiores empresas de tecnologia do Brasil.
+A Feedz é uma plataforma inovadora focada na gestão de pessoas, cuja missão é otimizar o desempenho e engajamento dos colaboradores. Com um portfólio que atende mais de 1.500 empresas e abarcam mais de 200.000 colaboradores ativos, a Feedz oferece uma gama de soluções que incluem avaliações de desempenho, gestão de metas (OKRs), pesquisa de clima, e muito mais.
 
 ## Produtos e Serviços
-A Feedz oferece uma variedade de soluções para gestão de pessoas, destacando-se em:
-- **Avaliação de Desempenho**: Processo automatizado que reduz o tempo necessário para a realização de avaliações em até 50%.
-- **Avaliação de Experiência**: Focada na integração de novos colaboradores e na redução do turnover.
-- **Gestão de Metas e Objetivos (OKRs)**: Ferramenta que permite criar, monitorar e aprovar metas de forma intuitiva.
-- **Pesquisa de Clima**: Auxilia na coleta de dados sobre a satisfação e engajamento dos colaboradores.
-- **Departamento Pessoal**: Solução para gestão de todas as atividades administrativas relacionadas a colaboradores, como admissões e gestão de folhas de pagamento.
+Feedz disponibiliza um conjunto robusto de funcionalidades, tais como:
+- **Avaliação de Desempenho**: Automatização que possibilita realizar avaliações em até 50% menos tempo, eliminando a dependência de planilhas.
+- **Avaliação de Experiência**: Focada na integração eficiente de novos colaboradores e na mitigação do turnover.
+- **Gestão de Metas e Objetivos (OKRs)**: Permite a criação, monitoramento e aprovação de metas de forma intuitiva.
+- **Pesquisa de Clima**: Ferramenta para medir a satisfação e engajamento dos colaboradores por meio de tecnologia avançada.
+- **Departamento Pessoal**: Solução completa para administração das atividades relacionadas ao ciclo de vida do colaborador, incluindo admissões e folhas de pagamento.
 
 ### Funcionalidades Bônus
-Além das soluções principais, ao contratar qualquer serviço, o cliente ganha acesso a 18 funcionalidades adicionais, incluindo:
 - Feedback contínuo
 - Reuniões 1:1
 - Planos de Desenvolvimento Individual (PDI)
 - Comunicação interna
 
 ## Características da Plataforma
-- Facilidade de uso com interface amigável e intuitiva.
-- Acesso via navegador e aplicativo móvel.
-- Integração facilitada com outras ferramentas como Gmail e Outlook.
-- Aderência às normas da LGPD, garantindo segurança e proteção de dados.
+- Interface amigável e intuitiva.
+- Acesso em múltiplos dispositivos (navegador e app móvel).
+- Integrações com ferramentas como Gmail e Outlook.
+- Conformidade com a LGPD para garantir a segurança dos dados.
 
 ## Diferenciais
-- A Feedz destaca-se pelo seu compromisso em automatizar processos manuais, liberando tempo para que os gestores façam um trabalho mais estratégico.
-- Utilização de feedbacks contínuos para criar um ambiente de trabalho mais colaborativo e motivador.
-- Flexibilidade em adaptar a plataforma ao modelo de gestão específico de cada empresa.
+- Foco na automação de processos manuais, permitindo que equipes de RH concentrem esforços em ações estratégicas.
+- Práticas de feedback contínuas que fomentam um ambiente colaborativo e motivado.
+- Ajustabilidade da plataforma às necessidades específicas de cada organização.
 
 ## Contexto e Possíveis Dores
-As empresas contemporâneas enfrentam desafios significativos na gestão de pessoas, como a alta rotatividade (turnover) de colaboradores e a dificuldade em implementar uma cultura de feedback. Adicionalmente, o uso excessivo de planilhas e processos manuais impede que os gestores foquem em estratégias de desenvolvimento e engajamento. A Feedz se posiciona como uma solução integrada, ideal para empresas que buscam transformar seus setores de RH em operações mais eficientes e com maior foco nas pessoas.
+Empresas modernas enfrentam desafios significativos ao gerenciar suas equipes, como a alta rotatividade de colaboradores e a dificuldade em criar uma cultura sólida de feedback. Além disso, a excessiva dependência de cálculos manuais e planilhas pode desviar a atenção dos gestores de estratégias de desenvolvimento e engajamento. A Feedz se apresenta como uma solução integrada, facilitando a melhoria dos processos de recursos humanos e oferecendo uma experiência mais gratificante para os colaboradores.
 
 ## Análise da Concorrência
-A Feedz compete com outras plataformas de gestão de pessoas no Brasil, como Gupy, Kenoby, e Harve. No entanto, sua abordagem focada na automação de processos e na experiência do colaborador oferece um diferencial significativo que pode atrair empresas que desejam otimizar sua gestão de talento.
+A Feedz se destaca frente a seus concorrentes (como Gupy, Kenoby e Harve) por sua proposta de valor centrada na automação e na experiência do colaborador, o que é atraente para empresas que buscam modernizar suas operações e reter talentos.
 
 ## Público-Alvo
-- **Segmento**: Empresas de pequeno a grande porte, com interesse em otimizar a gestão de suas equipes e processos de RH.
-- **Decisores**: Diretores de RH, gestores de equipes, e CEOs que buscam soluções para melhorar o desempenho e engajamento de seus colaboradores.
+- **Segmento**: Empresas de pequeno a grande porte que desejam otimizar processos de gestão de pessoas.
+- **Decisores**: Diretores de RH, gerentes de equipe e CEOs em busca de soluções inovadoras para maximizar engajamento e desempenho.
 
 ## Conclusão
-A Feedz é uma plataforma robusta que resolve problemas significativos na gestão de pessoas, especialmente em termos de eficiência operacional e retenção de talentos. Sua proposta de valor é forte e pode ser apresentada de maneira atrativa para empresas que buscam modernizar e aprimorar suas operações de RH. 
+A Feedz posiciona-se como uma plataforma robusta e inovadora, capaz de enfrentar os desafios contemporâneos em gestão de pessoas. Sua proposta de valor é vigorosa e pode ser abordada em comunicações personalizadas, enfocando a automação e a criação de um ambiente de trabalho positivo e dinâmico.
 
-Com essas informações, o copywriter pode elaborar um email profundamente personalizado, focando nas necessidades específicas da prospecção, como a automação de processos e a criação de um ambiente de trabalho positivo.
+Este relatório fornece ao copywriter informações detalhadas para a elaboração de um email personalizado, com foco nas dores e necessidades específicas da empresa alvo, e como a Feedz pode resolver tais problemas.
