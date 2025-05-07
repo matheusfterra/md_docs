@@ -1,7 +1,6 @@
 # Relatório de Prospecção - Voke Tech
 
 ## Informações da Empresa
-
 ### Nome da empresa: 
 Voke Tech
 
@@ -12,62 +11,60 @@ Voke Tech
 Av. das Nações Unidas, 17007, 23° andar - Várzea de Baixo, São Paulo - SP, 04730-090.
 
 ### Descrição da Empresa:
-A Voke é líder nacional em soluções de locação de TI por meio do modelo As a Service (HaaS) e na venda de equipamentos seminovos. A empresa se propõe a transformar a relação com a tecnologia, promovendo um consumo mais inteligente e sustentável, reduzindo o desperdício de eletrônicos e otimizando processos em empresas.
+A Voke é líder nacional em soluções de locação de TI pelo modelo As a Service (HaaS) e na venda de equipamentos seminovos. A empresa busca transformar a relação com a tecnologia, promovendo um consumo mais inteligente e sustentável, reduzindo o desperdício de eletrônicos e otimizando processos em diversas organizações.
 
 ### Estrutura Organizacional:
-- Presença em São Paulo, Belo Horizonte e Fortaleza.
-- Formação de equipes diversificadas com foco em inclusão e diversidade.
+- **Localização**: Escritórios em São Paulo, Belo Horizonte e Fortaleza.
+- **Diversidade**: Equipes diversificadas focando em inclusão e diversidade.
 
 ## Soluções e Serviços Oferecidos
-
 1. **Locação de Equipamentos de TI**: 
-   - Disponibilidade de locação de equipamentos a partir de R$33,40/mês.
-   - Opção de locação em curto e longo prazo, incluindo desktops, notebooks, tablets e smartphones.
-   - Suporte técnico incluso e serviços personalizáveis conforme as necessidades do cliente.
-
+   - Planos a partir de R$33,40/mês.
+   - Locação de desktops, notebooks, tablets e smartphones para curto e longo prazo.
+   - Inclui suporte técnico e serviços personalizáveis.
+   
 2. **Venda de Equipamentos Seminovos**: 
-   - Comercialização de equipamentos de marcas líderes no mercado, com garantia de 1 ano.
-   - Ideal para empresas que buscam alternativas econômicas sem sacrificar qualidade.
-
+   - Equipamentos de marcas reconhecidas com garantia de 1 ano.
+   
 3. **Compra de Equipamentos**: 
    - Programa de troca que permite a compra de equipamentos obsoletos, oferecendo crédito para locação de novos.
-   - Aceita lotes de equipamentos a partir de 10 unidades.
-
+   - Aceita lotes a partir de 10 equipamentos.
+   
 4. **Apoio em LGPD**: 
-   - Serviços que incluem a sanitização de dados e compliance com a Lei Geral de Proteção de Dados.
-
+   - Sanitização de dados e conformidade com a Lei Geral de Proteção de Dados.
+   
 5. **Integração de Tecnologia e Suporte**: 
-   - Garantia de soluções personalizadas que visam aumentar a produtividade e eficiência das empresas.
+   - Soluções personalizadas para aumentar a produtividade e eficiência.
 
 ## Informações Financeiras e Números Relevantes
-- **Mais de 40 anos de experiência no mercado.**
-- **4350 cidades atendidas no Brasil.**
-- **Mais de 2500 clientes em diversas indústrias.**
-- **550.000 equipamentos alugados com SLA de 97%.**
-- **Mais de 100.000 ativos legados gerenciados.**
+- Mais de 40 anos de experiência no mercado.
+- Atende 4350 cidades no Brasil.
+- Mais de 2500 clientes de diversas indústrias.
+- 550.000 equipamentos alugados com SLA de 97%.
+- 100.000 ativos legados gerenciados.
 
 ## Proposta de Valor
-A Voke integra diferentes soluções tecnológicas que não só melhoram a eficiência operacional das empresas mas também contribuírem para práticas sustentáveis. Isso se alinha às crescentes preocupações do mercado em relação à responsabilidade ambiental e à eficiência de custos.
+A Voke integra soluções tecnológicas que melhoram a eficiência operacional das empresas e promovem práticas sustentáveis, alinhando-se às preocupações crescentes do mercado em relação à responsabilidade ambiental.
 
 ## Dores Possíveis dos Clientes
-- **Equipamentos Desatualizados**: Empresas que utilizam tecnologia obsoleta enfrentam problemas de produtividade e segurança.
-- **Custo Alto de Aquisições de TI**: A compra de novos equipamentos pode ser um investimento significativo, especialmente para pequenas e médias empresas.
-- **Demandas Variáveis de TI**: Muitas empresas têm flutuações nas necessidades de equipamentos, dificultando o planejamento orçamentário e operacional.
-- **Conformidade com Regulamentações**: Desafios para manter a conformidade com LGPD e outras regulamentações de proteção de dados.
+- **Equipamentos Desatualizados**: Aumento da ineficiência e riscos de segurança.
+- **Custo de Aquisições de TI**: Investimento significativo, especialmente para PMEs.
+- **Demandas Variáveis de TI**: Dificuldade de planejamento orçamentário e operacional.
+- **Conformidade com Regulamentações**: Desafios em atender a LGPD e outras normas.
 
 ## Público-Alvo
-- **Empresas de diferentes tamanhos**: Desde pequenas startups a grandes corporações que buscam soluções flexíveis e personalizáveis.
-- **Setores específicos**: TI, telecomunicações, aviação, e-commerce, e empresas que operam em ritmo acelerado em que a tecnologia se torna um facilitador vital.
+- Empresas de diversos portes, desde startups até grandes corporações.
+- Setores como TI, telecomunicações, aviação, e-commerce e outros que convivem com rápida evolução tecnológica.
 
 ## Contexto do Mercado
-O mercado de tecnologia está em constante evolução. Com o aumento do home office, a demanda por soluções que suportam mobilidade e conectividade é crescente. As empresas estão cada vez mais em busca de soluções que não apenas atendam às suas necessidades atuais mas que também se adaptem rapidamente às mudanças no ambiente de trabalho e nas regulamentações.
+O ambiente de tecnologia está em rápida transformação. Com o aumento do home office, há uma crescente demanda por soluções que suportem mobilidade. As empresas buscam soluções que não apenas atendam suas necessidades atuais, mas que também se adaptem rapidamente a mudanças no mercado e regulamentações.
 
 ## Proposta de E-mail Personalizado
-- **Introdução**: Começar o e-mail apresentando a Voke e seu compromisso com a inovação e sustentabilidade no setor de TI.
-- **Conexão com as Dores**: Identificar e abordar explicitamente as possíveis dores das empresas em relação à tecnologia, custo e regulamentação.
-- **Soluções**: Destacar as soluções personalizáveis da Voke que aliviam essas dores. 
-- **Chamada à Ação**: Incentivar um agendamento para uma consulta gratuita ou uma demonstração de como a Voke pode especificamente ajudar a empresa prospectada a otimizar seu parque tecnológico.
+- **Introdução**: Apresentar a Voke e seu compromisso com inovação, sustentabilidade e eficiência.
+- **Conexão com as Dores**: Identificar e abordar as dores relacionadas à tecnologia.
+- **Soluções da Voke**: Destacar serviços que atendem essas dores, incluindo personalização e scalability.
+- **Chamada à Ação**: Incentivar um agendamento para uma consulta gratuita ou demonstração dos serviços.
 
 ---
 
-Este relatório fornece as informações necessárias para que o copywriter da equipe elabore um e-mail atraente e personalizado, abordando os desafios e as soluções que a Voke oferece, destacando seu valor em um mercado emergente.
+Este relatório é uma ferramenta crucial para o copywriter da equipe, fornecendo insights valiosos que podem ser utilizados para criar um email que ressoe com as necessidades e desafios da Voke Tech.
