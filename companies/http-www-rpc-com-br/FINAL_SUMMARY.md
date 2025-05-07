@@ -1,59 +1,77 @@
-# Relatório de Prospecção - Empresa [Nome da Empresa]
+# Relatório de Prospecção para [Nome da Empresa]
 
-## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** [Nome da Empresa]
-- **Segmento de Atuação:** [Ex.: Varejo, Tecnologia, Beleza, Alimentação, etc.]
-- **Localização:** [Cidade, Estado, País]
-- **Data de Fundação:** [Ano]
-- **Site Oficial:** [URL do site]
-- **Redes Sociais:** [Links para as redes sociais da empresa, como Facebook, Instagram, LinkedIn]
+## 1. Informações Gerais
+  - Nome da Empresa: [Nome da Empresa]
+  - Website: [URL do Site]
+  - Endereço: [Endereço Completo]
+  - Telefone: [Número de Telefone]
+  - Email de Contato: [Email Principal]
+  - Redes Sociais:
+      - Facebook: [URL]
+      - Instagram: [URL]
+      - LinkedIn: [URL]
+      - Twitter: [URL]
+      - TikTok: [URL]
 
-## 2. Informações de Contato
-- **Nome do Contato Principal:** [Nome do responsável pela decisão (ex.: Gerente de Marketing, Diretor de Comunicação)]
-- **Cargo:** [Cargo do contato]
-- **Email:** [Email do contato]
-- **Telefone:** [Número de telefone]
+## 2. Informações sobre o Segmento
+  - Setor: [Setor/Área de Atuação da Empresa]
+  - Descrição do Negócio: [Breve Descrição Sobre o que a Empresa faz]
+  - Principais Produtos/Serviços: 
+      - [Produto/Serviço 1]
+      - [Produto/Serviço 2]
+      - [Produto/Serviço 3]
+  - Concorrência Direta: [Nome dos Principais Concorrentes]
+  - Diferenciais Competitivos: [O que torna a empresa única no mercado?]
 
-## 3. Perfil da Marca
-- **Missão e Visão:** [Breve descrição da missão e visão da empresa]
-- **Valores:** [Lista de valores da empresa]
-- **Diferenciais Competitivos:** [O que torna a empresa única no mercado?]
+## 3. Público-Alvo
+  - Perfil do Cliente Ideal: [Descrição do Cliente Ideal, Incluindo Dados Demográficos, Interesses e Comportamentos]
+  - Tamanho do Mercado: [Tamanho Estimado do Mercado e Crescimento]
+  - Comunidade e Engajamento: [Como a empresa se conecta com seu público? Eventos, campanhas, etc.]
 
-## 4. Mercado e Concorrência
-- **Principais Concorrentes:** [Listar os principais concorrentes diretos e indiretos]
-- **Posição no Mercado:** [Em que posição a empresa se encontra em relação aos concorrentes? É líder, seguidor, emergente?]
+## 4. Estratégias de Marketing
+  - Canais Utilizados: [Canais que a empresa utiliza atualmente (redes sociais, anúncios, email marketing, etc.)]
+  - Análise de Presença Digital: 
+      - Engajamento nas redes sociais (likes, comentários, compartilhamentos)
+      - Análise de SEO (qualidade do site, palavras-chave, etc.)
+  - Campanhas Recentes: [Descrição de campanhas recentes e seus resultados]
 
-## 5. Público-Alvo
-- **Segmentação do Público-Alvo:** [Descrever o público-alvo da empresa, incluindo dados demográficos, psicográficos e comportamentais.]
-- **Comportamento do Consumidor:** [Quais são os hábitos de compra e preferências do público-alvo?]
+## 5. Dores e Desafios
+  - Identificação das Dores:
+      - [Dor 1: Exemplo: Dificuldade em alcançar um público mais amplo]
+      - [Dor 2: Exemplo: Problemas com a fidelização de clientes]
+      - [Dor 3: Exemplo: Necessidade de modernização na comunicação com o consumidor]
+  - Oportunidades de Melhoria: [Espaços onde a empresa poderia melhorar suas estratégias de marketing]
 
-## 6. Análise de Presença Digital
-- **Website:** [Análise da usabilidade e design do site, se é responsivo, se tem blog com conteúdos atualizados]
-- **Engajamento nas Redes Sociais:**
-  - **Facebook:** [Número de seguidores, taxa de engajamento]
-  - **Instagram:** [Número de seguidores, taxa de engajamento, tipos de conteúdos postados]
-  - **LinkedIn:** [Número de seguidores, tipo de conteúdo compartilhado]
-- **Conteúdo Gerado por Influenciadores:** [Possui colaborado com influenciadores? Quais foram os resultados?]
+## 6. Análise de Influência
+  - Presença de Influenciadores:
+      - [Quais influenciadores a empresa já trabalhou ou está trabalhando?]
+      - [Quais influenciadores estão alinhados com o seu público-alvo?]
+  - Análise de Colaboração: [Como a colaboração com influenciadores pode ajudar a solucionar as dores mapeadas?]
 
-## 7. Campanhas e Ações Passadas
-- **Histórico de Ações de Marketing de Influência:** [Descrever campanhas anteriores e resultados obtidos]
-- **Feedback do Público:** [Como o público respondeu às campanhas anteriores?]
+## 7. Proposta de Valor
+  - Como a Conexão com Influenciadores Pode Ajudar: 
+      - Aumentar a visibilidade da marca
+      - Criar campanhas autênticas que gerem engajamento
+      - Melhorar a comunicação com o público-alvo
+  - Exemplos de Sucesso no Mercado:
+      - [Estudo de Caso 1]
+      - [Estudo de Caso 2]
+      - [Estudo de Caso 3]
 
-## 8. Possíveis Dores e Oportunidades
-- **Desafios Enfrentados:** [Quais são as principais dificuldades que a empresa enfrenta no que diz respeito a marketing digital e marketing de influência?]
-- **Oportunidades de Melhoria:** [Onde a empresa pode melhorar? Existe uma demanda latente por ações de influência que não está sendo atendida?]
+## 8. Próximos Passos
+  - Ação Recomendada: [Proposta de um primeiro contato, como uma ligação ou reunião]
+  - Mensagem Principal a Ser Abordada: [Resumo das principais dores e como podemos ajudar]
+  - Personalização da Abordagem: [Detalhes que podem ser utilizados para tornar a comunicação mais relevante e personalizada]
 
-## 9. Motivos para a Prospecção
-- **Justificativas para Contato:** [Por que esta empresa específica é uma boa oportunidade para a nossa solução?]
-- **Exemplos de Sucesso:** [Listar casos de sucesso de outros clientes que tenham um perfil semelhante]
-
-## 10. Próximas Etapas
-- **Pré-Ação:** [Recomendações sobre como se preparar para o primeiro contato, como revisar os dados da empresa e ajustar a comunicação]
-- **Sugestões de Abordagem:** [Dicas e possíveis temas para discutir na reunião inicial]
-
-## 11. Conclusão
-- Resumir todas as informações relevantes e as razões pelas quais o contato deve ser feito em um tom motivacional e responsável, destacando a importância de construir um relacionamento de longo prazo.
+## 9. Observações Finais
+  - [Qualquer informação adicional que possa ser relevante para a abordagem, insights sobre a cultura da empresa, feedback de clientes, etc.]
 
 ---
 
-**Obs.:** Este relatório deve ser atualizado conforme novas informações sobre a empresa forem coletadas e pode ser complementado com feedback e resultados após a prospecção.
+### Anexos
+- Links para campanhas e colaborações realizadas por essa empresa
+- Materiais de suporte relevantes sobre Marketing de Influência
+
+[Nome do SDR]
+[Data da Prospecção]
+[Informações de Contato]
