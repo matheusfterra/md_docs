@@ -1,55 +1,51 @@
-# Relatório de Prospecção - Lett Digital
+## Relatório de Prospecção: Lett Digital
 
-## Dados da Empresa
+### Informações Gerais
 - **Nome da Empresa:** Lett Digital
-- **Website:** [lett.digital](https://lett.digital)
 - **Ano de Fundação:** 2014
 - **Sede:** Belo Horizonte, Brasil
-- **Grupo:** Neogrid
+- **Website:** [lett.digital](http://www.lett.digital)
+- **Segmento:** Trade Marketing Digital com foco em e-commerce e soluções de Marketing de Influência
+- **Missão:** Transformar o ambiente digital e desenvolver oportunidades para marcas e varejistas através de inovação e uso eficaz de dados.
 
-## Descrição da Empresa
-A Lett Digital é uma plataforma de Trade Marketing Digital que conecta marcas e varejistas no ambiente de e-commerce. A empresa se destaca ao oferecer soluções que aumentam a execução de vendas e a visibilidade dos produtos, utilizando dados analíticos robustos e estratégias de melhoria de performance.
-
-## Soluções Oferecidas
-### Principais Módulos:
-1. **Lett Retail Insights**
-   - **Objetivo:** Monitorar e otimizar KPIs críticos como sortimento, disponibilidade, preços, promoções e avaliações.
-   - **Benefícios:** Proporciona visibilidade sobre a concorrência e assegura a correta execução do portfólio.
-
+### Serviços Oferecidos
+1. **Retail Insights**
+   - Análise de KPIs críticos para e-commerce, como sortimento, disponibilidade, preço, e avaliações de produtos.
+   
 2. **Content Execution**
-   - **Objetivo:** Garantir que as informações dos produtos sejam precisas e interessantes em todos os canais de venda.
-   - **Benefícios:** Aumenta as taxas de conversão e evita perdas devido a informações imprecisas ou desatualizadas.
-
+   - Garantia de que o conteúdo dos produtos esteja correto e atraente nos e-commerces, com auditorias regulares.
+   
 3. **2Buy**
-   - **Objetivo:** Atrair tráfego qualificado para as vitrines digitais, aumentando o ROI das campanhas de marketing.
-   - **Benefícios:** Melhora a performance das campanhas, garantindo a melhor experiência de compra aos consumidores.
+   - Direcionamento de tráfego qualificado para aumentos em vendas e ROI, criando campanhas omnichannel estratégicas.
+   
+4. **Plugins e Serviços Exclusivos**
+   - Ferramentas e dashboards para melhor gestão e monitoramento de desempenho no digital.
 
-## Características da Empresa
-- **Especialização em E-commerce:** Foco em soluções digitais que impulsionam as vendas online.
-- **Atuação Internacional:** Presente em diversas regiões da América Latina, com planos de expansão contínua.
-- **Cases de Sucesso:** Colaborou com marcas reconhecidas como Pepsico, Danone e Mondelēz, resultando em aumento significativo de market share e vendas.
+### Painéis e Dados Importantes
+- **Resultados Recentes de Clientes:**
+  - **Pepsico:** +38% de share of search e crescimento médio de +13,7% em market share.
+  - **Mondelēz:** Incremento de três dígitos nas vendas do e-commerce.
+  - **Danone:** Crescimento de +161% em Sell Out e +193% em Net Sales.
+  - **JDE:** +45% em vendas com nova estratégia de execução online.
 
-## Análise do Mercado
-- **Público-alvo:** Indústrias e marcas que trabalham no comércio eletrônico e desejam otimizar suas operações de venda.
-- **Concorrência:** Embora enfrente competição no Trade Marketing Digital, a Lett se sobressai pela profundidade nas análises de dados e suporte consultivo.
-- **Tendências do Setor:** O crescimento do e-commerce impulsionado pela digitalização, gerando maior demanda por serviços de otimização digital.
+### Identificação de Dores e Oportunidades
+1. **Desafios no Planejamento:**
+   - Muitas empresas lutam para organizar estoque, campanhas e conteúdo a tempo de grandes eventos de venda, como o Dia das Mães, que gerou R$ 7 bilhões apenas online em 2024.
+  
+2. **Necessidade de Visibilidade:**
+   - Marcas precisam melhorar sua visibilidade e posição em comparações de busca para se destacar em marketplaces saturados.
+   
+3. **Evolução Estratégica:**
+   - Empresas precisam adaptar suas estratégias à digitalização e aos novos comportamentos de compra dos consumidores, especialmente pós-pandemia.
 
-## Dores Potenciais dos Clientes
-1. **Monitoramento Deficiente de KPIs:** Dificuldades em otimizar métricas no e-commerce.
-2. **Conteúdo Irregular:** Informações desatualizadas ou imprecisas em canais de vendas levam a perdas significativas.
-3. **Dificuldade em Direcionar Tráfego:** Desafios em direcionar tráfego qualificado para os produtos, resultando em ROI baixo.
+### Contexto de Mercado
+- O e-commerce na América Latina está em crescimento acelerado, impulsionado pela pandemia e pelo comportamento do consumidor, que agora prioriza compras online.
+- A competição é intensa, com consumidores mais exigentes e mais alternativas disponíveis. Marcas que não utilizam dados de forma eficaz perdem oportunidades significativas.
 
-## Proposta de Valor
-A Lett Digital se apresenta como um parceiro estratégico para marcas que buscam aumentar seu desempenho no digital. As soluções proporcionam não apenas maior visibilidade, mas tornam os dados em ações estratégicas para garantir resultados efetivos em vendas.
+### Insights para Personalização do E-mail
+- **Abordagem Baseada em Dados:** Destacar como a Lett utiliza análise de dados para ajudar as empresas a otimizar suas campanhas, melhorando o ROI e a performance.
+- **Resultados de Clientes:** Incluir exemplos tangíveis de outros clientes que alcançaram sucesso com as soluções da Lett.
+- **Planejamento Antecipado:** Fazer alusão a eventos específicos do calendário e como um planejamento eficaz pode maximizar a performance durante essas datas.
 
-## Recomendações para o Copywriting
-1. **Personalização:** Destacar como as soluções da Lett podem atender às necessidades específicas do prospecto.
-2. **Prova Social:** Incluir testemunhos e estudos de casos relevantes de marcas reconhecidas para demonstrar a eficácia das soluções.
-3. **Urgência:** Criar uma sensação de urgência sobre a necessidade de um sólido posicionamento digital, ressaltando a rápida evolução do mercado e as oportunidades a serem aproveitadas.
-
-## Conclusão
-A Lett Digital utiliza uma abordagem abrangente baseada em dados, posicionando-se como uma solução preferencial para marcas que almejam expandir suas operações no e-commerce. Uma comunicação que enfatiza as necessidades e desafios específicos dos clientes é fundamental para um contato eficaz na estratégia de prospecção.
-
----
-
-Esse relatório contém todas as informações necessárias para que a equipe de copywriting crie um e-mail altamente personalizado e impactante para os prospects da Lett Digital, explorando suas potenciais dores e o contexto do mercado em que atuam.
+### Conclusão
+A Lett Digital se posiciona como uma parceira estratégica essencial para marcas que buscam não apenas aumentar suas vendas, mas também se destacar em um mercado competitivo e dinâmico, garantindo uma execução digital eficaz dos seus planos de marketing. O e-mail de prospecção deve ressaltar a importância de dados e insights e como as soluções da Lett podem transformar desafios em oportunidades lucrativas.
