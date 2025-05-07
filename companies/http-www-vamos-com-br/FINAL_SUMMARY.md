@@ -1,24 +1,18 @@
 # Relatório de Prospecção - Grupo Vamos
 
 ## Informações Gerais da Empresa
-
 ### Nome da Empresa
 Grupo Vamos
-
 ### Website
 [www.vamos.com.br](http://www.vamos.com.br)
-
 ### CNPJ
 23.373.000/0001-32
-
 ### Razão Social
 Vamos Locação de Caminhões, Máquinas e Equipamentos S.A
-
 ### Endereço
 Rua Dr. Renato Paes de Barros, 1017  
 6º andar - Itaim Bibi  
 São Paulo/SP - CEP 04530-001
-
 ### Contato
 - **Telefone:** Consultar diretamente no site
 - **E-mail:** Consultar diretamente no site
@@ -26,7 +20,6 @@ São Paulo/SP - CEP 04530-001
 - **Central de Atendimento:** [Clique aqui](http://www.vamos.com.br/central-de-atendimento)
 
 ## Segmentos de Atuação
-
 ### 1. Locação de Veículos e Equipamentos
 - Especialização em locação de veículos pesados, incluindo caminhões, máquinas e equipamentos agrícolas.
 - Portfólio diversificado com caminhões, sempre novos, linha agro e linha amarela.
@@ -60,7 +53,7 @@ São Paulo/SP - CEP 04530-001
 - **Conteúdo Educacional:** Produzir webinars ou conteúdos educativos envolvendo influenciadores que entendem sobre logística, frete e aluguel de veículos pesados para atingir o público-alvo.
 
 ## Conclusão
-O Grupo Vamos é uma empresa consolidada no setor de locação e venda de veículos pesados, com um forte compromisso com a transparência e a sustentabilidade. Com um portfólio diversificado e um bom reconhecimento no mercado, há um vasto potencial para implementar estratégias de marketing de influência que possam ampliar seu alcance e fortalecer a marca. 
+O Grupo Vamos é uma empresa consolidada no setor de locação e venda de veículos pesados, com um forte compromisso com a transparência e a sustentabilidade. Com um portfólio diversificado e um bom reconhecimento no mercado, há um vasto potencial para implementar estratégias de marketing de influência que possam ampliar seu alcance e fortalecer a marca.
 
 --- 
 
