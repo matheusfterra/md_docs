@@ -1,12 +1,12 @@
 # Relatório de Prospecção - Logcomex
 
 ## Informações Gerais sobre a Empresa
-**Nome da Empresa:** Logcomex  
-**Segmento:** Comércio Exterior / Logística  
-**Website:** [www.logcomex.com](https://www.logcomex.com)  
-**CNPJ:** 13.475.043/0001-75  
-**Endereço:** Av. Cândido de Abreu, 70 - Torre B - 1° andar - Centro Cívico, Curitiba - PR - Brasil  
-**Contato Telefônico:** +55 4003-3317  
+- **Nome da Empresa:** Logcomex
+- **Segmento:** Comércio Exterior / Logística
+- **Website:** [www.logcomex.com](https://www.logcomex.com)
+- **CNPJ:** 13.475.043/0001-75
+- **Endereço:** Av. Cândido de Abreu, 70 - Torre B - 1° andar - Centro Cívico, Curitiba - PR - Brasil
+- **Contato Telefônico:** +55 4003-3317
 
 ## Visão Geral da Missão e Visão
 ### Missão
@@ -17,8 +17,7 @@ Ser a pioneira em soluções tecnológicas que tornam as operações de comérci
 
 ## Produtos e Soluções
 Logcomex oferece uma variedade de soluções voltadas para comércio exterior, que incluem:
-
-1. **NCM Intel:** Ferramenta de inteligência artificial que fornece insights estratégicos otimiza a compra e exploração de oportunidades no comércio exterior.
+1. **NCM Intel:** Ferramenta de inteligência artificial que fornece insights estratégicos para otimizar a compra e explorar oportunidades no comércio exterior.
 2. **Shipment Intel:** Solução que usa IA para auxiliar agentes de carga na prospecção de clientes e na otimização das operações logísticas.
 3. **Import México:** Plataforma que ajuda empresas a explorar o mercado mexicano, oferecendo insights sobre fornecedores e concorrentes.
 4. **LogOS:** Sistema que automatiza o fluxo logístico e tarefas repetitivas, além de fornecer uma análise abrangente do processo de importação e exportação.
@@ -34,7 +33,7 @@ Logcomex se destaca no mercado por sua utilização inovadora de tecnologias de 
 
 ## Dores Identificadas
 1. **Ineficiência na Prospecção:** Muitas empresas têm dificuldade em identificar novos clientes e oportunidades de mercado internacional. A Logcomex pode ajudar a superar esta barreira com soluções de inteligência.
-2. **Dificuldades em Acompanhamento Logístico:** A falta de visibilidade em processos logística pode resultar em custos ocultos e ineficiências. As soluções Logcomex oferecem ferramentas para monitorar e otimizar esses processos.
+2. **Dificuldades em Acompanhamento Logístico:** A falta de visibilidade em processos logísticos pode resultar em custos ocultos e ineficiências. As soluções Logcomex oferecem ferramentas para monitorar e otimizar esses processos.
 3. **Conformidade e Riscos Regulatórios:** Com a complexidade das normas de comércio internacional, muitas empresas lutam para estar em conformidade. O uso de análise e insights estratégicos da Logcomex pode auxiliar significativamente.
 
 ## Contexto da Prospecção
