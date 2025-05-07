@@ -9,24 +9,24 @@
 - **Funcionários**: Aproximadamente 280
 
 ## Descrição da Empresa
-CESAR (Centro de Estudos e Sistemas Avançados do Recife) é uma organização sem fins lucrativos que atua na criação e desenvolvimento de soluções tecnológicas inovadoras. Reconhecida por sua expertise em diversas áreas, a CESAR oferece consultoria em inovação, desenvolvimento de software, e educação e capacitação no setor tecnológico. Seu propósito fundamental é auxiliar empresas na transformação digital, utilizando metodologias ágeis e tecnologias de ponta para potencializar seus negócios e aumentar sua competitividade no mercado.
+CESAR (Centro de Estudos e Sistemas Avançados do Recife) é uma organização sem fins lucrativos dedicada à criação e desenvolvimento de soluções tecnológicas inovadoras. A CESAR é reconhecida por sua expertise em diversas áreas, oferecendo consultoria em inovação, desenvolvimento de software, educação e capacitação no setor tecnológico. A missão central da CESAR é auxiliar empresas na transformação digital, utilizando metodologias ágeis e tecnologias de ponta para aprimorar seus negócios e aumentar sua competitividade no mercado.
 
 ## Produtos e Serviços Oferecidos
-- **Consultoria em transformação digital**: Serviços para ajudar empresas a adotarem novas tecnologias e processos.
-- **Desenvolvimento de software sob medida**: Soluções personalizadas conforme as necessidades dos clientes.
-- **Projetos de pesquisa e desenvolvimento**: Criação de inovações e melhorias em produtos e serviços.
-- **Capacitação e treinamentos nas áreas de tecnologia**: Cursos e workshops voltados para a formação de profissionais.
-- **Inovação aberta e colaboração com startups e empresas**: Incentivo à colaboração entre diferentes agentes do ecossistema tecnológico.
+- **Consultoria em Transformação Digital**: Serviços para ajudar empresas a adotarem novas tecnologias e processos.
+- **Desenvolvimento de Software Sob Medida**: Soluções personalizadas conforme as necessidades dos clientes.
+- **Projetos de Pesquisa e Desenvolvimento**: Criação de inovações e melhorias em produtos e serviços.
+- **Capacitação e Treinamentos nas Áreas de Tecnologia**: Cursos e workshops voltados para a formação de profissionais.
+- **Inovação Aberta e Colaboração com Startups e Empresas**: Incentivo à colaboração entre diferentes agentes do ecossistema tecnológico.
 
 ## Público-Alvo
 - **Tipo de Clientes**: Empresas de médio a grande porte com interesse em inovação tecnológica e transformação digital.
 - **Setores**: Varejo, saúde, educação, serviços financeiros, e governo.
 
 ## Dores Potenciais
-1. **Dificuldade em se destacar no mercado**: A concorrência intensa no setor tecnológico pode dificultar a diferenciação das empresas.
-2. **Adoção de novas tecnologias**: Algumas empresas enfrentam resistência ou falta de clareza para implementar inovações tecnológicas.
-3. **Engajamento com o público jovem e digital**: Conectar-se com influenciadores e o público digital é um desafio importante em um cenário onde as redes sociais dominam.
-4. **Maximização do ROI em campanhas de marketing**: Há uma pressão constante por resultados tangíveis nas campanhas promocionais.
+1. **Dificuldade em se Destacar no Mercado**: A concorrência intensa no setor tecnológico pode dificultar a diferenciação das empresas.
+2. **Adoção de Novas Tecnologias**: Algumas empresas enfrentam resistência ou falta de clareza para implementar inovações tecnológicas.
+3. **Engajamento com o Público Jovem e Digital**: Conectar-se com influenciadores e o público digital é um desafio importante em um cenário onde as redes sociais dominam.
+4. **Maximização do ROI em Campanhas de Marketing**: Há uma pressão constante por resultados tangíveis nas campanhas promocionais.
 
 ## Contexto do Mercado
 No atual cenário, o marketing de influência tem ganhado relevância, pois permite que as marcas se conectem de forma autêntica e eficaz com os consumidores. Para empresas, especialmente no setor de tecnologia, explorar esse canal é fundamental para construir confiança e engajamento com audiências, especialmente as gerações mais jovens que se identificam mais com influenciadores do que com marcas tradicionais.
