@@ -1,3 +1,10 @@
+```plaintext
+├── FINAL_SUMMARY.md
+└── http-www-somlivre-com.md
+```
+---
+## 📄 `FINAL_SUMMARY.md`
+```md
 # Relatório de Prospecção - Som Livre
 
 ## 1. Informações Gerais sobre a Empresa
@@ -52,7 +59,20 @@ A abordagem para a Som Livre deve enfatizar:
 
 ## 8. Conclusão
 A Som Livre apresenta um grande potencial para a parceria em marketing de influência, especialmente em um momento em que ela está reestruturando sua presença online. Elaborar uma comunicação que aborde suas dores e ofereça soluções criativas será essencial para chamar a atenção e iniciar uma conversa sobre a colaboração.
-
+---
+Este relatório fornece uma visão abrangente que deve ajudar nossa equipe de copywriting a desenvolver um email personalizável e relevante, que ressoe com as necessidades e contextos da Som Livre, preparando o terreno para uma abordagem proativa e colaborativa.
+```
 ---
 
-Este relatório fornece uma visão abrangente que deve ajudar nossa equipe de copywriting a desenvolver um email personalizável e relevante, que ressoe com as necessidades e contextos da Som Livre, preparando o terreno para uma abordagem proativa e colaborativa.
+## 📄 `http-www-somlivre-com.md`
+```md
+# http://www.somlivre.com
+
+![logo-som-livre](https://cdn-p.smehost.net/sites/dd69ece0b18047b2b844eebd9bc3f0a8/wp-content/uploads/2024/12/logo-som-livre-1.png)
+
+Nosso site está em construção.   
+Siga-nos nas redes sociais.
+
+![seta-direita](https://cdn-p.smehost.net/sites/dd69ece0b18047b2b844eebd9bc3f0a8/wp-content/uploads/2024/12/seta-direita.png)
+![seta-esquerda](https://cdn-p.smehost.net/sites/dd69ece0b18047b2b844eebd9bc3f0a8/wp-content/uploads/2024/12/seta-esquerda.png)
+```
