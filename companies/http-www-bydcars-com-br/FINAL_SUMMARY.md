@@ -8,15 +8,14 @@
 - **Setor:** Automotivo / Veículos Elétricos e Híbridos
 - **Produtos/Serviços:** Produção e venda de veículos elétricos e híbridos, com diversas linhas de automóveis como SUVs, hatchbacks e sedans.
 
-## Análise do Contexto do Segmento
-
+## Análise do Contexto do Segmento 
 ### 1. **Tendências do Setor**
    - O mercado de veículos elétricos (EVs) está crescendo globalmente, impulsionado por um aumento da conscientização ambiental e pela busca por tecnologias mais sustentáveis.
    - Políticas governamentais favoráveis, como incentivos fiscais e subsídios, estão contribuindo para a adoção de veículos elétricos no Brasil.
    - Crescimento na infraestrutura de recarga e na demanda por mobilidade elétrica, especialmente em centros urbanos.
 
 ### 2. **Concorrência**
-   - Empresas como Tesla, Nissan, e fabricantes locais que estão se posicionando com veículos elétricos são concorrentes diretas da BYD.
+   - Empresas como Tesla, Nissan e fabricantes locais que estão se posicionando com veículos elétricos são concorrentes diretas da BYD.
    - A qualidade e os preços competitivos dos veículos elétricos da BYD são um diferencial importante, mas a marca precisa continuamente se destacar em termos de inovação e marketing.
    - Fortalecimento de parcerias com concessionárias e revendedores é crucial para ampliar distribuição e alcance da marca.
 
@@ -25,7 +24,6 @@
    - Há um interesse crescente em conhecer mais sobre a sustentabilidade e o impacto ambiental dos produtos, sendo fundamental para as marcas adotarem uma comunicação clara sobre esses assuntos.
 
 ## Mapeamento de Dores e Oportunidades
-
 ### Dores:
 1. **Consolidação de Marca:** A BYD enfrenta o desafio de aumentar sua visibilidade em um mercado dominado por marcas já estabelecidas como Volkswagen e General Motors.
 2. **Compreensão do Cliente:** Necessidade de educar o consumidor sobre as vantagens dos veículos elétricos e como eles se comparam às opções tradicionais, visto que muitos ainda têm resistência à mudança.
@@ -38,8 +36,7 @@
 3. **Campanhas Sociais:** Participar de causas e eventos que promovam a sustentabilidade e a mobilidade urbana posiciona a BYD como líder em responsabilidade ambiental. Infelizmente, há uma certa falta de eventos de grande visibilidade que envolvam a empresa.
 4. **Ampliar Rede de Veículos de Teste:** Aumentar a quantidade de locais de test-drive e promover parcerias com estabelecimentos que trabalham com sustentabilidade.
 
-## Características de Marketing
-
+## Características de Marketing 
 ### Persona-Alvo:
 - **Perfil Demográfico:** Milênios (25-40 anos) e Geração Z (18-24 anos), preocupados com o meio ambiente, que buscam alternativas sustentáveis e tecnológicas em suas compras.
 - **Interesses:** Mobilidade sustentável, tecnologia, inovação e economia de combustível. A pesquisa de alternativas de compra, como leasing e compartilhamento de veículos elétricos, está em alta.
