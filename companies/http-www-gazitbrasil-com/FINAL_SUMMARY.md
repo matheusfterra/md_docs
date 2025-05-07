@@ -70,7 +70,9 @@
   - [Listar de forma sucinta os pontos que podem ser expostos na abordagem]
 - **Próximos Passos Sugeridos:** 
   - [Chamada à ação, como marcar uma reunião ou enviar um e-mail de follow-up]
+
 ---
+
 ### Nota para o Copywriter:
 Por favor, utilize as informações acima para criar um e-mail de aproximação altamente relevante e personalizado para [Nome da Empresa]. O foco deve ser em como o nosso serviço de marketing de influência pode resolver as dores identificadas e explorar as oportunidades que a empresa pode não estar aproveitando ao máximo.
 ```
