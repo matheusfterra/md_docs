@@ -19,7 +19,7 @@
 
 ## 3. Presença Online e Redes Sociais
 - **Website:** Oferece receitas, informações dos produtos, sugestões de uso e detalhes sobre a história da marca.
-- **Redes Sociais:** 
+- **Redes Sociais:**
   - **Facebook:** Conteúdo sobre lançamentos, promoções e interações com consumidores.
   - **Instagram:** Focado em imagens atrativas de refeições e receitas, engajando com o público.
   - **TikTok:** Potencial a ser explorado com vídeos de receitas e dicas de consumo.
@@ -27,7 +27,7 @@
 - **Destaques:** Conteúdo visualmente atraente que promove seus produtos em diferentes contextos.
 
 ## 4. Contexto do Mercado
-- **Perfil do Consumidor:** 
+- **Perfil do Consumidor:**
   - Público-alvo diversificado, incluindo famílias, jovens e profissionais que buscam conveniência na alimentação.
   - Aumento da demanda por produtos práticos e convenientes, especialmente após a pandemia.
 
