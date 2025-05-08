@@ -46,4 +46,4 @@ Diante do atual cenário de complexidade nas operações de comércio exterior, 
 
 ---
 
-Este relatório é destinado a fornecer ao copywriter informações detalhadas que podem ser utilizadas na criação de um e-mail personalizado e envolvente, abordando as dores e necessidades do potencial cliente de forma estratégica.
+Esse relatório é destinado a fornecer ao copywriter informações detalhadas que podem ser utilizadas na criação de um e-mail personalizado e envolvente, abordando as dores e necessidades do potencial cliente de forma estratégica.
