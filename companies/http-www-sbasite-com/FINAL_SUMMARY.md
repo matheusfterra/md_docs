@@ -1,47 +1,55 @@
-# Relatório de Prospecção da Empresa SBASite
+# Relatório de Prospecção - SBASite
 
-## Informações Gerais da Empresa
+## Informações da Empresa
+
 - **Nome da Empresa:** SBASite
-- **Website:** [sbasite.com](http://www.sbasite.com)
-- **Segmento:** Marketing Digital, especializado em Marketing de Influência.
-- **Localização:** (Informação não disponível, verificar no site)
-- **Contatos:** (Informação não disponível, verificar no site)
+- **Website:** [www.sbasite.com](http://www.sbasite.com)
+- **Segmento:** Marketing Digital, com foco em Marketing de Influência
+- **Descrição:** A SBASite atua como uma plataforma que conecta marcas e empresas a influenciadores, promovendo campanhas de marketing de influência eficazes. O objetivo é facilitar a comunicação e colaboração entre marcas e influenciadores para maximizar o alcance e engajamento.
+  
+## Análise de Marcas/Empresas
 
-## Análise da Presença Online
-1. **Website:** O site da SBASite apresenta informações sobre seus serviços, com foco em Marketing de Influência. O layout parece ser funcional e focado na experiência do usuário, considerando a utilização de cookies para aprimorar a navegação.
-   
-2. **Política de Cookies:** A empresa utiliza cookies para melhorar a experiência do usuário e coleta dados analíticos que são utilizados para gerar relatórios e aprimorar o site. Essa prática pode indicar uma preocupação com a otimização da experiência do visitante e a medição de performance.
+### 1. **Público-Alvo**
+   - **Definição:** Marcas de diversos segmentos que buscam ampliar sua presença digital através do marketing de influência.
+   - **Potenciais Clientes:** E-commerce, serviços, moda, beleza, tecnologia, alimentos e bebidas, entre outros.
 
-3. **Uso de Cookies:**
-   - **Cookies Necessários:** Utilizados para funcionalidade básica como segurança e acessibilidade.
-   - **Cookies Analíticos:** Usados para coletar informações sobre a utilização do site, permitindo identificar áreas de melhoria.
+### 2. **Dores e Desafios**
+   - **Identificação de Influenciadores:** Dificuldade em encontrar influenciadores que se alinhem a seus valores e mensagem.
+   - **Gestão de Campanhas:** Necessidade de ferramentas que ofereçam gestão e análise de campanhas em tempo real.
+   - **Medição de Resultados:** Dificuldade em medir o ROI (retorno sobre investimento) das campanhas de influência.
+   - **Autenticidade:** Preocupação com a autenticidade e a transparência nas colaborações.
+   - **Alinhamento de Expectativas:** Necessidade de alinhar expectativas entre marcas e influenciadores para evitar complicações durante parcerias.
 
-4. **Privacidade:** A empresa possui uma [Política de Privacidade](https://www.sbasite.com/privacy/) incluso, demonstrando preocupação com a transparência e a conformidade com a legislação de proteção de dados.
+### 3. **Oportunidades**
+   - **Propostas de Valor:**
+     - Oferecer uma plataforma intuitiva que facilite a conexão entre marcas e influenciadores.
+     - Fornecer ferramentas de análise detalhada que ajudem na medição de resultados e geração de relatórios.
+     - Promover influenciadores que compartilhem os valores da marca, garantindo autenticidade.
+     - Suporte e consultoria na definição de estratégias que maximizem as campanhas.
 
-## Análise do Segmento de Marketing de Influência
-### Características do Mercado
-- **Crescimento:** O setor de marketing de influência tem crescido de forma exponencial, com marcas cada vez mais investindo em estratégias que envolvem influenciadores para alcançar seu público-alvo de maneira mais autêntica.
-- **Estratégias Inovadoras:** As marcas estão constantemente em busca de inovações na forma como se conectam com influenciadores e sua audiência, utilizando insights de dados, segmentação e formats diversificados como stories, vídeos e posts patrocinados.
+### 4. **Competidores**
+   - Identificação de principais concorrentes no mercado como: Influencity, Upfluence, AspireIQ, entre outros.
+   - Avaliação de diferenciais que a SBASite pode oferecer em relação aos competidores.
 
-### Dores Comuns dos Clientes
-- **Dificuldade na escolha do influenciador certo:** As empresas podem sentir dificuldade em encontrar influenciadores que realmente se alinhem com seus valores e público-alvo.
-- **Medir ROI:** A mensuração do retorno sobre investimento das ações com influenciadores pode ser um desafio, pois exige métricas claras e práticas para avaliação.
-- **Gerenciamento de Campanhas:** Muitas marcas podem ter dificuldades em gerenciar campanhas com múltiplos influenciadores, em especial em lidar com diferentes salários, prazos e expectativas.
+## Contexto do Mercado
 
-## Perfil do Público-Alvo
-- **Marcas e Empresas:** Pequenas e grandes empresas que buscam aumentar sua visibilidade e vendas através de parcerias com influenciadores.
-- **Agências de Marketing:** Profissionais que buscam integrar estratégias de Marketing de Influência em suas propostas.
+### 1. **Tendências em Marketing de Influência**
+   - Crescimento contínuo do uso de influenciadores como estratégia de marketing, especialmente em plataformas sociais (Instagram, TikTok, YouTube).
+   - Crescente demanda por campanhas autênticas e relacionamentos de longo prazo ao invés de colaborações pontuais.
+   - A importância da geração de conteúdo visual e engajamento active dos influenciadores nas comunidades.
 
-## Contexto da Prospecção
-### Motivações para o Contato
-A conexão com a SBASite é essencial, considerando o crescimento da necessidade das empresas de se conectarem de forma mais eficaz com influenciadores. A abordagem pode destacar a importância de ter um parceiro confiável e experiente para maximizar o potencial de campanhas de marketing, gerenciar toda a operação e oferecer ferramentas para medir o impacto.
+### 2. **Mudanças no Comportamento do Consumidor**
+   - Crescente desconfiança em relação a publicidade tradicional e busca por recomendações autênticas de influenciadores.
+   - Aumento do consumo de conteúdo visual e interativo, promovendo maior engajamento.
 
-### Proposta de Valor
-- Oferecer uma solução integrada que simplifica a conexão entre marcas e influenciadores.
-- Proporcionar ferramentas analíticas que ajudem a medir o sucesso das campanhas.
-- Oferecer suporte no gerenciamento de campanhas com múltiplos influenciadores.
+### 3. **Legislações e Compliance**
+   - Importância de estar atento à legislação sobre publicidade e transparência nas parcerias com influenciadores, que tem se tornado um fator crítico nas campanhas.
 
-## Sugestões para o Copywriter
-- Personalizar a mensagem de acordo com as necessidades do público-alvo, utilizando insights sobre as emoções e dores das empresas que buscam investir mais no marketing de influência.
-- Incluir exemplos de casos de sucesso e resultados mensuráveis para aumentar a credibilidade.
-- Utilizar uma linguagem amigável, mas profissional, mostrando que a empresa se preocupa sinceramente em ajudar as marcas a alcançarem seus objetivos.
+## Conclusão
+
+A SBASite posiciona-se como uma referência no marketing de influência ao conectar marcas e influenciadores, mas a empresa enfrenta certos desafios na gestão e medição de suas campanhas. O foco na autenticidade e na maximização de resultados pode ser um diferencial competitivo. A proposta de um email profundo e personalizado deve refletir a compreensão das dores e necessidades da empresa, apresentando soluções alinhadas às suas expectativas e ao contexto atual de mercado. 
+
+### Sugestões para o Copywriter
+- Utilizar exemplos de casos de sucesso para ilustrar a eficácia da plataforma.
+- Destacar a facilidade de uso da plataforma e a personalização das campanhas.
+- Incluir dados recentes sobre tendências de marketing de influência para reforçar a relevância da proposta.
