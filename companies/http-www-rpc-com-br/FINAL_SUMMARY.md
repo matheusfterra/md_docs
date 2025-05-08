@@ -1,5 +1,10 @@
+```plaintext
+└── FINAL_SUMMARY.md
+```
+---
+## 📄 `FINAL_SUMMARY.md`
+```md
 # Relatório de Prospecção para [Nome da Empresa]
-
 ## 1. Informações Gerais
   - Nome da Empresa: [Nome da Empresa]
   - Website: [URL do Site]
@@ -75,3 +80,4 @@
 [Nome do SDR]
 [Data da Prospecção]
 [Informações de Contato]
+```
