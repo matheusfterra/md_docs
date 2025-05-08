@@ -1,23 +1,22 @@
 # Relatório de Prospecção - EQI Investimentos
 
 ## Informações Gerais da Empresa
-**Nome da Empresa**: EQI Investimentos CTVM S.A.  
-**CNPJ**: 47.965.438/0001-78  
-**Website**: [www.eqi.com.br](https://www.eqi.com.br)  
-**Atividade Principal**: Corretora de valores e investimentos.  
-**Ano de Fundação**: Não especificado.
-
-**Missão**: Dar autonomia para que os clientes invistam nas suas escolhas e potencializem seu sucesso financeiro.  
-**Visão**: Ser a corretora de valores que mais cresce no Brasil, oferecendo produtos e serviços de qualidade.
+- **Nome da Empresa**: EQI Investimentos CTVM S.A.
+- **CNPJ**: 47.965.438/0001-78
+- **Website**: [www.eqi.com.br](https://www.eqi.com.br)
+- **Atividade Principal**: Corretora de valores e investimentos.
+- **Ano de Fundação**: Não especificado.
+- **Missão**: Dar autonomia para que os clientes invistam nas suas escolhas e potencializem seu sucesso financeiro.
+- **Visão**: Ser a corretora de valores que mais cresce no Brasil, oferecendo produtos e serviços de qualidade.
 
 ## Produtos e Serviços Oferecidos
-* **Assessorias**:
+- **Assessorias**:
   - Digital: Para investimentos até R$100 mil.
   - Advisory: Para investimentos entre R$100 mil e R$500 mil.
   - Exclusive: Para investimentos entre R$500 mil e R$5 milhões.
   - Private: Para investimentos acima de R$5 milhões.
 
-* **Tipos de Investimentos**:
+- **Tipos de Investimentos**:
   - Renda Variável
   - Renda Fixa
   - Títulos Públicos
@@ -26,13 +25,13 @@
   - Investimentos Internacionais
   - Ofertas Públicas
 
-* **Plataformas**:
-  - EQI Trader: Plataforma para operação no mercado de ações, com aplicativo disponível.
+- **Plataformas**:
+  - **EQI Trader**: Plataforma para operação no mercado de ações, com aplicativo disponível.
 
 ## Diferenciais
-* Portfólio com mais de mil opções de investimento.
-* Assessores de investimento que oferecem atendimento individualizado.
-* Presença em 12 escritórios no Brasil, incluindo São Paulo, Brasília, Rio de Janeiro e Florianópolis.
+- Portfólio com mais de mil opções de investimento.
+- Assessores de investimento que oferecem atendimento individualizado.
+- Presença em 12 escritórios no Brasil, incluindo São Paulo, Brasília, Rio de Janeiro e Florianópolis.
 
 ## Análise da Concorrência
 O mercado de corretoras de valores é bastante competitivo no Brasil, com players como XP, BTG Pactual e Rico. Alguns diferenciais da EQI incluem:
@@ -41,10 +40,10 @@ O mercado de corretoras de valores é bastante competitivo no Brasil, com player
 - Diversidade de produtos que incluem ativos internacionais e criptomoedas, abrangendo investidores mais experientes e iniciantes.
 
 ## Características do Público-Alvo
-* **Perfil**: Pessoas físicas com interesse em investimentos, desde iniciantes até investidores mais experientes.
-* **Idade**: Variada, mas predominantemente entre 25 e 55 anos.
-* **Localização**: Brasil, com foco em regiões com alto potencial econômico.
-* **Interesse**: Rentabilidade de investimentos, segurança financeira, educação financeira.
+- **Perfil**: Pessoas físicas com interesse em investimentos, desde iniciantes até investidores mais experientes.
+- **Idade**: Variada, mas predominantemente entre 25 e 55 anos.
+- **Localização**: Brasil, com foco em regiões com alto potencial econômico.
+- **Interesse**: Rentabilidade de investimentos, segurança financeira, educação financeira.
 
 ## Possíveis Dores e Necessidades
 1. **Falta de Conhecimento**: Muitos investidores têm dificuldade em entender o mercado financeiro e em quais produtos investir.
@@ -60,7 +59,7 @@ O mercado de corretoras de valores é bastante competitivo no Brasil, com player
 A EQI está posicionada como uma corretora inovadora e centrada no cliente. Por meio de atendimento personalizado, estratégias de marketing digital e presença em eventos como a Money Week, a empresa busca expor seus produtos a diversos públicos. O uso de plataformas como o EQI Trader facilita o acesso e a operação para investidores, promovendo uma experiência intuitiva e simples.
 
 ## Contatos Relevantes
-- **Site**: [www.eqi.com.br](https://www.eqi.com.br)
+- **Website**: [www.eqi.com.br](https://www.eqi.com.br)
 - **WhatsApp**: (informar número se disponível)
 - **E-mail**: (informar e-mail se disponível)
 - **Telefone**: (informar telefone se disponível)
