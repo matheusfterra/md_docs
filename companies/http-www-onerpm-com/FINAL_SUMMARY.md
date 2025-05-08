@@ -1,60 +1,64 @@
-# Relatório de Prospecção: ONErpm
+# Relatório de Prospecção - ONErpm
 
-## Informações da Empresa
-**Nome da Empresa:** ONErpm  
-**Website:** [www.onerpm.com](https://onerpm.com)  
+## 1. Informações Gerais sobre a ONErpm
+- **Website:** [onerpm.com](https://onerpm.com)
+- **Segmento:** Música e Entretenimento (Distribuição Digital, Publicação e Marketing)
+- **Slogan:** "Music Is Power. Amplify It."
+- **Modelo de Negócio:** Plataforma de distribuição de música digital que conecta criadores a soluções de marketing e inteligência de negócios, oferecendo serviços de distribuição, gestão de direitos, e ferramentas de análise.
 
-### Descrição
-ONErpm é uma empresa moderna de música que oferece soluções inovadoras e alternativas de negócios para artistas e criadores no competitivo mercado musical global. A empresa combina tecnologias de ponta com uma metodologia de marketing única para impulsionar o crescimento de projetos e artistas, sempre priorizando os criadores.
+## 2. Descrição dos Serviços
+### 2.1. Distribuição Digital
+- **Serviços Incluídos:**
+  - Upload ilimitado de áudio e vídeo
+  - Códigos UPC e ISRC gratuitos
+  - Distribuição para 45+ plataformas (Spotify, Apple Music, YouTube, etc.)
+  - Ferramentas de marketing e promoção como geradores de campanhas de pré-save e publicidade.
 
-### Estrutura e Localização
-- **Operações:** ONErpm opera em 43 escritórios em 26 países, servindo tanto artistas independentes quanto gravadoras.
-- **Localizações Principais:**
-  - **América do Sul:** Brasil, Argentina, Chile, Peru, Colômbia
-  - **América do Norte e Caribe:** EUA, México, Jamaica
-  - **Europa:** Reino Unido, Rússia, Espanha, Turquia, Portugal
-  - **África:** Nigéria, Gana, Costa do Marfim, África do Sul
-  - **Ásia:** Tailândia, Vietnã, Malásia, China, Indonésia
-  - **Oceania:** Austrália
+### 2.2. Publicação Muscial (ONE Publishing)
+- **Funcionalidades:**
+  - Registro e gestão de composições.
+  - Parcerias com organizações de direitos para garantir a coleta de royalties.
+  - Coleta automatizada de royalties de performance e mecânica.
 
-## Segmento de Atuação
-ONErpm atua no setor de **Marketing de Influência** e distribuição de música e vídeo, fornecendo ferramentas de distribuição digital, administração de direitos autorais, marketing e análises de música.
+### 2.3. Inteligência de Negócios
+- **Recursos:**
+  - Análise mensal e diária das vendas
+  - Relatórios personalizados e de compartilhamento de royalties.
+  - Ferramentas de acompanhamento de tendências em tempo real.
 
-### Serviços Oferecidos
-1. **Distribuição Digital**
-   - Entrega de música e vídeo para diversas plataformas (Apple Music, Spotify, YouTube, etc.)
-   - Fornecimento de códigos UPC e ISRC gratuitos.
-   - Promoções e marketing.
+### 2.4. Metodologia de Marketing
+- **Abordagem:**
+  - Foco em campanhas de marketing personalizadas usando dados e análise de desempenho.
+  - Especialistas em diferentes gêneros e estratégias de marketing específicas.
 
-2. **Metodologia de Marketing**
-   - Planejamento e gestão de campanhas de marketing personalizadas.
-   - Suporte de especialistas em marketing conforme a evolução do artista.
+## 3. Público-Alvo
+- **Criadores de Conteúdo:** Artistas independentes, gravadoras de música
+- **Segmento de Música:** Gêneros múltiplos, incluindo Pop, Hip-hop, Rock, Música Eletrônica, e Música Latina.
+- **Localização Geográfica:** Operações em 43 escritórios em 26 países, abrangendo América do Norte, América Latina, Europa, África e Ásia.
 
-3. **Inteligência de Negócios**
-   - Ferramentas automatizadas de análises mensais e diárias.
-   - Relatórios personalizados e comparações de dados.
+## 4. Dores e Desafios Possíveis
+- **Dores dos Clientes:**
+  - Dificuldades na distribuição e promoção de músicas em plataformas digitais.
+  - Necessidade de soluções claras e eficientes para a gestão de direitos autorais e coleta de royalties.
+  - Dificuldades em criar visibilidade no competitivo mercado musical.
 
-4. **ONE Publishing**
-   - Coleta de royalties de organizações de direitos de execução e gerenciamento coletivo.
-   - Registro e gerenciamento de composições musicais.
+## 5. Contexto do Setor
+- **Tendências do Mercado:**
+  - Crescimento do streaming digital e monetização de música.
+  - Alta competição entre artistas para se destacarem em plataformas de streaming.
+  - Importância de uma presença digital robusta e de estratégias de marketing direcionado.
 
-## Possíveis Dores e Desafios
-- **Concorrência no Mercado:** Artistas independentes enfrentam desafios em se destacar em um mercado saturado, exigindo estratégias de marketing eficazes.
-- **Compreensão dos Dados:** Muitos criadores têm dificuldade em interpretar dados e análises para tomarem decisões informadas sobre suas carreiras.
-- **Gerenciamento de Direitos:** A complexidade do gerenciamento de direitos autorais pode ser um fardo para os artistas e gravadoras que buscam maximizar sua receita.
+## 6. Oportunidades para Colaboração
+- **Proposta de valor da ONErpm:**
+  - Ferramentas de marketing de influenciadores que podem impulsionar a visibilidade dos artistas.
+  - Oportunidade para marcas se conectarem com influenciadores e artistas, aumentando o alcance e engajamento em campanhas de marketing.
 
-### Contexto de Prospecção
-Com a crescente demanda por marketing digital e influenciadores, a ONErpm se posiciona como uma ponte entre marcas e criadores, otimizando campanhas de marketing e espalhando a música de maneira eficiente. Ao mapear estratégias personalizadas, a empresa ajuda artistas a alcançarem seu público-alvo e maximiza o retorno sobre o investimento em campanhas.
+## 7. Resumo da Proposta
+A ONErpm oferece uma plataforma robusta e integrada para artistas e criadores, permitindo que maximizem seu potencial de alcance e lucro por meio de soluções personalizadas. Colaborar com a ONErpm pode potencialmente resolver muitos dos desafios enfrentados atualmente por marcas e influenciadores no mercado musical.
 
-## Proposta de Valor
-ONErpm oferece ferramentas de marketing e distribuição deseja potencializar sua presença de mercado e maximizar os lucros através de campanhas que unem a força da música à influência digital. Através de seus recursos, como a plataforma de marketing e suporte dedicado, artistas independentes e marcas podem alcançar seus objetivos em um espaço cada vez mais competitivo.
+## 8. Contatos
+- **Informações de Contato:** [Clique aqui para mais informações](https://onerpm.com/contact-us/)
+- **Prazo para Resposta:** Sugerir um acompanhamento em uma semana após o envio do e-mail personalizado.
 
-## Conclusão
-OneRPM é uma empresa que oferece soluções completas e inovadoras no ecossistema musical, trazendo uma combinação única de tecnologia e know-how de marketing. A prospecção de parcerias e colaborações com influenciadores pode ter um impacto significativo na visibilidade e no sucesso de artistas e marcas no cenário musical atual.
-
-### Próximos Passos
-- **Identificar decisores:** Mapear quem são os responsáveis pelas decisões de marketing e parceria na empresa.
-- **Abordagem personalizada:** Criar mensagens que ressoem com as necessidades e desafios identificados, destacando como ONErpm pode resolver suas dores.
-- **Follow-up:** Planejar um cronograma de follow-up com leads qualificados para construir relacionamentos e conversões efetivas.
-
-Este relatório fornece uma visão abrangente sobre a ONErpm e suas operações, permitindo que o copywriter crie mensagens altamente personalizadas e relevantes para a prospecção.
+### Ação Recomendada
+Elabore um e-mail personalizado focando nas soluções que a ONErpm pode fornecer para as marcas e influenciadores, abordando suas necessidades específicas e destacando as oportunidades para crescimento mútuo.
