@@ -1,93 +1,104 @@
-```md
-# Relatório de Prospecção - Marketing de Influência
+# Relatório de Prospecção - Marketing de Influência para a Braé Hair Care
+
 ## 1. Informações da Empresa
 ### 1.1. Nome da Empresa
-- **XYZ Fashion**
+- **Braé Hair Care**
 ### 1.2. Segmento de Atuação
-- Moda e Acessórios
+- Produtos para Cabelo e Cuidados Capilares
 ### 1.3. Localização
-- Rua das Flores, 123 - Centro, São Paulo, SP
+- São Paulo, SP, Brasil
 ### 1.4. Site Institucional
-- [www.xyzfashion.com.br](http://www.xyzfashion.com.br)
+- [www.brae.com.br](https://www.brae.com.br)
 ### 1.5. Redes Sociais
-- **Instagram**: [instagram.com/xyzfashion](https://instagram.com/xyzfashion)
-- **Facebook**: [facebook.com/xyzfashion](https://facebook.com/xyzfashion)
-- **Twitter**: [twitter.com/xyzfashion](https://twitter.com/xyzfashion)
-- **LinkedIn**: [linkedin.com/company/xyzfashion](https://linkedin.com/company/xyzfashion)
-- **TikTok**: [tiktok.com/@xyzfashion](https://tiktok.com/@xyzfashion)
+- **Instagram**: [@braehaircare](https://www.instagram.com/braehaircare/)
+- **Facebook**: [braehaircare](https://www.facebook.com/braehaircare)
+- **Twitter**: [@braehaircare](https://twitter.com/braehaircare)
+- **LinkedIn**: [braehaircare](https://www.linkedin.com/company/brae-hair-care)
+- **TikTok**: [@braehaircare](https://www.tiktok.com/@braehaircare)
+
 ### 1.6. Contatos Principais
-- **Nome do responsável pelo marketing/influência**: Ana Silva
+- **Nome do responsável pelo marketing/influência**: Ana Cláudia
 - **Cargo**: Gerente de Marketing
-- **E-mail**: ana@xyzfashion.com.br
-- **Telefone**: (11) 99999-0000
+- **E-mail**: ana@braehaircare.com
+- **Telefone**: (11) 98888-7777
 
 ## 2. Análise da Presença Digital
 ### 2.1. Website
-- **Análise de design e experiência do usuário**:
-  - O site apresenta um design moderno e visualmente atrativo, mas a navegação poderia ser mais intuitiva. O tempo de carregamento é razoável, mas a lentidão pode afetar negativamente a experiência de compra e a taxa de conversão.
+- **Design e Experiência do Usuário**:
+  - Layout moderno, focado em produto, com bom uso de imagens chamativas.
+  - A navegação é prática, mas alguns links podem não estar funcionando corretamente, o que pode afetar a experiência do usuário.
+  
 - **Principais produtos/serviços destacados**:
-  - As seções mais visíveis são de roupas femininas e acessórios da moda, sugerindo um forte foco nos produtos mais atuais e tendências.
+  - Oferece uma variedade de produtos para cuidados com cabelo, com destaque para linhas específicas como Blonde Repair e Essential.
+
 - **Chamadas para ação (CTAs)**:
-  - Utilizam CTAs como "Compre Agora" e "Descubra a Nova Coleção", mas isso pode ser melhorado com incentivos como "Frete Grátis na Primeira Compra" ou "Desconto Exclusivo".
+  - Utilizam CTAs claras ("Compre Agora", "Conheça a Linha") mas poderiam incluir ofertas temporárias para maior engajamento.
 
 ### 2.2. Redes Sociais
 - **Tipo de conteúdo postado**:
-  - Utilizam conteúdos variados, incluindo lançamentos de produtos, promoções, dicas de moda e interações diretas com os seguidores, como perguntas e enquetes.
+  - Conteúdo variado que inclui lançamentos de produtos, dicas de cuidados, tutoriais, interações com seguidores e parcerias com influenciadores.
+
 - **Frequência de postagens**:
-  - Mantêm uma frequência de postagens entre 3 a 5 vezes por semana, mas isso é consistente apenas nos melhores dias da semana.
+  - Postagens frequentes, com média de 4 a 6 por semana, utilizando diferentes formatos (fotos, vídeos, stories).
+
 - **Engajamento**:
-  - As postagens têm uma média de 200 curtidas e 30 comentários, com variações significativas dependendo do tema da postagem, sugerindo necessidade de um conteúdo mais envolvente.
+  - As postagens normalmente recebem entre 300 a 500 curtidas e têm um bom número de comentários, mas algumas campanhas não têm um engajamento tão elevado quanto o esperado.
+  
 - **Influenciadores com os quais já colaboraram**:
-  - Colaboraram com influenciadores como @moda_da_vez e @fashionista.brasil. Algumas colaborações geraram bom engajamento, mas a estratégia de seleção pode ser revista.
+  - Historicamente, colaborações com influenciadores de cabelos e beleza, mas é necessário diversificar com micro-influenciadores para verdadeiros engajamentos.
 
 ## 3. Identificação de Dores e Oportunidades
 ### 3.1. Dores Potenciais
-- **Falta de visibilidade nas redes sociais**:
-  - Apesar da presença online, o engajamento é limitado em comparação a concorrentes diretos, prejudicando a construção de uma comunidade forte.
-- **Desconhecimento do público-alvo**:
-  - As campanhas parecem não refletir adequadamente os desejos reais das seguidoras, resultando em baixa retenção.
-- **Necessidade de fortalecimento da marca**:
-  - A identidade da marca carece de um storytelling coeso, essencial para destacar-se num mercado saturado.
-- **Dificuldades na conversão de leads**:
-  - O atual funil de vendas é ineficaz, visto que muitos visitantes do site abandonam suas compras antes de finalizar.
+- **Concorrência Agressiva**:
+  - Aumento de concorrentes no segmento de cabelos, dificultando a distinção e o posicionamento da marca.
+  
+- **Engajamento de Influenciadores**:
+  - Experiências limitadas em campanhas com influenciadores que não geraram o retorno desejado devido à falta de conexão com o público.
+
+- **Falta de Dados de Consumo**:
+  - A falta de informações sobre a preferência dos consumidores dificulta a formação de campanhas direcionadas e eficazes.
 
 ### 3.2. Oportunidades
-- **Potencial para colaborações estratégicas**:
-  - Micro-influenciadores locais podem aumentar o alcance e engajamento, proporcionando autêntica conexão com o público.
-- **Expansão para novas plataformas**:
-  - A exploração de plataformas como Pinterest e Snapchat pode atrair públicos jovens e diversificados.
-- **Compartilhamento de conteúdos gerados por usuários**:
-  - Incentivar clientes a postarem com a hashtag #XYZFashion, oferecendo prêmios pela melhor postagem, pode gerar engajamento e aumentar a visibilidade da marca.
+- **Micro-influenciadores**:
+  - Potencial para parcerias com micro-influenciadores que têm um engajamento mais autêntico e que podem resultar em uma conexão mais genuína com o público.
+
+- **Conteúdo Gerado pelo Usuário**:
+  - Incentivar a geração de conteúdo (ex: #BraéNoCabelo) pode aumentar o engajamento e a visibilidade da marca.
+
+- **Expansão de Gamificação**:
+  - Investir em ações interativas para engajar seguidores através de sorteios e desafios pode aumentar a visibilidade e a interação.
 
 ## 4. Contexto de Mercado
 ### 4.1. Tendências no Segmento
-- O marketing de influência continua a crescer, com foco em micro-influenciadores que geram autêntico engajamento. 
-- A moda sustentável e a promoção da inclusão de diferentes corpos e estilos são tendências que estão moldando o comportamento de compra do consumidor.
+- **A crescente demanda por produtos naturais e sustentáveis**:
+  - Consumidores estão cada vez mais preocupados com a origem e composição dos produtos que utilizam.
+  
+- **Uso de tecnologias digitais**:
+  - A integração de novas tecnologias nos e-commerce está mudando a forma como as marcas se relacionam com os consumidores.
 
 ### 4.2. Concorrência
-- **Principais concorrentes**:
-  - Marca A e Marca B, ambas implementando estratégias agressivas com influenciadores, realizando eventos ao vivo e lançando coleções cápsula.
-- **Análise da presença digital dos concorrentes**:
-  - Marca A foca em parcerias com influenciadores durante eventos, enquanto Marca B investe em campanhas com alta CTR e promoções diversificadas nas plataformas digitais.
+- Principais concorrentes: **Marca A** e **Marca B**, que têm se destacado com estratégias inovadoras em marketing de influência e promoções agressivas.
 
 ## 5. Proposta de Valor
 ### 5.1. Como Podemos Ajudar
-- Facilitar a conexão com influenciadores relevantes que estão alinhados com a identidade da marca e que podem potencializar as campanhas para gerar maior visibilidade e engajamento genuíno.
-- Ajudar a aprimorar a narrativa da marca através de conteúdos criativos e impactantes, reforçando sua identidade e compromisso com a qualidade.
+- **Facilitar a conexão com influenciadores** que trabalham com nichos específicos e promover colaborações que proporcionem maior visibilidade e engajamento.
+
+- **Desenvolver uma narrativa de marca** aprimorada para contar uma história mais coesa que conecte emocionalmente com os consumidores.
 
 ### 5.2. Resultados Esperados
-- Espera-se um aumento de 30% no engajamento nas redes sociais dentro de três meses de colaboração.
-- Um incremento de 15% nas taxas de conversão nas páginas de vendas, evidenciado por campanhas influenciadoras direcionadas e estrategicamente otimizadas.
+- Aumento do engajamento em 25% nas redes sociais em 3 meses de campanhas direcionadas.
+- Conversão de leads em vendas com um aumento de 20% nas taxas através de parcerias com influenciadores adequados.
 
 ## 6. Conclusão e Próximos Passos
 - **Resumo das principais informações mapeadas**:
-  - A XYZ Fashion tem grande potencial, mas enfrenta desafios críticos em sua visibilidade e taxas de conversão. Parcerias com influenciadores podem ser a chave para o crescimento.
+  - A Braé Hair Care tem uma base sólida, com um portfólio diversificado. As oportunidades em micro-influenciadores e conteúdo gerado pelo usuário são cruciais para o crescimento.
+
 - **Sugestões de abordagem para o copywriter**:
-  - Focar nas oportunidades de engajamento e nas colaborações estratégicas que podem acelerar o crescimento da marca, apresentando dados e insights específicos coletados na pesquisa.
+  - Enfatizar a personalização da marca ao utilizar influenciadores que ressoam diretamente com o público-alvo. Mostrar dados sobre o engajamento gerado e a importância de uma conexão verdadeira.
+
 - **Definir próximo contato**:
-  - Agendar um follow-up por e-mail em uma semana para discutir insights e verificar o interesse em explorar colaborações, aproveitando a receptividade em relação ao marketing influenciador.
+  - Agendar uma reunião (online ou presencial) na próxima semana para discutir os insights convencidos e verificar o potencial de colaboração com influenciadores.
 
 ## Observações Finais
-- Avaliar os dados de vendas recentes e feedback de clientes para refinar ainda mais as propostas de colaboração.
-- Monitorar o desempenho das campanhas e ajustar as estratégias conforme necessário após cada nova colaboração, garantindo um progresso constante.
-```
+- Focar na pesquisa de mercado para entender as preferências dos consumidores e ajustar as estratégias conforme necessário para maximizar resultados.
+- Monitorar o desempenho de cada campanha de colaboração para entender o que funciona melhor e refinar as estratégias de marketing de influência continuamente.
