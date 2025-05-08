@@ -1,69 +1,74 @@
-Claro! Abaixo está um modelo estruturado de relatório de prospecção para uma empresa a ser abordada no segmento de Marketing de Influência. Sinta-se à vontade para preencher com informações específicas sobre a empresa em questão.
-
 # Relatório de Prospecção
 
-## 1. Informações da Empresa
-- **Nome da Empresa:** [Nome da Empresa]
-- **Website:** [URL do Website]
-- **Segmento de Atuação:** [Segmento de mercado]
-- **Tamanho da Empresa:** [Pequena, Média ou Grande]
-- **Localização:** [Cidade, Estado, País]
-- **Ano de Fundação:** [Ano]
-- **Faturamento Anual Estimado:** [Valor]
+## Informações Gerais da Empresa
 
-## 2. Contato Principal
-- **Nome do Contato:** [Nome do responsável pelo marketing ou comunicação]
-- **Cargo:** [Cargo do contato]
-- **E-mail:** [E-mail do contato]
-- **Telefone:** [Telefone do contato]
-- **LinkedIn:** [Link do perfil LinkedIn]
+- **Nome da Empresa**: (Nome da empresa a ser prospectada)
+- **Website**: (URL do site da empresa)
+- **Localização**: (Endereço completo ou cidade/estado)
+- **Setor**: (Setor de atuação da empresa)
+- **Tamanho da Empresa**: (Número de funcionários, por exemplo, "pequena", "média", "grande")
+- **Ano de Fundacão**: (Ano em que a empresa foi fundada)
 
-## 3. Presença Digital
-- **Redes Sociais Utilizadas:** [Facebook, Instagram, Twitter, LinkedIn, TikTok, etc.]
-- **Número de Seguidores em Cada Plataforma:** 
-    - Facebook: [Número]
-    - Instagram: [Número]
-    - Twitter: [Número]
-    - LinkedIn: [Número]
-    - TikTok: [Número]
-- **Tipo de Conteúdo Compartilhado:** [Destaque para o tipo de conteúdo que eles postam. Ex.: Informativo, promocional, de valor, engajamento, etc.]
+## Informações de Contato
 
-## 4. Análise da Marca
-- **Posicionamento de Marca:** [Como a empresa é percebida pelo público? Qual é a sua proposta de valor?]
-- **Análise da Concorrência:** 
-  - [Principais concorrentes]
-  - [Comparação de estratégias de marketing de influência]
-- **Diferenciais Competitivos:** [Pontos fortes da empresa em relação à concorrência]
+- **Nome do Decisor**: (Nome do responsável pela área de marketing ou influenciadores)
+- **Cargo do Decisor**: (Cargo do decisor, ex: Gerente de Marketing, Diretor de Comunicação)
+- **Email**: (Email do decisor)
+- **Telefone**: (Telefone do decisor)
 
-## 5. Objetivos e Estratégias de Marketing
-- **Objetivos de Marketing:** [Quais são os objetivos da empresa em termos de marketing? Ex.: Aumentar a visibilidade da marca, gerar leads, aumentar vendas, etc.]
-- **Estratégias de Marketing Atual:** [Resumo das estratégias atualmente utilizadas pela empresa, como campanhas publicitárias, marketing de conteúdo, SEO, etc.]
-- **Histórico de Campanhas de Influência:** [Algumas campanhas anteriores com influenciadores, se disponíveis]
+## Presença Online
 
-## 6. Dores e Desafios
-- **Desafios Identificados:**
-  - [Desafios enfrentados em marketing digital ou marketing de influência]
-  - [Dores relacionadas à geração de leads e conversão]
-- **Oportunidades Potenciais:**
-  - [Como o marketing de influência pode ajudar a resolver seus problemas?
-  - [O que podemos oferecer que eles ainda não têm?]
+- **Redes Sociais**: 
+  - Facebook: (URL do perfil)
+  - Instagram: (URL do perfil)
+  - Twitter: (URL do perfil)
+  - LinkedIn: (URL do perfil)
+  - YouTube: (URL do canal)
 
-## 7. Exemplos de Campanhas e Cases de Sucesso
-- [Exemplos de campanhas bem-sucedidas de marketing de influência em sua indústria ou segmento]
-- [Caso de sucesso da sua própria empresa que se relacione com as necessidades da empresa prospectada]
+- **Campanhas de Marketing Passadas**: Participação em campanhas relacionadas a influenciadores (se houver)
 
-## 8. Proposta de Valor
-- **O que podemos oferecer:** 
-  - [Serviços de marketing de influência específicos: gestão de campanhas, seleção de influenciadores, análise de métricas, entre outros]
-- **Benefícios esperados:**
-  - [Aumento da visibilidade, engajamento do público, aumento das conversões, etc.]
+- **Conteúdo Publicado**: Analisar blogs ou artigos que a empresa compartilha que podem estar relacionados ao uso de influenciadores e marketing.
 
-## 9. Conclusão
-- **Pontos-chave que devem ser abordados na comunicação:**
-  - [Aspectos específicos que usarão para personalizar o e-mail]
-- **Próximos Passos:**
-  - [Sugestão de follow-up ou agendamento de reunião]
+## Análise do Mercado e Concorrência
 
----
+### Concorrentes Diretos
 
-**Nota**: Este é um modelo geral. Por favor, personaliza e preencha com informações específicas sobre a empresa a ser prospectada. O objetivo é entregar ao copywriter todos os dados relevantes para que a comunicação seja ultra personalizada e eficaz.
+- (Nome de concorrentes diretos)
+- (Links para os sites dos concorrentes)
+  
+### Análise SWOT
+
+- **Forças**: (O que a empresa faz bem?)
+- **Fraquezas**: (Áreas em que pode melhorar)
+- **Oportunidades**: (Tendências do mercado que a empresa pode aproveitar)
+- **Ameaças**: (Desafios externos que a empresa pode enfrentar)
+  
+## Dores Potenciais da Empresa
+
+1. **Baixa Visibilidade**: A empresa pode estar lutando para aumentar sua visibilidade no mercado.
+2. **Engajamento de Público**: Desafios em engajar seu público-alvo de forma eficaz.
+3. **Conversão de Leads**: Dificuldades para converter leads em clientes.
+4. **Autenticidade da Marca**: A necessidade de se conectar de forma mais significativa com o público.
+5. **Acompanhamento de Tendências**: Dificuldade em acompanhar as tendências de marketing e influenciadores.
+
+## Oportunidades de Colaboração
+
+- **Aumento de Alcance**: Utilizar influenciadores para expandir o alcance da marca e atrair novos clientes.
+- **Conteúdo Autêntico**: Criar conteúdo autêntico e engajador através da colaboração com influenciadores.
+- **Crescimento em Nichos Específicos**: Colaborar com influenciadores que atuam em nichos que a empresa deseja explorar.
+  
+## Contexto do Segmento
+
+- **Tendências em Marketing de Influência**: O marketing de influência está crescendo, com mais marcas buscando influenciadores para promoção de produtos e serviços. Investir em campanhas de influenciadores pode resultar em um ROI significativo.
+
+- **Mudança de Comportamento do Consumidor**: Os consumidores estão cada vez mais buscando autenticidade e transparência nas marcas, e influenciadores podem fornecer essa conexão pessoal.
+
+- **Importância das Micro e Nano-Influencers**: Cada vez mais, marcas estão se voltando para micro e nano-influenciadores que oferecem engajamento mais forte em seus nichos.
+
+## Conclusão e Recomendações
+
+Com base nas informações levantadas, uma abordagem personalizada para a empresa a ser prospectada deve focar na importância do marketing de influência e como essa estratégia pode ajudar a resolver as dores identificadas, destacando os benefícios específicos que a nossa empresa pode oferecer. Sugerir uma reunião para discutir como podemos trabalhar juntos pode ser uma abordagem eficaz para iniciar a conversa.
+
+--- 
+
+Observação: Preencher as informações específicas da empresa e ajustar os detalhes conforme necessário para melhor adequação ao perfil e segmentação do público-alvo.
