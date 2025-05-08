@@ -3,7 +3,7 @@
 ## 1. Informações Gerais
 - **Nome da Empresa**: FutureBrand
 - **Segmento**: Agências de branding e marketing
-- **Localização**: Escritório principal em São Paulo, com filiais em várias cidades globais (Amsterdam, Beijing, Bogotá, Buenos Aires, Cincinnati, etc.).
+- **Localização**: Escritório principal em São Paulo, com filiais em várias cidades globais (Amsterdam, Beijing, Bogotá, Buenos Aires, Cincinnati, etc.)
 - **Website**: [FutureBrand](https://www.futurebrand.com)
 
 ## 2. Histórico da Empresa
@@ -15,7 +15,7 @@ A FutureBrand atua no Brasil há mais de 20 anos, reconhecida por criar e desenv
 - **Brand Management**: Gestão de marcas, garantindo que estejam alinhadas com a estratégia de negócios.
 - **Spatial Design**: Projetos de design de espaços que comunicam a identidade das marcas.
 - **Product and Shopper Design**: Design de produtos que se alinham com as expectativas dos consumidores.
-  
+
 ### Exemplos de Trabalhos Recentes
 - **Hering**: Rebranding de uma marca icônica, reposicionando-a para o futuro.
 - **Localiza**: Criação da Localiza&Co., uma nova plataforma de mobilidade que reúne serviços e produtos.
@@ -25,12 +25,12 @@ A FutureBrand atua no Brasil há mais de 20 anos, reconhecida por criar e desenv
 A FutureBrand trabalha com uma ampla gama de clientes, incluindo marcas de grande consumo e serviços, empresas de tecnologia, turismo e organizações governamentais. Os clientes buscam serviços de branding que garantam não apenas o crescimento comercial, mas também uma conexão significativa com o cliente final.
 
 ## 5. Dores e Desafios
-- **Relevância da Marca**: Muitas marcas enfrentam dificuldades em se manter relevantes em mercados saturados e volatilidade econômica.
+- **Relevância da Marca**: Muitas marcas enfrentam dificuldades em se manter relevantes em mercados saturados e com volatilidade econômica.
 - **Demonstração de Diversidade**: A pressão contínua para apresentar um compromisso genuíno com a diversidade e inclusão cria uma necessidade de inovação nas representações de marcas.
 - **Sustentabilidade**: A crescente expectativa dos consumidores por práticas sustentáveis leva as marcas a reavaliar suas práticas comerciais e de marketing.
 
 ## 6. Contexto do Mercado
-O marketing de influência se tornou um canal essencial para marcas se conectarem com seus públicos. Em um ambiente digital competitivo, as marcas buscam influencers que compartilhem de seus valores e possam se conectar de forma autêntica e significativa com seus consumidores.
+O marketing de influência se tornou um canal essencial para marcas se conectarem com seus públicos. Em um ambiente digital competitivo, as marcas buscam influenciadores que compartilhem de seus valores e possam se conectar de forma autêntica e significativa com seus consumidores.
 
 ## 7. Oportunidades de Colaboração
 - **A prática de Influência**: A FutureBrand pode se beneficiar de parcerias com influenciadores capazes de fortalecer a imagem de suas marcas através de campanhas alinhadas com seus valores de diversidade e inclusão.
