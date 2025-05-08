@@ -13,14 +13,13 @@
 
 ## 3. Proposta de Valor
 - **Diferenciais**:
-  - Plataforma online com uma vasta gama de mais de 3 milhões de produtos.
+  - Plataforma online com mais de 3 milhões de produtos.
   - Cashback em compras, promoções e cupons de desconto.
   - Compromisso com a qualidade dos produtos e atendimento ao cliente, oferecendo uma experiência de compra integrada e conveniente.
 
 ## 4. Características do Cliente
 - **Público-Alvo**:
   - Consumidores que buscam mobiliar ou reformar suas casas, preferencialmente com produtos de qualidade que ofereçam bom custo-benefício.
-  
 - **Necessidades**:
   - Praticidade na compra online de produtos para casa.
   - Preços competitivos e promoções que possam ajudar a economizar.
@@ -28,10 +27,9 @@
 
 ## 5. Contexto de Mercado
 - **Dores do Cliente**:
-  - Dificuldade de encontrar um bom atendimento e suporte pós-venda.
+  - Dificuldade em encontrar um bom atendimento e suporte pós-venda.
   - Necessidade de transparência em relação a prazos de entrega e condições de compra.
   - Dúvidas sobre a qualidade dos produtos antes da compra online.
-
 - **Tendências**:
   - Aumento do consumo digital, especialmente em produtos para casa.
   - Ascensão da personalização de experiências de compra, como recomendações baseadas em dados.
@@ -43,10 +41,10 @@
 ## 7. Análise da Presença Digital
 - **Profundidade do site**: Extensa gama de categorias, com foco em soluções para todos os ambientes e necessidades da casa.
 - **Facilidade de Navegação**: Site intuitivo que facilita a pesquisa por produtos e categorias.
-- **Atendimento ao Cliente**: Diversas formas de contato, incluindo chat online, WhatsApp, e televendas, garantindo apoio ao consumidor.
+- **Atendimento ao Cliente**: Diversas formas de contato, incluindo chat online, WhatsApp e televendas, garantindo apoio ao consumidor.
 
 ## 8. Oportunidades e Recomendações
-- **Marketing de Influência**: Propor parcerias com micro e macro influenciadores no segmento de decoração e DIY (faça você mesmo) para aumentar a conscientização da marca e engajamento em plataformas como Instagram e YouTube.
+- **Marketing de Influência**: Propor parcerias com micro e macro influenciadores no segmento de decoração e DIY (faça você mesmo) para aumentar a conscientização da marca e o engajamento em plataformas como Instagram e YouTube.
 - **Campanhas de Reengajamento**: Focar em campanhas e cupons de desconto para clientes inativos, buscando recuperar o interesse.
 - **Avaliações e Testemunhos de Clientes**: Estimular que consumidores satisfeitos deixem avaliações e testemunhos, aumentando a confiança de novos compradores.
 
