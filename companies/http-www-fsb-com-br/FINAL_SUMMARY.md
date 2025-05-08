@@ -61,12 +61,12 @@ O mercado muda constantemente devido à digitalização, e as empresas precisam 
 
 ## 7. Considerações Finais para o Copywriter
 ### Apelo para o E-mail
-O e-mail deve considerar as dores de inovação e gerenciamento de reputação, apresentando a FSB como parceira ideal para ajudar a prospectada a superar esses desafios. Deve ressaltar a integração entre PR e marketing digital como um diferencial para se destacar no campo da comunicação moderna. Além disso, a mensagem deve refletir a filosofia de oferecer sempre mais do que o cliente espera e como a FSB está bem equipada para atender às novas demandas do mercado.
+O e-mail deve considerar as dores de inovação e gerenciamento de reputação, apresentando a FSB como parceira ideal para ajudar a empresa prospectada a superar esses desafios. Deve ressaltar a integração entre PR e marketing digital como um diferencial para se destacar no campo da comunicação moderna. Além disso, a mensagem deve refletir a filosofia de oferecer sempre mais do que o cliente espera e como a FSB está bem equipada para atender às novas demandas do mercado.
 
 ---
 
 ### Anotações Adicionais
-- A FSB opera não apenas no território nacional, mas possui uma operação internacional, o que a torna um player relevante para marcas que buscam uma comunicação eficaz em múltiplos mercados.
+- A FSB opera não apenas no território nacional, mas possui uma operação internacional, tornando-se um player relevante para marcas que buscam uma comunicação eficaz em múltiplos mercados.
 - A especialização em treinamento e desenvolvimento de influenciadores pode ser um ponto de contato importante no contexto atual do marketing de influência.
 
-**Essa estrutura deve fornecer ao copywriter informações abrangentes para a elaboração de um email persuasivo e alinhado com os valores e as necessidades da FSB Comunicação.**
+**Essas informações fornecem ao copywriter uma base abrangente para a elaboração de um e-mail persuasivo e alinhado com os valores e necessidades da FSB Comunicação.**
