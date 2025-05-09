@@ -1,70 +1,66 @@
-# Relatório de Prospecção: Edrone
+# Relatório de Prospecção: eDrone
 
-## Type: Empresa de Marketing de Influência
-- **Segmento:** Marketing de Influência
-- **Serviços:** Conexão entre marcas/empresas e influenciadores.
-- **Objetivo:** Aumentar a visibilidade e engajamento das marcas através de campanhas de influenciadores.
+## Informações Gerais da Empresa
+- **Nome da Empresa:** eDrone
+- **Site:** [edrone.me](https://edrone.me)
+- **Segmento:** Marketing de Influência e Automação de Marketing para E-commerce
+- **Localização:** Polônia (projetos em diversos países, incluindo atuações na Alemanha e Áustria)
 
-### 1. Informações Gerais da Empresa
-- **Nome:** Edrone
-- **Website:** [edrone.me](http://www.edrone.me/)
-- **Localização:** Polônia (Alvo de mercado na União Europeia)
-- **Ano de fundação:** Informação não disponível, mas no contexto recente de uso e automatização de marketing, a empresa é vista como moderna e atualizada tecnologicamente.
+## Descrição do Produto e Serviços Oferecidos
+A eDrone é uma plataforma que conecta e-commerce com soluções de automação de marketing, oferecendo uma gama de funcionalidades para email marketing, recuperação de carrinhos abandonados, gestão de clientes e recomendações personalizadas.
 
-### 2. Características do Negócio
-- Edrone atua como uma plataforma de marketing automatizado, especializada na criação de experiências personalizadas para clientes em e-commerce.
-- Oferece ferramentas de automação de e-mail, personalização de recomendações de produtos e gerenciamento de campanhas de marketing.
-  
-### 3. Produtos e Serviços Oferecidos
-- **Automação de Marketing:**
-  - Cenários prontos para ações específicas como recuperação de carrinhos abandonados, boas-vindas para novos assinantes, e recomendações de produtos baseadas em comportamentos do usuário.
-  - Personalização utilizando inteligência artificial.
-  
-- **Segmentação Avançada:**
-  - Ferramentas para segmentar clientes com base em interações, preferências e ações passadas.
-  
-- **Integrações com Plataformas E-commerce:**
-  - Integração pronta com plataformas como WooCommerce, Shopify, Magento, entre outras.
+### Serviços Principais:
+1. **Automação de Marketing:**
+   - **Newsletter Subscription:** Conexão imediata com novos assinantes.
+   - **Recuperação de Carrinhos Abandonados:** Lembretes automáticos para clientes incompletos.
+   - **Recomendações Personalizadas:** Envio de recomendações de produtos baseadas em histórico de navegação e compras.
 
-### 4. Desafios Enfrentados
-- **Crescimento na Indústria de E-Commerce:**
-  - Necessidade de se destacar entre concorrentes em um mercado saturado.
-  - Manter engajamento do cliente em um ambiente digital superlotado.
-  
-- **Ajuste e Personalização:**
-  - Recriar experiências de compra personalizadas que imitam o atendimento em lojas físicas.
-  
-- **Gerenciamento de Dados:**
-  - Coletar e utilizar dados do cliente para melhorar a personalização e aumentar as taxas de conversão.
+2. **Ferramentas de Engajamento:**
+   - **Pop-ups e Web Layers:** Conversão de visitantes em assinantes e clientes.
+   - **Push Notifications:** Recados para engajar clientes enquanto navegam por outros sites.
 
-### 5. Resultados Comprovados
-- **Estudos de caso** demonstram resultados positivos usando a plataforma. Por exemplo:
-  - **Nemira:** Aumento de 913% no retorno de investimento e recuperação de €15,900 em receita perdida injetada por campanhas de recuperação de carrinhos.
-  - **Leifheit:** Receita adicional de quase €9,000 mensalmente atribuída a e-mails de boas-vindas e taxas de abertura de 92%.
-  - **Mosquito:** Geração de €115,000 em receita recuperada de carrinhos abandonados.
+3. **CRM e Nurturing:**
+   - Visão total do cliente em tempo real para personalização de ofertas e melhorias no serviço.
+   - Segmentação avançada de contatos baseada em comportamento e interações.
 
-### 6. Contexto de Mercado e Tendências
-- O marketing de influência está em ascensão, com cada vez mais marcas investindo em colaboração com influenciadores para aumentar a visibilidade.
-- **KPI's importantes**: Taxa de engajamento, AOV (Valor Médio do Pedido), CLV (Valor do Cliente ao longo da Vida) estão crescendo em importância para garantir um ROI mais alto.
+4. **Integrações com Plataformas de E-commerce:**
+   - Integração fácil com plataformas como Shopify, WooCommerce, Magento e muitas outras.
 
-### 7. Possíveis Dores das Empresas Alvo
-- **Dificuldade em Engajar o Cliente:** Marcas lutando para manter o histórico de compras e oferecer personalizações relevantes.
-- **Recuperação de Vendas:** Carrinhos abandonados representam uma parte significativa da perda de receita e a recuperação eficaz é um desafio concreto.
-- **Gerenciamento de Dados Eficiente:** Necessidade de uma visão unificada do cliente para direcionar comunicações relevantes e eficazes.
+## Casos de Sucesso
+1. **Mosquito (Moda Feminina):**
+   - **Desafio:** Recuperar receitas perdidas devido a carrinhos abandonados.
+   - **Resultados:** +115,000 EUR recuperados nos primeiros seis meses de 2021 utilizando a automação de recuperação de carrinhos.
+   - **Destaques:** 92.6% de taxa de abertura em mensagens de boas-vindas, geração significativa de receita por envio de email.
 
-### 8. Oportunidades de Abordagem
-- Oferecer a Edrone uma colaboração focada em soluções de marketing de influência que podem:
-  - Reforçar a personalização e engajamento através da plataforma de influenciadores.
-  - Aumentar a taxa de recuperação de carrinhos e engajar usuários inativos.
-  - Criar campanhas de marketing baseadas em dados que testem e otimizem continuamente as comunicações personalizadas.
+2. **Leifheit (Produtos Domésticos):**
+   - **Desafio:** Desenvolver a presença online do B2C.
+   - **Resultados:** 9000 EUR de receita adicional mensal através de mensagens automatizadas e pop-ups.
+   - **Destaques:** 73% de taxa de abertura em emails de recomendações personalizadas, recuperação significativa de receita de carrinhos abandonados.
 
-### 9. Ações Recomendadas para o Copywriter
-- Elaborar comunicação que:
-  - Destaque os casos de sucesso da Edrone mostrando resultados tangíveis que outros clientes tiveram com a metodologia.
-  - Enfatizar como a automação e personalização podem resolver as dores compartilhadas, especialmente em engajar clientes e recuperar vendas.
-  - Apontar para o potencial de parcerias com influenciadores como uma abordagem moderna que pode trazer fidelização e maior alcance.
+3. **Nemira (Editora):**
+   - **Desafio:** Engajar os clientes online de maneira personalizada como em uma livraria física.
+   - **Resultados:** 2,111 EUR em receita para cada 1,000 emails enviados através de campanhas automatizadas.
+   - **Destaques:** 30% de taxa de abertura em emails de produtos visualizados.
 
-### 10. Conclusão
-As empresas que se posicionam estrategicamente para aproveitar as oportunidades do marketing de influência e personalização de dados estão mais propensas a prosperar. Edrone, com sua base de clientes e soluções robustas, é um parceiro em potencial ideal no espaço de marketing digital.
+## Desafios que a eDrone Ajuda a Resolver
+- **Recriação da Experiência Física Online:** Fornecer uma experiência de compra personalizada que rivalize com as lojas físicas, usando automações e recomendações.
+- **Engajamento e Retenção de Clientes:** Estratégias automatizadas que ajudam as empresas a manter e engajar os clientes, reduzindo a taxa de abandono de carrinhos e aumentando a frequência de compras.
+- **Otimização de Recursos:** Com automação, as empresas conseguem reduzir a carga de trabalho manual, focando em estratégias de longa duração para aumentar o ROI.
 
-**Ação Recomendada:** Agendar uma reunião para discutir como a Edrone pode integrar a estratégia de marketing de influência em sua oferta, e reverter potencialmente a situação de vendas perdidas para empresas em crescimento no e-commerce.
+## Oportunidades de Prospecção
+Considerando o perfil da eDrone e as dores que eles resolvem, as oportunidades para a prospecção podem incluir:
+- **Marcas de E-commerce que buscam otimizar seu marketing digital e automação.**
+- **Empresas que têm altas taxas de abandono de carrinhos e desejam implementar soluções eficazes.**
+- **Companhias que querem melhorar a personalização em seu marketing para aumentar a fidelidade do cliente.**
+
+## Características e Benefícios da Proposta
+- **Integração Rápida:** A plataforma se integra facilmente a diversas soluções de e-commerce.
+- **Personalização de Comunicação:** Uso de dados para enviar mensagens personalizadas e relevantes, aumentando o engajamento do cliente.
+- **ROI Mensurável:** Casos de estudo demonstraram retornos significativos em relação ao investimento por meio de automação e segmentação.
+
+## Próximos Passos
+- Identificar potenciais leads que se encaixem com o perfil de clientes que a eDrone já atende com sucesso.
+- Criar uma abordagem de conteúdo orientada às necessidades específicas de cada lead, enfatizando como as soluções da eDrone podem resolver suas dores.
+
+## Conclusão
+A eDrone oferece soluções robustas para a automação de marketing e engajamento de clientes, focando em resultados mensuráveis e um atendimento personalizado. Essa capacidade de resolver problemas comuns no e-commerce, associada a um histórico comprovado de sucesso, a torna uma parceira valiosa para marcas em busca de crescimento e eficiência.
