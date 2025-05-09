@@ -11,7 +11,7 @@ Concessionárias de veículos, oferecendo novos e seminovos, além de serviços 
 ### Localização:
 - **Belo Horizonte, MG**
 - **Rio de Janeiro, RJ**
-  
+
 ### Contato:
 - **Website**: [grupoab.com.br](http://www.grupoab.com.br)
 - **Telefones**: Múltiplos contatos dependendo da concessionária.
@@ -64,10 +64,10 @@ Concessionárias de veículos, oferecendo novos e seminovos, além de serviços 
 
 ### 5.1 Colaboração com Influenciadores
 - Influenciadores do segmento automotivo e de estilo de vida podem contribuir para aumentar a visibilidade da marca.
-  
+
 ### 5.2 Campanhas Temáticas
 - Realizar campanhas sazonais (ex: promoções para o Dia das Mães, Férias).
-  
+
 ### 5.3 Eventos
 - Participação em eventos de automóveis, feiras e exposições para engajamento da marca.
 
@@ -79,7 +79,7 @@ Concessionárias de veículos, oferecendo novos e seminovos, além de serviços 
 
 ### 6.2 Concorrência
 - Identifique players locais e nacionais que atuam nas mesmas linhas de produtos e serviços.
-  
+
 ## 7. Conclusões e Recomendações
 
 ### 7.1 Estratégia de Abordagem
@@ -92,5 +92,4 @@ Concessionárias de veículos, oferecendo novos e seminovos, além de serviços 
 - Situar o valor agregado do trabalho com influenciadores, enfatizando sua importância na construção de marca, sua conexão com o consumidor e na geração de leads e vendas efetivas. 
 
 ---
-
 Este relatório busca oferecer uma visão clara e abrangente que permitirá ao copywriter elaborar uma comunicação direcionada e eficaz para o Grupo AB, visando a maximização das oportunidades na área de marketing de influência.
