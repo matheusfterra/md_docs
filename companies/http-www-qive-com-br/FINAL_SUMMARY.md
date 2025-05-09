@@ -3,20 +3,25 @@
 ## 1. Visão Geral da Empresa
 ### Nome da empresa:
 Qive
+
 ### Segmento:
 Soluções em gestão fiscal e financeira focadas na automação de documentos fiscais.
+
 ### Localização:
 Brasil
+
 ### Website:
 [Qive](https://qive.com.br)
+
 ### Missão:
 Conectar o elo fiscal ao financeiro através da automação e integração de documentos fiscais.
+
 ### Lema:
 "O elo do fiscal com o financeiro."
 
 ## 2. Produtos e Serviços
 ### Produtos e Serviços Oferecidos:
-- **Gestão de Documentos Fiscais**: Automatização na consulta e recepção de documentos fiscais (NFe, CTe, NFSe, entre outros).
+- **Gestão de Documentos Fiscais**: Automação na consulta e recepção de documentos fiscais (NFe, CTe, NFSe, entre outros).
 - **Integrações**: Conexão com ERPs, sistemas contábeis, marketplaces e ferramentas de BI.
 - **Consultoria**: Foco em automatização e eficiência fiscal e financeira.
 - **Compliance**: Garantia de conformidade com as legislações fiscais e melhoria da segurança da informação.
@@ -46,7 +51,7 @@ Conectar o elo fiscal ao financeiro através da automação e integração de do
 
 ## 5. Oportunidades
 ### Insights e Tendências no Setor:
-- **Adoção Acelerada de Tecnologia**: Abertura das empresas para soluções que automatizam e otimizam processos.
+- **Adoção Acelerada de Tecnologia**: A abertura das empresas para soluções que automatizam e otimizam processos.
 - **Necessidade de Compliance Sustentável**: A pressão de órgãos reguladores exige otimização na gestão fiscal.
 - **Integração de Soluções**: Alta demanda por integrar diversas plataformas e aumentar a eficiência operacional, onde a Qive pode se destacar ainda mais.
 
@@ -73,5 +78,4 @@ Conectar o elo fiscal ao financeiro através da automação e integração de do
 “Olá [Nome do contato], percebi que [Nome da Empresa alvo] busca otimizar seus processos fiscais. A Qive ajudou o iFood e a C&A a alcançarem 99,97% de pagamentos em dia com nossa automação. Que tal conversarmos sobre como podemos trazer essa eficiência para você?”
 
 ---
-
-Esse relatório visa fornecer uma base sólida para a equipe de copywriting criar uma comunicação eficaz e personalizada com potenciais clientes, ressaltando as fortalezas e diferenciais da Qive.
+Este relatório visa fornecer uma base sólida para a equipe de copywriting criar uma comunicação eficaz e personalizada com potenciais clientes, ressaltando as fortalezas e diferenciais da Qive.
