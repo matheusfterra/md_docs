@@ -59,4 +59,6 @@ Uma proposta direcionada e bem fundamentada pode ajudar [Nome da Empresa Alvo] a
 - **E-mail:** [E-mail de Contato]
 - **Telefone:** [Telefone de Contato]  
 - **Endereço:** [Endereço da Empresa Alvo]
-```
+``` 
+
+Este relatório serve como modelo para um documento de prospecção personalizado. Basta preencher as partes entre colchetes com as informações específicas da empresa-alvo. É crucial fazer pesquisas detalhadas sobre a empresa, sua concorrência e o mercado em que opera para garantir a eficácia da prospecção.
