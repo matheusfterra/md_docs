@@ -1,82 +1,87 @@
-# Relatório de Prospecção - Empresa XYZ - Marketing de Influência
+# Relatório de Prospecção - Selbetti Tecnologia S.A.
 
-## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** XYZ Marketing
-- **Website:** www.xyzmarketing.com.br
-- **Localização:** Av. das Nações, 1234 - Centro, São Paulo, SP, Brasil
-- **Fundação:** 2015
-- **Número de Funcionários:** 50-100
-- **Segmento de Atuação:** Marketing Digital e Influência
-- **Principais Produtos/Serviços:**
-  - Gestão de Campanhas de Influência
-  - Consultoria em Marketing Digital
-  - Análise de Dados e Relatórios de Performance
+## Informações Gerais da Empresa
 
-## 2. Características da Empresa
-- **Mission e Visão:**
-  - **Missão:** Conectar marcas a influenciadores de forma autêntica e eficaz, aumentando a visibilidade e engajamento das campanhas de marketing.
-  - **Visão:** Ser reconhecida como a principal agência de marketing de influência na América Latina.
-  
-- **Valores:**
-  - Transparência
-  - Criatividade
-  - Colaboração
+- **Nome da Empresa:** Selbetti Tecnologia S.A.
+- **Segmento:** Tecnologia e Desenvolvimento de Software
+- **Site:** [www.selbetti.com.br](http://www.selbetti.com.br)
+- **Localização:** [Informação específica sobre localização se disponível]
+- **Ano de Fundação:** [Informação específica sobre o ano de fundação se disponível]
+- **Tamanho da Empresa:** [Número de funcionários ou faixa de funcionários, se disponível]
+- **Modelo de Negócio:** B2B (Business to Business)
+
+## Perfil e Portfólio
+
+### Serviços Oferecidos
+- Desenvolvimento de softwares personalizados
+- Soluções em tecnologia da informação
+- Consultoria em TI
+- Integrações de sistemas
+- Suporte técnico e manutenção
+
+### Setores Atendidos
+- Indústria
+- Varejo
+- Saúde
+- Educação
+- Transporte
+
+### Tecnologias Utilizadas
+- [Listar as principais tecnologias e linguagens de programação utilizadas]
+- [Informações sobre parcerias tecnológicas, se disponíveis]
+
+## Características da Empresa
+
+### Missão
+[Inserir missão da empresa, se disponível]
+
+### Visão
+[Inserir visão da empresa, se disponível]
+
+### Valores
+[Inserir valores da empresa, se disponíveis]
+
+## Análise do Mercado
+
+### Concorrência
+- Principais concorrentes: [Listar empresas similares no mesmo segmento]
+- Análise de diferenciais competitivos em relação a concorrentes:
+  - Qualidade do atendimento
+  - Personalização de soluções
+  - Preço
   - Inovação
 
-- **Público-Alvo:**
-  - Marcas que atuam nos setores de moda, beleza, tecnologia, e alimentos.
-  - E-commerce e empresas que buscam impulsionar suas vendas através da influência digital.
+### Tendências do Setor
+- Crescimento da digitalização e automação de processos
+- Aumento na demanda por soluções de software personalizado
+- Importância da integração entre sistemas para empresas
 
-## 3. Presença Digital
-- **Canais de Mídia Social:**
-  - Instagram: @xyzmarketing
-  - Facebook: fb.com/xyzmarketing
-  - LinkedIn: linkedin.com/company/xyzmarketing
-  - Twitter: @xyzmarketing
+## Dores Possíveis
 
-- **Blog/Conteúdo:**
-  - O blog da empresa está ativo, com postagens sobre tendências em marketing de influência, estudos de caso, e estratégias eficazes.
-  - Frequência de postagens: Uma vez por semana.
-  
-- **Assinantes de Newsletter:** Aproximadamente 5.000 assinantes.
+- **Necessidade de inovação**: Empresas em segmentos como varejo e saúde estão buscando tecnologias que possam dar respostas mais rápidas às demandas do mercado.
+- **Integração de sistemas**: Muitas empresas enfrentam dificuldades em integrar diferentes plataformas e sistemas, o que pode ser um ponto de conexão na proposta de parceria.
+- **Falta de suporte técnico de qualidade**: O suporte é um fator crítico para muitas empresas que dependem de tecnologia para suas operações diárias.
+- **Escalabilidade das soluções**: À medida que as empresas crescem, elas precisam de soluções que possam escalar junto com seus negócios.
 
-## 4. Análise de Concorrência
-- **Principais Concorrentes:**
-  - Agência Influencers Brasil
-  - Conexão Creators
-  - SocialBuzz
-- **Diferenciais Competitivos:**
-  - Abordagem personalizada e consultoria estratégica.
-  - Relatórios de dados e métricas detalhadas, com ênfase em ROI.
+## Público-Alvo
 
-## 5. Contexto do Mercado
-- **Tendências em Marketing de Influência:**
-  - Crescimento na utilização de micro e nano influenciadores.
-  - Foco em autenticidade e conexões genuínas entre marcas e influenciadores.
-  - Aumento do uso de vídeos short e lives para engajamento.
+### Perfil do Cliente Ideal
+- **Tamanho**: Empresas de médio a grande porte
+- **Localização**: Principalmente em áreas urbanas com alta concentração de empresas em setores como saúde, varejo e indústria.
 
-- **Possíveis Dores do Cliente:**
-  - Dificuldade em encontrar influenciadores alinhados com a identidade da marca.
-  - Desafios na medição de resultados e retorno sobre investimento (ROI).
-  - Necessidade de se destacar em um mercado saturado.
+### Decisor Principal
+- [Identificar os cargos ou funções que geralmente tomam decisões de compra, como CTO, CDO, ou Gerente de TI.]
 
-## 6. Estratégia de Prospecção
-- **Abordagem Inicial:**
-  - Enviar um e-mail personalizado abordando os desafios do marketing de influência que a empresa XYZ enfrenta, com sugestões de como nossa plataforma pode aliviar essas dores.
-  
-- **Sugestões de Tópicos para o E-mail:**
-  - A importância da escolha de influenciadores adequados para campanhas de sucesso.
-  - Casos de sucesso e depoimentos de clientes que superaram desafios semelhantes.
-  - Demonstração de como as ferramentas de análise podem simplificar o processo de avaliação do ROI.
+## Estratégia de Abordagem
 
-## 7. Objetivos da Prospecção
-- **Objetivo Primário:** Agendar uma reunião para demonstrar como a empresa pode melhorar sua estratégia de marketing de influência.
-- **Meta Secundária:** Oferecer uma consultoria gratuita sobre marketing de influência.
+### Critérios de Contato
+- **E-mail GTM + LinkedIn**: Utilizar a combinação de campanhas de e-mail marketing com abordagens via LinkedIn.
+- **Eventos e feiras do setor**: Se possível, participar de feiras e eventos do setor de tecnologia para estabelecer contato direto.
 
-## 8. Observações Finais
-- **Networking:** A empresa já possui conexões com vários influenciadores, o que pode ser uma base a ser explorada.
-- **Feiras e Eventos:** Participação em eventos do setor, como a Influencer Marketing Conference, sugere que a empresa está atenta às inovações do mercado.
+### Personalização da Mensagem
+- Aproveitar a dor específica da empresa, como a necessidade de integração de sistemas ou a busca por inovação, para construir uma narrativa que ressoe com suas dificuldades.
+- Incluir casos de sucesso ou depoimentos que demonstrem a capacidade da Selbetti em solucionar problemas similares.
 
----
+## Conclusão
 
-Esse relatório deverá fornecer ao copywriter todas as informações relevantes para a elaboração de um e-mail que se destaque e aborde as necessidades da empresa XYZ de maneira eficaz e personalizada.
+A Selbetti Tecnologia S.A. apresenta uma oportunidade significativa dentro do mercado de tecnologia, especialmente no campo de desenvolvimento de software e soluções de integração de sistemas. A abordagem personalizada em contato com a Selbetti deve levar em consideração suas características, serviços e as dores específicas que eles enfrentam. Este relatório deve servir como uma base sólida para a criação de uma comunicação mais eficaz, destacando a proposta de valor da parceria com nossa empresa no segmento de Marketing de Influência.
