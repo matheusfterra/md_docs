@@ -57,5 +57,4 @@ Para abordar a Skyone Solutions, é recomendado:
 3. **Utilização de Casos de Sucesso:** Inserir exemplos relevantes de como Skyone ajudou outras empresas do mesmo setor a atingir seus objetivos, criando uma conexão emocional na comunicação.
 
 ---
-
 Esse relatório oferece uma visão detalhada da Skyone Solutions e suas potencialidades no mercado. As informações aqui apresentadas servirão para apoiar a equipe de marketing na elaboração de estratégias e conteúdos relevantes para campanhas outbound eficazes.
