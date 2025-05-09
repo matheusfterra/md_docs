@@ -1,77 +1,69 @@
-### Relatório de Prospecção - FECAP
+# Relatório de Prospecção para FECAP
 
----
-
-#### 1. **Informações Gerais da Empresa**
-
-- **Nome da Empresa:** FECAP (Fundação Escola de Comércio Álvares Penteado)
-- **Website:** [www.fecap.br](http://www.fecap.br)
-- **Segmento:** Educação
+## Informações da Empresa
+- **Nome:** FECAP (Fundação Escola de Comércio Álvares Penteado)
+- **Website:** [fecap.br](http://www.fecap.br)
+- **Segmento:** Educação (Graduação, Pós-graduação, MBA, Mestrado, Extensão)
 - **Localização:** São Paulo, Brasil
-- **Contato:** [Informações de contato não disponíveis devido a erro no site]
+- **Anos de Fundada:** Mais de 100 anos
+- **Certificações:** Considerada uma entidade beneficente de assistência social na educação, destacando seu compromisso com a qualidade.
 
-#### 2. **Missão e Visão da Empresa**
+## Ofertas de Serviços
+1. **Graduação:**
+   - Administração
+   - Ciências Contábeis
+   - Publicidade e Propaganda
+   - Relações Públicas
+   - Relações Internacionais
+   - Análise e Desenvolvimento de Sistemas
+   - Entre outros.
 
-- **Missão:** 
-  A FECAP se dedica à formação de profissionais capacitados, promovendo educação de qualidade voltada para o mercado de trabalho, especialmente nas áreas de comércio e negócios.
-  
-- **Visão:** 
-  Ser reconhecida como uma das melhores instituições de ensino superior do Brasil em formação voltada para a prática do comércio e gestão.
+2. **Pós-Graduação:**
+   - Múltiplas áreas de especialização como Controladoria, Finanças, Gestão de Pessoas, entre outros.
 
-#### 3. **Características da Empresa**
+3. **MBA:**
+   - Programas focados em gestão de negócios, finanças, agronegócios e compliance.
 
-- **Tipo de Cursos Oferecidos:**
-  - Graduação
-  - Pós-Graduação
-  - Cursos de Extensão
-  - Formação profissional
+4. **Cursos de Curta Duração:**
+   - Diversas áreas, incluindo auditoria, contabilidade, gestão de pessoas, marketing, etc.
 
-- **Diferenciais:**
-  - Instituição com história e tradição (fundada em 1902).
-  - Foco em práticas de mercado.
-  - Corpo docente com profissionais de destaque nas suas áreas.
+5. **Educação Executiva:**
+   - Cursos voltados para a capacitação profissional em ambientes corporativos.
 
-#### 4. **Análise de Mercado**
+## Contexto do Mercado
+A FECAP se posiciona em um mercado educacional que, após a pandemia, busca inovação e qualidade no ensino. A demanda por cursos híbridos e flexíveis cresce a cada dia, além do aumento do interesse em habilidades técnicas e soft skills no mercado de trabalho.
 
-- **Demografia:** 
-  - Principalmente jovens adultos em busca de formação superior.
-  
-- **Concorrência:** 
-  - Outras instituições de ensino superior em São Paulo e no Brasil oferecendo cursos semelhantes, como universidades públicas e privadas.
+## Dores Potenciais
+1. **Concorrência Aumentada:**
+   - Instituições de ensino estão cada vez mais competindo por alunos, especialmente com o crescimento do EAD e das plataformas de ensino online.
 
-- **Tendências:** 
-  - Crescente valorização da formação prática e do aprendizado online (especialmente após a pandemia).
+2. **Demanda por Modernização:**
+   - Necessidade de adaptar métodos de ensino e currículos às exigências do mercado moderno, incluindo o uso de tecnologia e metodologias ativas de aprendizagem.
 
-#### 5. **Desafios e Dores**
-  
-- **Reconhecimento da Marca:**
-  - A FECAP pode enfrentar dificuldades em se destacar entre a crescente concorrência no segmento de educação, especialmente nas plataformas digitais.
+3. **Engajamento com o Aluno:**
+   - Criação de estratégias eficazes para aumentar o engajamento dos alunos, especialmente em cursos online.
 
-- **Atração de Alunos:**
-  - A necessidade de desenvolver campanhas de marketing que ressoem com o público mais jovem, além de utilizar estratégias de marketing digital e influencer marketing.
+4. **Reputação e Visibilidade:**
+   - A necessidade de manter uma reputação sólida e uma marca reconhecida no mercado educacional, buscando novos parceiros e colaborações.
 
-- **Engajamento e Comunidade:**
-  - Promover a interação entre estudantes, ex-alunos e a instituição, criando uma comunidade forte e engajada.
+## Objetivos Ferramenta de Prospecção
+- Oferecer consultoria e serviços de marketing de influência para promover a FECAP em plataformas relevantes, aumentando sua visibilidade e engajamento com potenciais alunos.
+- Criar campanhas que destaquem a qualidade dos cursos e a tradição da FECAP, posicionando-a como uma referência no mercado educacional.
 
-#### 6. **Oportunidades com Marketing de Influência**
+## Sugestões para o Copywriting
+1. **Personalização:** Destacar a tradição da FECAP em educação e seu compromisso com a formação de profissionais capacitados.
+2. **Inovação:** Focar em como a FECAP está se adaptando às novas demandas do mercado.
+3. **Parcerias e Colaborações:** Enfatizar a importância de parcerias estratégicas e como a FECAP já colaborou com influenciadores ou organizações relevantes.
+4. **Depoimentos e Histórias de Sucesso:** Utilizar estudos de caso de ex-alunos para demonstrar o impacto positivo da educação oferecida.
 
-- **Parcerias com Influenciadores:**
-  - Colaboração com influenciadores na área de educação e desenvolvimento profissional que possam promover a FECAP, destacando seus cursos e diferenciais.
+## Leads em Potencial
+- Influenciadores educacionais.
+- Plataformas de EAD que busquem colaborações.
+- Organizações e empresas de tecnologia que atuam na educação.
 
-- **Campanhas Focadas em Testemunhos:**
-  - Utilizar ex-alunos influentes para compartilhar suas experiências e como a educação na FECAP impactou suas carreiras.
-
-- **Criação de Conteúdo Autêntico:**
-  - Desenvolvimento de conteúdo que ressoe com os interesses e necessidades do público-alvo, utilizando plataformas como Instagram, YouTube e TikTok.
-
-#### 7. **Conclusão e Próximos Passos**
-
-- **Ação Recomendada:** 
-  - Preparar uma abordagem personalizada destacando a relevância do marketing de influência para a FECAP, enfatizando como essa estratégia pode ajudar a superar os desafios atuais de reconhecimento e engajamento. 
-
-- **Sugestão de Envio:**
-  - Reunião de apresentação ou uma proposta inicial via e-mail, explorando as ideias mencionadas, ressaltando casos de sucesso anteriores e sugerindo um trabalho colaborativo.
+## Considerações Finais
+A FECAP tem um potencial significativo para se destacar ainda mais no mercado educacional. Através de uma estratégia de marketing de influência bem dirigida, é possível conectar a instituição a públicos que buscam formação de qualidade, colaboração e inovação, estabelecendo-a como um líder no segmento. 
 
 ---
 
-Este relatório serve como um guia abrangente para a equipe de copywriting, fornecendo todos os detalhes necessários sobre a FECAP para a criação de um e-mail impactante e direcionado.
+Este relatório fornece uma visão clara sobre a FECAP, suas características, desafios e oportunidades. Um direcionamento adequado nas comunicações pode resultar em colaborações frutíferas e crescimento conjunto.
