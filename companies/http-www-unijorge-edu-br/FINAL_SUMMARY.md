@@ -1,4 +1,4 @@
-# Relatório de Prospecção da Unijorge 
+# Relatório de Prospecção da Unijorge
 
 ## Informações Gerais
 - **Nome da Empresa:** Unijorge
@@ -12,15 +12,15 @@ A Unijorge é uma instituição de ensino superior que oferece uma ampla gama de
 
 ## Produtos e Serviços Oferecidos
 ### Cursos Presenciais e EAD
-1. **Graduação**: 
+1. **Graduação:**
    - Diversas áreas como Administração, Biomedicina, Ciências da Computação, Engenharias, Saúde e Bem-Estar.
    - Modalidades: Presencial, Semipresencial e EAD.
    
-2. **Pós-Graduação**: 
+2. **Pós-Graduação:**
    - MBA em áreas como Marketing, Gestão, Finanças e Saúde.
    - Cursos 100% online com flexibilidade para os alunos.
-   
-3. **Eventos e Programas**: 
+
+3. **Eventos e Programas:** 
    - Eventos abertos ao público focados em desenvolvimento profissional e networking.
    - Programa de Mentoring e Iniciação Científica para suporte e experiências práticas.
 
@@ -35,14 +35,14 @@ A Unijorge é uma instituição de ensino superior que oferece uma ampla gama de
 
 ## Possíveis Dores e Desafios
 - **Concorrência Agressiva:** A necessidade de adaptação contínua às mudanças de mercado e concorrência qualificada.
-- **Acompanhamento de Tecnologias:** Atualização constante de métodos de ensino e tecnologias para se manter relevante.
+- **Acompanhamento de Tecnologias:** Necessidade de atualização constante de métodos de ensino e tecnologias para se manter relevante.
 - **Atração e Retenção de Alunos:** Estratégias para aumentar a visibilidade e atratividade da instituição frente aos alunos.
 
 ## Oportunidades de Marketing de Influência
 - **Colaborações com Influenciadores:**
   - Potencial para parcerias com influenciadores educacionais nas redes sociais para promoção dos cursos e da instituição.
   - Propostas de campanhas que enfatizem as experiências positivas de alunos e ex-alunos, especialmente sobre a flexibilidade de ensino oferecida.
-  
+
 - **Eventos e Promoções:**
   - Utilizar influenciadores para promover eventos gratuitos e programas de networking.
   - Criar campanhas com influenciadores que incentivem a inscrição em cursos, incluindo sugestões de bolsas e descontos.
@@ -54,3 +54,7 @@ A Unijorge é uma instituição de ensino superior que oferece uma ampla gama de
 
 ## Conclusão
 A Unijorge se posiciona como uma instituição robusta no campo educacional, com várias oportunidades para crescimento através de estratégias de marketing digital, especialmente no uso de influenciadores. A comunicação deve sempre ressaltar a qualidade do ensino, inovação e compromisso contínuo com os alunos, aproveitando a repercussão positiva das conquistas e reconhecimentos obtidos.
+
+---
+
+Esse relatório proporciona uma visão detalhada e abrangente da Unijorge, permitindo ao copywriter da equipe desenvolver um email profundo e personalizado que aborde as necessidades e contextos da instituição de forma eficaz.
