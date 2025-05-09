@@ -1,7 +1,7 @@
 # Relatório de Prospecção: LIVE!
 
 ## Informações Gerais da Empresa
-- **Nome:** LIVE!
+- **Nome da Empresa:** LIVE!
 - **Website:** [www.liveoficial.com.br](http://www.liveoficial.com.br)
 - **Segmento:** Moda Fitness e Casual
 - **Localização:** Jaraguá do Sul, SC, Brasil
@@ -28,7 +28,7 @@ A LIVE! oferece uma ampla gama de produtos, com foco em moda fitness e casual, i
 - Bonés, viseiras, meias e mochilas
 
 ### Sustentabilidade
-A empresa promove produtos com tecnologia Eco-Friendly e sustentabilidade em sua produção, alinhando-se com a crescente demanda de consumidores conscientes.
+- A empresa promove produtos com tecnologia Eco-Friendly e práticas sustentáveis, atendendo à demanda crescente de consumidores conscientes.
 
 ## Campanhas Promocionais
 - **Cashback:** 10% de cashback em todas as compras.
@@ -49,7 +49,7 @@ A empresa promove produtos com tecnologia Eco-Friendly e sustentabilidade em sua
 A LIVE! pode se beneficiar significativamente de parcerias com influenciadores do nicho de fitness e bem-estar, que compartilham valores de inclusão, conforto e sustentabilidade. A escolha de influenciadores que representam de forma autêntica os produtos da marca é essencial para aumentar a credibilidade e o engajamento.
 
 ## Contexto do Mercado
-O mercado de moda fitness está em expansão rápida, especialmente após a pandemia, onde a saúde e o bem-estar se tornaram prioridades. Marcas que oferecem produtos com tecnologia inovadora e designs atraentes conseguirão se destacar, especialmente se se aliadas a uma forte presença digital e estratégias de marketing sofisticadas.
+O mercado de moda fitness está em expansão rápida, especialmente após a pandemia, onde a saúde e o bem-estar se tornaram prioridades. Marcas que oferecem produtos com tecnologia inovadora e designs atraentes conseguirão se destacar, especialmente se aliadas a uma forte presença digital e estratégias de marketing refinadas.
 
 ## Conclusão
 A LIVE! está bem posicionada para capturar a atenção de um público que valoriza saúde, moda e práticas sustentáveis. A colaboração com influenciadores coerentes pode ampliar a exposição da marca e reforçar a mensagem de autenticidade. As comunicações devem destacar não apenas a qualidade e a variedade dos produtos, mas também os valores de sustentabilidade e a abordagem centrada no cliente da marca.
@@ -60,4 +60,4 @@ A LIVE! está bem posicionada para capturar a atenção de um público que valor
 3. **Idealização de Campanhas:** Sugerir influenciadores que poderiam se alinhar a campanhas específicas, como o Dia das Mães e promoções sazonais.
 4. **Apresentar Ofertas Atraentes:** Destacar de forma clara as promoções em andamento para maximizar a conversão.
 
-Este relatório deve servir como base para a elaboração de um e-mail mais profundo e personalizado destinado à LIVE!, visando chamadas à ação eficazes que ressoem com os interesses e valores da marca e de seu público.
+Este relatório deve ajudar na elaboração de um e-mail personalizado para a LIVE!, contendo uma abordagem que ressoe com os interesses e valores da marca e de seu público-alvo.
