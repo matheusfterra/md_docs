@@ -1,56 +1,52 @@
 # Relatório de Prospecção - Pixeon
 
-## Informações sobre a Empresa
-- **Nome:** Pixeon
-- **Website:** [www.pixeon.com](http://www.pixeon.com)
-- **Setor:** Tecnologia para saúde
-- **Localização:** Sede em São Caetano do Sul (SP) e unidade em Florianópolis (SC), com atuação em todo o Brasil e presença na Argentina e Uruguai.
-- **Missão:** Transformar a saúde com inovação e tecnologia, facilitando o acesso a soluções eficientes e sustentáveis, melhorando a experiência do paciente e a gestão administrativa das instituições de saúde.
+## 1. Informações Gerais
+- **Nome da Empresa:** Pixeon
+- **Segmento:** Tecnologia para gestão de saúde
+- **Fundação:** 2003
+- **Sedes:** São Caetano do Sul (SP) e Florianópolis (SC)
+- **Colaboradores:** Aproximadamente 500
+- **Clientes:** Mais de 3.000 (incluindo hospitais, clínicas, laboratórios e centros de diagnóstico por imagem)
+- **Redes de Vendas:** Presença em todo o Brasil e expansão na América Latina
+- **Investidores:** Riverwood Capital e Oria Capital
 
-## Produtos e Soluções
-1. **Sistemas para Hospitais:**
-   - Prontuário Eletrônico do Paciente (PEP).
-   - Integração de informações de todas as etapas hospitalares.
-   - Gestão de indicadores e assistências em tempo real.
-2. **Sistemas para Clínicas:**
-   - PEP com funcionalidades específicas para variadas especialidades.
-   - Completamente digital, facilitando a comunicação entre médicos e recepção.
-3. **Sistemas para Laboratórios:**
-   - Gestão total desde a coleta até a entrega de resultados.
-   - Controle de estoque integrado.
-4. **Sistemas para Radiologia:**
-   - Sistemas RIS e PACS para automação e gestão de imagens.
-   - Coleta, exibição e entrega de resultados online.
+## 2. Produtos e Serviços 
+A Pixeon oferece uma série de soluções focadas em tecnologia para saúde, que incluem:
 
-## Contexto do Setor
-### Tendências de Mercado:
-- Aumento da digitalização em saúde, com demanda por soluções integradas que garantam segurança de dados.
-- Crescimento no uso de inteligência artificial e análise de dados para diagnósticos mais precisos.
+- **Sistema para Hospitais**: Gestão completa com Prontuário Eletrônico do Paciente (PEP), sistemas de integração (HIS, CIS, LIS, RIS, PACS) para otimizar processos assistenciais e administrativos.
+  
+- **Sistema para Clínicas e Consultórios**: PEP com funcionalidades específicas para melhorar a gestão do histórico do paciente, otimização de processos, e cumprimento de normas de acreditação.
 
-### Dores Potenciais do Cliente:
-1. **Integração de Sistemas:** Dificuldades em integrar diferentes sistemas levando a perda de dados e ineficiência.
-2. **Gestão de Dados e Segurança:** Crescente volume de dados exige soluções que assegurem a privacidade das informações.
-3. **Eficiência Operacional e Redução de Custos:** Necessidade de soluções que ajudem a reduzir custos e melhorar a eficiência.
+- **Sistema para Laboratórios**: Automação dos processos laboratoriais, do atendimento inicial até a entrega de resultados online, com soluções para gestão estratégica em tempo real.
 
-## Oportunidade de Prospecção
-### Segmento:
-- Médicos e administradores de clínicas, hospitais e laboratórios que buscam eficiência e inovação tecnológica.
-- Instituições que estão modernizando sua gestão de saúde.
+- **Sistema para Radiologia**: Integração entre RIS e PACS para aumentar a produtividade e melhorar a gestão dos exames de imagem, entrega online de resultados e segurança no processos.
 
-### Copy e Mensagem Sugerida:
-- **Hunter:** "Como pode melhorar a eficiência da gestão da sua clínica/hospital? Na Pixeon, transformamos a saúde com tecnologia, oferecendo um sistema totalmente integrado que não só digitaliza, mas facilita a jornada do paciente."
-- **Dores Abordadas:** "Muitos enfrentam resistência à mudança e dificuldades na integração de novas tecnologias. Nós ajudamos a suavizar essa transição, garantindo harmonia nos sistemas e foco na experiência do paciente."
+## 3. Reconhecimentos e Certificações
+- **Best in KLAS for Latin America (2020, 2021, 2024)**: Pixeon foi premiada como a melhor solução de PACS da América Latina.
+- Registros em conformidade com a ANVISA para seus produtos, garantido seus padrões de segurança.
 
-## Conteúdo Relevante para Marketing
-### Blog e Materiais:
-- Artigos sobre gestão de mudanças, apresentando práticas para a adoção de novas tecnologias na saúde.
-- Estudos de caso mostrando como a Pixeon ajudou instituições a reduzir custos e melhorar a eficácia.
-- Testemunhos de clientes destacando a capacidade de parceria e suporte da Pixeon.
+## 4. Tendências e Inovações
+A Pixeon tem investido em tecnologia de inteligência artificial, com a perspectiva de melhorar ainda mais os processos de diagnóstico e tornar-se um player inovador no setor. A implementação de novas ferramentas para análise de imagens e armazenamento em nuvem são pontos destacados por executivos da empresa.
 
-## Estratégia de Abordagem
-1. **E-mail Personalizado:** Enviar um e-mail dirigido abordando as dores específicas do cliente e apresentando as soluções Pixeon.
-2. **Follow-up:** Realizar follow-ups com conteúdos adicionais que reforcem os benefícios da digitalização e automação na gestão da saúde.
-3. **Webinars Educativos:** Promover webinars sobre transformação digital e eficiência na gestão da saúde, com a participação de especialistas da Pixeon.
+## 5. Dores do Cliente
+As instituições de saúde frequentemente enfrentam desafios como:
+- Dificuldades em integrar diferentes sistemas e processos.
+- Necessidade de melhorar a eficiência e agilidade no atendimento.
+- Gestão complexa de laudos e resultados de exames, que requer um acompanhamento rigoroso.
+- Altos índices de glosas nas cobranças de convênios.
 
-## Conclusão
-Este relatório foi elaborado para apoiar a equipe de conteúdo na criação de uma abordagem personalizada e eficaz para a prospecção da Pixeon no segmento de marketing de influência, com o objetivo de conectar marcas e influenciadores no setor de saúde e tecnologia.
+## 6. Depoimentos de Clientes
+- **Dr. Carlos Augusto Ribeiro**, Centro Médico InCórpore: “A recepção e o faturamento não se comunicavam, gerando problemas de produtividade. A Pixeon ofereceu uma solução eficaz."
+  
+- **José Fernando Denardi**, Assemed: “A parceria com a Pixeon foi fundamental para garantirmos um sistema de laudos confiável, seguro e que atendeu as necessidades da nossa expansão.”
+  
+- **Marcelo Abrahão**, Clínica Fares: “O PEP da Pixeon tem seguido nosso foco no cuidado ao paciente, proporcionando um atendimento mais integral.”
+
+## 7. Contexto e Oportunidades
+Existem várias oportunidades no mercado de saúde, especialmente pela crescente demanda por tecnologias que integrem operações hospitalares, clínicas e laboratoriais. O uso eficiente de dados pode aumentar a produtividade e a segurança do paciente, com a Pixeon sendo uma solução viável para ampliar o acesso a serviços de saúde de qualidade.
+
+## 8. Conclusão
+A Pixeon se destaca no mercado de saúde pela sua experiência, inovação e compromisso com a eficiência. Com um portfólio robusto e várias soluções integradas, a empresa posiciona-se como uma parceira estratégica para instituições de saúde que buscam modernização e melhorias em seus processos. 
+
+**Próximos passos:** 
+Propor uma campanha de marketing de influência focada em instituições de saúde, utilizando depoimentos de clientes e casos de sucesso como provas sociais para atrair novas parcerias e potenciais clientes.
