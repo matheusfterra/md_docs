@@ -1,66 +1,68 @@
 # Relatório de Prospecção - Neogrid
 
-## Informações da Empresa
+## 1. Informações Gerais da Empresa
 
-**Nome da Empresa:** Neogrid  
-**Website:** [neogrid.com](https://neogrid.com)  
-**Setor:** Tecnologia e Inteligência de Dados para Supply Chain Management  
-**Localização:** Brasil (multinacional)  
-**Número de Empregados:** Informações não disponíveis  
-**Foco no Mercado:** Fornecimento de soluções inteligentes para a gestão da cadeia de suprimentos, conectando empresas de diversos setores.
+### Nome da Empresa
+**Neogrid**
 
-## Produtos e Serviços
+### Website
+[www.neogrid.com](https://www.neogrid.com)
 
-### Soluções Oferecidas
-Neogrid apresenta soluções em quatro verticais principais:
+### Descrição
+A Neogrid é uma multinacional reconhecida por suas soluções inteligentes para a gestão da cadeia de suprimentos (Supply Chain Management). Oferece tecnologia e inteligência de dados para empresas que buscam otimizar suas operações logísticas, aumentar a eficiência e, consequentemente, as margens de lucro.
 
-1. **Inteligência Competitiva:**
-   - **NIA:** Inteligência artificial generativa para análise de dados.
-   - **NeoDistribution e NeoRetail:** Visibilidade no ponto de venda e no canal indireto.
-  
-2. **Supply Chain:**
-   - Planejamento de vendas e operações.
-   - Estoque gerenciado pelo fornecedor.
-   - Automatização da troca de documentos logísticos.
+### Sede
+Brasil
 
-3. **Trade & Marketing:**
-   - Execução de trade marketing e retail media.
-   - Gestão de promoções no varejo.
+## 2. Produtos e Serviços Oferecidos
 
-4. **Comercial & Vendas:**
-   - Gestão de verbas e contratos comerciais.
-   - Inteligência em precificação.
+A Neogrid oferece uma gama de soluções estruturadas em quatro verticais principais:
+- **Inteligência Competitiva**: Inclui serviços como NIA, NeoDistribution, NeoRetail e análise de performance.
+- **Supply Chain**: Oferece automação e planejamento de vendas e operações, gerenciamento de estoque, e automação do envio de pedidos.
+- **Trade & Marketing**: A execução perfeita de trade marketing e gestão de promoções no varejo.
+- **Comercial & Vendas**: Gestão de contratos comerciais, inteligência em precificação e gestão de conteúdo para e-commerce.
 
-### Casos de Sucesso
-Neogrid se destaca com vários cases, como:
-- **Danone:** Otimização de processos através de EDI.
-- **Nestlé:** Aumento da taxa de conversão no e-commerce.
-- **Gran Coffee:** Crescimento significativo no sell-out usando soluções Neogrid.
+## 3. Destaques e Diferenciais
+- Possui a maior malha de dados da cadeia de consumo no Brasil, abrangendo mais de 500 mil pontos de venda, 5 mil indústrias, e 3,2 mil varejos online.
+- Oferece insights acionáveis, que auxiliam as empresas a tomar decisões estratégicas com base em dados reais do mercado.
+- Tecnologia de análise de dados robusta, permitindo o monitoramento das tendências de consumo.
 
-## Contexto do Mercado
+## 4. Contexto do Mercado
 
-### Tendências e Desafios no Varejo
-- **Mudanças nos Hábitos de Consumo:** Dados coletados indicam uma tendência em redução do ticket médio e variações no volume de produtos comprados.
-- **Aumento na Exigência do Consumidor:** A pesquisa revela que o consumidor brasileiro busca atendimento de qualidade e experiências personalizadas, sendo exigente nas escolhas de compra.
+### Setor
+A Neogrid atua no segmento de **tecnologia aplicada à cadeia de suprimentos**, um setor em constante evolução que demanda adaptações rápidas às novas práticas de consumo e ao digital.
 
-### Insights dos Estudos
-- **Dados sobre Consumo e Fidelização:** Estudo em parceria com a Opinion Box mostra os fatores que influenciam fidelidade: preço, qualidade e experiência de compra. 77% dos consumidores trocariam de marca por mau atendimento, o que realça a importância do serviço ao cliente.
+### Tendências
+- **Mudança nos Hábitos de Consumo**: As empresas estão se adaptando a um consumidor cada vez mais digital e exigente, que busca experiências de compra personalizadas.
+- **Dados e Inteligência Artificial**: A adoção de soluções baseadas em dados e IA é crescente, com as empresas buscando automação e eficiência.
 
-## Possíveis Dores e Oportunidades
-- **Falta de Visibilidade:** Muitas empresas enfrentam desafios em visualizar a performance do varejo e a motivação do shopper, o que impacta diretamente na estratégia de vendas e na experiência do cliente.
-- **Ruptura de Estoque:** Um problema recorrente que pode levar a perdas significativas nas vendas. A Neogrid usa dados de mais de 20 milhões de SKUs para mitigar essa questão.
+## 5. Dores e Desafios da Indústria
 
-## Estratégia de Abordagem
+As empresas enfrentam as seguintes dores no contexto atual:
+- **Gestão de Estoque**: Problemas de ruptura e excessos que podem afetar a disponibilidade do produto e a satisfação do consumidor.
+- **Precisão de Dados**: Necessidade de dados em tempo real para tomada de decisão estratégica.
+- **Otimização de Custos**: Empresas buscam cada vez mais aumentar margens de lucro enquanto controlam custos operacionais.
 
-### Mensagem para Prospecção
-A ideia é abordar empresas que valorizam a gestão eficiente da cadeia de suprimentos, enfatizando a busca por soluções que proporcionem:
+## 6. Oportunidades e Propostas de Valor
 
-- Melhor entendimento da dinâmica de consumo e das preferências dos clientes.
-- Inteligência de dados que permita reações rápidas e ajustadas às necessidades do mercado.
-- Estratégias para não apenas evitar rupturas de estoque, mas também otimizar operações e maximizar margens.
+A Neogrid oferece propostas que podem ajudar as empresas a:
+- **Reduzir Rupturas de Estoque**: Acompanhamento em tempo real das vendas e estoque, permitindo um planejamento mais assertivo.
+- **Aumentar a Eficiência Operacional**: Com automação de processos analíticos, as empresas podem se concentrar na tomada de decisões estratégicas.
+- **Impulsionar Vendas**: Uso de dados para guiar ações de marketing e trade, aumentando as conversões e maximizando a presença de marca no ponto de venda.
 
-### Exemplo de Mensagem para Email
-"Com a crescente exigência do consumidor brasileiro e a inevitável necessidade de entrega de experiências personalizadas, a Neogrid se posiciona como uma parceira estratégica. Nossas soluções em gestão de cadeia de suprimentos são desenhadas para habilitar empresas a se adaptarem rapidamente às mudanças do mercado e às exigências dos consumidores. Vamos conversar sobre como podemos ajudar sua empresa a se destacar em um mercado cada vez mais competitivo?"
+## 7. Contatos e Chamadas à Ação
 
-## Conclusão
-A Neogrid é uma referência em soluções para a gestão da cadeia de suprimentos, com um portfólio robusto e casos de sucesso comprovados. A prospecção deve focar em empresas que necessitam otimizar suas operações e melhorar sua conexão com os consumidores, aproveitando as informações e insights que Neogrid pode oferecer.
+### Formulários de Contato
+- **Fale com um especialista**: [Agende uma conversa](https://neogrid.com/fale-com-um-especialista)
+- **Demonstração dos Produtos**: [Solicitar Demonstração](https://neogrid.com/en/demo/)
+
+### Datas de Eventos Relevantes
+- **Neogrid Awards 2025**: Premiação que reconhece as melhores práticas do ecossistema Neogrid. Inscrições abertas até junho de 2025.
+
+## 8. Conclusão
+
+A Neogrid se posiciona como uma solução robusta para empresas que buscam otimizar suas operações na cadeia de suprimentos. Com um foco em dados, análise e estratégias de marketing digital, a empresa pode ajudar seus parceiros a superarem os desafios atuais e se adaptarem às mudanças no mercado.
+
+---
+
+Esse relatório oferece uma visão detalhada que pode apoiar o Copywriter da equipe na elaboração de comunicações personalizadas e relevantes para o público-alvo da Neogrid.
