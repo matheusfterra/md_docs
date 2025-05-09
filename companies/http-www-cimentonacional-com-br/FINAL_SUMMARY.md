@@ -1,95 +1,61 @@
-# Relatório de Prospecção da Empresa: Cimento Nacional
+# Relatório de Prospecção - Cimento Nacional
 
-## 1. Informações Gerais
+## Informações Gerais da Empresa
 
-**Nome da Empresa:** Cimento Nacional  
-**Setor:** Indústria de Cimento  
-**Ano de Fundação:** 2011  
-**Localização:** Sete Lagoas, Minas Gerais (Um dos principais centros de operação)  
-**Parceria:** Buzzi SpA, uma multinacional italiana com destaque no setor, fortaleceu a posição da empresa no mercado global e local.
+### Nome da Empresa
+Cimento Nacional
 
-## 2. Visão Geral da Empresa
+### Website
+[www.cimentonacional.com.br](http://www.cimentonacional.com.br)
 
-A Cimento Nacional é a quarta maior empresa de cimento do Brasil, destacando-se por suas operações em cinco fábricas e seis centros de distribuição estrategicamente localizados. A empresa é conhecida não apenas pela qualidade de seus produtos, mas também por seu compromisso com a sustentabilidade, inovação e a construção de confiança junto aos stakeholders.
+### Setor
+Cimento e Construção
 
-### Missão
-A Cimento Nacional busca apoiar o progresso da sociedade por meio da construção de infraestruturas sólidas e confiáveis, proporcionando produtos de cimento de alta qualidade.
+## Descrição da Empresa
+Cimento Nacional é uma empresa brasileira fundada em 2011, que rapidamente se tornou a quarta maior produtora de cimento do Brasil. A empresa se destaca pela sua integração com a Buzzi SpA, uma multinacional italiana, que alavanca inovações e padrões de qualidade. A sede está em Sete Lagoas (MG) e a empresa possui fábricas em várias regiões do Brasil, incluindo uma unidade recente em Pitimbu (PB). Cimento Nacional é reconhecida por seu compromisso com a qualidade, sustentabilidade e desenvolvimento social.
 
-### Visão
-Almejam ser reconhecidos como líderes não apenas pela qualidade de seus produtos, mas também pela responsabilidade socioambiental e desenvolvimento sustentável.
+## Missão, Visão e Valores
+- **Missão**: Fornecer produtos e soluções de cimento de alta qualidade que suportem o desenvolvimento da infraestrutura brasileira, enquanto promovem práticas de negócios responsáveis e sustentáveis.
+- **Visão**: Ser a empresa de cimento mais confiável e reconhecida no Brasil, criando valor para seus colaboradores, clientes e a sociedade.
+- **Valores**: Confiança, eficiência, sustentabilidade e compromisso com a qualidade.
 
-### Valores
-- Inovação
-- Qualidade
-- Sustentabilidade
-- Confiança
+## Estrutura e Operações
+### Infraestrutura
+- **Fábricas**: 5 fábricas e 2 unidades de moagem localizadas em Minas Gerais e Paraíba.
+- **Centros de Distribuição**: 6 centros de distribuição em regiões estratégicas, como Recife (PE), Duque de Caxias (RJ) e Campinas (SP).
+- **Logística**: Operações logísticas eficientes com troca de informações em tempo real, adequadas à demanda do mercado.
 
-## 3. Produtos e Serviços
+### Produtos e Serviços
+1. **Cimento Sacado**
+2. **Cimento Big Bag**
+3. **Cimento a Granel**
+4. **Consultoria Técnica**: Apoio especializado para indústrias e construtoras com uso de tecnologia avançada.
+5. **Treinamentos**: Programas especializados em controle de qualidade de concreto e argamassa.
 
-### 3.1 Produtos
-A Cimento Nacional oferece uma linha diversificada de cimentos:
-- **Cimento em sacos**
-- **Cimento Big Bag**
-- **Cimento a granel**
+### Interação com Clientes
+- Portal para pedidos 24/7.
+- Suporte técnico especializado.
+- Proximidade com os clientes por meio de serviços de logística que priorizam a eficiência e a qualidade.
 
-Todos os produtos são elaborados com tecnologia de ponta, garantindo desempenho e durabilidade.
+## Público-Alvo
+- Construtoras e empreiteiras de pequeno a grande porte.
+- Indústrias que necessitam de cimento para produção de pré-moldados.
+- Empresas envolvidas em projetos de infraestrutura.
 
-### 3.2 Serviços
-A empresa disponibiliza assessoria técnica especializada para indústrias e empresas de construção, visando otimização de processos e redução de custos. Os serviços incluem:
+## Principais Dores e Necessidades
+- **Sustentabilidade**: A crescente expectativa de que as empresas do setor de construção reajam às questões ambientais, adotando práticas mais ecológicas e sustentáveis.
+- **Eficiência Logística**: Necessidade de soluções que garantam a entrega rápida e confiável de produtos.
+- **Qualidade do Produto**: A demanda por cimento que não apenas atenda às especificações, mas que também suporte a durabilidade e resistência em projetos de longo prazo.
 
-- Consultoria técnica de cimento
-- Testes de qualidade e durabilidade
-- Treinamentos técnicos
+## Contexto de Mercado
+- Tendência crescente pelo uso de tecnologia de ponta em processos de construção.
+- Importância do marketing de influência na construção de reputação e confiança com clientes e consumidores finais.
+- Aumento de investimentos em infraestrutura no Brasil, o que potencializa a demanda por produtos cimentícios.
 
-## 4. Logística e Operações
+## Estratégia de Comunicação
+- Enfatizar o compromisso da Cimento Nacional com a sustentabilidade e inovação.
+- Destacar as vantagens competitivas dos produtos oferecidos e a especialização na indústria.
+- Utilizar NPS (Net Promoter Score) para mapear a satisfação dos clientes e obter feedback em tempo real.
 
-### 4.1 Infraestrutura Logística
-
-A empresa possui uma rede eficiente de logística, com centros de distribuição nas principais regiões do Brasil, assegurando acesso rápido aos seus produtos. Os serviços logísticos incluem transporte de cimento a granel e em sacos, com foco em eficiência e segurança.
-
-### 4.2 Localização das Fábricas
-- Pitimbu/PB
-- Cantagalo/RJ
-- Matozinhos/MG
-- Arcos/MG
-- Sete Lagoas/MG  
-
-### 4.3 Política de Tráfego
-A Cimento Nacional cuida da infraestrutura para motoristas independentes, oferecendo comodidades como Wi-Fi gratuito, banheiros e áreas de alimentação.
-
-## 5. Contexto do Mercado
-
-- **Crescimento do Setor de Construção:** O Brasil vive um crescimento no setor de construção civil, o que impulsiona a demanda por produtos de cimento.
-- **Sustentabilidade em Alta:** As empresas estão cada vez mais preocupadas em desenvolver práticas sustentáveis, o que demanda inovação nos processos de produção de cimento.
-- **Concorrência:** O mercado conta com grandes players, e a diferenciação em qualidade e serviços se torna crucial.
-
-## 6. Dores e Desafios
-
-### 6.1 Dores da Empresa
-- **Pressão por Inovação:** Necessidade constante de atualização tecnológica e de processos para se manter competitiva.
-- **Sustentabilidade:** A implementação de práticas sustentáveis pode ser um desafio, tanto pela adaptação interna quanto pela percepção externa.
-
-### 6.2 Potenciais Parcerias de Influência
-- Influenciadores no nicho de construção e reforma que podem destacar a qualidade e a responsabilidade da marca em suas produções, ajudando a aumentar a percepção positiva da Cimento Nacional.
-
-## 7. Oportunidades de Colaboração
-
-### 7.1 Objetivos de Parceria
-- **Aumentar a Visibilidade:** Utilizar estratégias de marketing de influência para aumentar a conscientização sobre produtos e serviços.
-- **Reforçar a Imagem de Sustentabilidade:** Trabalhar com influenciadores que se alinham aos valores sustentáveis da marca.
-
-### 7.2 Sugestões de Ação
-- Criar uma campanha de co-criação de conteúdo com influenciadores da área de construção e sustentabilidade para promover a Cimento Nacional, explorando a narrativa sobre confiança, qualidade e inovação.
-
-## 8. Conclusão
-
-A Cimento Nacional apresenta um grande potencial para uma parceria de marketing de influência, especialmente com foco em sua trajetória de crescimento, compromisso com a sustentabilidade e inovação. A proposta deve destacar como a utilização de influenciadores pode resolver as dores identificadas e alavancar a imagem e a presença da marca no setor.
-
-### Informação de Contato
-- **Telefones para contato:** 
-  - Capitais e Regiões Metropolitanas: 4020-0908
-  - Outras Regiões: 0800 201 0021
-
----
-
-Este relatório foi construído com base nas informações disponíveis no site da Cimento Nacional, visando fornecer uma visão abrangente e detalhada que pode auxiliar na elaboração de uma estratégia de comunicação eficaz e personalizada.
+## Conclusão
+A Cimento Nacional representa uma oportunidade sólida no setor de construção civil, com vasto histórico de crescimento e inovação no mercado. A proposta de uma colaboração com influenciadores pode aumentar a conscientização sobre seus produtos e práticas sustentáveis, além de reforçar a confiança e a capacidade da empresa de atender às demandas de um mercado em evolução.
