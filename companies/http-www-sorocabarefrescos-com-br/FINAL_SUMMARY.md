@@ -1,45 +1,50 @@
 # Relatório de Prospecção - Sorocaba Refrescos
 
 ## Informações Gerais
-- **Nome da Empresa**: Sorocaba Refrescos
-- **Segmento**: Bebidas, incluindo refrigerantes, cervejas, sucos, energéticos e produtos de nutrição.
-- **Região de Atuação**: Sorocaba e regiões adjacentes.
+- **Nome da Empresa:** Sorocaba Refrescos
+- **Website:** [sorocabarefrescos.com.br](https://www.sorocabarefrescos.com.br)
+- **Localização:** Sorocaba, São Paulo, Brasil
+- **Setor:** Bebidas (Refrigerantes, Sucos, Energéticos, Cervejas)
 
-## Área de Atuação
-A Sorocaba Refrescos atua como um engarrafador e distribuidor das marcas Coca-Cola e outros produtos de bebidas. Suas operações abrangem diversas categorias, como:
-
-1. **Refrigerantes**: Produtos refrescantes e gaseificados que compõem diversas ocasiões de consumo.
-2. **Hidratação e Energia**: Energéticos e outras bebidas que oferecem reposição de energia para consumidores em movimentação constante.
-3. **Nutrição**: Sucos e outras bebidas enriquecidas com nutrientes, visando um estilo de vida saudável.
-4. **Cervejas**: Diversas opções de cervejas que são tradicionais no paladar brasileiro.
+## História
+- **Fundação:** 2018
+- **Histórico:** A Sorocaba Refrescos é uma das principais engarrafadoras da Coca-Cola no Brasil, comprometida em oferecer produtos de qualidade e em concordância com os melhores padrões de fabricação. A empresa se destaca também pelo envolvimento com a comunidade local e ações sustentáveis.
 
 ## Missão, Visão e Valores
-- **Missão**: Proporcionar experiências de consumo com produtos de alta qualidade, respeitando o meio ambiente e a sustentabilidade.
-- **Visão**: Ser reconhecida como a melhor empresa de bebidas em sua região, promovendo inovações que atendam às necessidades dos consumidores.
-- **Valores**: Compromisso com a qualidade, inovação constante, respeito ao meio ambiente e responsabilidade social.
+- **Missão:** Proporcionar experiências valiosas ao consumidor através de produtos inovadores e de qualidade.
+- **Visão:** Ser a empresa referência no setor de bebidas, reconhecida pela excelência e compromisso com a satisfação dos consumidores e sustentabilidade.
+- **Valores:** Qualidade, Inovação, Sustentabilidade, Compromisso Social, Responsabilidade.
 
-## Certificações e Prêmios
-Sorocaba Refrescos possui várias certificações que garantem a qualidade de seus produtos e processos, embora detalhes específicos não tenham sido consultados nas fontes. Prêmios reconhecem a excelência e a inovação em suas práticas de negócios.
+## Área de Atuação
+- **Segmento:** Bebidas não alcoólicas e alcoólicas, com foco em produtos da Coca-Cola e outras marcas.
+- **Oferta de Produtos:** Refrigerantes, sucos (incluindo opções 100% naturais e néctares), energéticos, e cervejas.
 
-## Produtos e Inovações
-A empresa apresenta uma variedade de produtos que podem ser explorados em potenciais campanhas de marketing de influência:
+## Produtos
+1. **Refrigerantes:** Variados, focados no consumo cotidiano.
+2. **Sucos:** Alternativas saudáveis, ricos em nutrientes.
+3. **Energéticos:** Produtos que atendem o público jovem e ativo.
+4. **Cervejas:** Diversos rótulos com formulações específicas para o mercado.
 
-- **Linha de Refrigerantes**: Coca-Cola, Fanta, Sprite e outras marcas reconhecidas.
-- **Sucos e Bebidas Naturais**: Del Valle e Ades são opções que atraem um público interessado em saúde.
-- **Energéticos**: Marcas que se conectam com jovens e o público ativo.
-- **Cervejas**: Variedades que atendem tanto ao público em festas quanto em eventos formais.
+## Sustentabilidade
+- **Iniciativas Sustentáveis:** Projeções de projetos voltados à redução de resíduos e uso eficiente da água.
+- **Relatório de Sustentabilidade:** Disponibilização de informações sobre suas práticas sustentáveis e responsabilidade social na [página de sustentabilidade](https://sorocabarefrescos.com.br/sustentabilidade).
 
-### Campanhas Recentes e Inovações
-A Sorocaba Refrescos tem promovido campanhas de marketing sólidas, como a "Caravana de Natal Coca-Cola", que une tradição e inovação, além de parcerias com grandes marcas como OREO. Esse tipo de colaboração pode ser um ponto de partida interessante para ações de influenciadores.
+## Reconhecimento e Certificações
+- **Prêmios:** Reconhecimento por excelência de produtos e práticas operacionais.
+- **Certificações:** Atende aos padrões de qualidade estabelecidos pelo Ministério da Saúde e outros órgãos reguladores.
 
-## Potenciais Dores a Serem Abordadas
-1. **Concorrência Crescente**: Como se diferenciar em um mercado cada vez mais saturado.
-2. **Sustentabilidade**: Cada vez mais consumidores estão preocupados com as práticas ambientais das marcas.
-3. **Identificação com o Público**: Criar campanhas que ressoem de forma autêntica com o público jovem e em busca de um estilo de vida saudável.
-4. **Geração de Engajamento**: Necessidade de estratégias que promovam o engajamento contínuo com a marca.
+## Dores e Desafios
+1. **Diversificação de Produtos:** Necessidade de inovação constante para se diferenciar em um mercado saturado.
+2. **Sustentabilidade:** Desafios em manter práticas sustentáveis enquanto se expande a linha de produtos.
+3. **Relação com Consumidores:** Aumentar a conexão emocional com o público jovem e tendencioso à alimentação saudável.
 
-## Contexto para a Prospecção
-A Sorocaba Refrescos está em um momento de expansão e busca por inovações que conectem seus produtos ao estilo de vida dos consumidores modernos. Como empresa de marketing de influência, podemos ajudar a potenciar essa conexão por meio de ações que envolvam influenciadores relevantes, alinhando suas mensagens ao DNA da marca e às expectativas do público.
+## Contexto de Mercado
+- **Tendências:** Crescente demanda por produtos saudáveis e naturais, competitividade intensa entre marcas de bebidas.
+- **Público Alvo:** Jovens adultos, famílias, e consumidores focados em saúde e bem-estar.
 
-## Conclusão
-A Sorocaba Refrescos apresenta um bom potencial para campanhas de marketing de influência, dada a sua diversidade de produtos e o engajamento com questões de sustentabilidade. Esse relatório fornece ao copywriter as informações necessárias para criar uma comunicação personalizada, focada em como a parceria pode resolver dores específicas e fortalecer a marca diante da concorrência.
+## Notícias Recente
+1. **Caravana de Natal Coca-Cola:** Evento que levará a marca a 21 cidades, conectando tradição e inovação digital (Novembro 2024).
+2. **Lançamento de Produto:** Parceria entre marcas Coca-Cola e OREO, visando novas experiências de consumo (Setembro 2024).
+
+## Considerações Finais
+A Sorocaba Refrescos apresenta uma oportunidade potencial para empresas de marketing de influência atuarem na promoção de seus produtos, especialmente considerando seu foco em inovação, sustentabilidade e o forte apelo emocional nas campanhas de marketing. A abordagem deve comentar sobre a diversidade de produtos, a busca por sustentabilidade e as iniciativas de engajamento com consumidores, mirando especialmente no público jovem e suas preferências.
