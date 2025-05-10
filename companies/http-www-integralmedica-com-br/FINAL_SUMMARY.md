@@ -1,49 +1,56 @@
-# Relatório de Prospecção: Integralmédica
+## Relatório de Prospecção: Integralmedica
 
-## Informações Gerais
-- **Empresa:** Integralmédica
-- **Segmento:** Suplementos alimentares, com foco em proteínas, aminoácidos e hipercalóricos
-- **Website:** [integralmedica.com.br](http://www.integralmedica.com.br)
+### 1. Informações Gerais da Empresa
+- **Nome da empresa:** Integralmedica
+- **Website:** [https://www.integralmedica.com.br](https://www.integralmedica.com.br)
+- **Segmento:** Suplementos nutricionais, focada em produtos como whey protein, aminoácidos, creatina, glutamina e barras de proteína.
+- **Localização:** Embu Guaçu, São Paulo, Brasil.
+- **CNPJ:** 57.235.426/0003-03.
+  
+### 2. Análise do Setor
+O segmento de marketing de influência têm crescer consideravelmente nos últimos anos, especialmente no setor de nutrição e suplementação. Marcas que utilizam influenciadores têm a oportunidade de engajar efetivamente com o público-alvo que busca garantir resultados em sua saúde e performance física. 
 
-### Produtos Principais
-- **Whey Protein** (Concentrado, Isolado e Hidrolisado)
-- **Creatina**
+### 3. Objetivos e Proposta de Valor
+- **Objetivo Geral:** Promover e aumentar as vendas de uma linha completa de suplementos que visam elevar a performance dos usuários.
+- **Proposta de Valor:** Produtos de alta qualidade, formulados por especialistas do setor, que visam atender às necessidades específicas de consumo. A Integralmedica se posiciona como uma marca que traz resultados reais para os que buscam saúde e performance.
+  
+### 4. Produtos e Categorias
+#### Produtos principais:
+- **Whey Protein:** Variantes concentradas, isoladas e prontas para consumo.
+- **Creatina:** Focada no aumento de massa muscular e performance nos treinos.
+- **Glutamina:** Para recuperação e suporte imunológico.
+- **Barras de Proteína:** Disponíveis em diversos sabores, ideais como lanche.
+#### Outros produtos:
+- **Pré-treinos**
 - **Hipercalóricos**
-- **Aminoácidos** (incluindo Glutamina)
-- **Barrinhas de Proteína**
-- **Kits de Suplementação**
+- **Multivitamínicos**
+- **Ômega 3**
 
-### Ofertas e Promoções
-- **Frete Grátis:** Compras acima de R$280
-- **Descontos:** Pagamento via PIX recebe 5% de desconto
-- **Promoções Especiais:** Diversas promoções com brindes e descontos variáveis, como "R$20 Off na Primeira Compra com PIX".
+### 5. Análise de Concorrência
+A integralmedica enfrenta forte concorrência de outras marcas que atuam no mesmo segmento de suplementos. É essencial diferenciar-se através da comunicação efetiva, marketing de influência e abordagens personalizadas.
 
-## Características e Diferenciais da Empresa
-1. **Variedade de Produtos:** Amplia sua gama de produtos para atender diferentes necessidades nutricionais e objetivos de emagrecimento e ganho de massa muscular.
-2. **Inovação em Sabor e Formato:** Oferece produtos com sabores variados e opções práticas, como barras de proteína e kits.
-3. **Foco na Saúde e Performance:** Os produtos são desenvolvidos para atender tanto atletas quanto pessoas em busca de uma alimentação saudável.
-4. **Educação Nutricional:** O site e as redes sociais da empresa trazem informações sobre os benefícios dos suplementos, promovendo um consumo consciente.
+### 6. Dores e Desafios
+- **Aumento da concorrência:** O número crescente de marcas que oferecem suplementos de qualidade.
+- **Manter a identidade da marca:** A necessidade de se diferenciar em um mercado saturado.
+- **Educar o consumidor:** A necessidade de informar os clientes sobre os benefícios de cada produto e a escolha de suplementos adequados.
 
-## Análise do Público-Alvo
-- **Atletas e Praticantes de Atividades Físicas:** Buscam suplementação para melhora de performance, recuperação muscular e ganho de massa.
-- **Pessoas em Dieta:** Podem se beneficiar dos produtos voltados para emagrecimento e manutenção de massa magra.
-- **Jovens Adultos e Adultos (18-45 anos):** Tendem a consumir produtos de fitness e saúde, e que buscam praticidade em suas dietas.
+### 7. Oportunidades
+- **Parcerias com influenciadores:** Colaborações que promovam engajamento e conexão com a audiência da marca.
+- **Marketing personalizado:** A criação de campanhas focadas em nichos específicos, como atletas, fitness e público feminino.
+- **Campanhas de fidelização:** Incentivos para compras recurrentes e programas de pontos.
 
-## Possíveis Dores
-- **Falta de Confiabilidade nos Produtos:** Consumidores podem ter dúvidas sobre a qualidade e eficiência dos suplementos.
-- **Dificuldade em Atender a Um Estilo de Vida Ativo:** Necessidade de soluções práticas para a alimentação diária que complementem o treinamento ou a dieta.
-- **Manter uma Dieta Nutricionalmente Equilibrada:** Dúvidas sobre como integrar suplementos à dieta sem comprometer a saúde.
+### 8. Estratégia de Marketing Atual
+A Integralmedica utiliza suas plataformas e redes sociais para comunicar benefícios e resultados de seus produtos com conteúdo educacional como dicas sobre nutrição, treinos e suplementação. O blog da empresa também complementa a estratégia, abordando temas de interesse do público-alvo.
 
-## Preparação para Contato
-- **Estratégias de Comunicação:**
-  - Ressaltar a qualidade e eficácia dos produtos com estudos e provas sociais.
-  - Comunicar a versatilidade dos produtos, como a facilidade em integrá-los ao dia a dia.
-  - Destacar as vantagens financeiras, como promoções e frete grátis, para incentivar a compra.
+### 9. Proposta de Email Personalizado
+Utilizar uma abordagem que destaca como a plataforma de Marketing de Influência pode ajudar a Integralmedica a se conectar com o público desejado e maximizar suas vendas. O email deve incluir:
+- Conteúdo educacional sobre como o marketing de influência tem gerado resultados em empresas semelhantes.
+- Dados sobre o ROI positivo de campanhas anteriores com influenciadores no segmento.
+- Exemplo de colaborações bem-sucedidas.
 
-## Pontos para o Copywriting
-1. **Atraente e Informativo:** Utilize uma abordagem que destaque benefícios e valor agregado dos produtos.
-2. **Testemunhos e Estudos:** Incluir feedback de atletas e profissionais de saúde para aumentar a credibilidade.
-3. **Chamada para Ação (CTA):** Incentivar visitas ao site, inscrições na newsletter e uso de códigos de desconto.
+### 10. Contato e Acompanhamento
+- **E-mail de contato da Integralmedica:** [Fale Conosco](https://www.integralmedica.com.br/institucional/fale-conosco)
+- **Rede Social para Análise:** Instagram e Facebook para identificar influenciadores atuais e potenciais.
 
-## Conclusão
-A Integralmédica é uma empresa bem posicionada no mercado de suplementos, com um portfólio de produtos que atende uma ampla gama de consumidores. A personalização do contato comercial e as estratégias de comunicação focalizadas em suas dores e necessidades específicas são fundamentais para a prospecção e conversão em vendas.
+### Conclusão
+A Integralmedica é uma empresa com um grande potencial de crescimento através do uso eficaz do marketing de influência. O relatório proporciona conteúdo rico e direcionado, ideal para elaboração de estratégias de email marketing personalizadas, visando uma alta taxa de conversão e novos negócios.
