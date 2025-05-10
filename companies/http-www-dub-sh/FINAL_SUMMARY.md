@@ -1,4 +1,4 @@
-# Relatório de Prospecção - Dub.co
+# Relatório de Prospecção - Dub Technologies, Inc.
 
 ## 1. Informações da Empresa
 - **Nome da Empresa:** Dub Technologies, Inc.
@@ -21,9 +21,9 @@ Dub é uma plataforma moderna de gestão de links, que permite que empresas crie
 - **Análise em Tempo Real:** Dashboards que oferecem insights sobre cliques, leads e vendas.
 - **Integração:** Integrável com ferramentas de marketing e automação.
 - **Gerenciamento para Parceiros:** Sistema de gerenciamento de afiliados e pagamentos.
-  
+
 ### 2.2 Preços e Planos
-Os planos variam de gratuitos a personalizados para empresas. Oferecem recursos incrementais para cada nível, como número de links e cliques rastreados, bem como suporte premium:
+Os planos variam de gratuitos a personalizados para empresas e oferecem recursos incrementais para cada nível:
 - **Gratuito:** 1K cliques/mês
 - **Pro:** $29/mês - 50K cliques/mês
 - **Business:** $99/mês - 250K cliques/mês
@@ -42,9 +42,9 @@ Os planos variam de gratuitos a personalizados para empresas. Oferecem recursos 
 - "A infraestrutura de links da Dub é incrivelmente confiável" - **Jack Sharkey**, CTO da Whop.
 
 ## 4. Dores e Necessidades do Segmento
-- Necessidade de belos e curtos URLs que sejam fáceis de compartilhar, especialmente para criação de links de marketing para suas próprias plataformas.
-- Aumento da conversão e rastreamento de novos leads e vendas via links customizados.
-- Exigença de ferramentas analíticas para medir o desempenho dos links e otimizar campanhas de marketing.
+- Necessidade de belos e curtos URLs que sejam fáceis de compartilhar, especialmente em campanhas de marketing.
+- Aumento da conversão e rastreamento eficaz de novos leads e vendas via links customizados.
+- Demanda por ferramentas analíticas que ajudem a medir o desempenho dos links e otimizar campanhas de marketing.
 - Interesse em integração de ferramentas de marketing para facilitar operações.
 
 ## 5. Oportunidades Para Prospecção
@@ -53,14 +53,14 @@ Os planos variam de gratuitos a personalizados para empresas. Oferecem recursos 
 - O marketing de influência está em ascensão, sendo essencial para marcas que desejam alcançar novos públicos através de influenciadores digitais.
 
 ### 5.2 Proposta de Valor
-Utilizar Dub como uma solução de gestão de links pode ajudar a empresa prospectada não apenas a organizar, mas também a realizar análise precisa sobre suas campanhas de marketing de influência, conectando de maneira eficaz com influenciadores e aumentando o engajamento e a conversão.
+Utilizar Dub como uma solução de gestão de links pode ajudar a empresa prospectada não só a organizar, mas também a realizar análises precisas sobre suas campanhas de marketing de influência, conectando-se de maneira eficaz com influenciadores e aumentando tanto o engajamento quanto a conversão.
 
 ## 6. Estratégia de Abordagem
 - **Personalização:** Entender a situação e os desafios específicos da empresa prospectada para criar uma mensagem personalizada, destacando como Dub pode resolver suas dores.
-- **Exatos Demonstrações:** Oferecer uma visão prática de como outras empresas do mesmo segmento se beneficiaram da plataforma.
-- **Educação Contínua:** Prover conteúdos e casos de sucesso que mostrem tendências em marketing de influência e a importância de mensurar resultados com uma plataforma como Dub.
+- **Demonstrações Concretas:** Oferecer uma visão prática de como outras empresas do mesmo segmento se beneficiaram da plataforma.
+- **Educação Contínua:** Prover conteúdos e casos de sucesso que mostrem tendências em marketing de influência e a importância de mensurar resultados com uma plataforma como a Dub.
 
 ---
 
 ### Conclusão
-Neste relatório, as informações coletadas delineiam como a empresa Dub pode melhorar as estratégias de marketing de influência, utilizando sua infraestrutura de gestão de links. Este conhecimento será crucial para o copywriter elaborar um e-mail direcionado que chame a atenção da empresa prospectada e a convença da importância de adotar soluções abrangentes de atribuição de links.
+Neste relatório, as informações coletadas delineiam como a empresa Dub pode melhorar as estratégias de marketing de influência e o gerenciamento de links. Este conhecimento será crucial para o copywriter elaborar um e-mail direcionado, que chame a atenção da empresa prospectada e convença da importância de adotar soluções abrangentes de atribuição de links.
