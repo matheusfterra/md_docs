@@ -1,11 +1,11 @@
 # Relatório de Prospecção - Beiersdorf
 
 ## 1. Introdução
-A Beiersdorf é uma empresa global renomada no segmento de cuidados com a pele. Com marcas icônicas como NIVEA, Eucerin e La Prairie, a Beiersdorf tem uma forte presença no mercado de cosméticos e dermocosméticos. Este relatório visa mapear as informações e características relevantes da empresa para auxiliar a equipe de copywriting na elaboração de um email de prospecção que aborde os desafios e oportunidades específicos da Beiersdorf no Marketing de Influência.
+A Beiersdorf é uma empresa global renomada no segmento de cuidados com a pele, destacando-se por sua longa trajetória e pela qualidade dos produtos que oferece. Algumas de suas marcas mais icônicas incluem NIVEA, Eucerin e La Prairie. Este relatório tem como objetivo mapear informações e características relevantes da Beiersdorf para auxiliar a equipe de copywriting na elaboração de um email de prospecção que aborde de forma eficaz os desafios e oportunidades da empresa no Marketing de Influência.
 
 ## 2. Informações Gerais
 - **Nome da Empresa**: Beiersdorf S.A.
-- **Website**: [www.beiersdorf.com.br](http://www.beiersdorf.com.br/)
+- **Website**: [www.beiersdorf.com.br](http://www.beiersdorf.com.br)
 - **Segmento**: Cuidados com a pele e cosméticos
 - **Localização**: Brasil (subsidiária da Beiersdorf AG, Alemanha)
 - **Presença Global**: Operações em mais de 90 países
@@ -17,7 +17,7 @@ A Beiersdorf é uma empresa global renomada no segmento de cuidados com a pele. 
   - Produtos inovadores para toda a família.
   - Primeira a introduzir Q10 em cosméticos antienvelhecimento.
   - Cerca de 30% das mulheres globalmente usam produtos NIVEA.
-  
+
 ### 3.2. Eucerin
 - **História**: Com mais de 111 anos de pesquisa focada em cuidados dermatológicos.
 - **Destaques**:
@@ -35,6 +35,8 @@ A Beiersdorf é uma empresa global renomada no segmento de cuidados com a pele. 
 
 ### 3.5. NIVEA Men
 - **História**: Linha específica para cuidados masculinos com a mesma tradição e confiança da marca NIVEA.
+- **Destaques**:
+  - Considerada uma das marcas líderes no mercado de cuidado com a pele masculina.
 
 ## 4. Visão Geral da Estratégia
 - **Foco no consumidor**: A Beiersdorf concentra esforços nas necessidades individuais de seus consumidores, estabelecendo marcas de confiança.
@@ -52,7 +54,7 @@ A Beiersdorf é uma empresa global renomada no segmento de cuidados com a pele. 
 - **Conteúdo personalizado**: O uso de influenciadores que compartilham experiências autênticas com os produtos pode ajudar a construir confiança e credibilidade.
 
 ## 6. Resumo
-A Beiersdorf é uma marca consolidada no cuidado da pele, com uma história rica e uma gama diversificada de produtos. Existem desafios significativos devido à concorrência e às mudanças nas expectativas dos consumidores. No entanto, o Marketing de Influência apresenta uma oportunidade valiosa para a Beiersdorf, permitindo que a empresa se conecte de forma mais autêntica e direta com seus consumidores.
+A Beiersdorf é uma marca consolidada no cuidado da pele com uma história rica e uma gama diversificada de produtos. Existe uma variedade de desafios significativos devido à concorrência intensa e às mudanças nas expectativas dos consumidores. No entanto, o Marketing de Influência representa uma oportunidade valiosa, permitindo que a Beiersdorf se conecte de forma mais autêntica e direta com seus consumidores.
 
 ## 7. Recomendações para Copywriting
 - **Personalização**: Mencionar a relevância das marcas Beiersdorf em relação ao cuidado com a pele, utilizando dados sobre o impacto de influenciadores no segmento.
@@ -61,4 +63,4 @@ A Beiersdorf é uma marca consolidada no cuidado da pele, com uma história rica
 
 ---
 
-Este relatório deve servir como um guia completo para a equipe de copywriting ao elaborar comunicações com a Beiersdorf, assegurando que elas sejam alinhadas com as necessidades e os interesses da empresa.
+Este relatório deverá servir como um guia abrangente para a equipe de copywriting ao elaborar comunicações com a Beiersdorf, garantindo que sejam alinhadas com suas necessidades e interesses.
