@@ -1,60 +1,71 @@
 # Relatório de Prospecção: Forno de Minas
 
 ## Informações Gerais da Empresa
-**Nome:** Forno de Minas  
-**Website:** [fornodeminas.com.br](http://www.fornodeminas.com.br)  
-**Sede:** Contagem, Minas Gerais, Brasil  
-**Ano de fundação:** 1990  
-**Fundadores:** Sra. Maria Dalva Couto Mendonça e seus filhos Helder e Hélida  
-**Segmento:** Alimentício (especialidade em produtos congelados, como pães de queijo, folhados, quiches e massas)  
-**Modelo de Negócio:** Varejo e Food Service
+- **Nome:** Forno de Minas  
+- **Website:** [fornodeminas.com.br](http://www.fornodeminas.com.br)  
+- **Sede:** Contagem, Minas Gerais, Brasil  
+- **Ano de fundação:** 1990  
+- **Fundadores:** Sra. Maria Dalva Couto Mendonça e seus filhos Helder e Hélida  
+- **Segmento:** Alimentício (especialidade em produtos congelados, como pães de queijo, folhados, quiches e massas)  
+- **Modelo de Negócio:** Varejo e Food Service
 
 ## História e Contexto
-A Forno de Minas tem uma rica história que se inicia em Belo Horizonte em 1990, quando Sra. Maria Dalva começou a produção de pães de queijo com receitas caseiras. Desde então, a empresa atravessou várias transições, incluindo a venda para uma multinacional americana e o retorno à família fundadora. Esse retorno trouxe a possibilidade de restaurar práticas de produção que priorizam a qualidade e o sabor autêntico dos produtos. 
+A Forno de Minas tem uma história que remonta a 1990, quando a Sra. Maria Dalva iniciou a produção artesanal de pães de queijo em Belo Horizonte. A empresa passou por diversas fases, incluindo uma breve venda para uma multinacional e seu eventual retorno à família Mendonça, permitindo que as práticas tradicionais e de qualidade fossem restauradas. Este legado fortalece sua imagem como sinônimo de sabor e autenticidade.
 
 ## Portfólio de Produtos
-A Forno de Minas oferece um vasto portfólio, incluindo:
-- **Pão de Queijo**: Clássico, Coquetel, Receita da Dona Dalva, Pré-Assado para Air Fryer.
-- **Folhados**: Empadas e tortinhas.
-- **Massas**: Oferece quiches e massas recheadas congeladas.
-- **Produtos de Batata**: Variedades de batatas em porções.
-- **Waffles**: Em diferentes formatos e preparos.
+A Forno de Minas possui um portfólio variado, incluindo:
+- **Pão de Queijo:** Várias opções, incluindo Clássico, Coquetel, Receita da Dona Dalva e Pré-Assado para Air Fryer.
+- **Folhados:** Empadas, tortinhas e quiches.
+- **Massas:** Massas recheadas congeladas.
+- **Produtos de Batata:** Variedades de batatas em porções.
+- **Waffles:** Oferece produtos em diferentes formatos e preparações.
 
 ## Público-Alvo
-1. **Consumidores finais**: Famílias que buscam conveniência e produtos de qualidade.
-2. **Food Service**: Restaurantes, lanchonetes, cantinas, escolas e hotéis que desejam oferecer alimentos práticos e saborosos.
-3. **Comerciantes**: Revendedores que buscam produtos congelados de alta qualidade.
+1. **Consumidores finais:** Famílias que valorizam produtos práticos e de qualidade.
+2. **Food Service:** Restaurantes, lanchonetes, cantinas, escolas e hotéis.
+3. **Comerciantes:** Varejistas e revendedores de produtos congelados de alta qualidade.
 
 ## Presença Digital e Marketing
-- **Redes sociais**: A empresa possui uma presença ativa em plataformas como Instagram e Facebook.
-- **Certificações**: A Forno de Minas possui certificações internacionais, como a do FDA dos EUA e do Ministério da Agricultura do Brasil, atestando a qualidade e segurança de seus produtos.
+- **Redes sociais:** Presença ativa em Instagram e Facebook, indicando uma estratégia focada em engajamento.
+- **Certificações:** A Forno de Minas possui certificações do FDA e do Ministério da Agricultura, que atestam a segurança e qualidade de seus produtos.
+- **Iniciativas Sociais:** Participação em programas como Mesa Brasil, contribuindo para causas sociais.
 
 ## Dores e Oportunidades
-1. **Dificuldade em se destacar no mercado**: O segmento de alimentos congelados é altamente competitivo.
-2. **Mudança de comportamento do consumidor**: A pandemia modificou as preferências de consumo, levando a uma demanda crescente por produtos práticos e de qualidade que unem tradição e inovação.
-3. **Responsabilidade social e ambiental**: A Forno de Minas se destaca por práticas sustentáveis, o que pode ser um diferencial muito relevante na comunicação com o público.
+1. **Dificuldade em se destacar:** Necessidade de diferenciar-se em um mercado saturado de alimentos congelados.
+2. **Mudança no comportamento do consumidor:** Pandemia alterou preferências de consumo, aumentando a demanda por conveniência e sabor.
+3. **Responsabilidade social e ambiental:** O foco em práticas sustentáveis dá à Forno de Minas um diferencial que pode ser explorado nas campanhas de marketing.
 
 ## Análise SWOT
-- **Forças**:
-  - Qualidade de produtos (receitas caseiras).
-  - Marcação forte e reconhecida com um legado cultural.
-  - Certificações e práticas sustentáveis.
-
-- **Fraquezas**:
-  - Dependência do mercado alimentício brasileiro, que pode ser volátil.
+- **Forças:**
+  - Alta qualidade do produto.
+  - Marca bem reconhecida e respeitada no Brasil.
+  - Certificações e compromisso com práticas sustentáveis.
   
-- **Oportunidades**:
-  - Expansão para mercados internacionais, como EUA, Canadá e Portugal já presentes.
-  - Ampliação da linha de produtos veganos e saudáveis em resposta à demanda dos consumidores.
+- **Fraquezas:**
+  - Maior dependência do mercado interno.
+  - Vulnerabilidade a flutuações econômicas.
 
-- **Ameaças**:
-  - Concorrência intensa no setor de alimentos congelados.
-  - Mudanças nas regulamentações alimentares e de segurança.
+- **Oportunidades:**
+  - Expansão internacional, já com presença nos EUA, Canadá e Portugal.
+  - Desenvolvimento de linhas de produtos veganos e saudáveis.
+
+- **Ameaças:**
+  - Concorrência crescente no segmento.
+  - Mudanças nas legislações que podem afetar a produção.
 
 ## Sugestões para Campanha de Influência
-- **Influenciadores Culinários**: Trabalhar com chefs e influenciadores que podem mostrar a versatilidade dos produtos em diferentes receitas e situações.
-- **Campanhas de Responsabilidade Social**: Colaborar com influenciadores engajados em causas sociais para reforçar a imagem da marca como uma empresa consciente.
-- **Conteúdo Gerado por Usuários (UGC)**: Fomentar a interação dos consumidores, incentivando-os a compartilhar suas receitas e experiências com os produtos.
+- **Influenciadores Culinários:** Colaboração com chefs e influenciadores que podem usar os produtos em receitas interessantes e práticas.
+- **Campanhas de Responsabilidade Social:** Parcerias com influenciadores focados em sustentabilidade e causas sociais para reforçar o valor da marca.
+- **Conteúdo Gerado por Usuários (UGC):** Incentivar consumidores a compartilhar suas experiências e receitas utilizando os produtos.
 
 ## Conclusão
-A Forno de Minas possui um legado forte, produtos de qualidade e uma narrativa rica que pode ser explorada em campanhas de marketing de influência. A personalização das comunicações com base em fatores como sustentabilidade e tradição familiar, aliada a uma abordagem moderna de marketing digital, pode fortalecer ainda mais sua presença no mercado e capturar a atenção de novos consumidores.
+A Forno de Minas tem um rico legado, um portfólio de produtos qualidade e um forte compromisso com a sustentabilidade. A personalização das comunicações em suas campanhas pode captar a atenção de novos consumidores, abordando aspectos como a tradição familiar e a responsabilidade ambiental, alinhando-se com as expectativas contemporâneas do mercado.
+
+---
+
+**Assinatura**  
+[Seu Nome]  
+SDR Especialista em Prospecção Outbound  
+[Nome da sua Empresa]  
+[Seu contato]  
+[Seu e-mail]
