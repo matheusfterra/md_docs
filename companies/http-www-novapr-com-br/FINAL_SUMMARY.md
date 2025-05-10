@@ -9,43 +9,45 @@
 - **Segmento de Atuação:** Comunicação Multiplataforma. Foco em Marketing de Influência e conectividade entre marcas e influenciadores.
 
 ## Sobre a Nova PR
-A Nova PR é uma agência de comunicação que se destaca por trabalhar de forma adaptativa às realidades específicas de cada cliente. Fundada por Cláudia Vassallo e Tiago Lethbridge, a agência é composta por uma equipe multidisciplinar de profissionais experientes em diversas áreas. A empresa se propõe a potencializar a comunicação de seus clientes, utilizando uma abordagem estratégica e moderna.
+A Nova PR é uma agência de comunicação destacada por sua abordagem adaptativa e personalizada, projetando estratégias que se alinham com as realidades específicas de cada cliente. Fundada por Cláudia Vassallo e Tiago Lethbridge, a equipe é composta por profissionais experientes em diversas áreas, permitindo uma comunicação efetiva e inovadora.
 
 ### Produtos/Serviços Oferecidos
-- **Assessoria de Imprensa e Relação com a Mídia:** Proporciona visibilidade e relevância para o negócio na mídia.
-- **Produção de Conteúdo para Mídias Sociais:** Criação de conteúdo para engajamento em plataformas como Facebook, Instagram e LinkedIn.
-- **Ações de Divulgação com Influenciadores:** Parcerias com influenciadores para aumentar o alcance e engajamento de campanhas.
-- **Elaboração e Execução de Planos de Comunicação:** Desenvolvimento de estratégias de comunicação para instituições e produtos.
-- **Gestão de Crises e Posicionamento de CEO:** Aconselhamento em momentos de crise e fortalecimento da imagem do CEO como porta-voz de marca.
-- **Comunicação Financeira:** Comunicações especializadas para investidores e o mercado de capitais.
+- **Assessoria de Imprensa e Relação com a Mídia:** Visibilidade e relevância na mídia através de estratégias de comunicação.
+- **Produção de Conteúdo para Mídias Sociais:** Desenvolvimento de conteúdo que engaja e cria conexão com o público em plataformas digitais.
+- **Ações de Divulgação com Influenciadores:** Parcerias estratégicas para potencializar o alcance e o engajamento de campanhas publicitárias.
+- **Elaboração e Execução de Planos de Comunicação:** Criação e implementação de planos de comunicação institucional e de produtos.
+- **Gestão de Crises e Posicionamento de CEO:** Aconselhamento em momentos de crise e estratégias para fortalecer a imagem do CEO.
+- **Comunicação Financeira:** Focado em comunicações específicas para investidores e o mercado de capitais.
 
 ## Equipe de Especialistas
-- **Cláudia Vassallo:** Sócia-Fundadora, ex-diretora da Exame, com diversas premiações em sua carreira.
-- **Tiago Lethbridge:** Sócio-Fundador, ex-repórter da Exame com formação em jornalismo.
-- **Marília Paiotti:** Diretora de Atendimento, experiência em comunicação para bancos e investimentos.
-- **Bruno Galo:** Diretor de Atendimento, experiência em comunicação corporativa e editorial.
-- **Livia Hormigo:** Diretora de Atendimento, 14 anos de experiência em comunicação corporativa.
-- **Paula Pereira:** Diretora de Atendimento, especializada em finanças e mercado de capitais.
-- **Patricia Hargreaves:** Diretora de Conteúdo, experiência em mídias digitais e conteúdo editorial.
-- **Lucimara Nunes:** Diretora de Atendimento, focada em comunicação corporativa, com ênfase em grandes corporações.
+- **Cláudia Vassallo:** Sócia-Fundadora com extensa carreira na comunicação.
+- **Tiago Lethbridge:** Sócio-Fundador, jornalista experiente e premiado.
+- **Marília Paiotti:** Diretora de Atendimento com experiência em comunicação corporativa.
+- **Bruno Galo:** Diretor de Atendimento com foco em grandes corporações.
+- **Livia Hormigo:** Diretora de Atendimento com expertise em comunicação corporativa.
+- **Paula Pereira:** Experiência em comunicação no mercado financeiro.
+- **Patricia Hargreaves:** Diretora de Conteúdo com sólida bagagem em conteúdo digital.
+- **Lucimara Nunes:** Focada em comunicação para grandes corporações.
 
 ## Análise do Mercado
-- **Tendências:** O setor de Marketing de Influência é crescente, com uma demanda constante por estratégias que conectam marcas a audiências relevantes através de influenciadores.
-- **Desafios:** Muitas empresas enfrentam dificuldades em selecionar influenciadores que realmente impactem seu público-alvo, além de manter a credibilidade e reputação em tempos de crise.
-- **Oportunidades:** Com a crescente digitalização, as marcas buscam cada vez mais integrar comunicações digitais efetivas, que vão além da publicidade tradicional, favorecendo relacionamentos autênticos.
+- **Tendências:** O Marketing de Influência continua a crescer, com marcas buscando parcerias autênticas para se conectarem com suas audiências.
+- **Desafios:** Encontrar influenciadores adequados que se alinhem à imagem da marca e mantêm a credibilidade junto ao público.
+- **Oportunidades:** Integrar estratégias digitais que oferecem maior autenticidade e impactam o comportamento do consumidor.
 
 ## Dores e Necessidades Potenciais da Nova PR
-1. **Aumento da Concorrência:** O setor de comunicação está saturado, o que exige inovação constante e destaque em serviços.
-2. **Relacionamento e Fidelização de Clientes:** Necessidade de desenvolver e manter laços fortes com clientes a fim de garantir contratos de longo prazo.
-3. **Gerenciamento de Crises:** Como a mídia e a opinião pública podem mudar rapidamente, a Nova PR pode estar em constante estado de alerta para gerenciar crises em tempo real.
+1. **Aumento da Concorrência:** A necessidade de diferenciação em um setor saturado.
+2. **Relacionamento e Fidelização de Clientes:** A importância de manter laços duradouros com os clientes.
+3. **Gerenciamento de Crises:** A constante atenção necessária para lidar com crises de comunicação.
 
 ## Contexto para a Proposta
-A crescente necessidade de comunicações personalizadas e de alto impacto em um mundo digital rapidamente mutável torna a Nova PR um candidato ideal para serviços de Marketing de Influência. A empresa já possui estrutura e expertise para proporcionar resultados significativos aos seus clientes através de estratégias que envolvem influenciadores.
+As demandas por comunicações mais personalizadas e significativas em um ambiente digital complexo tornam a Nova PR uma candidata ideal para serviços de Marketing de Influência. A firma possui a estrutura e know-how para alavancar resultados significativos através de influenciadores.
 
 ## Conclusão
-Este relatório fornece uma visão detalhada da Nova PR e suas operações, o que permitirá ao copywriter criar comunicações direcionadas e personalizadas para fomentar o interesse e abrir um canal de diálogo com a equipe da agência, apresentando soluções que ajudem a Nova PR a superar seus desafios e potencializar suas estratégias de Marketing de Influência. 
+Este relatório oferece uma visão abrangente sobre a Nova PR e suas operações, permitindo que o copywriter desenvolva comunicações personalizadas e relevantes que incentivem o interesse e abram portas para diálogo.
 
 ### Próximos Passos
-1. **Criação de Email Personalizado:** Utilize as informações deste relatório para elaborar um email que conecte diretamente as necessidades da Nova PR às soluções que sua empresa oferece.
-2. **Estabelecer Contato:** Programar um follow-up para discutir potenciais sinergias e como colaborar.
-3. **Identificar Influenciadores:** Sugestões para influenciadores que possam se alinhar com a marca e escopo de trabalho da Nova PR.
+1. **Criação de Email Personalizado:** Utilize informações para desenvolver um email que conecte as necessidades da Nova PR às soluções oferecidas.
+2. **Estabelecer Contato:** Programar um follow-up para explorar sinergias e oportunidades de colaboração.
+3. **Identificar Influenciadores:** Propor influenciadores que possam se alinhar com o escopo e os objetivos de marketing da Nova PR. 
+
+Este relatório facilita a compreensão do potencial da Nova PR no cenário de Marketing de Influência e contribui para a formulação de estratégias que favorecem não só a empresa em si, mas também suas parcerias com marcas e influenciadores.
