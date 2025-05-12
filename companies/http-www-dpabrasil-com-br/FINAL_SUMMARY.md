@@ -1,82 +1,92 @@
-# Relatório de Prospecção para [Nome da Empresa]
+# Relatório de Prospecção para Marketing de Influência
 
-## Informações Gerais
+## Dados da Empresa Prospectada
 
-- **Nome da Empresa**: [Nome da Empresa]
-- **Website**: [URL do Site]
-- **Endereço**: [Endereço Completo]
-- **Contato Principal**: [Nome do Contato]
-- **Cargo do Contato**: [Cargo do Contato]
-- **Telefone**: [Telefone]
-- **Email**: [Email]
+- **Nome da Empresa:** [Nome da Empresa]
+- **Website:** [URL do website]
+- **Localização:** [Cidade/Estado/Pais]
+- **Setor/Indústria:** [Setor específico]
+- **Tamanho da Empresa:** [Pequena/Média/Grande, número de funcionários]
+- **Faturamento Anual:** [Se disponível]
 
-## Segmento de Atuação
+## Contatos Principais
 
-- **Setor**: [Ex: Varejo, Tecnologia, Moda, Beleza, etc.]
-- **Descrição da Atividade**: [Breve descrição do que a empresa faz, produtos ou serviços oferecidos.]
+1. **Nome do Decisor:** [Nome]
+   - **Cargo:** [Cargo]
+   - **Email:** [Email]
+   - **Telefone:** [Telefone]
+   - **Perfil LinkedIn:** [Link]
 
-## Perfil da Marca
+2. **Nome de Outros Contatos:** 
+   - **Cargo:** [Cargo]
+   - **Email:** [Email]
+   - **Telefone:** [Telefone]
+   - **Perfil LinkedIn:** [Link]
 
-- **Missão**: [Declaração de missão da empresa]
-- **Visão**: [Declaração de visão]
-- **Público-Alvo**: [Descrição do perfil do cliente ideal, faixa etária, interesses, comportamento, etc.]
+## Análise do Segmento
+
+- **Descrição do Negócio:** 
+   - Breve resumo sobre o que a empresa faz, sua missão, visão e valores.
   
-## Presença Digital
+- **Marketplace:** 
+   - Quem são os principais concorrentes? [Lista com nomes e links]
+   - Quais as principais tendências em sua indústria?
 
-- **Redes Sociais**:
+- **Público-Alvo:** 
+   - Quais são os principais segmentos de clientes que a empresa atende? 
+
+## Dores e Desafios
+
+- **Dores Identificadas:**
+  - [Desafio 1]: [Descrição detalhada]
+  - [Desafio 2]: [Descrição detalhada]
+  - [Desafio 3]: [Descrição detalhada]
+  
+- **Potenciais Oportunidades:** 
+   - Como o marketing de influência pode mitigar essas dores? 
+   - Exemplos de mercado que mostram a eficácia do marketing de influência em empresas semelhantes.
+
+## Presença Digital da Empresa
+
+- **Website:** [Análise da navegação e conteúdo]
+- **Redes Sociais:**
   - Facebook: [Link]
   - Instagram: [Link]
   - Twitter: [Link]
   - LinkedIn: [Link]
-  - TikTok: [Link]
   
-- **Plataformas de Marketing**: [Descrição de outras plataformas onde a empresa esteja ativa, como blogs, newsletters, etc.]
+- **Atividade em Redes Sociais:**
+  - Frequência de postagens
+  - Nível de engajamento com o público
+  - Respostas a comentários e interações com seguidores
 
-## Análise de Concorrência
+- **Uso de Influenciadores:**
+  - A empresa já utiliza influenciadores em suas campanhas? Se sim, quais foram os resultados?
+  - Quais influenciadores são mais associados à marca?
 
-- **Principais Concorrentes**:
-  - [Concorrente 1]: [Breve descrição]
-  - [Concorrente 2]: [Breve descrição]
-  - [Concorrente 3]: [Breve descrição]
+## Propostas de Valor
 
-- **Diferenciais Competitivos da Empresa**: [O que a empresa faz de diferente frente aos concorrentes?]
+- **Como Podemos Ajudar:** 
+   - Sugestão de campanhas de influência que poderiam ser implementadas.
+   - Exemplos de sucesso de campanhas semelhantes; estatísticas e estudos de caso.
 
-## Oportunidades e Desafios
+- **Valor do Marketing de Influência:** 
+   - Dados sobre aumento de conversões e engajamento através de influenciadores.
+   - Evidências de como o marketing de influência pode aumentar a brand awareness.
 
-### Possíveis Dores
-- [Descreva as principais dificuldades enfrentadas pela empresa, como desafios em marketing digital, engajamento nas redes sociais, dificuldade em se conectar com o público, etc.]
-  
-### Oportunidades de Marketing de Influência  
-- [Identifique oportunidades específicas onde o marketing de influência pode fazer a diferença, como aumentar a visibilidade da marca, construir credibilidade, alcançar novos públicos, etc.]
+## Mensagens Chave para o Copywriter
 
-## Análise de Produtos e Serviços
+- **Ponto Principal:** [Mensagem central que deve ser abordada, focando nas dores e oportunidades]
+- **Personalização:** [Elementos que podem ser usados para personalizar a comunicação]
+- **Call to Action:** [Sugestão de ação que deseja que o prospect tome após a leitura do email]
 
-- **Produtos/Serviços Oferecidos**: [Liste e descreva os principais produtos ou serviços que a empresa oferece, com detalhes sobre cada um e como eles se posicionam no mercado.]
-  
-- **Feedback de Clientes**: [Resuma os feedbacks dos clientes, identificando pontos positivos e negativos que podem ser abordados no contato.]
+## Conclusão
 
-## Contexto de Mercado
+- **Próximos Passos:** 
+   - Agendar uma primeira reunião ou chamada
+   - Envio de case studies ou materiais informativos
 
-- **Tendências do Setor**: [Descreva as tendências atuais relacionadas ao setor da empresa e como o marketing de influência pode se integrar a essas tendências.]
-  
-- **Mudanças Recentes**: [Identifique qualquer mudança significativa no mercado que possa impactar a empresa, como novas regulamentações, mudanças nas preferências dos consumidores, etc.]
+- **Notas Adicionais:** 
+   - Qualquer informação extra que pode ser relevante para a construção do relacionamento. 
 
-## Estratégia de Prospecção
-
-- **Mensagem Principal a ser Comunicada**: [Defina a mensagem central que gostaria de transmitir na abordagem de prospecção, focando nas soluções oferecidas pela empresa e como podem aliviar as dores identificadas.]
-
-- **Call to Action (CTA)**: [Sugira um CTA claro e específico, como um convite para uma reunião, uma demonstração ou um webinar.]
-
-## Considerações Finais
-
-- [Notas adicionais, insights ou observações sobre a empresa que possam ser úteis para fundamentar o e-mail de prospecção.]
-
----
-
-## Resumo
-
-Este relatório fornece uma visão abrangente e detalhada sobre [Nome da Empresa], abordando aspirações, desafios e o ambiente de mercado. As informações aqui contidas servirão como um guia para a criação de uma comunicação personalizada e eficaz, aumentando as chances de um engajamento positivo.
-
----
-
-*Esse relatório deve ser constantemente atualizado de acordo com novas informações coletadas durante a prospecção e interações com a empresa-alvo.*
+Esse relatório deve servir como um guia completo para o copywriter desenvolver uma mensagem altamente personalizada e estratégica que ressoe com as necessidades e dores da empresa prospectada.
