@@ -1,10 +1,10 @@
-# Relatório de Prospecção para empresa do segmento de Marketing de Influência
+# Relatório de Prospecção para a empresa OmniChat
 
 ## Dados da Empresa
 - **Nome da Empresa:** OmniChat
 - **Localização:** Rua João Gualberto, 1881, Juvevê, Curitiba, PR, CEP 80.030-001
-- **Website:** [omni.chat](https://omni.chat)
-  
+- **Website:** [https://omni.chat](https://omni.chat)
+
 ## Descrição do Negócio
 A OmniChat é uma plataforma de chat-commerce que conecta marcas e consumidores por meio de canais de mensagens instantâneas, como WhatsApp, Instagram e outros. A empresa oferece automação de atendimento, criação de chatbots, e ferramentas de marketing para otimizar a experiência de compra e vendas. O foco é na utilização de Inteligência Artificial para proporcionar um atendimento humanizado e eficiente, transformando conversas em vendas.
 
@@ -14,7 +14,7 @@ A OmniChat é uma plataforma de chat-commerce que conecta marcas e consumidores 
    - Atendimento 24/7.
    - Bots específicos para campanhas.
    - Integração com ferramentas CRM.
-   
+
 2. **Campanhas de Marketing:**
    - Capacidades para realizar disparos em massa.
    - Segmentação de público e personalização de mensagens.
@@ -37,7 +37,7 @@ A OmniChat é uma plataforma de chat-commerce que conecta marcas e consumidores 
 - **Decathlon**
 - **Natura**
 - **Saraiva**
-  
+
 ### Casos de Sucesso
 1. **L’Oréal**: Aumento de 10% nas conversões por meio de campanhas no WhatsApp.
 2. **Decathlon**: 12% de vendas influenciadas pelo WhatsApp e 54% de taxas de abertura em campanhas enviadas.
@@ -49,23 +49,18 @@ A OmniChat é uma plataforma de chat-commerce que conecta marcas e consumidores 
 
 ## Oportunidades
 1. **Ampliação do uso de influenciadores** para promover campanhas de marketing através de chats, facilitando a criação de um vínculo com o cliente.
-2. **Ofertas personalizadas e interativas** podem alavancar a experiência do usuário, diretamente por WhatsApp.
+2. **Ofertas personalizadas e interativas** podem alavancar a experiência do usuário diretamente por WhatsApp.
 3. **Capacitações e treinamentos** sobre o uso efetivo da plataforma para equipes de vendas e marketing.
 
 ## Mensagem Personalizada para Prospecção
 "Olá [Nome do Contato],
-
 Sabemos que as conversas com seus clientes são essenciais para aumentar suas vendas, especialmente em um mundo digital onde a competição é acirrada. Na OmniChat, transformamos interações em vendas por meio de uma plataforma que integra as melhores práticas de marketing e atendimento via chat.
-
 Com um ROI comprovado **de até 100x** em campanhas pelo WhatsApp, nossa solução pode ajudar sua empresa a não apenas recuperar carrinhos abandonados, mas também a converter conversas em oportunidades de vendas reais.  
-
 Estamos prontos para compartilhar nossa experiência em conectar marcas de sucesso a influenciadores que trazem resultados. Que tal conversarmos sobre como podemos potencializar suas estratégias com o marketing de influência? 
-
 Aguardo seu retorno.
-
 Atenciosamente,  
 [Seu Nome]"
 
 ---
 
-Este relatório deve fornecer informações relevantes para criação de uma abordagem direcionada ao cliente, destacando as oportunidades e desafios que podem ser abordados com as soluções oferecidas pela OmniChat.
+Este relatório deve fornecer informações relevantes para a criação de uma abordagem direcionada ao cliente, destacando as oportunidades e desafios que podem ser abordados com as soluções oferecidas pela OmniChat.
