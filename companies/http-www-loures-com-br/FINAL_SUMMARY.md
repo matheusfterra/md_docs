@@ -1,51 +1,55 @@
-# Relatório de Prospecção - Loures
+# Relatório de Prospecção para a Loures
 
-## Informações Gerais da Empresa
-
+## 1. Informações Gerais da Empresa
 - **Nome da Empresa:** Loures
-- **Website:** [loures.com.br](http://www.loures.com.br)
-- **Setor:** Comunicação e Marketing
-- **Ano de Fundação:** 2015
-- **Sede:** Av. Pres. Juscelino Kubitschek, 1.400 - 5º andar, Itaim Bibi, São Paulo - SP
-- **Contato:** contato@loures.com.br
+- **Website:** [www.loures.com.br](http://www.loures.com.br)
+- **Fundação:** 2015
+- **Localização:** Av. Pres. Juscelino Kubitschek, 1.400, 5º andar, Itaim Bibi, São Paulo - SP
+- **Segmento:** Consultoria de Comunicação
+- **Grupo:** FSB Holding
+
+## 2. Identidade e Proposta de Valor
+- **Missão:** Transformar o setor de comunicação por meio da criatividade, pensamento integrado e foco em resultados.
+- **Visão:** Promover uma comunicação que realmente mova o ponteiro estratégico de seus clientes.
+- **Valores:**
+  - Inquietude
+  - Criatividade
+  - Conectividade
+  - Provocação
+  - Foco no resultado
+- **Posicionamento:** A Loures se diferencia como uma consultoria de comunicação que integra serviços e estratégia. O conceito de "Prigitais" reflete a combinação de práticas digitais e tradicionais de forma eficaz.
+
+## 3. Público-Alvo
+- **Segmento:** Marcas e Empresas que buscam serviços de comunicação estratégica e gestão de reputação.
+- **Características do Cliente Ideal:** Empresas que precisam de uma abordagem integrada e criativa para suas demandas de comunicação; organizações que valorizam a transformação através da comunicação.
+
+## 4. Pontos de Dor
+- **Necessidade de inovação:** Empresas enfrentam desafios em se destacar em um mercado saturado.
+- **Apoio em gestão de reputação:** Muitas marcas não têm expertise interna para lidar com crises de imagem ou comunicação estratégica.
+- **Falta de estratégia integrada:** Empresas lutam para alinhar suas ações de marketing, branding e comunicação, resultando em esforços incoerentes.
+
+## 5. Oportunidades de Colaboração
+- **Marketing de Influência:** A Loures pode se beneficiar da conexão com influenciadores para amplificar suas campanhas e fortalecer a reputação de seus clientes.
+- **Criação de Conteúdo:** O trabalho com criadores de conteúdo pode enriquecer a estratégia "Prigital", trazendo um novo frescor às comunicações.
+- **Interação com Novos Públicos:** Influenciadores podem ajudar a Loures a alcançar novos segmentos de consumidores, especialmente os mais jovens e engajados nas mídias sociais.
+
+## 6. Concorrentes
+- **Outras agências de comunicação:** 
+  - Sprinklr
+  - Edelman
+  - Ogilvy
+  
+- **Oportunidade de destaque:** Destacar a abordagem Prigital pode ser um diferencial em relação à concorrência, atraindo marcas que buscam inovação e resultados.
+
+## 7. Contexto do Setor
+- **Tendências:** A comunicação e o marketing estão cada vez mais integrados, com foco em estratégias que combinam dados e criatividade.
+- **Mudança de comportamento do consumidor:** As empresas precisam se adaptar rapidamente às novas dinâmicas de consumo e à importância das mídias sociais.
+
+## 8. Informações de Contato
+- **Email:** contato@loures.com.br
 - **Telefone:** (11) 97613-3816
-- **Grupo ao qual pertence:** FSB Holding (maior grupo de comunicação corporativa e gestão de reputação da América Latina)
+- **Redes Sociais:** Insira aqui links para redes sociais se disponíveis, para completar a pesquisa e compreensão da presença digital.
 
-## Visão e Missão
+---
 
-A Loures se posiciona como uma consultoria de comunicação que busca renovar o setor através da criatividade, pensamento integrado e foco em resultados. O slogan #SomosPrigitais destaca sua abordagem única, que combina estratégias digitais e tradicionais de comunicação.
-
-## Valores e Cultura
-
-- **Inquietude e Provocação:** A empresa reflete uma mentalidade que busca inovação e transformação dentro do mercado de comunicação.
-- **Integração:** O conceito de ser “Prigital” implica uma comunicação integrada e adaptada às necessidades de cada cliente, respeitando suas particularidades.
-- **Foco em Resultados:** A missão da Loures é mover o ponteiro estratégico de seus clientes, não sendo apenas uma agência, mas uma consultoria que realmente entende e se conecta com os objetivos dos clientes.
-
-## Público-Alvo e Mercados
-
-A Loures direciona seus serviços para empresas que buscam soluções de comunicação integradas e efetivas. O foco está em marcas que desejam se destacar através de uma narrativa forte e bem posicionada no mercado.
-
-## Dores e Desafios Possíveis
-
-1. **Necessidade de Inovação:** Muitas empresas enfrentam dificuldades em se diferenciar em um mercado saturado. A Loures se destaca por sua abordagem criativa.
-   
-2. **Falta de Integração nas Estratégias de Comunicação:** Há um desafio comum nas empresas de conciliar estratégias online e offline, área na qual a Loures se especializa.
-   
-3. **Gestão da Reputação:** Empresas precisam constantemente gerenciar sua imagem e reputação, principalmente em um mundo digital onde a percepção é rápida e pode ser alterada por feedbacks instantânios.
-
-4. **Engajamento com o Público:** Muitas marcas têm dificuldade em se conectar genuinamente com seu público, algo que pode ser resolvido com estratégias de marketing de influência e comunicação personalizada.
-
-## Estratégia de Prospecção
-
-### Proposta de Valor
-Como uma consultoria focada em resultados, a Loures pode se beneficiar de uma estratégia de marketing de influência para aprimorar ainda mais seus serviços. Oferecer uma conexão direta com influenciadores que ressoem com a cultura da empresa e seu público-alvo pode ser um diferencial competitivo significativo.
-
-### Sugestões de Mensagem Para o Copywriter
-- Enfatizar a importância de uma comunicação integrada e como o marketing de influência pode potencializar os resultados de seus clientes.
-- Mencionar a necessidade de inovação e como a presença de influenciadores pode trazer frescor à imagem da marca.
-- Abordar a questão da gestão da reputação e como influenciadores podem atuar como embaixadores da marca, reforçando a imagem positiva da empresa.
-- Oferecer dados ou estudos de caso que demonstrem os benefícios do marketing de influência em setores semelhantes ao da Loures.
-
-## Conclusão
-
-A Loures é uma empresa dinâmica que está bem posicionada para aproveitar as tendências de comunicação e marketing contemporâneas. A abordagem integrada e a criatividade são elementos chave que podemos explorar em uma proposta de marketing de influência, ajudando a Loures a atingir seus objetivos estratégicos e a se conectar ainda mais com seu público-alvo.
+Esse relatório deve fornecer uma base sólida para que o copywriter elabore um e-mail altamente personalizado, que se conecte com as necessidades e o contexto da Loures, visando uma aproximação relevante e atrativa para a colaboração em marketing de influência.
