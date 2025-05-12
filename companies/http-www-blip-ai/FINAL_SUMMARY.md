@@ -33,7 +33,7 @@ A Blip oferece soluções que permitem:
 3. **Dificuldades em Criar Interações Personalizadas:** Requer a personalização nas interações para melhor atender às necessidades dos clientes.
 
 ## Oportunidades de Prospecção
-- **Empresas em Busca de Eficiência Operational:** Negócios que desejam melhorar a eficiência na comunicação e atendimento ao cliente.
+- **Empresas em Busca de Eficiência Operacional:** Negócios que desejam melhorar a eficiência na comunicação e atendimento ao cliente.
 - **Setores com Crescimento no E-Commerce:** Varejistas e marcas de bens de consumo que estão vendo um aumento nas vendas online.
 - **Empresas com Alto Volume de Atendimento:** Clínicas, seguradoras e outros serviços que requerem uma comunicação ágil e eficiente.
 
@@ -52,6 +52,7 @@ A Blip se destaca por oferecer uma solução que combina automação e interaç�
 - **Integrações Customizadas:** Conecta mais de 90 APIs para favorecer a experiência do cliente.
 
 ## Comunicações e Estratégia
+
 ### Marcadores de Comunicação
 - Foco em tendências de marketing conversacional.
 - Destaque na relevância de um atendimento digitalizado e humanizado.
