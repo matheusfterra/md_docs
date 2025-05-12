@@ -1,3 +1,4 @@
+```markdown
 # Relatório de Prospecção: Mereo
 
 ## Dados da Empresa
@@ -23,7 +24,7 @@
 
 ## Segmento de Mercado
 - **Crescimento do Marketing de Influência**: O marketing de influência tem visto um crescimento exponencial nos últimos anos, com marcas alocando orçamentos maiores para campanhas que utilizam influenciadores.
-- **Concorrência**: [Listar empresas concorrentes se disponível]
+- **Concorrência**: [Listar empresas concorrentes se disponível - ex: AspireIQ, Influencity, Upfluence]
 
 ## Dores Possíveis da Empresa
 - **Desafios na Seleção de Influenciadores**: Dificuldade em identificar influenciadores que se alinhem com a marca e que também gerem resultados positivos.
@@ -46,7 +47,12 @@
 ## Conclusão
 O marketing de influência está em crescimento, e a Mereo está bem posicionada para capturar a atenção de marcas que buscam soluções autênticas e de alta qualidade. A personalização do contato inicial com base nas necessidades identificadas e possíveis dores das marcas será fundamental para a conversão em leads qualificados.
 
---- 
+---
 
 ### Próximos Passos:
 - **Iniciar contato**: Elaborar um e-mail personalizado abordando as dores e oportunidades específicas da Mereo, utilizando as informações acima para criar um relato que ressoe com seus maiores desafios e necessidades.
+```
+
+```markdown
+# http://www.mereo.com
+```
