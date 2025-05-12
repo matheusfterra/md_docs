@@ -8,40 +8,54 @@
 - **CNPJ:** 53.249.017/0024-30.
 
 ## Características da Empresa
-- **História:** Fundada por Kihachiro Onitsuka, a ASICS tem mais de 70 anos de história e acredita nos benefícios do movimento para a saúde física e mental. O lema “Anima Sana In Corpore Sano” reflete a missão da marca.
+- **História:** 
+  Fundada em 1949 por Kihachiro Onitsuka, a ASICS promove a crença nos benefícios do movimento para a saúde física e mental. O lema “Anima Sana In Corpore Sano” (mente sã em corpo são) reflete a missão da marca.
 - **Produtos Oferecidos:**
-  - **Calçados:** Diversas linhas focadas em corrida (linhas GEL-Nimbus e GEL-Cumulus), treinamento, e casual.
-  - **Vestuário:** Camisetas, shorts, leggings e acessórios para atletas e praticantes de esportes.
-  - **Programas de fidelidade:** O programa "OneASICS" oferece bônus e acesso a lançamentos exclusivos para clientes.
+  - **Calçados:** Diversas linhas focadas em corrida (incluindo os populares GEL-Nimbus e GEL-Cumulus), treinamento e modelos casuais.
+  - **Vestuário:** Camisetas, bermudas, leggings e acessórios para atletas e praticantes de esportes.
+  - **Programas de Fidelidade:** O programa "OneASICS" oferece bônus e acesso a lançamentos exclusivos para os clientes.
 
 ## Dores e Possíveis Necessidades
-1. **Engajamento com o público mais jovem:** Com o aumento da concorrência no setor e a predominância das redes sociais, a ASICS precisa de campanhas mais direcionadas que se comuniquem eficazmente com o público jovem e influenciadores.
-2. **Sustentabilidade:** Existe um crescimento na demanda por marcas que demonstram responsabilidade ambiental. A ASICS já possui iniciativas, mas pode se beneficiar de uma comunicação mais forte em relação a este aspecto.
-3. **Adaptabilidade às novas tendências de consumo:** A ascensão das vendas online e a procura por experiências de compra diferenciadas são tendências que podem impactar a ASICS, exigindo maior presença digital e colaboração com influenciadores.
+1. **Engajamento com o público mais jovem:**
+   - A ASICS enfrenta a necessidade de se comunicar efetivamente com uma audiência mais jovem, que está altamente presente nas redes sociais e interage com influenciadores.
+  
+2. **Sustentabilidade:**
+   - Há uma crescente demanda por marcas que apresentam iniciativas de responsabilidade ambiental. Embora a ASICS tenha ações voltadas para a sustentabilidade, uma comunicação mais robusta sobre esse tema poderia beneficiar a imagem da marca.
+  
+3. **Adaptabilidade às novas tendências de consumo:**
+   - O aumento das vendas online e a busca por experiências de compra diferenciadas requerem que a ASICS intensifique sua presença digital e explorações em colaborações com influenciadores.
 
 ## Contexto do Mercado
-- **Tendências de mercado:** O setor de artigos esportivos cresce junto com o aumento da popularidade de atividades físicas e saúde mental. Mais consumidores estão investindo em produtos que melhoram seu desempenho e bem-estar.
-- **Concorrência:** Marcas como Nike, Adidas e Under Armour que já investem fortemente em marketing digital e parcerias com influenciadores. A ASICS precisa fortalecer sua presença digital e engajamento para se destacar.
+- **Tendências de Mercado:**
+  O setor de artigos esportivos está crescendo em paralelo ao aumento da popularidade das atividades físicas e do interesse pela saúde mental. Há um movimento crescente entre os consumidores que buscam produtos que oferecem melhorias de desempenho e bem-estar.
+  
+- **Concorrência:**
+  A ASICS compete facilmente com marcas estabelecidas como Nike, Adidas e Under Armour, que estão investindo pesadamente em marketing digital e parcerias com influenciadores.
 
 ## Propostas de Colaboração
-- **Marketing de Influência:** Conectar a ASICS a influenciadores relevantes no nicho de fitness e saúde, que possam comunicar os valores e a qualidade dos produtos da ASICS de maneira autêntica.
-- **Campanhas de Conscientização:** Promover iniciativas sobre saúde mental através do esporte, em alinhamento com a missão da marca, utilizando figuras públicas para aumentar a visibilidade.
-- **Conteúdos Exclusivos:** Criar conteúdo colaborativo exclusivo para influenciadores, que destaque as características técnicas e os benefícios dos produtos ASICS, como a linha GEL-Nimbus e GEL-Cumulus, conhecidas por conforto e performance.
+- **Marketing de Influência:**
+  Conectar a ASICS com influenciadores relevantes nos nichos de fitness e saúde, que podem comunicar os valores e a qualidade dos produtos de forma autêntica.
+
+- **Campanhas de Conscientização:**
+  Criar campanhas que promovem a saúde mental através do esporte, em alinhamento com a missão da marca, utilizando figuras públicas que possam aumentar a visibilidade.
+
+- **Conteúdos Exclusivos:**
+  Desenvolver conteúdo colaborativo exclusivo para influenciadores que evidencie as características técnicas e os benefícios dos produtos da ASICS, em especial as linhas GEL-Nimbus e GEL-Cumulus, que são reconhecidas por proporcionar conforto e performance.
 
 ## Conclusão
-A ASICS Brasil tem uma rica herança e uma forte missão centrada em melhorar a saúde e o bem-estar dos consumidores através do esporte. Aproveitar o marketing de influência pode ser uma estratégia eficaz para abordar as dores identificadas e fortalecer a presença da ASICS no mercado contemporâneo. Uma abordagem personalizada nas comunicações pode sensibilizar e engajar o público-alvo da marca, criando um impacto positivo no reconhecimento e vendas.
+A ASICS Brasil possui uma rica herança e uma missão sólida voltada para a melhoria da saúde e bem-estar dos consumidores através do esporte. Aproveitar o marketing de influência pode ser uma estratégia crítica para abordar as dores identificadas e fortalecer sua presença no mercado atual. Comunicações personalizadas e direcionadas poderão sensibilizar e engajar o público-alvo da marca, potencialmente criando um impacto positivo nas vendas.
 
 ---
 
 ### Itens de Interesse:
-- **Linhas populares:** Tênis GEL-Nimbus 27 e GEL-Cumulus 27, que são conhecidos por conforto e performance.
-- **Eventos e promoções:** Agendar campanhas durante datas relevantes como o dia das mães, utilizando produtos com apelo emocional (ex. o programa "OneASICS").
+- **Linhas Populares:** Tênis GEL-Nimbus 27 e GEL-Cumulus 27, conhecidos pelo conforto e performance.
+- **Eventos e Promoções:** Planejamento de campanhas em datas relevantes como o Dia das Mães, utilizando produtos com apelo emocional (ex. o programa "OneASICS").
 
 ### Relacionamento com Influenciadores
-- **Identificação de Influenciadores:** Focar na segmentação de micro-influenciadores e atletas que se alinham com os valores da ASICS, promovendo um engajamento mais autêntico.
-  
-### Sugestões de Ações Imediatas
-- Realizar uma pesquisa sobre as percepções de marca entre consumidores jovens e adequar o marketing para atender a essas expectativas.
-- Explorar colaborações com organizações envolvidas em saúde mental e esportes, ampliando o alcance e a credibilidade da marca.
+- **Identificação de Influenciadores:** Segmentar micro-influenciadores e atletas alinhados aos valores da ASICS, promovendo um engajamento mais autêntico.
 
-*Este relatório fornece uma visão abrangente para auxiliar o time de copywriting na elaboração de comunicações direcionadas e impactantes para ASICS Brasil.*
+### Sugestões de Ações Imediatas
+- Realizar uma pesquisa sobre percepções de marca entre consumidores jovens e adequar as estratégias de marketing para atender a essas expectativas.
+- Explorar colaborações com organizações focadas em saúde mental e esportes, ampliando o alcance e a credibilidade da marca. 
+
+*Este relatório fornece uma visão abrangente para apoiar a equipe de copywriting na elaboração de comunicações impactantes e direcionadas para a ASICS Brasil.*
