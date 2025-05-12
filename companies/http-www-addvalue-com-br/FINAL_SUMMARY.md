@@ -1,89 +1,75 @@
-# Relatório de Prospecção: Add Value
+# Relatório de Prospecção - Add Value
 
-## 1. Informações Gerais da Empresa
+## Resumo da Empresa
+**Nome:** Add Value  
+**Website:** [www.addvalue.com.br](http://www.addvalue.com.br)  
+**Ano de Fundação:** 2003  
+**Sede:** São Paulo, SP, Brasil  
+**Filiais:** Rio de Janeiro, Belo Horizonte, Curitiba, Brasília, Goiânia, Fortaleza, Porto Alegre, Salvador e Flórida, EUA.
 
-- **Nome da Empresa:** Add Value
-- **Website:** [addvalue.com.br](http://www.addvalue.com.br)
-- **Ano de Fundação:** 2003
-- **Localização Sede:** São Paulo, SP, Brasil
-- **Filiais:** Rio de Janeiro, Belo Horizonte, Curitiba, Brasília, Goiânia, Fortaleza, Porto Alegre, Salvador e uma filial na Flórida (Add Value US Corp).
-- **Segmentos Atendidos:** Empresas em diversos segmentos, incluindo os cinco maiores bancos do Brasil e grandes marcas da Indústria, Varejo e Construção Civil.
+## Visão Geral dos Serviços
+A Add Value é uma empresa que oferece soluções completas em TI, incluindo:
 
-## 2. Proposta de Valor
+- **Infraestrutura**
+- **Cloud**
+- **Segurança**
+- **Desenvolvimento**
+- **Dados**
 
-### Missão
-Garantir a excelência na entrega de soluções inovadoras que agregam valor incomparável ao negócio dos clientes, por meio de uma equipe qualificada e habilidades especializadas.
+A empresa se posiciona como uma fornecedora de soluções personalizadas, atendendo a demandas específicas de clientes de diferentes tamanhos e setores, como bancos, indústrias e varejo.
 
-### Visão
-Oferecer o melhor suporte possível na América Latina em tecnologias de Cloud, Networking, Segurança, Desenvolvimento e Dados, com clareza e objetividade.
+## Estrutura de Atuação e Metodologia
+1. **Consultoria, Implementação e Suporte:** Proporcionam diversas opções de suporte e operação moldadas às necessidades do cliente.
+2. **Inovação Tecnológica:** Atuam na implementação de novas tecnologias para otimizar processos e aumentar a eficiência operacional.
+3. **Foco na Experiência do Cliente:** A Add Value acredita que a experiência do cliente é crucial para o sucesso, oferecendo soluções que melhoram a satisfação e o crescimento dos negócios.
 
-### Valores
-- Transparência e sinceridade
-- Ética
-- Responsabilidade
-- Confiança
+## Parcerias Estratégicas
+A Add Value conta com parcerias com grandes nomes do mercado, como:
+- **Akamai**
+- **AWS**
+- **Axur**
+- **BeyondTrust**
+- **Citrix**
 
-## 3. Serviços e Soluções Oferecidas
+Essas parcerias fortalecem a sua oferta de serviços, permitindo acesso a tecnologias de ponta e suporte robusto em segurança e cloud.
 
-A Add Value oferece um leque de soluções em tecnologia, incluindo:
+## Público-Alvo
+A empresa atende:
+- **Empresas que valorizam a experiência do cliente**
+- **Empresas em busca de eficiência operacional**
+- **Organizações que priorizam a segurança**
+- **Iniciativas de inovação no setor**
+  
+Os clientes variam desde startups até grandes corporações, indicando uma flexibilidade nas soluções oferecidas.
 
-1. **Infraestrutura**: Soluções robustas para atender às necessidades de TI.
-2. **Cloud**: Migração e gestão de serviços na nuvem (AWS e outras).
-3. **Segurança**: Soluções em segurança cibernética.
-4. **Desenvolvimento**: Serviços personalizados para otimização e inovação.
-5. **Dados**: Estruturas e ferramentas para gerenciamento e proteção de dados.
+## Dores e Necessidades do Mercado
+- **Segurança:** O aumento das ameaças cibernéticas destaca a necessidade de soluções robustas de segurança, especialmente em um ambiente digital em crescimento.
+- **Inovação:** As empresas estão constantemente buscando se adaptar e inovar para se manterem competitivas.
+- **Eficiência Operacional:** A pressão para reduzir custos e aumentar a produtividade faz com que empresas busquem soluções que otimizem seus processos.
 
-### Parcerias Estratégicas
-A Add Value colabora com várias marcas renomadas, como:
-- AWS
-- Akamai
-- Citrix
-- Commvault
-- BeyondTrust
-- Axur
+## Modelo de Negócio
+A Add Value adota um modelo que combina produtos e serviços, oferecendo soluções customizadas que se adaptam à evolução da tecnologia e das necessidades do cliente. Eles enfatizam um suporte contínuo, desde a implementação até a manutenção de suas soluções.
 
-Essas parcerias potencializam seus serviços de segurança, infraestrutura e soluções de nuvem, promovendo a inovação e a eficiência operacional.
+## Contato
+**Endereço:**  
+Av. Marcos Penteado de Ulhoa Rodrigues, 939 – Edifício Jacarandá (Torre I) – 8º Andar, Tamboré – Barueri/SP  
+**Telefones de Contato:**
+- São Paulo: (11) 4130 9832
+- Rio de Janeiro: (21) 3900 9833
+- Curitiba: (41) 3297 3512
+- Brasília: (61) 3550 7525
+- Belo Horizonte: (31) 3500 3575  
+- Suporte Brasil: 0800 878 1260
 
-## 4. Público-Alvo
+## Oportunidades de Prospecção
+Com a crescente demanda por soluções em marketing de influência, a Add Value pode beneficiar-se ao integrar marketing orientado ao cliente em sua abordagem, trabalhando com influenciadores que ajudem a divulgar suas soluções e a estabelecer uma conexão mais humana e eficaz com o público.
 
-- **Setores**: Tecnologia, banca, comércio, saúde, educação, manufatura, e governo.
-- **Tamanho das Empresas**: Desde startups até grandes corporações, adaptando serviços às necessidades de diferentes clientes.
+## Estrutura do Email a Ser Enviado
+Utilizando as informações do relatório, o copywriter pode desenvolver um email que aborde:
 
-## 5. Pontos de Dor e Necessidades Potenciais
+1. **Introdução:** Apresentação da oferta de serviço de marketing de influência.
+2. **Reconhecimento da Dores:** Mencionar a necessidade de segurança, inovação e eficiência operacional que a Add Value trata em seu portfólio.
+3. **Proposta de Valor:** Como a colaboração pode ajudar a Add Value a maximizar sua presença no mercado e engajar mais efetivamente com seu público-alvo, utilizando influenciadores.
+4. **Call to Action:** Sugestão de uma reunião ou call para discutir como a Add Value pode aumentar seu alcance através do marketing de influência.
 
-1. **Inovação e Competitividade**: Com o crescimento constante de novas tecnologias, as empresas precisam evoluir para manter-se competitivas.
-2. **Segurança da Informação**: A crescente incidência de ciberataques faz com que a segurança cibernética seja uma prioridade.
-3. **Eficiência Operacional**: Simplificação e otimização dos processos para redução de custos e aumento da produtividade.
-4. **Experiência do Cliente**: Proporcionar uma experiência satisfatória ao cliente é essencial para o sucesso e retenção.
-
-## 6. Mensagem Personalizada para Prospecção
-
-### Exemplo de Mensagem
-
-**Assunto:** Transformação Digital e Segurança em TI para [Nome da Empresa]
-
-**Prezado [Nome do Contato],**
-
-Espero que esta mensagem o encontre bem. Sou [Seu Nome], e represento a Add Value, uma empresa com mais de 20 anos de experiência em fornecer soluções customizadas nas áreas de Cloud, Networking e Segurança.
-
-Compreendemos que a [Nome da Empresa] está sempre buscando maneiras de se destacar no mercado, especialmente em um cenário onde a inovação e a segurança são cruciais. Sabemos que a eficiência operacional e a proteção de dados são prioridades para empresas de [Setor da Empresa].
-
-Na Add Value, temos o compromisso de oferecer soluções que não apenas atendam, mas superem suas expectativas. Assim, podemos ajudá-lo a:
-- **Impulsionar a Inovação**: Soluções personalizadas em Cloud que NÃO apenas modernizam, mas que transformam o modo como você opera.
-- **Fortalecer a Segurança**: Implementação de práticas robustas de segurança cibernética que protegem seus dados e os de seus clientes.
-- **Aumentar a Eficiência**: Otimizando processos para que sua equipe possa focar no que realmente importa.
-
-Seria ótimo agendar uma conversa para entender melhor suas necessidades e explorar como podemos ajudá-lo a alcançar seus objetivos.
-
-Aguardo ansiosamente sua resposta.
-
-Atenciosamente,
-
-[Seu Nome]  
-[Seu Cargo]  
-Add Value  
-[Contato]  
-
-## 7. Considerações Finais
-
-Após a análise das informações da Add Value, é evidente que a empresa está bem posicionada no mercado. O entendimento das necessidades e desafios enfrentados pelos clientes ajudará a elaborar uma comunicação eficaz, permitindo um engajamento mais assertivo e um relacionamento duradouro. A personalização da mensagem é fundamental para captar a atenção do potencial cliente e demonstrar como a Add Value pode agregar real valor ao seu negócio.
+Este relatório será uma ferramenta valiosa para o desenvolvimento de um email personalizado que se alinha com a missão e serviços da Add Value, ajudando a capturar sua atenção e incentivá-los a responder.
