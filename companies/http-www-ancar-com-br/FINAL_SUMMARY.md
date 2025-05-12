@@ -1,5 +1,5 @@
+```plaintext
 # Relatório de Prospecção: Ancar Ivanhoe
-
 ## Informações Gerais
 - **Nome da Empresa:** Ancar Ivanhoe
 - **Website:** [www.ancar.com.br](http://www.ancar.com.br)
@@ -10,7 +10,7 @@
 
 ## Histórico e Missão
 ### Sobre a Ancar
-A Ancar é uma das maiores plataformas de shopping centers de capital privado do Brasil, com mais de 50 anos de experiência no mercado. A empresa mantém 24 shoppings e mais de 5 mil lojas em seu portfólio, atraindo anualmente cerca de 231 milhões de visitantes. 
+A Ancar é uma das maiores plataformas de shopping centers de capital privado do Brasil, com mais de 50 anos de experiência no mercado. A empresa mantém 24 shoppings e mais de 5 mil lojas em seu portfólio, atraindo anualmente cerca de 231 milhões de visitantes.
 
 ### Missão
 Criar experiências únicas e encantadoras para consumidores, rentáveis para lojistas e empreendedores, focando na valorização da equipe.
@@ -62,4 +62,5 @@ A Ancar Ivanhoe é uma empresa consolidada no mercado de shopping centers que fo
 - **Desenvolvimento de Projeto:** Propor uma campanha específica que usa influenciadores para eventos nos shoppings.
 - **Pesquisa de Influenciadores:** Identificar influenciadores que compartilham os valores da Ancar para garantir uma comunicação autêntica e eficaz.
 
-Com estas informações, o copywriter pode elaborar um e-mail bem fundamentado e personalizado para a Ancar Ivanhoe, aumentando as chances de engajamento e conversão.
+**Com estas informações, o copywriter pode elaborar um e-mail bem fundamentado e personalizado para a Ancar Ivanhoe, aumentando as chances de engajamento e conversão.**
+```
