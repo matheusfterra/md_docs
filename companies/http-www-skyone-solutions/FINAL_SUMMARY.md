@@ -1,3 +1,4 @@
+```plaintext
 # Relatório de Prospecção - Skyone Solutions
 
 ## Informações Gerais da Empresa
@@ -15,10 +16,10 @@
 
 ## Descrição dos Serviços
 A Skyone Solutions oferece uma gama de soluções no segmento de computação em nuvem, incluindo:
-- **Computação em Nuvem:** Migração e gerenciamento de softwares, servidores e bancos de dados para a nuvem com uma infraestrutura otimizada.
-- **Dados e IA:** Integração de dados, armazenamento seguro e gerenciamento de APIs, com foco em inteligência artificial.
-- **Cibersegurança:** Análise de ameaças, monitoramento 24x7, firewall de aplicação web, detecção de anomalias e pentests.
-- **Marketplace:** Ecossistema de agentes de IA prontos para conexão aos dados das empresas.
+- **Computação em Nuvem:** Migração e gerenciamento de softwares, servidores e bancos de dados para a nuvem com uma infraestrutura otimizada. 
+- **Dados e IA:** Integração de dados, armazenamento seguro e gerenciamento de APIs, com foco em inteligência artificial. 
+- **Cibersegurança:** Análise de ameaças, monitoramento 24x7, firewall de aplicação web, detecção de anomalias e testes de invasão (pentests). 
+- **Marketplace:** Ecossistema de agentes de IA prontos para conexão aos dados das empresas. 
 - **Consultoria e Suporte:** Serviços especializados para integração de sistemas e gestão de dados.
 
 ## Segmentos de Atuação
@@ -57,4 +58,6 @@ Para abordar a Skyone Solutions, é recomendado:
 3. **Utilização de Casos de Sucesso:** Inserir exemplos relevantes de como Skyone ajudou outras empresas do mesmo setor a atingir seus objetivos, criando uma conexão emocional na comunicação.
 
 ---
+
 Esse relatório oferece uma visão detalhada da Skyone Solutions e suas potencialidades no mercado. As informações aqui apresentadas servirão para apoiar a equipe de marketing na elaboração de estratégias e conteúdos relevantes para campanhas outbound eficazes.
+```
