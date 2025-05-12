@@ -1,7 +1,6 @@
 # Relatório de Prospecção Outbound - Tray e Marketing de Influência
 
 ## 1. Visão Geral da Tray
-
 ### 1.1 O que é Tray?
 A Tray é uma plataforma de e-commerce que fornece soluções robustas para empresas que desejam vender online. Ela oferece integração com diversos marketplaces, canais de venda e ferramentas de marketing digital, permitindo uma gestão centralizada de vendas e marketing.
 
@@ -13,7 +12,6 @@ A Tray é uma plataforma de e-commerce que fornece soluções robustas para empr
 - **Suporte Especializado**: Atendimento por e-mail, chat e telefone, com consultoria para e-commerce no plano corporativo.
 
 ## 2. Segmento de Marketing de Influência
-
 ### 2.1 Importância do Marketing de Influência
 O Marketing de Influência se tornou uma estratégia vital para marcas que buscam ampliar sua visibilidade e engajamento com os consumidores. Influenciadores são vistos como fontes confiáveis de informação, o que aumenta a confiança na publicidade e potencializa as vendas.
 
@@ -24,7 +22,6 @@ O Marketing de Influência se tornou uma estratégia vital para marcas que busca
 - **Relatos de SUCESSO**: Buscam cases que demonstrem aumento em vendas e reconhecimento após campanhas de influenciadores.
 
 ## 3. Informações Relevantes sobre a Tray
-
 ### 3.1 Produtos e Planos
 - **Planos Variados**: Desde a Loja 1 com 100 produtos até planos corporativos com produtos ilimitados.
 - **Recursos Exclusivos**: E-mail marketing integrado, dicas sobre SEO, relatórios avançados e gestão de afiliados.
@@ -33,7 +30,6 @@ O Marketing de Influência se tornou uma estratégia vital para marcas que busca
 - **Exemplo**: Aumento de 478% em GMV na Fabrispuma após migração para a Tray, destacando a eficácia da plataforma.
 
 ## 4. Proposta de Valor para Marcas
-
 ### 4.1 Como Tray pode Ajudar
 - **Integração com Influenciadores**: Através de sua plataforma, a Tray pode conectar marcas a influenciadores relevantes para campanhas personalizadas.
 - **Otimização da Experiência de Compra**: Com ferramentas de Live Shop e e-mail marketing, as marcas podem aumentar suas taxas de conversão.
