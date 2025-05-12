@@ -1,7 +1,7 @@
 # Relatório de Prospecção: Group Software - Marketing de Influência
 
 ## Objetivo
-Este relatório destina-se a mapear as informações e características da Group Software, uma empresa que atua com soluções em gestão e administração para condomínios, imobiliárias e shoppings, proporcionando insumos relevantes que servirão como base para a elaboração de um email profundo e personalizado para o segmento de marketing de influência.
+Este relatório tem como objetivo mapear as informações e características da Group Software, uma empresa que atua com soluções em gestão e administração para condomínios, imobiliárias e shoppings, proporcionando insumos relevantes para a elaboração de um email profundo e personalizado sobre o segmento de marketing de influência.
 
 ## Informações Gerais da Empresa
 - **Nome da Empresa:** Group Software
@@ -17,7 +17,7 @@ Este relatório destina-se a mapear as informações e características da Group
 ## Produtos e Soluções Oferecidas
 ### 1. Gestão de Condomínios
 - **Funcionalidades:** Automação de processos, pasta de prestação de contas digital, sistema que reduz 90% dos processos manuais.
-- **Diferenciais:** Sistema multitarefa, permitindo acesso de qualquer lugar e com suporte 24h.
+- **Diferenciais:** Sistema multitarefa, permitindo acesso de qualquer lugar e suporte 24h.
 
 ### 2. Gestão de Shopping Centers
 - **Funcionalidades:** Mais de 300 modelos de relatórios, automação de faturamento, conciliação bancária, e controle de inadimplência.
@@ -27,8 +27,8 @@ Este relatório destina-se a mapear as informações e características da Group
 - **Funcionalidades:** Gestão financeira, CRM, disparo automático de boletos, controle de inadimplência.
 - **Diferenciais:** Redução de até 70% na mão de obra e centralização das informações.
 
-### 4. RH e DP
-- **Funcionalidades:** Controle de folhas, comunicação empresa/colaborador, pré-admissão.
+### 4. Recursos Humanos e Departamento Pessoal (RH e DP)
+- **Funcionalidades:** Controle de folhas, comunicação entre empresa e colaborador, pré-admissão.
 - **Diferenciais:** Integração com outros sistemas, como SST para saúde e segurança.
 
 ### 5. Soluções Financeiras
@@ -43,8 +43,8 @@ Este relatório destina-se a mapear as informações e características da Group
 
 ## Depoimentos de Clientes
 - **Pedro Ivo, CWR:** Destaca a automação de processos e aumento da performance como benefício fundamental do sistema.
-- **Josana Mandstock, Manaus Plaza Shopping:** Aponta a segurança na execução de orçamentos e planejamento com o sistema como sua principal vantagem.
-- **Maria Carolina, Santa Cecília Imóveis Ltda:** Enfatiza a eficiência do sistema em agilizar as operações diárias e facilitar o trabalho. 
+- **Josana Mandstock, Manaus Plaza Shopping:** Aponta a segurança na execução de orçamentos e planejamento como sua principal vantagem.
+- **Maria Carolina, Santa Cecília Imóveis Ltda:** Enfatiza a eficiência do sistema em agilizar as operações diárias e facilitar o trabalho.
 
 ## Necessidades Potenciais de Influência
 - **Presença Digital:** Necessidade de aumentar a visibilidade nas redes sociais e outros canais, buscando influenciadores que possam lhes proporcionar mais presença online.
@@ -57,7 +57,7 @@ Este relatório destina-se a mapear as informações e características da Group
 ## Proposta de Abordagem do Email de Prospecção
 - **Personalização:** Referenciar casos de sucesso específicos que alinhem com a realidade da empresa-alvo.
 - **Dores Identificadas:** Abordar como soluções propostas podem resolver as falhas nos processos da empresa-alvo.
-- **Chamada para Ação:** Incentivar a interação com a marca, seja através de uma programação de demonstração das soluções, ou um convite para uma conversa sobre tendências do mercado.
+- **Chamada para Ação:** Incentivar a interação com a marca, seja através de uma programação de demonstração das soluções ou um convite para uma conversa sobre tendências do mercado.
 
 ## Conclusão
-A Group Software se destaca como um player relevante no mercado de soluções para gestão de condomínios e shoppings. A sua necessidade de crescer em visibilidade e influência nas redes sociais pode ser potencialmente beneficiada através da parceria com influenciadores. A abordagem deve focar em criar valor através das soluções escaláveis que a empresa oferece e sua experiência consolidada no mercado.
+A Group Software se destaca como um player relevante no mercado de soluções para gestão de condomínios e shoppings. Sua necessidade de crescer em visibilidade e influência nas redes sociais pode ser potencialmente beneficiada através da parceria com influenciadores. A abordagem deve focar em criar valor através das soluções escaláveis que a empresa oferece e sua experiência consolidada no mercado.
