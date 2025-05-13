@@ -23,57 +23,59 @@
 ---
 
 ## 3. Vertical de Atuação
+
 ### 3.1 Edtech (Plataforma A)
 - **Características:**
   - Mais de 20 mil objetos de aprendizagem.
   - Uso de metodologias ativas e integração de tecnologias como realidade virtual e aumentada.
-  - Amanhã Virtual de Aprendizagem e gestão de indicadores acadêmicos.
+  - Plataformas de gestão acadêmica e indicadores de desempenho.
 
 ### 3.2 Health (Artmed)
 - **Características:**
-  - Oferece cursos digitais, programas de atualização profissional.
-  - Publica conteúdos científicos reconhecidos e produz plataformas voltadas para saúde.
+  - Cursos digitais e programas de atualização profissional.
+  - Conteúdo científico reconhecido e plataformas voltadas à saúde.
 
 ### 3.3 Publishing (Grupo A)
 - **Características:**
-  - Publicações nas áreas de ciências humanas, saúde e exatas.
+  - Publicações em ciências humanas, saúde e exatas.
   - Mais de 4 mil obras, incluindo eBooks e audiobooks.
-  
+
 ---
 
 ## 4. Ponto de Dor e Necessidades
 - **Dores Identificadas:**
-  - Necessidade de soluções inovadoras para adaptar a educação ao novo formato digital, especialmente pós-pandemia.
-  - Atrair e reter alunos em um cenário competitivo, onde a oferta de cursos online cresce.
-  - Continuidade na formação de profissionais da saúde, que demandam atualizações constantes e práticas educativas eficazes.
+  - Adaptação da educação ao formato digital, especialmente pós-pandemia.
+  - Atração e retenção de alunos em um mercado competitivo.
+  - Formação contínua de profissionais da saúde, exigindo atualizações e práticas eficazes.
 
 ---
 
 ## 5. Proposta de Valor
+
 ### Como o Marketing de Influência Pode Ajudar
-- **Aumento da Visibilidade:** Parcerias com influenciadores relevantes na área da educação e saúde para ampliar a conscientização sobre suas soluções e cursos.
-- **Conteúdo Autêntico:** Influenciadores que compartilham suas experiências com os produtos da +A Educação, aumentando a confiança institucional.
-- **Atração de Novos Alunos:** Campanhas que acionem alunos potenciais através de recomendações de influenciadores, gerando leads qualificados.
+- **Aumento da Visibilidade:** Parcerias com influenciadores para ampliar a conscientização sobre soluções educacionais e cursos.
+- **Conteúdo Autêntico:** Influenciadores partilhando experiências positivas, gerando confiança na marca.
+- **Atração de Novos Alunos:** Campanhas com recomendação de influenciadores, gerando leads qualificados.
 
 ---
 
 ## 6. Contexto de Mercado
 - **Tendências em Edtech:**
-  - A digitalização e o uso de novas tecnologias estão em alta, sendo essenciais para o engajamento dos alunos.
-  - A crescente demanda por educação a distância, especialmente na área da saúde, promove a necessidade de plataformas de aprendizagem eficientes.
-  
+  - Digitalização e uso de tecnologias educacionais em alta.
+  - Crescente demanda por educação a distância, especialmente na saúde.
+
 - **Concorrência:**
-  - Mercado competitivo com a entrada de startups e novas soluções em EAD, requerendo diferenciação através de conteúdo e experiência do usuário.
+  - Ambiente competitivo com startups e novas soluções em EAD, exigindo diferenciação em conteúdo e experiência do usuário.
 
 ---
 
 ## 7. Conclusão
-**A +A Educação** é uma empresa com uma longa história e com um impacto significativo no mercado de educação. A compreensão de suas necessidades e o potencial para crescimento através de marketing de influência oferece uma oportunidade valiosa para entregarmos resultados e fortalecer sua presença digital.
+**A +A Educação** apresenta uma trajetória rica e relevante no setor educacional. A compreensão de suas necessidades e o potencial para crescimento através do marketing de influência representam uma oportunidade valiosa para melhorar sua presença digital.
 
 **Próximos Passos:**
-- Entrar em contato com a +A Educação para discutir propostas de marketing de influência específicas.
-- Desenvolvimento de um pitch detalhando estratégias e exemplos de sucesso de campanhas anteriores. 
+- Realizar contato com a +A Educação para discutir propostas específicas de marketing de influência.
+- Desenvolver uma apresentação detalhada com estratégias e exemplos de campanhas de sucesso anteriores.
 
 ---
 
-Este relatório fornece uma fundação sólida para que seu time de copywriting elabore um e-mail direcionado e relevante, estabelecendo um contato significativo com a +A Educação.
+Este relatório fornece uma base sólida para o time de copywriting elaborar um e-mail direcionado e relevante, estabelecendo um contato significativo com a +A Educação.
