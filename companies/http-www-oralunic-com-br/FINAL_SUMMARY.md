@@ -19,7 +19,6 @@ A Oral Unic começou suas atividades em 2016, com a inauguração de sua primeir
 ---
 
 ## Análise do Segmento
-
 ### Mercado
 - **Crescimento:** O setor de franquias odontológicas tem mostrado crescimento contínuo, impulsionado pela crescente demanda por cuidados de saúde bucal.
 - **Concorrência:** Existem outras franquias no setor, mas a Oral Unic se destaca pelo seu enfoque premium e suporte extensivo a franqueados.
@@ -28,10 +27,7 @@ A Oral Unic começou suas atividades em 2016, com a inauguração de sua primeir
 - Pacientes que buscam serviços odontológicos de alta qualidade.
 - Profissionais da odontologia que desejam abrir sua própria franquia com bom suporte e infraestrutura.
 
----
-
 ## Proposta de Comunicação
-
 ### Dores Potenciais do Prospecto
 1. **Reconhecimento de Marca:** Desafios em aumentar a visibilidade e o posicionamento da marca no mercado.
 2. **Capacitação e Suporte:** Necessidade de mais suporte nas áreas de gestão de clínicas e marketing.
@@ -41,10 +37,7 @@ A Oral Unic começou suas atividades em 2016, com a inauguração de sua primeir
 - **Destaques:** A Oral Unic, com sua reputação no mercado, pode se beneficiar de uma comunicação que foque em transformar a experiência do paciente, além do tratamento médico, enfatizando a construção de relacionamento.
 - **Valor Proposto:** Importância do empreendedorismo na odontologia e suporte que a Oral Unic oferece para assegurar a rentabilidade e sucesso dos franqueados.
 
----
-
 ## Conteúdos Relevantes
-
 ### Mais Informações
 - **Tratamentos Oferecidos:** Alinhadores transparentes, clareamento dental, implantes dentários, e harmonização orofacial.
 - **Iniciativas de Marketing:** Estratégias para aumentar a notoriedade da marca, uso de mídias sociais e eventos como o ABF Franchising Expo.
@@ -54,8 +47,6 @@ O blog da Oral Unic contém informações sobre:
 - Como encantar pacientes.
 - Taxas e royalties em franquias.
 - A importância de investir na saúde.
-
----
 
 ## Conclusão
 A Oral Unic representa uma oportunidade clara dentro do mercado de franquias odontológicas. Com seu foco em qualidade e inovação, a empresa é um forte candidato para iniciativas de marketing de influência. A comunicação com influenciadores que compartilham sua visão pode ampliar sua presença e engajamento com o público.
