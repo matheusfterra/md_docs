@@ -1,80 +1,74 @@
-# Relatório de Prospecção: Fruki Bebidas S.A.
+# Relatório de Prospecção - Fruki Bebidas S.A.
 
-## 1. Informações Gerais
-- **Nome da Empresa:** Fruki Bebidas S.A.
-- **CNPJ:** 87.315.099/0001-07
-- **Localização:** Fábricas em Lajeado e Paverama, Rio Grande do Sul, Brasil.
-- **Website:** [www.fruki.com.br](http://www.fruki.com.br)
-- **Telefone de Contato:** 0800.703.9910
-- **E-mail de Atendimento:** contato@fruki.com.br
+## Informações Gerais
 
-## 2. Histórico da Empresa
-A Fruki Bebidas foi fundada em 1924 e tem mais de 99 anos de atuação no mercado de bebidas. Iniciou suas atividades com uma pequena produção de cervejas e refrigerantes e, ao longo dos anos, expandiu significativamente sua capacidade produtiva, atualmente com um portfólio diversificado que inclui refrigerantes, energéticos, água mineral, cervejas e sucos.
+**Nome da Empresa:** Fruki Bebidas S.A.  
+**CNPJ:** 87.315.099/0001-07  
+**Website:** [fruki.com.br](http://www.fruki.com.br)  
+**Sede:** Lajeado, Rio Grande do Sul, Brasil  
+**Setor:** Bebidas (Refrigerantes, Água Mineral, Energéticos, Cervejas e Sucos)  
+**Ano de Fundação:** 1924  
+**Funcionários:** Mais de 1.000  
 
-### Linha do Tempo:
-- **1924:** Início da produção de refrigerantes e cervejas.
-- **1992:** Lançamento das embalagens PET.
-- **2023:** Início da produção na nova fábrica em Paverama, aumentando a capacidade produtiva em 50% (620 milhões de litros por ano).
+## Visão e Valores
 
-## 3. Produtos e Marcas
-A Fruki Bebidas oferece uma gama variada de produtos, dentre os quais:
-- **Refrigerantes:**
-  - Fruki Guaraná
-  - Fruki Laranjinha
-  - Frukito
-- **Energéticos:** Elev
-- **Água mineral:** Água da Pedra
-- **Cervejas:** Cervejaria Bellavista
-- **Sucos:** COM/TEM
+### Propósito
+A Fruki Bebidas tem como propósito a paixão por oferecer o melhor sabor, buscando sempre construir conexões verdadeiras e fazendo a diferença na vida das pessoas e do planeta.
 
-## 4. Objetivos e Valores
-### Propósito:
-Levar o melhor sabor à vida das pessoas, formando conexões verdadeiras e promovendo a sustentabilidade.
+### Visão
+Ser parte da vida dos consumidores em todos os momentos, contribuindo para experiências saborosas.
 
-### Visão:
-Ser parte da vida dos consumidores em todos os momentos.
-
-### Valores:
+### Valores
 - Surpreender clientes e consumidores
-- Investir em inovação
-- Promover a sustentabilidade
 - Nutrir relacionamentos de confiança
+- Investir em profissionais engajados e motivados
+- Promover a inovação
+- Trabalhar para fazer o melhor
+- Abraçar a sustentabilidade
+- Alavancar os resultados
 
-## 5. Iniciativas de Sustentabilidade
-A Fruki compromete-se com práticas sustentáveis, incluindo:
-- Utilização de caminhões elétricos para transporte, minimizando emissões de CO2.
-- Projetos de reciclagem e gestão de resíduos.
-- Programa Integrar, focado no desenvolvimento e valorização de seus funcionários.
+## Produtos Principais
+- **Refrigerantes**: Fruki Guaraná, Laranjinha, entre outros.
+- **Água Mineral**: Água da Pedra (oferecendo diversas opções, incluindo saborizadas)
+- **Energéticos**: Elev
+- **Cervejas**: Cervejaria Bellavista com diversos estilos (Pilsens, IPAs, etc.)
+- **Sucos**: Linha COM/TEM e outros refrescos (Frukito).
 
-## 6. Público-Alvo e Posicionamento
-A Fruki visa atingir consumidores no Sul do Brasil, especialmente jovens e adultos que apreciam bebidas saborosas e saudáveis. Também busca construir parcerias com influenciadores que reforcem sua imagem e alcance de mercado.
+## Iniciativas e Responsabilidade Social
+A Fruki tem um compromisso forte com a sustentabilidade e iniciativas socioambientais. A empresa possui projetos como:
+- Utilização de caminhões elétricos para transporte, reduzindo a emissão de CO2.
+- Compromissos de reciclagem e gestão de resíduos, buscando ser cada vez mais eficiente e sustentável.
 
-## 7. Possíveis Dores
-### Desafios Identificados:
-- **Diferenciação em um mercado saturado:** A Fruki precisa destacar-se em um mercado cheio de concorrentes em bebidas.
-- **Aumento da demanda por produtos saudáveis:** Com a crescente conscientização sobre saúde, a Fruki deve adaptar seus produtos para atender essas necessidades (ex. redução de açúcar em suas bebidas).
-- **Sustentabilidade:** Manter uma imagem de marca sustentável é crucial, dadas as expectativas crescentes dos consumidores nesse aspecto.
+## Dores Identificadas
+### Desafios
+1. **Concorrência no Mercado de Bebidas**: O mercado de bebidas tende a ser muito competitivo, possuindo diversos players grandes e pequenos pré-estabelecidos.
+2. **Mudança nas Preferências dos Consumidores**: O aumento da demanda por produtos saudáveis e menos açucarados, que exige adaptação dos produtos já existentes.
+3. **Promoção e Visibilidade de Marcas**: A necessidade de aumentar a visibilidade das marcas, especialmente das novas linhas de produtos como os energéticos e novos sabores de água.
 
-## 8. Atuação no Marketing de Influência
-A Fruki já possui um canal para solicitação de patrocínios e parcerias, indicando um interesse ativo em colaborar com influenciadores. Essa abordagem pode ser aprimorada com campanhas direcionadas e estratégias de engajamento mais personalizadas.
+### Oportunidades
+1. **Crescimento do Marketing de Influência**: A influência nas redes sociais pode ser uma ferramenta poderosa para engajar consumidores jovens e inovar na comunicação com os clientes.
+2. **Expansão de Portfólio**: Você pode ajudar a empresa a diversificar ainda mais seu portfólio em bebidas saudáveis e baixa caloria, aproveitando o atual foco global em saúde.
 
-### Link para Solicitar Patrocínio:
-[Solicitar Patrocínio](http://www.fruki.com.br/solicitar-patrocinio)
+## Estratégia de Prospecção
+### Target
+- **Diretores de Marketing/Gerentes de Marca**: Focando em profissionais responsáveis por campanhas publicitárias e promoção de produtos.
+- **Equipe de Relacionamento e Parcerias**: Aqueles envolvidos na colaboração com influenciadores e conteúdo de marca.
 
-## 9. Redes Sociais
-As estratégias de marketing digital podem incluir a geração de conteúdo inspirador nas redes sociais, como:
-- Instagram
-- Facebook
-- Twitter
+### Mensagem Principal
+"Olá, [Nome do Contato],  
+Sabemos que o mercado está em constante transformação, e que a Fruki, com seus 100 anos de tradição, enfrenta novos desafios e oportunidades. Em um mundo cada vez mais digital, a presença nas redes sociais se torna essencial e o marketing de influência pode ser a chave para aumentar a visibilidade das suas marcas e engajar diferentes públicos. Vamos conversar sobre como podemos ajudar a Fruki a contar suas histórias de forma ainda mais impactante e conectar suas delícias ao coração dos consumidores?"
 
-## 10. Recomendações para a Prospecção
-1. **Conteúdo Personalizado:** Desenvolver campanhas de marketing de conteúdo que se alinhem com os valores de sustentabilidade e inovação da Fruki.
-2. **Colaboração com Influenciadores:** Identificar influenciadores que compartilhem dos mesmos valores e podem promover a responsabilidade social e ambiental da marca.
-3. **Aumentar o Engajamento no Social Media:** Utilizar dados e feedback de consumidores para criar conteúdo direcionado que responda exatamente o que eles buscam nas redes.
+## Contatos Úteis
+- **E-mail Geral:** contato@fruki.com.br
+- **Telefone:** 0800.703.9910
+- **Canal de Denúncias:** https://fruki.com.br/denuncias 
+- **Solicitar Patrocínio:** https://fruki.com.br/solicitar-patrocinio
 
-## 11. Conclusão
-A Fruki Bebidas é uma empresa consolidada, com forte presença regional e um histórico significativo que pode ser explorado em ações de marketing de influência. Alavancar sua imagem e diversificar suas parcerias, especialmente com influenciadores, pode conduzir a uma maior notoriedade e vendas. A abordagem deve ser cuidadosa, respeitando sua cultura e valores. 
+## Links Importantes
+- [Sobre a Fruki](https://fruki.com.br/sobre-nos/)
+- [Política de Privacidade](https://fruki.com.br/privacidade/)
+- [Política de Sustentabilidade](https://fruki.com.br/planeta-e-pessoas/)
 
 ---
 
-**Nota:** Este relatório é uma base inicial para a equipe de copywriting desenvolver um contato com a Fruki, de forma personalizada e alinhada com seus objetivos e valores.
+Este relatório servirá para guiar a elaboração do email para a Fruki Bebidas, destacando a importância do marketing de influência e alinhando uma proposta que vise não apenas promover produtos, mas também conectar a marca com suas comunidades de maneira mais autêntica e impactante.
