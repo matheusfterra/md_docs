@@ -1,58 +1,78 @@
-# Relatório de Prospecção - Grupo Solvi
+## Relatório de Prospecção - Grupo Solvi
 
-## Informações Gerais
+### 1. Informações Gerais sobre a Empresa
 
-- **Nome da Empresa**: Grupo Solvi
-- **Website**: [www.solvi.com](http://www.solvi.com)
-- **Setor**: Gestão Ambiental e Sustentabilidade
-- **Localização**: Sede em São Paulo, Brasil, com filiais na Argentina e Peru.
-- **Anos de Atividade**: Mais de 50 anos
+- **Nome da Empresa:** Grupo Solvi
+- **Website:** [solvi.com](http://www.solvi.com)
+- **Localização:** São Paulo, Brasil, com operações em Argentina e Peru.
+- **Ano de Fundação:** 50 anos de experiência no mercado.
+- **Número de Colaboradores:** 13.000
+- **Unidades de Valorização Sustentável (UVS):** Mais de 60
+- **Bases Operacionais:** Mais de 170
 
-## Descrição da Empresa
+### 2. Missão e Visão
 
-O Grupo Solvi é uma empresa que possui a missão de oferecer soluções ambientais para clientes públicos e privados, sempre que possível, promovendo o desenvolvimento sustentável. A empresa se destaca no mercado por meio do compromisso com a proteção do meio ambiente e a realização de práticas ambientais responsáveis. Seu foco em segurança, qualidade dos serviços, integridade e inovação a torna uma referência no setor.
+#### **Missão:**
+Oferecer soluções em resíduos, valorização energética e engenharia ambiental, atendendo a clientes públicos e privados. O Grupo busca promover o desenvolvimento de colaboradores e comunidades, gerando valor sustentável e respeito ao meio ambiente.
 
-### Missão
-"Oferecer soluções ambientais para clientes públicos e privados, promovendo o desenvolvimento sustentável."  
-### Visão
-"Ser o melhor grupo de empresas de gestão em soluções de engenharia ambiental para a vida e referência em oferecer serviços diferenciados, integrados e inovadores."  
-### Valores
-- Operação Segura
-- Integridade
-- Trabalho em Equipe
-- Inovação
+#### **Visão:**
+Ser o melhor grupo de empresas em gestão de engenharia ambiental, oferecendo serviços diferenciados e inovadores.
+
+### 3. Valores
+
+- Equipe
 - Excelência com Dinamismo
-- Responsabilidade Social e Ambiental
-- Parcerias
+- Inovação
+- Integridade
+- Operar Seguro
+- Parceria
+- Responsabilidade Socioambiental
 
-## Histórico e Prestígio
+### 4. Produtos e Serviços
 
-- O Grupo Solvi é conhecido por suas boas práticas em gestão ambiental e é um dos principais players no segmento, tendo crescido substancialmente ao longo das décadas. 
-- A empresa é proativa na adoção de tecnologias que ajudam a reduzir impactos ambientais e promover a circularidade.
+O Grupo Solvi oferece soluções em:
+- Gestão de resíduos
+- Valorização energética
+- Engenharia ambiental
 
-## Dores e Necessidades Potenciais
+Oferece também projetos de educação ambiental e soluções que promovem a circularidade, otimizando processos e reduzindo impactos ambientais.
 
-- **Conexão com Influenciadores**: Em um cenário onde a conscientização ambiental é crescente, a Solvi pode estar em busca de maneiras de comunicar suas ações e valores de forma mais efetiva ao público através de campanhas com influenciadores.
-- **Engajamento do Público**: Através do marketing de influência, a empresa pode querer criar conexões mais profundas e engajadas com seus consumidores e o público em geral, especialmente em projetos de educação ambiental.
-- **Desenvolvimento de Marca**: A Solvi pode também estar interessada em fortalecer sua brand awareness, posicionando-se como um líder em sustentabilidade no mercado através da parceria com influenciadores que compartilhem esses valores.
+### 5. Posicionamento e Diferenciais
 
-## Segmento de Mercado
+- **Foco em Sustentabilidade:** O Grupo possui um forte compromisso com a preservação ambiental e atua de forma a reduzir os impactos sociais e ambientais de suas operações.
+- **Inovação e Tecnologia:** Utilização de multitecnologias integradas para manejo de resíduos e valorização.
+- **Integração e Educação Ambiental:** Desenvolvimento de projetos de conscientização ambiental e parcerias com comunidades.
 
-- **Marketing de Influência**: A Solvi atua em um mercado que está em crescimento, com uma demanda crescente por autenticidade e conteúdo gerado por influenciadores. A interseção entre sustentabilidade e marketing digital pode gerar oportunidades valiosas.
+### 6. Contexto do Mercado
 
-## Concorrência
+Dentro do cenário atual, empresas têm buscado por soluções sustentáveis e que sejam socialmente responsáveis, sendo o marketing de influência uma estratégia que pode engajar consumidores em torno de práticas sustentáveis. Com a crescente preocupação das marcas em se alinharem a valores de responsabilidade social e ambiental, o Grupo Solvi está em uma posição ideal para ser representado através de campanhas de marketing de influência.
 
-- O setor de gestão ambiental possui diversas organizações competindo por espaço, com a necessidade cada vez maior de se destacar através de iniciativas inovadoras e comunicação efetiva. Colaborações com influenciadores podem ser um diferencial competitivo nesse contexto.
+### 7. Possíveis Dores e Oportunidades
 
-## Considerações Finais
+#### **Dores Potenciais:**
+- Desafios em comunicar e engajar o público sobre a importância da sustentabilidade.
+- Necessidade de criar campanhas que conectem a marca a valores sociais e ambientais.
+- Acompanhamento da percepção pública e avaliação do impacto social.
 
-- A **proposta de marketing de influência** deve ser articulada de maneira que não apenas atenda às necessidades de comunicação da Solvi, mas também reforce seu compromisso com a inovação e a sustentabilidade.
-- **Diferenciação**: É importante destacar como o marketing de influência pode ajudar o Grupo Solvi a se diferenciar em um mercado competitivo, engajando o público e fortalecendo sua imagem de marca.
-  
-## Próximos Passos
+#### **Oportunidades:**
+- Potencial de ampliar a presença em redes sociais através de influenciadores que compartilhem valores semelhantes.
+- Oportunidade de construir parcerias com influenciadores que atuam na área de sustentabilidade e meio ambiente.
+- Aumento no alcance e engajamento com o público-alvo jovem, que valoriza práticas de consumo responsável.
 
-1. **Investigação dos influenciadores relevantes**: Identificar influenciadores que compartilham valores de sustentabilidade e que podem contribuir para o fortalecimento da imagem da marca.
-2. **Elaboração de uma Proposta de Colaboração**: Criar uma proposta personalizada, alinhando os objetivos da Solvi com o potencial de impactar positivamente seu público-alvo por meio de influenciadores.
-3. **Contatar e discutir**: Entrar em contato com representantes da Solvi para apresentar a proposta e coletar feedback necessário para ajustes.
+### 8. Estratégia de Abordagem
 
-Com essas informações, espera-se que o copywriter da equipe tenha um entendimento completo do Grupo Solvi e possa elaborar uma comunicação assertiva, que ressoe com a missão e os valores da empresa, abordando suas potenciais necessidades de maneira eficiente.
+Sugere-se que o e-mail abordado pelo copywriter destaque:
+- A importância da responsabilidade social e ambiental, alinhando-se às práticas da Solvi.
+- Casos de sucesso de campanhas de influência que resultaram em maior engajamento sob temas de sustentabilidade.
+- O papel dos influenciadores em disseminar a mensagem da marca de forma autêntica e engajadora.
+- Propostas concretas de campanhas que podem ser trazidas para o Grupo, oferecendo soluções que expliquem como esses influenciadores podem ser impactantes em suas estratégias.
+
+### 9. Contatos Importantes
+
+- **Canal de Denúncias e Consultas:** [código de conduta](http://www.codigodecondutasolvi.com)
+- **Telefone Brasil:** 0800 721 0742
+- **E-mail para contato:** Disponível no site principal.
+
+---
+
+Este relatório servirá como base para que a equipe de copywriting desenvolva um e-mail adequado e personalizado, aproveitando as informações coletadas para estabelecer uma conexão real e significativa com o Grupo Solvi.
