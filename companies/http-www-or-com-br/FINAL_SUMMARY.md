@@ -1,89 +1,66 @@
-```markdown
-# Relatório de Prospecção - Marketing de Influência
+# Relatório de Prospecção - Empresa: OR Empreendimentos Imobiliários 
+
 ## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** Beleza Natural
-- **Segmento de Atuação:** Beleza e Cuidados Pessoais
-- **Localização:** Rio de Janeiro, RJ
-- **Tamanho da Empresa:** Aproximadamente 300 funcionários
-- **Ano de Fundação:** 2005
-- **Modelo de Negócio:** B2C
-
-## 2. Visão e Missão
-- **Missão da Empresa:** "Proporcionar beleza e autoestima a todos, através de produtos de qualidade que respeitam a diversidade."
-- **Visão da Empresa:** "Ser a líder em produtos de beleza que promovem a inclusão e a diversidade."
-
-## 3. Produtos e Serviços
-- **Principais Produtos/Serviços:**
-  - **Linha de Cabelos:** Especializada em cabelos cacheados e crespos, com ênfase em hidratação e definição.
-  - **Maquiagem:** Itens desenvolvidos para diferentes tons de pele, focando na abordagem inclusiva.
-  - **Cuidados com a Pele:** Linha de produtos naturais voltados para hidratação e proteção.
-- **Diferenciais Competitivos:** 
-  - Foco em um nicho crescente de produtos para cabelos cacheados e crespos.
-  - Campanhas que favorecem diversidade e inclusão.
-  - Parcerias estratégicas com influenciadores que se conectam diretamente com seu público-alvo.
-
-## 4. Público-Alvo
-- **Perfil do Cliente Ideal:** Mulheres de 18 a 35 anos que valorizam a beleza natural e buscam produtos que respeitem a diversidade.
-- **Segmentos de Mercado Alvo:**
-  - Beleza Natural e Inclusiva
-  - Produtos Veganos e Sustentáveis
-  - Moda e Estilo de Vida Inclusivo
-
-## 5. Presença Digital
-- **Website:** [www.belezanatural.com.br](http://www.belezanatural.com.br)
-- **Redes Sociais:** 
-  - [Facebook](http://www.facebook.com/beleazanatural)
-  - [Instagram](http://www.instagram.com/beleazanatural)
-  - [LinkedIn](http://www.linkedin.com/company/beleza-natural)
-  - [Twitter](http://www.twitter.com/beleazanatural)
-  - [TikTok](http://www.tiktok.com/@beleazanatural)
-  - [YouTube](http://www.youtube.com/c/BelezaNatural)
-- **Blog ou Artigos:** Contém posts sobre tendências de beleza, cuidados com cabelos cacheados e guias de maquiagem inclusiva. Atualizações frequentes sobre novas linhas de produtos e colaborações.
-
-## 6. Dados de Mercado
-- **Tendências do Setor:** 
-  - Aumento da demanda por produtos de beleza que atendam necessidades específicas, como cabelos cacheados.
-  - Crescimento do uso de marketing de influência como ferramenta de engajamento e vendas, especialmente entre o público jovem.
+- **Nome**: OR Empreendimentos Imobiliários
+- **Site**: [or.com.br](https://or.com.br)
+- **Localização**: Operações em quatro estados brasileiros (Bahia, Distrito Federal, Minas Gerais, Pernambuco, Rio de Janeiro, São Paulo)
   
-- **Concorrência:** 
-  - **O Boticário:** Forte presença no mercado, com foco mais amplo, abrangendo produtos de beleza generalista.
-  - **Natura:** Reconhecida por sua abordagem sustentável, mas menos focada em nichos específicos como o de cabelos cacheados.
-  - **L'Oréal:** Grande empresa com uma ampla linha de produtos, mas criticada por sua falta de conexão genuína com o público jovem.
+## 2. Descrição da Empresa
+A OR atua há 15 anos no mercado imobiliário com foco na incorporação e construção de empreendimentos residenciais, corporativos e loteamentos. A empresa se diferencia pela entrega de projetos com qualidade certificada, buscando sempre a sustentabilidade e desenvolvimento do espaço urbano.
 
-## 7. Dores e Desafios
-- **Possíveis Dores da Empresa:**
-  - Dificuldade em alcançar novos públicos fora do nicho inicial, especialmente homens e consumidores mais velhos.
-  - Baixa taxa de engajamento nas redes sociais devido à concorrência acirrada e a estratégias de conteúdo que não ressoam com o público.
-  - Necessidade de diversificação nas estratégias de marketing para manter a relevância.
-  - Desafio em se destacar em um mercado saturado com muitos produtos concorrentes.
+### Estatísticas Relevantes:
+- **+90 Empreendimentos concluídos**
+- **+55 mil Clientes satisfeitos**
+- **+22 cidades atendidas no Brasil**
 
-## 8. Oportunidades
-- **Oportunidades de Crescimento:** 
-  - Expandir para novas plataformas, como TikTok, com conteúdos dinâmicos e interativos.
-  - Colaboração com influenciadores emergentes que têm forte conexão com o público jovem e engajado.
-  - Implementação de micro-influenciadores para aumentar engajamento e autenticidade nas campanhas.
-  - Criação de campanhas colaborativas que destaquem histórias de clientes reais utilizando os produtos.
+### Valores da Empresa:
+- **Qualidade**
+- **Inovação**
+- **Compromisso**
+- **Inspiração no desejo de cada cliente**
 
-## 9. Proposta de Valor
-- **Como nossa empresa pode ajudar:**
-  - Conectar a Beleza Natural a influenciadores que compartilhem seus valores de inclusão e diversidade, ampliando seu reconhecimento e aceitação no mercado.
-  - Desenvolvimento de campanhas personalizadas que reflitam sua missão e impactem positivamente seu público-alvo, utilizando storytelling para criar uma conexão emocional.
-  - Aumento da visibilidade digital e do engajamento através de parcerias estratégicas com influenciadores relevantes, amplificando o alcance da marca.
-  - Suporte na análise de resultados e otimização das campanhas para garantir o melhor retorno sobre investimento.
+## 3. Portfólio de Lançamentos e Empreendimentos
+A OR possui uma variedade de empreendimentos que abrangem diferentes perfis de clientes, desde apartamentos compactos até residenciais de alto padrão. Exemplos de empreendimentos incluem:
 
-## 10. Contatos Relevantes
-- **Tomador de Decisão Principal:** 
-  - Ana Silva, Diretora de Marketing, ana@belezanatural.com.br
-- **Equipe de Marketing:** 
-  - Carlos Souza, Gerente de Mídias Sociais, carlos@belezanatural.com.br
-  - Fernanda Almeida, Coordenadora de Conteúdo, fernanda@belezanatural.com.br
+1. **RYT Paulista Apartments - Bela Vista, SP**
+   - Lançamento com unidades de 31 a 43 m².
+   - Destinado a moradores e investidores em busca de conforto e modernidade.
 
-## 11. Informações Adicionais
-- **Últimas Notícias/Releases:** Recentemente, a Beleza Natural lançou uma campanha focada em inclusão, resultando em excelente repercussão nas redes sociais e aumento de interações, com algumas postagens se tornando virais.
-- **Feedback de Clientes:** Muitos clientes elogiam a qualidade dos produtos, mas há comentários sobre a necessidade de maior diversidade e representatividade nas campanhas publicitárias.
+2. **Baume Itaim - São Paulo, SP**
+   - Em construção, com 4 suítes e áreas de 219 a 277 m².
+   - Foco em elegância e exclusividade, conta com diversas áreas comuns como piscina aquecida e espaço fitness.
+
+3. **Evoke Reserva do Paiva - Cabo de Santo Agostinho, PE**
+   - Lançamento, apartamentos de 59 a 80 m².
+   - Enfatiza a integração com a natureza e oferece diversas áreas de lazer.
+
+4. **Legacy - Salvador, BA**
+   - Empreendimento em construção com 4 suítes, variando de 209,88 m² a 419,76 m².
+   - Foco em tradições familiares e luxo contemporâneo.
+
+5. **Lumine High Residence - Campo Belo, SP**
+   - Breve lançamento com unidades de 151 e 266 m².
+   - Projetos que priorizam a iluminação natural e o bem-estar.
+
+## 4. Contexto e Dores do Cliente
+### Possíveis Dores:
+- **Concorrência no Segmento**: As empresas no setor imobiliário enfrentam uma competição intensa que demanda inovação contínua e diferenciada.
+- **Expectativas do Cliente**: Com a crescente demanda por imóveis que atendam a necessidades sustentáveis e luxuosas, há uma necessidade de se alinhar cada vez mais com as expectativas dos clientes.
+- **Mercado Flutuante**: As mudanças econômicas e na legislação podem impactar diretamente no tempo de venda e no preço dos imóveis.
+
+## 5. Segmento e Oportunidades de Marketing de Influência
+- **Influência Local**: O marketing de influência pode ajudar a destacar as qualidades dos empreendimentos, conectando-os a influenciadores locais que já têm uma relação com o público-alvo.
+- **Testemunhos em Redes Sociais**: Utilização de influenciadores para gerar provas sociais, mostrando a satisfação de clientes reais com os empreendimentos da OR.
+- **Conteúdo Personalizado**: Criação de conteúdo que destaca a exclusividade e a qualidade dos empreendimentos por meio de parcerias com influenciadores do setor imobiliário e lifestyle.
+
+## 6. Conclusão e Recomendações
+A OR Empreendimentos Imobiliários é uma potencia no setor, com um portfólio variado e um compromisso com a qualidade e a satisfação do cliente. Estrategicamente, a empresa pode se beneficiar muito de uma abordagem de marketing de influência que não só promove seus empreendimentos, mas também estabelece um relacionamento mais próximo com os clientes potenciais através de histórias autênticas e conteúdo envolvente.
+
+- **Recomendações**:
+  - Desenvolver uma campanha focada em influenciadores da área de lifestyle e arquitetura.
+  - Criar vídeos de testemunhos de clientes sobre suas experiências com os empreendimentos OR.
+  - Monitorar tendências de mercado e ajustar as estratégias de marketing de acordo com as expectativas do cliente.
 
 ---
 
-### Observações Finais
-Este relatório foi elaborado para proporcionar um entendimento detalhado sobre a empresa Beleza Natural, seu posicionamento no mercado e como uma colaboração em marketing de influência pode atender às suas necessidades. O objetivo é fornecer uma base sólida para um e-mail direcionado que ressoe com as aspirações e desafios atuais da empresa, ajudando a captar a atenção da Beleza Natural para a importância do marketing de influência em sua estratégia.
-```
+Com esse relatório, o copywriter pode criar um email personalizado que aborde as necessidades e expectativas da OR, destacando como o marketing de influência pode ser uma solução eficaz para captar novos clientes e fidelizar os existentes.
