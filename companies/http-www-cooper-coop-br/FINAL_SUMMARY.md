@@ -1,7 +1,7 @@
 # Relatório de Prospecção - Cooperativa de Produção Abastecimento Vale do Itajaí (Rede Cooper)
 
 ## **Informações Gerais da Empresa:**
-- **Nome da Empresa:** Cooperativa de Produção de Abastecimento do Vale do Itajaí
+- **Nome da Empresa:** Cooperativa de Produção Abastecimento do Vale do Itajaí
 - **CNPJ:** 82.647.165/0001-14
 - **Website:** [Cooperativa Cooper](http://www.cooper.coop.br)
 - **Ano de Fundação:** 1944
@@ -38,7 +38,7 @@ A Rede Cooper é uma cooperativa que atua como um ponto de abastecimento para se
 - **Concorrência com redes de supermercados:** Diferenciação em preço e qualidade de produtos.
 
 ## **Contexto do Segmento de Marketing de Influência:**
-A crescente digitalização e presença das redes sociais criaram oportunidades para as cooperativas se conectarem com seus cooperados e potenciais membros de maneira mais direta e envolvente. O marketing de influência, ao utilizar a voz de personalidades locais ou respeitáveis, pode ajudar a construir a imagem e a confiança na marca da Cooperativa, além de promover seus programas e benefícios diretamente ao público-alvo. 
+A crescente digitalização e presença das redes sociais criaram oportunidades para as cooperativas se conectarem com seus cooperados e potenciais membros de maneira mais direta e envolvente. O marketing de influência, ao utilizar a voz de personalidades locais ou respeitáveis, pode ajudar a construir a imagem e a confiança na marca da Cooperativa, além de promover seus programas e benefícios diretamente ao público-alvo.
 
 ## **Ideias de Conteúdo para Campanha de E-mail:**
 - Iniciar a comunicação com um foco na comunidade, destacando as ações sociais e benefícios que a cooperativa traz.
@@ -50,5 +50,4 @@ A crescente digitalização e presença das redes sociais criaram oportunidades 
 A Rede Cooper tem uma forte presença local e uma comunidade ativa, e o uso do marketing de influência pode aumentar ainda mais esse envolvimento. As estratégias personalizadas de e-mail marketing, alinhadas com as necessidades do público e o contexto social da cooperativa, podem resultar em um elevado interesse e engajamento, atraindo novos cooperados e fortalecendo a relação com os atuais. 
 
 ---
-
 Esse relatório foi elaborado para servir como base para a criação de um e-mail marketing eficaz e alinhado com os interesses da Rede Cooper e sua comunidade!
