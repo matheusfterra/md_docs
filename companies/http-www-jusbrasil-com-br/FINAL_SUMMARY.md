@@ -7,7 +7,7 @@
 **Localização:** Brasil  
 
 ## Descrição da Empresa
-O JusBrasil é uma plataforma online que oferece serviços de consulta processual e informações jurídicas. Destina-se a tanto a cidadãos comuns que necessitam entender e acompanhar seus processos judiciais, quanto a profissionais do direito e empresas que buscam informações completas sobre jurisprudência, doutrina e modelos de peças processuais.
+O JusBrasil é uma plataforma online que oferece serviços de consulta processual e informações jurídicas. Destina-se tanto a cidadãos comuns que necessitam entender e acompanhar seus processos judiciais, quanto a profissionais do direito e empresas que buscam informações completas sobre jurisprudência, doutrina e modelos de peças processuais.
 
 ### Principais Funcionalidades
 1. **Consulta Processual**:
