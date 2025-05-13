@@ -25,6 +25,11 @@ O Marketing de Influência se tornou uma estratégia vital para marcas que busca
 ### 3.1 Produtos e Planos
 - **Planos Variados**: Desde a Loja 1 com 100 produtos até planos corporativos com produtos ilimitados.
 - **Recursos Exclusivos**: E-mail marketing integrado, dicas sobre SEO, relatórios avançados e gestão de afiliados.
+- **Planos de Preços**: 
+    - **Loja 1**: 100 produtos - R$59/mês
+    - **Loja 2**: 500 produtos - R$99/mês
+    - **Loja 3**: 1000 produtos - R$199/mês
+    - **Corporativo**: Produtos ilimitados - consulta
 
 ### 3.2 Case de Sucesso
 - **Exemplo**: Aumento de 478% em GMV na Fabrispuma após migração para a Tray, destacando a eficácia da plataforma.
@@ -42,4 +47,4 @@ Para maximizar o impacto do Marketing de Influência, sugerimos a criação de c
 
 ---
 
-Esse relatório apresenta uma visão abrangente da Tray em relação ao marketing de influência, suas características e benefícios para empresas que desejam impulsionar suas operações de venda. O intuito é proporcionar ao copywriter material suficiente para elaborar um email que se conecte profundamente com as necessidades e desafios enfrentados pelas marcas.
+**Este relatório apresenta uma visão abrangente da Tray em relação ao marketing de influência, suas características e benefícios para empresas que desejam impulsionar suas operações de venda. O intuito é proporcionar ao copywriter material suficiente para elaborar um email que se conecte profundamente com as necessidades e desafios enfrentados pelas marcas.**
