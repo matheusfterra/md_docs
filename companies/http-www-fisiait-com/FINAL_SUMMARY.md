@@ -1,4 +1,4 @@
-## Relatório de Prospecção - Fisia Italimpianti
+# Relatório de Prospecção - Fisia Italimpianti
 
 ### 1. Informações Básicas da Empresa
 - **Nome da Empresa:** Fisia Italimpianti
@@ -10,12 +10,11 @@
 
 ### 2. Segmento de Mercado
 A Fisia Italimpianti atua principalmente nos seguintes segmentos:
-
 - **Dessalinização de Água**
 - **Tratamento de Água**
 - **Gerenciamento Sustentável de Resíduos**
 
-A empresa oferece uma gama completa de serviços, incluindo tecnologia *&* engenharia, design, aquisição, construção e operação/manutenção de plantas.
+A empresa oferece uma gama completa de serviços, incluindo tecnologia & engenharia, design, aquisição, construção e operação/manutenção de plantas.
 
 ### 3. Estrutura e Capacidades
 - **Equipe:** Altamente qualificada e experiente, com uma estrutura operacional sólida.
@@ -38,7 +37,7 @@ A Fisia Italimpianti está empenhada em resolver questões ambientais e a escass
 
 ### 6. Dores e Necessidades Potenciais
 - **Desafios Ambientais:** Necessidade de soluções inovadoras para lidar com a escassez de água e o tratamento sustentável de resíduos.
-- **Crescimento Sustentável:** A busca por parcerias que ofereçam inovação e fortalecem sua reputação no setor.
+- **Crescimento Sustentável:** A busca por parcerias que ofereçam inovação e fortaleçam sua reputação no setor.
 
 ### 7. Proposta de Valor para a Fisia Italimpianti
 **Como a nossa empresa de Marketing de Influência pode ajudar:**
