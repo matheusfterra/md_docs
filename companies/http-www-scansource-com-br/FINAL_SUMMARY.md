@@ -1,20 +1,20 @@
-# Relatório de Prospecção - ScanSource
+# Relatório de Prospecção - ScanSource Brasil
 
-## Informações Gerais da Empresa
+## 1. Informações Gerais da Empresa
 - **Nome da Empresa**: ScanSource Brasil
 - **Website**: [https://scansource.com.br](https://scansource.com.br)
 - **Segmento**: Distribuição de Tecnologia
 - **Fundação**: 1992
 - **Sede**: Greenville, Carolina do Sul, EUA
 - **Presença no Brasil**: Centros de distribuição em São Paulo, Espírito Santo, Paraná e Santa Catarina.
-  
-### Missão e Valores
+
+### 1.1 Missão e Valores
 - **Missão**: Impulsionar o sucesso dos parceiros de vendas fornecendo soluções que conectam empresas e pessoas.
 - **Valores**: Pessoas e Negócios, Responsabilidade Social, Diversidade, Equidade e Inclusão.
 
-## Produtos e Serviços
-### Portfólio de Produtos
-1. **Identificação Automática e Captura de Dados (AIDC)**: Leitores de códigos de barras, coletores de dados e impressoras de etiquetas.
+## 2. Produtos e Serviços
+### 2.1 Portfólio de Produtos
+1. **Identificação Automática e Captura de Dados (AIDC)**: Leitores de códigos de barras, coletores de dados, e impressoras de etiquetas.
 2. **Comunicação e Colaboração**: Soluções para gerenciamento de usuários e dispositivos.
 3. **Cloud**: Serviços em nuvem e a plataforma ScanSource Cloud.
 4. **Energia**: Sistemas de proteção contra falhas elétricas e nobreaks.
@@ -22,7 +22,7 @@
 6. **Rede e Infraestrutura**: Soluções para gerenciamento de rede.
 7. **Data Center e Virtualização**: Serviços para otimização de operações de TI.
 
-## Público-Alvo
+## 3. Público-Alvo
 - Empresas de diversos setores, incluindo:
   - Varejo
   - Indústria
@@ -30,24 +30,46 @@
   - Saúde
   - Educação
   - Governos
-  
-## Insights de Mercado
+
+## 4. Insights de Mercado
 - A ScanSource se posiciona como um distribuidor que integra soluções digitais, com foco na transformação digital e na eficiência operacional.
-- Com a crescente adoção de serviços em nuvem e soluções de pagamento digital, a empresa está alinhada às tendências de mercado que enfatizam a inovação e a tecnologia.
+- O avanço em serviços de nuvem e soluções de pagamento digital está em alta, alinhando a empresa com as tendências que enfatizam inovação e tecnologia.
 
-## Dores e Necessidades do Cliente
-1. **Soluções Integradas**: A demanda por soluções que centralizem e integrem diferentes tecnologias para otimizar processos.
-2. **Segurança da Informação**: Necessidade crescente de ferramentas para proteção contra ciberataques e fraudes.
-3. **Capacitação e Treinamento**: A oferta de treinamentos e suporte técnico é crucial, dada a complexidade das tecnologias atuais.
-4. **Customização**: Empresas buscam soluções personalizadas que atendam especificamente às suas necessidades.
+## 5. Dores e Necessidades do Cliente
+1. **Soluções Integradas**: Necessidade por soluções que centralizem e integrem diferentes tecnologias.
+2. **Segurança da Informação**: Necessidade de ferramentas de proteção contra ciberataques e fraudes.
+3. **Capacitação e Treinamento**: Relevância de treinamentos e suporte técnico, dado a complexidade das tecnologias atuais.
+4. **Customização**: Busca por soluções personalizadas atendendo necessidades específicas.
 
-## Contexto do Cliente
-As empresas estão atravessando um período de transformação na forma como operam, movendo-se cada vez mais para soluções digitais. A Capacidade da ScanSource para entregar serviços de ponta, somada à sua infraestrutura robusta, coloca-a como uma parceira estratégica para empresas que desejam melhorar produtividade e inovação.
+## 6. Contexto do Cliente
+As empresas estão atravessando um período de transformação digital. A ScanSource, com suas soluções robustas, é uma parceira estratégica para as que desejam melhorar a produtividade e a inovação.
 
-## Considerações Finais para Copywriting
-- Enfatizar a **história e experiência** da ScanSource como um elemento de confiabilidade.
-- Mencionar as **soluções práticas e personalizadas** que abordam as principais dores do cliente, especialmente em áreas como segurança e eficiência operacional.
-- Destacar a **rede de apoio**, oferecendo treinamentos e comissões, reforçando a importância da parceria e suporte contínuo.
-- Utilizar **testemunhos de clientes** que ressaltam a importância dos serviços oferecidos pela ScanSource.
+## 7. Considerações Finais para Copywriting
+- **História e Experiência**: Enfatizá-las como elemento de confiabilidade.
+- **Soluções Práticas**: A importância de oferecer soluções voltadas à segurança e eficiência operacional.
+- **Rede de Apoio**: Destacar o suporte contínuo e treinamentos como diferencial.
+- **Testemunhos de Clientes**: Incluir experiências que reforçam a qualidade dos serviços da ScanSource.
 
-Esse relatório deve servir como uma base para ações de prospecção, permitindo uma abordagem mais personalizada e uma comunicação mais efetiva com os potenciais clientes.
+---
+
+## Análise de Concorrentes e Oportunidades
+
+- **Concorrentes Diretos**:
+  - Empresas como Ingram Micro e TechData, que também atuam na distribuição de tecnologia.
+- **Oportunidades**:
+  - Aumento da demanda por soluções em nuvem e serviços de cibersegurança.
+  - Expansão da presença em setores como saúde e educação que estão investindo em tecnologia.
+
+## 8. Contatos e Redes Sociais
+- **Fale Conosco**: [Contate aqui](https://scansource.com.br/contato/)
+- **Redes Sociais**: Seguir para atualizações e ofertas.
+
+### 8.1 Endereços no Brasil
+- **São Paulo**: Avenida Ibirapuera, nº 2332.
+- **Espírito Santo**: Rua Porto Alegre, nº 307.
+- **Paraná**: Avenida Sete de Setembro, nº 2451.
+- **Santa Catarina**: Rua Tenente João Cícero, 301 - Boa Viagem, Recife - PE.
+
+---
+
+Este relatório será a base para as estratégias de prospecção, permitindo um contato mais personalizado e eficiente com potenciais clientes.
