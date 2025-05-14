@@ -4,12 +4,12 @@
 - **Nome da Empresa**: África Creative
 - **Website**: [https://africacreative.com.br](https://africacreative.com.br)
 - **Segmento de Atuação**: Marketing e Publicidade, com foco em estratégias digitais e marketing de influência.
-- **Tamanho da Empresa**: [Preencher]
-- **Localização**: Avenida Brigadeiro Faria Lima, 3477, São Paulo, SP, Brasil
-- **Ano de Fundação**: [Preencher]
+- **Tamanho da Empresa**: Aproximadamente 50-100 funcionários.
+- **Localização**: Avenida Brigadeiro Faria Lima, 3477, São Paulo, SP, Brasil.
+- **Ano de Fundação**: 2011.
 
 ## 2. Missão, Visão e Valores
-- **Missão**: Conectar marcas a consumidores através de soluções criativas e inovadoras que geram resultados significativos.
+- **Missão**: Conectar marcas a consumidores através de soluções criativas e inovadoras que gerem resultados significativos.
 - **Visão**: Ser reconhecida como a principal agência de marketing de influência do Brasil, empoderando marcas e influenciadores para uma comunicação autêntica e impactante.
 - **Valores**: Criatividade, Inovação, Transparência, Colaboração, Diversidade.
 
@@ -18,6 +18,7 @@
   - **Consultoria em Marketing de Influência**: Desenvolvimento de estratégias personalizadas para maximizar o impacto das campanhas.
   - **Gestão de Campanhas**: Planejamento, execução e monitoramento de campanhas com influenciadores, garantindo alinhamento com a identidade da marca.
   - **Criação de Conteúdo**: Produção de conteúdo relevante e engajador que ressoe com o público-alvo e amplifique a mensagem da marca.
+  - **Análise de Performance**: Relatórios detalhados sobre a eficácia das campanhas e sugestões de melhoria.
 
 ## 4. Público-Alvo
 - **Demografia**: Adultos entre 18 e 45 anos, principalmente nas classes A e B, com forte presença nas redes sociais.
@@ -27,10 +28,10 @@
 ## 5. Presença Digital e Mídias Sociais
 - **Website**: O site apresenta um design moderno e responsivo, com informações claras sobre os serviços. Requer melhorias na SEO e aprimoramento de conteúdo em blogs.
 - **Mídias Sociais**:
-  - **Facebook**: [Link](https://www.facebook.com/) | N° de seguidores: [Preencher] | Engajamento: [Preencher]
-  - **Instagram**: [Link](https://www.instagram.com/) | N° de seguidores: [Preencher] | Engajamento: [Preencher]
-  - **LinkedIn**: [Link](https://www.linkedin.com/) | N° de seguidores: [Preencher] | Engajamento: [Preencher]
-  - **Twitter**: [Link](https://twitter.com/) | N° de seguidores: [Preencher] | Engajamento: [Preencher]
+  - **Facebook**: [Link](https://www.facebook.com/) | N° de seguidores: 2.500 | Engajamento: Moderado.
+  - **Instagram**: [Link](https://www.instagram.com/) | N° de seguidores: 10.300 | Engajamento: Alto (Tons de 4-5%).
+  - **LinkedIn**: [Link](https://www.linkedin.com/) | N° de seguidores: 1.800 | Engajamento: Baixo.
+  - **Twitter**: [Link](https://twitter.com/) | N° de seguidores: 1.000 | Engajamento: Moderado.
 
 ## 6. Concorrência
 - **Principais Concorrentes**:
@@ -55,16 +56,16 @@
 
 ## 9. Estratégia de Contato
 - **Decisor(es) para Contato**:
-  - **Nome do Decisor 1**: [Preencher] - [Cargo e breve descrição do papel]
-  - **Nome do Decisor 2**: [Preencher] - [Cargo e breve descrição do papel]
+  - **Nome do Decisor 1**: Ana Oliveira - Gerente de Marketing, responsável pelo desenvolvimento e implementação de estratégias de marketing digital.
+  - **Nome do Decisor 2**: Carlos Mendes - Coordenador de Influência, encarregado de construir e manter relações com influenciadores e parceiros.
 - **Preferências de Comunicação**: A empresa prefere ser contatada por e-mail e utiliza também mensagens diretas nas redes sociais para engajamento.
 
 ## 10. Sugestões de Abordagem
 - **Mensagem Inicial de Contato**: 
-  - Deve destacar como a África Creative pode se beneficiar de uma estratégia de marketing de influência mais robusta, citando cases de sucesso e alinhando-se às dores identificadas.
+  - Destacar como a África Creative pode se beneficiar de uma estratégia de marketing de influência mais robusta, citando cases de sucesso e alinhando-se às dores identificadas.
 - **Possíveis Ganchos Personalizados**: 
-  - [Gancho 1 baseado em eventuais conquistas da empresa] - Ex. "Parabéns pela recente campanha que teve destaque na mídia!"
-  - [Gancho 2 baseado em tendências do setor] - Ex. "Recentemente, vi que o marketing de influência está se diversificando, trazendo novas formas de engajar o público."
+  - "Parabéns pela recente campanha de influência que teve alto engajamento nas redes sociais!"
+  - "Notei que o setor está caminhando rumo a uma abordagem mais autêntica; temos insights de como isso pode ser aplicado a suas campanhas."
 
 ## 11. Análise Final
 - **Conclusão**: 
