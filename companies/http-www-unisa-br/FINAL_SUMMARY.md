@@ -1,73 +1,65 @@
-# Relatório de Prospecção - Universidade Santo Amaro (Unisa)
+# Relatório de Prospecção: Universidade Santo Amaro (Unisa)
 
-## 1. Informações Gerais
-- **Nome da Empresa:** Universidade Santo Amaro (Unisa)
-- **Segmento:** Educação
-- **Tipo de curso:** Graduação, Pós-Graduação, Cursos Livres e Educação a Distância (EAD)
-- **Localização:** São Paulo, Brasil
-- **Data de Fundação:** 50 anos de história (mantém tradição de ensino superior)
+## 1. Informações Gerais da Empresa
 
-----
+**Nome da Empresa:** Universidade Santo Amaro (Unisa)  
+**Website:** [http://www.unisa.br](http://www.unisa.br)  
+**Localização:** R. Prof. Enéas de Siqueira Neto, 340, Jd. das Imbuias, São Paulo, SP  
+**Telefone:** (11) 2141-8555  
+**E-mail:** Não especificado, mas contato disponível na página de atendimento.
 
-## 2. Estrutura e Oferta de Cursos
-### 2.1 Modalidades de Ensino
-- **Presencial**: Oferece cursos com encontros diários em cinco campi.
-- **EAD**: Pioneira na educação a distância no Brasil. Tem mais de 450 polos educacionais.
-- **Semipresencial**: Combina aulas online e presenciais.
+### 1.1. História e Missão
+A Universidade Santo Amaro tem quase 60 anos de história e se posiciona como uma instituição que visa democratizar o acesso ao ensino superior, promovendo inclusão social e educação de qualidade. A missão da Unisa é transformar vidas através da educação, contribuindo para o desenvolvimento pessoal e profissional de seus alunos.
 
-### 2.2 Tipos de Cursos
-- **Graduação**: Várias áreas, incluindo Administração, Saúde, Direito, Engenharia, entre outras.
-- **Pós-Graduação**: Oferece especializações em diversas áreas.
-- **Cursos Livres**: Como Administração de Vendas, Monitoramento e Análise de Redes, entre outros.
-- **Educação a Distância (EAD)**: Flexibilidade para estudar em qualquer lugar.
+### 1.2. Modalidades de Ensino
+- **Presencial:** Cursos oferecidos em cinco campi localizados em São Paulo e Guarulhos, com infraestrutura moderna e equipada.
+- **EAD (Educação a Distância):** Pioneira em EAD no Brasil, com mais de 450 polos de apoio.
+- **Semipresencial:** Combinação de aulas online e encontros presenciais.
 
-### 2.3 Promissões e Ofertas
-- Ofertas de bolsas de estudo de 100% através do Vestibular Social.
-- Descontos de acordo com a nota do ENEM para novos alunos.
-- Campanhas promocionais para novos ingressantes, como "Estude Agora" e "Grito de Matrícula" oferecendo mensalidades gratuitas.
+## 2. Áreas de Atuação
 
-----
+A Unisa oferece uma variedade de cursos nas seguintes modalidades:
 
-## 3. Análise de Dores e Necessidades
-### 3.1 Possíveis Dores:
-- **Concorrência no Setor Educacional**: Necessidade de se destacar em um mercado com diversas instituições educacionais.
-- **Captação e Retenção de Alunos**: Desafios em atrair e manter estudantes em um cenário de EAD e presencial.
-- **Sustentação da Reputação**: Garantir a qualidade do ensino para manter a confiança dos alunos e do mercado.
+- **Graduação:** Diversas áreas de conhecimento, incluindo Administração, Direito, Engenharia, Saúde, entre outras.
+- **Pós-Graduação:** Cursos de especialização em diversas áreas.
+- **Cursos Livres:** Cursos rápidos focados em habilidades específicas (ex: Administração de Vendas e Relacionamento, Administração de Redes).
 
-### 3.2 Necessidades:
-- **Aumento de Visibilidade**: Utilizar influenciadores para melhorar a presença da marca no mercado.
-- **Comunicação Personalizada**: Mensagens direcionadas que ressoem com o público-alvo, especialmente novos estudantes.
-- **Promoção da Diversidade de Cursos**: Mostrar a variedade de opções para atender a diferentes perfis de estudantes.
+## 3. Principais Programas e Iniciativas
 
-----
+### 3.1. Programas de Empregabilidade
+A Unisa conta com o Programa **Conecta**, que oferece suporte na colocação de alunos e ex-alunos no mercado de trabalho, incluindo oficinas de preparação de currículos e entrevistas.
 
-## 4. Contexto e Oportunidades
-### 4.1 Contexto do Setor Educacional:
-- O mercado de educação tem passado por mudanças significativas, incluindo uma migração para o EAD.
-- A pandemia acelerou a aceitação da educação online, tornando vital a presença digital das instituições.
+### 3.2. Vestibular Social
+O Vestibular Social da Unisa busca oferecer bolsas de estudo de 100% para alunos com dificuldades financeiras, incentivando a inclusão e acesso ao ensino superior.
 
-### 4.2 Oportunidades na Conexão com Influenciadores:
-- Parcerias com influenciadores e criadores de conteúdo podem ajudar na captação de estudantes, promovendo os cursos e as condições especiais.
-- Histórias de sucesso de alunos influenciadores podem servir como uma poderosa ferramenta de marketing.
+## 4. Diferenciais Competitivos
 
-----
+- **Promoções e Descontos:** A Unisa frequentemente oferece promoções atrativas, como isenção de mensalidades e descontos a partir da nota do ENEM. Isso pode ser um chamado forte para público-alvo com restrições financeiras.
+- **Certificação de Cursos:** A Unisa é reconhecida pelo MEC e oferece cursos certificados, garantindo a qualidade da educação.
+- **Flexibilidade nos estudos:** Com modalidades EAD, semipresencial e presencial, a Unisa se adapta às rotinas diversas de seus alunos.
 
-## 5. Referências e Contatos
-- **Site:** [www.unisa.br](http://www.unisa.br)
-- **E-mail:** _dpo@unisa.br_ (para privacidade e dados)
-- **Telefone:** (11) 2141-8555
-- **Endereço:** R. Prof. Enéas de Siqueira Neto, 340, Jd. das Imbuias, São Paulo, SP, Brasil
+## 5. Dores e Desafios
 
-----
+- **Concorrência no mercado educacional:** A Unisa enfrenta concorrência crescente de outras instituições de ensino que também estão expandindo suas ofertas em EAD.
+- **Relevância curricular:** Necessidade de constante atualização dos cursos oferecidos para se manter em destaque e relevante no mercado de trabalho.
+- **Atração de novos alunos:** Garantir uma captação de alunos diversificada, considerando interesses de diferentes faixas etárias e de diferentes regiões.
 
-## 6. Considerações Finais
-A Universidade Santo Amaro possui um forte portfólio de cursos e está bem posicionada para se beneficiar da utilização de estratégias de marketing de influência. Sua necessidade de visibilidade e destaque em um mercado competitivo apresenta uma oportunidade significativa para campanhas bem elaboradas que engajem potenciais alunos através de influenciadores alinhados com seu segmento.
+## 6. Oportunidades de Parceria
 
-### Proposta para o Copywriter:
-- **Personalização do Conteúdo**: O email deve refletir a importância que a Unisa dá à educação de qualidade e à acessibilidade, enfatizando as promoções atuais e a flexibilidade das modalidades.
-- **Exemplos de Alunos Influenciadores**: Usar a história de alunos que tiveram sucesso após estudarem na Unisa, reforçando empatia e conexão emocional.
-- **Call to Action**: Criar um convite claro para que os destinatários visitem a página da Unisa e descubram as ofertas e programas.
+A Unisa pode se beneficiar de uma parceria de marketing de influência para promover seus cursos, especialmente:
+
+- **Parcerias com influenciadores jovens:** Focar em influenciadores que falam sobre educação, desenvolvimento pessoal e carreiras.
+- **Campanhas voltadas a EAD:** Com a crescente popularidade do aprendizado online, campanhas direcionadas podem atingir novos alunos potencialmente interessados em flexibilizar suas carreiras.
+
+## 7. Exemplos de Contato e Ações
+
+- **Ação de Prospecção:** Uma proposta personalizada de colaboração que demonstre como a Unisa pode aumentar sua visibilidade e atração através de campanhas com influenciadores do segmento educacional.
+- **Exemplo de Mensagem:** Um e-mail inicial que destaca dados sobre o investimento em marketing de influência e como isso pode aumentar as inscrições para o vestibular e os cursos de pós-graduação disponíveis.
+
+## 8. Conclusão
+
+A Universidade Santo Amaro é uma instituição rica em história e tradição, com uma clara missão de democratização do acesso ao ensino superior. Ao alinhar estratégias de marketing de influência em seus esforços promocionais, a Unisa pode não apenas expandir sua base de estudantes, mas também reforçar seu papel como uma referência em educação no Brasil.
 
 ---
 
-Este relatório deve servir como um guia abrangente para a elaboração de uma abordagem customizada e eficaz ao se conectar com a Universidade Santo Amaro, usando estratégias de marketing de influência.
+Esse relatório detalhado proporciona ao copywriter da equipe todas as informações relevantes para a elaboração de um e-mail de prospecção personalizado e impactante, alinhado com as necessidades e características da Unisa.
