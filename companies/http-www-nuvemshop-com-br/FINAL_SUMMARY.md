@@ -1,5 +1,3 @@
-```markdown
-## 📄 `FINAL_SUMMARY.md`
 # Relatório de Prospecção - Nuvemshop
 
 ## 1. **Informações Gerais da Empresa**
@@ -11,7 +9,7 @@
 - **Modelo de Negócio:** Plataforma SaaS para criação e gestão de lojas virtuais
 
 ## 2. **Visão Geral da Plataforma**
-A Nuvemshop fornece uma solução completa para empreendedores que desejam criar lojas online de forma fácil e intuitiva. A plataforma é conhecida por sua interface amigável e por robustas funcionalidades para e-commerce:
+A Nuvemshop fornece uma solução completa para empreendedores que desejam criar lojas online de forma fácil e intuitiva. A plataforma é conhecida por sua interface amigável e robustas funcionalidades para e-commerce:
 - **Diferenciais:**
   - Mais de 160 mil lojistas na plataforma
   - Acima de R$ 17 bilhões em vendas anuais na América Latina
@@ -20,13 +18,13 @@ A Nuvemshop fornece uma solução completa para empreendedores que desejam criar
 
 ## 3. **Público-Alvo**
 - **Empreendedores iniciantes no e-commerce:** Buscando um caminho simples para iniciar suas vendas online.
-- **Lojistas que desejam migrar de plataformas existentes** (como Shopify): Procurando uma solução mais personalizada e com suporte local.
-- **Empresas buscando escalar suas operações de venda online:** Precisa de soluções robustas e acessíveis para um alto volume de vendas.
+- **Lojistas que desejam migrar de plataformas existentes (como Shopify):** Procurando uma solução mais personalizada e com suporte local.
+- **Empresas buscando escalar suas operações de venda online:** Precisando de soluções robustas e acessíveis para um alto volume de vendas.
 - **Negócios com altos volumes de vendas que necessitam de soluções personalizadas:** Demandando recursos específicos e maior atenção no suporte.
 
 ## 4. **Funções e Funcionalidades da Nuvemshop**
 - **Criação de Lojas:** Ferramenta intuitiva para montagem de lojas virtuais.
-- **Planos de Assinatura:** Diversos planos disponíveis, que vão do gratuito ao premium, que oferecem suporte e melhores funcionalidades.
+- **Planos de Assinatura:** Diversos planos disponíveis, que vão do gratuito ao premium, oferecendo suporte e melhores funcionalidades.
 - **Meios de Pagamento:** Integração com múltiplas opções de pagamento.
 - **Logística:** Soluções logísticas que proporcionam até 50% de desconto nos fretes.
 - **Suporte e Consultoria:** Disponibilidade de especialistas para ajudar na migração e personalização do e-commerce.
@@ -40,7 +38,7 @@ A Nuvemshop fornece uma solução completa para empreendedores que desejam criar
 ## 6. **Características do Cliente Ideal (ICP)**
 - Empreendedores com conhecimento sobre e-commerce, mas sem estrutura adequada para gerenciar uma loja online.
 - Pequenas e médias empresas que buscam uma plataforma personalizável, com custo inicial reduzido e escalabilidade.
-- Marcas que desejam expandir suas operações online rapidamente e com suporte contínuo.
+- Marcas que desejam expandir suas operações online rapidamente e necessitam de suporte contínuo.
 
 ## 7. **Concorrência**
 - Shopify
@@ -55,7 +53,7 @@ A Nuvemshop fornece uma solução completa para empreendedores que desejam criar
 
 ## 9. **Mensagens e Propostas de Valor**
 - **"Empreenda com a Nuvemshop":** Alinhando-se ao perfil de novos empreendedores que buscam iniciar suas vendas online.
-- **"Cresça sem limites":** Conectando-se com lojistas com o desejo de escalar rapidamente seus negócios.
+- **"Cresça sem limites":** Conectando-se com lojistas que desejam escalar rapidamente seus negócios.
 - **"Facilite suas vendas":** Enfatiza a simplicidade na gestão da loja, removendo complexidades do e-commerce.
 
 ## 10. **Recomendações Estratégicas para Prospecção**
@@ -71,4 +69,8 @@ A Nuvemshop fornece uma solução completa para empreendedores que desejam criar
 
 ### Observações Finais
 Este relatório foi elaborado para fornecer informações essenciais que permitirão à equipe de copywriting compor um e-mail de prospecção autêntico, relevante e que converse diretamente com as necessidades do público-alvo da Nuvemshop.
-```
+
+## Detalhes Adicionais
+A Nuvemshop é um player significativo no mercado latino-americano com um compromisso claro de apoiar empresas a crescer online. A escolha da Nuvemshop é frequentemente fruto de um desejo de suporte local, funcionalidade robusta e integração facilitada com múltiplos canais de vendas. Familiarizar-se mais com as necessidades e desafios específicos de potenciais clientes ajudará a criar uma narrativa mais forte e personalizada, o que pode resultar em um maior engajamento durante a prospecção.
+
+A proposta de um check-in após e-mails iniciais para discutir possíveis preocupações ou perguntas pode potencialmente melhorar as taxas de conversão e fortalecer as relações com os leads.
