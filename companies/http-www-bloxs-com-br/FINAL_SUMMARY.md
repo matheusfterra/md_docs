@@ -12,13 +12,13 @@
   - Mercado de Capitais
   - Investimentos Alternativos
   - Operações Estruturadas
-- **Mercado alvo:**
+- **Mercado-alvo:**
   - Investidores Institucionais
   - Empresas do Middle Market
 - **Valorização em números:** 
   - R$ 3 bilhões processados mensalmente
   - +6.500 profissionais do sell-side
-  - +300 investidores profissionais e +4.000 investidores qualificados na plataforma.
+  - +300 investidores profissionais e >4.000 investidores qualificados na plataforma.
 
 ### 3. Soluções e Serviços Oferecidos
 - **Emissão Digital:** Facilita a emissão de títulos e valores mobiliários, como securitização e fundos.
@@ -40,7 +40,7 @@
 #### Ações a serem tomadas
 - **Identificação de leads:** Atualizar a lista de empresas e influenciadores que ainda não estão utilizando a plataforma, focando segmentos do middle market que atuam em setores específicos (agro, infraestrutura, energia, entre outros).
 - **Campanhas de conscientização:** Criar campanhas que mostram o valor de estar na plataforma Bloxs e o potencial de alcance que as empresas podem ter com a ajuda de influenciadores.
-  
+
 ### 7. Proposta de Conteúdo Personalizado
 **Assunto do Email:** "Impulsione sua Captação de Recursos com a Bloxs – O Futuro do Mercado de Capitais"
 - **Personalização:** Referenciar dados de captação específicos da empresa alvo.
