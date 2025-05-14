@@ -1,51 +1,55 @@
-# Relatório de Prospecção: Sympla
+## Relatório de Prospecção - Sympla
 
-## Informações Gerais
-**Nome da Empresa:** Sympla  
-**Segmento:** Tecnologia e Eventos (Plataforma de Gestão de Eventos)  
-**Website:** [sympla.com.br](http://www.sympla.com.br)  
-**Localização:** Brasil  
+### Informações Gerais da Empresa
+- **Nome da Empresa**: Sympla
+- **Website**: [www.sympla.com.br](http://www.sympla.com.br)
+- **Setor**: Tecnologia e Eventos
+- **Localização**: São Paulo, SP, Brasil
+- **Ano de Fundação**: 2012
+- **Número de Funcionários**: Aproximadamente 400
+- **Modelo de Negócio**: Plataforma de gestão de eventos e venda de ingressos online.
+  
+### Visão Geral do Produto
+Sympla é uma plataforma que permite a criação, gestão e promoção de eventos, oferecendo serviços como:
+- Venda de ingressos online
+- Gestão de participantes
+- Integração com ferramentas de marketing
+- Análise de dados e métricas de eventos
+- Soluções para eventos online, híbridos e presenciais
 
-## Descrição da Empresa
-A Sympla é uma plataforma brasileira que atua na gestão de eventos, oferecendo soluções para a venda de ingressos e organização de eventos presenciais e online. É considerada uma das maiores plataformas de eventos do Brasil, permitindo que organizadores de eventos publiquem, vendam ingressos e gerenciem a participação do público em uma variedade de eventos, desde festas e shows até cursos e conferências.
+### Público-Alvo
+- **Segmentos**: Organizações de eventos, produtores culturais, empresas que realizam eventos corporativos, instituições educacionais e indivíduos que desejam organizar eventos.
+- **Perfil dos usuários**: De estudantes a empresários e organizações de grande porte que buscam uma solução eficiente para gerenciar eventos e aumentar a participação do público.
 
-## Características do Produto
-1. **Venda de Ingressos:** Permite que organizadores publiquem seus eventos e vendam ingressos online.
-2. **Eventos Online:** Suporte para transmissão de eventos através de várias plataformas (Youtube, Facebook, Zoom, etc.).
-3. **Políticas de Cancelamento e Reembolso:** Cláusulas definidas para cancelamento, incluindo não reembolso parcial.
-4. **Integrações:** Oferece API para integração com outras plataformas e soluções personalizadas.
-5. **Consultoria:** Disponibilidade de consultores de vendas para ajudar organizadores a otimizar eventos.
-6. **Soluções para Eventos:** Inclui ferramentas como controle de entrada, troca de titularidade de ingressos e suporte ao cliente.
+### Características da Marca
+- **Missão**: Facilitar a organização de eventos, democratizando o acesso à cultura e ao entretenimento.
+- **Visão**: Ser a plataforma de eventos preferida no Brasil, reconhecida pela inovação e excelência no atendimento.
+- **Valores**: Inovação, simplicidade, transparência e comprometimento.
 
-## Dores e Desafios
-1. **Concorrência Elevada:** O setor de eventos é altamente competitivo, com várias plataformas emergindo que oferecem serviços similares.
-2. **Fraudes e Segurança:** Necessidade constante de garantir a segurança das transações e evitar fraudes na venda de ingressos.
-3. **Gestão de Reembolsos:** A gestão dos pedidos de cancelamento e reembolso é complexa e pode impactar a satisfação do cliente.
-4. **Adaptação a Tecnologias:** Necessidade de adaptação constante às novas tecnologias e tendências do mercado de eventos.
+### Contexto do Mercado
+- O mercado de eventos no Brasil tem crescido significativamente nos últimos anos, impulsionado pela maior democratização do acesso à tecnologia e pela busca de experiências únicas por parte dos consumidores.
+- A pandemia de Covid-19 impactou este setor, levando milhões de eventos a serem cancelados ou cancelados, mas impulsionou a digitalização e a realização de eventos online.
+- Com a volta gradual dos eventos presenciais, há uma oportunidade de captar tanto eventos físicos quanto digitais/híbridos.
 
-## Contexto do Setor de Marketing de Influência
-- **Crescimento do Marketing de Influência:** O marketing de influência tem se tornado uma estratégia vital para marcas que buscam engajar o público de maneira autêntica.
-- **Busca por Parcerias:** A Sympla pode se beneficiar ao formar parcerias com influenciadores que estão organizando ou promovendo eventos para maximizar a visibilidade.
-- **Aumento da Digitalização:** A transição para eventos online destaca a necessidade de abordagens inovadoras para engajar os participantes virtualmente.
+### Dores Potenciais
+- **Falta de visibilidade**: Dificuldade em alcançar o público-alvo adequado para eventos.
+- **Gestão de dados**: Necessidade de soluções que permitam a coleta e análise de dados para entender o perfil dos participantes e melhorar futuras edições de eventos.
+- **Concorrência elevada**: Muitas plataformas competindo pelo mesmo segmento, tornando essencial a diferenciação e a eficiência no marketing.
+- **Integração das equipes**: Integrar diferentes departamentos (marketing, vendas, atendimento ao cliente) para uma gestão mais eficaz dos eventos.
 
-## Oportunidades para Proposta de Parceria
-1. **Promoção de Eventos Através de Influenciadores:** Criação de campanhas de marketing de influência em que influenciadores promovam eventos na plataforma Sympla, trazendo novos públicos.
-2. **Uso de Dados para Segmentação:** Utilização de dados da plataforma para segmentar influenciadores e sugerir eventos que alinhem com suas audiências, aumentando a relevância das campanhas.
-3. **Criação de Conteúdos Coletivos:** Colaboração com influenciadores para criar conteúdos e experiências que possam ser publicadas nas redes sociais e impulsionadas para o público-alvo.
+### Estratégias de Marketing
+- Atualmente, a Sympla pode utilizar influenciadores para aumentar a visibilidade de seus eventos e promoção de palestrantes/marcas através da atuação em redes sociais e eventos digitais.
+- Parcerias com influenciadores em nichos relevantes podem agregar valor e aumentar a credibilidade junto ao público-alvo.
 
-## Mensagem Personalizada para Proposta
-"Olá [Nome do Contato],
+### Oportunidades de Influência
+- Utilização de micro-influenciadores que tenham um relacionamento forte com o público e podem trazer autenticidade à promoção de eventos.
+- Criação de campanhas em conjunto com influenciadores que tenham experiência em eventos e possam compartilhar suas histórias e experiências sobre a utilização da plataforma.
+- Co-criação de conteúdo em formatos como vídeos, webinars e podcasts, elevando a marca e potencializando o alcance dos eventos.
 
-Acredito que a Sympla é uma plataforma incrível que potencializa a experiência de eventos no Brasil, conectando organizadores a um público ansioso e engajado. Com o crescimento do marketing de influência, vejo uma oportunidade fantástica para maximizar a visibilidade de eventos por meio de parcerias estratégicas com influenciadores que estão promovendo experiências únicas e autênticas.
+### Conclusão
+A Sympla é uma forte candidata a explorar o marketing de influência como uma forma de maximizar o alcance e o engajamento de suas iniciativas. Com uma dor no acesso e promoção de eventos, a proposta de nossa empresa poderá ajudá-los a alcançar um público mais amplo e qualificado, além de maximizar a performance dos eventos organizados através de uma abordagem mais analítica e integrada.
 
-Gostaria de explorar formas inovadoras de como podemos juntos potenciar a promoção dos seus eventos através da força de influenciadores alinhados à marca. Vamos discutir como podemos levar a experiência Sympla a novos patamares?
-
-Aguardo seu retorno!
-
-[Seu Nome]  
-[Seu Cargo]  
-[Nome da Sua Empresa]  
-[Contato]"
-
-## Conclusão
-A Sympla é uma empresa bem posicionada no mercado de gestão de eventos, e a colaboração com influenciadores pode agregar valor significativo a suas atividades. Um entendimento profundo das características e desafios da Sympla ajudará a formular uma proposta de parceria que seja relevante e de alto impacto, tanto para a empresa quanto para os influenciadores envolvidos.
+### Ações Recomendadas
+- Preparar uma proposta personalizada mostrando como a interface intuitive de influenciadores pode ajudar a Sympla a resolver suas dores.
+- Demonstrar casos de sucesso de outras empresas que utilizaram influenciadores para alavancar eventos.
+- Sugestão de um estudo inicial para mapear influenciadores relevantes que possam estar alinhados com a marca e seus valores.
