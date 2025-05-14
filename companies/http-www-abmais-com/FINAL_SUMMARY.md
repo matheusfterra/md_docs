@@ -1,7 +1,13 @@
+```plaintext
+├── FINAL_SUMMARY.md
+└── http-www-abmais-com.md
+```
+---
+## 📄 `FINAL_SUMMARY.md`
+```md
 # Relatório de Prospecção - ABMais
 
 ## Informações da Empresa
-
 ### Nome da Empresa
 ABMais
 
@@ -28,7 +34,6 @@ A ABMais atua no segmento de eventos e marketing de influência, criando conexõ
 ---
 
 ## Análise e Mapeamento
-
 ### Público-Alvo
 - Marcas que buscam aumentar sua visibilidade através do marketing de influência.
 - Influenciadores nas mais diversas plataformas sociais que desejam colaborar com marcas.
@@ -56,13 +61,19 @@ A ABMais atua no segmento de eventos e marketing de influência, criando conexõ
 3. **Prova Social**: Incluir exemplos de sucesso ou depoimentos de clientes que tiveram resultados positivos após parceria com influenciadores.
 4. **Chamada para Ação**: Convidar para um bate-papo ou uma reunião online para discutir como a ABMais pode otimizar suas campanhas de marketing de influência.
 
----
-
 ## Considerações Finais
 A ausência de um site funcional e informações limitadas acessíveis publicamente sobre a ABMais pode ser simbólica da necessidade de um reposicionamento digital. Isso apresenta uma chance para nossa empresa intervir e oferecer soluções robustas que não apenas visem o marketing de influência, mas também possam ajudar a ABMais a consolidar e melhorar sua presença na web. 
 
 A proposta deve ser clara, focada em resultados e diretamente alinhada às suas necessidades e objetivos comerciais.
 
+**Ação Recomendada**: Realizar um follow-up para buscar informações adicionais e agendar a reunião de apresentação. Avaliar a possibilidade de realizar uma análise mais aprofundada através das redes sociais ativas da ABMais.
+```
 ---
 
-**Ação Recomendada**: Realizar um follow-up para buscar informações adicionais e agendar a reunião de apresentação. Avaliar a possibilidade de realizar uma análise mais aprofundada através das redes sociais ativas da ABMais.
+## 📄 `http-www-abmais-com.md`
+```md
+# http://www.abmais.com
+
+## Página não foi encontrada! 
+A página que você está procurando não está disponível. Verifique se digitou corretamente o link que está procurando. 
+```
