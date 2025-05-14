@@ -9,67 +9,73 @@ ESAMC - Escola Superior de Administração, Marketing e Comunicação
 [www.esamc.br](http://www.esamc.br)
 
 ### Localização
-Unidades em Campinas, Jundiaí, Santos, São Paulo e Uberlândia
+- **Unidades:** Campinas, Jundiaí, Santos, São Paulo, Uberlândia
 
 ### Contato
-- Email: ouvidoria.campinas@esamc.br
-- Whatsapp disponível em várias cidades
+- **Email:** ouvidoria.campinas@esamc.br
+- **Whatsapp:** Disponível em várias cidades
 
 ### Setor de Atuação
-Educação superior, com foco em graduação e pós-graduação nas áreas de administração, marketing, comunicação e engenharia.
+- Educação superior com foco em graduação e pós-graduação nas áreas de administração, marketing, comunicação e engenharia.
 
 ---
 
 ## 2. Visão Geral e Proposta de Valor
 
 ### Proposta da ESAMC
-A ESAMC diferencia-se através de um modelo pedagógico inovador que combina diversas metodologias de ensino como:
-- TBL (Team Based Learning)
-- PBL (Project Based Learning)
-- Gamificação
-- Metodologia tradicional
-Esse modelo busca desenvolver competências técnicas, gerenciais e comportamentais que atendem às demandas do mercado, formando líderes preparados para os desafios profissionais.
+A ESAMC se destaca através de um modelo pedagógico inovador que integra várias metodologias de ensino, incluindo:
+- **TBL (Team Based Learning)**
+- **PBL (Project Based Learning)**
+- **Gamificação**
+- **Metodologia Tradicional**
+
+Esse modelo visa desenvolver habilidades técnicas, gerenciais e comportamentais, formando líderes prontos para enfrentar desafios no mercado.
 
 ### Cursos Oferecidos
-- Graduação Presencial e EAD
-- MBA Presenciais e Online
-- Cursos rápidos e especializações
+- **Graduação Presencial e EAD**
+- **MBA Presenciais e Online**
+- **Cursos Rápidos e Especializações**
 
 ### Pontos de Destaque
-- **Taxas de Matrícula Baixas:** Não há cobrança de taxas de inscrição.
-- **Modelo Pedagógico de Alta Qualidade:** Aprovação superior no ENADE.
-- **Descontos:** Possui programas de descontos para diversos públicos, incluindo empresas parceiras e alunos do Prouni.
+- **Taxas de Matrícula Baixas:** Isenção de taxa de inscrição.
+- **Modelo Pedagógico de Alta Qualidade:** Alta aprovação no ENADE.
+- **Programas de Desconto:** Para parceiros e alunos do Prouni.
 
 ---
 
 ## 3. Características do Público-Alvo
 
 ### Segmento
-Estudantes do ensino médio, alunos de transferências, e profissionais buscando segunda graduação ou especialização.
+- Estudantes do ensino médio, alunos de transferências, e profissionais buscando segunda graduação ou especialização.
 
 ### Necessidades e Dores
-- Acesso a um ensino de qualidade com custo acessível.
-- Desenvolvimento de habilidades práticas e teóricas que propiciem inserção no mercado de trabalho.
-- Flexibilidade e conveniência em suas escolhas educativas (opções EAD e presencial).
-- Necessidade de orientação e planejamento de carreira.
+- Acesso a um ensino de qualidade a custos acessíveis.
+- Desenvolvimento de habilidades práticas e teóricas que facilitem a inserção no mercado de trabalho.
+- Flexibilidade e conveniência nas opções educativas (presencial e EAD).
+- Necessidade de planejamento e orientação para carreira.
 
 ---
 
 ## 4. Oportunidades de Marketing de Influência
 
 ### Contexto
-A educação superior é um setor bastante competitivo. Uma crescente procura por cursos que combinem flexibilidade e um bom custo-benefício apresenta uma ótima oportunidade para campanhas de marketing de influência.
+O setor de educação superior é altamente competitivo. Com a crescente busca por cursos que ofereçam flexibilidade e um bom custo-benefício, surge uma oportunidade significativa para campanhas de marketing de influência.
 
 ### Dores que Podem Ser Abordadas
-- **Falta de Visibilidade:** A ESAMC pode melhorar sua visibilidade online através de parcerias com influenciadores educacionais que falem sobre a qualidade dos seus cursos e metodologia.
-- **Engajamento Estudantil:** Influenciadores que tenham experiência em plataformas educacionais e que possam compartilhar depoimentos e experiências reais podem aumentar o engajamento.
-- **Formação de Comunidade:** Propostas que envolvam ex-alunos e influenciadores aliados para criar um senso de comunidade em torno das carreiras e experiências na ESAMC.
+- **Falta de Visibilidade:** A ESAMC pode aumentar sua presença online através de parcerias com influenciadores que compartilhem experiências positivas sobre suas metodologias e cursos.
+- **Engajamento Estudantil:** Influenciadores com relação ao ambiente educacional podem ajudar a imergir novos estudantes.
+- **Formação de Comunidade:** Propostas para envolver ex-alunos e influenciadores que promovam um sentimento de comunidade ao redor das carreiras na ESAMC.
 
 ---
 
 ## 5. Análise da Concorrência
-- **Concorrentes Diretos:** Outras instituições de ensino superior no Brasil que oferecem programas similares.
-- **Vantagens Competitivas:** A ESAMC possui um modelo pedagógico que é percebido como mais flexível e adaptativo às necessidades do aluno. Além disso, sua capilaridade em diversas regiões é diferenciada.
+
+### Concorrentes Diretos
+- Outras instituições de ensino superior que oferecem programas semelhantes.
+
+### Vantagens Competitivas
+- O modelo pedagógico da ESAMC é visto como mais adaptativo às demandas dos alunos.
+- A presença geográfica em várias cidades amplia a acessibilidade aos alunos.
 
 ---
 
@@ -79,17 +85,14 @@ A educação superior é um setor bastante competitivo. Uma crescente procura po
 “Transforme seu Futuro Acadêmico com a ESAMC e a Força do Marketing de Influência”
 
 ### Conteúdo
-1. **Abertura Personalizada:** Mencionar características da ESAMC que merecem destaque e conexão com as experiências do influenciador.
-   
-2. **Necessidades Comuns:** Discutir a crescente necessidade de uma educação superior acessível e de qualidade.
-
-3. **Proposta de Valor:** Enfatizar o modelo pedagógico inovador e como ele se alinha com as exigências do mercado atual.
-
-4. **Benefícios de Parceria:** Explicar os benefícios da colaboração entre a ESAMC e o influenciador, incluindo mapeamento de oportunidades e descontos.
+1. **Abertura Personalizada:** Conexão com o influenciador, correlacionando suas experiências com a identificação da ESAMC.
+2. **Necessidades Comuns:** Reforçar a necessidade crescente de uma educação superior acessível e de qualidade.
+3. **Proposta de Valor:** Destacar o modelo pedagógico inovador e sua relevância no cenário atual do mercado.
+4. **Benefícios de Parceria:** Discorrer sobre os ganhos mútuos da colaboração entre a ESAMC e o influenciador, como oportunidades de descontos.
 
 ### Chamada à Ação
-Convocar o influenciador para uma reunião ou um evento onde possa conhecer melhor a escola e suas inovações.
+Convidar o influenciador para uma reunião ou evento para conhecer melhor a instituição e suas inovações.
 
 ---
 
-Esta estrutura deve equipar a equipe para criar uma abordagem mais profunda e personalizada ao se conectar com possíveis influenciadores, assegurando que toda a comunicação esteja alinhada com os objetivos da ESAMC e suas propostas de valor.
+Este relatório de prospecção fornece um panorama abrangente das características da ESAMC e das oportunidades que o marketing de influência pode gerar. Esse entendimento aprofundado permitirá que a equipe desenvolva uma comunicação mais eficaz e personalizada com os potenciais influenciadores.
