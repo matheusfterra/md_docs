@@ -1,56 +1,67 @@
-# Relatório de Prospecção - [Nome da Empresa]
+# Relatório de Prospecção para Ubots
 
-## 1. Informações Gerais
-- **Nome da Empresa:** [Nome da Empresa]
-- **Website:** [URL do site]
-- **Segmento:** [Segmento de atuação da empresa]
-- **Localização:** [Endereço completo, cidade, estado, país]
-- **Ano de Fundação:** [Ano]
-- **Tamanho da Empresa:** [Número de funcionários]
+## Informações Gerais da Empresa
+- **Nome:** Ubots
+- **Website:** [ubots.com.br](https://www.ubots.com.br)
+- **Localização:** Porto Alegre, RS
+- **Segmento:** Marketing Digital, com foco em automação de atendimento via plataformas de mensagens como WhatsApp.
+- **Proposta de Valor:** Transformar conversas em experiências incríveis através da combinação de inteligência artificial e tecnologia, simplificando e conectando marcas aos seus clientes.
 
-## 2. Informações de Contato
-- **Nome do Contato Principal:** [Nome do contato]
-- **Cargo:** [Cargo do contato]
-- **E-mail:** [E-mail do contato]
-- **Telefone:** [Telefone do contato]
-- **Redes Sociais da Empresa:** [Links das redes sociais importantes, como LinkedIn, Instagram, Twitter, etc.]
+## Soluções Oferecidas
+1. **Atendimento ao Cliente:**
+   - Chatbots para atender clientes em canais diversos (WhatsApp, Webchat, etc.).
+   - Personalização e humanização do atendimento.
+   - Apresentação de dados e relatórios através do Ubots Analytics.
 
-## 3. Descrição da Empresa
-- **Visão e Missão:** [Breve descrição da visão e missão da empresa]
-- **Principais Produtos/Serviços:** [Descrição dos produtos ou serviços oferecidos]
-- **Diferenciais:** [O que faz a empresa se destacar no mercado?]
+2. **Marketing:**
+   - Estratégias de marketing automatizado utilizando WhatsApp e outros canais de comunicação.
+   - Geração de leads e taxas de resposta elevadas usando automações.
 
-## 4. Análise de Mercado
-- **Concorrentes Diretos:** [Lista de concorrentes diretos e suas práticas de marketing de influência]
-- **Público-Alvo:** [Descrição do público-alvo, incluindo demografia, interesses e comportamento]
-- **Tendências do Setor:** [Algumas tendências atuais relevantes para o segmento da empresa]
+3. **Vendas:**
+   - Soluções para potencializar fechamento de negócios, com foco na jornada do consumidor.
+   - Integração de dados de vendas para melhorar a performance.
 
-## 5. Possíveis Dores e Desafios
-- **Desafios em Marketing:** [Enumere desafios atuais que a empresa pode estar enfrentando em suas estratégias de marketing]
-- **Falta de Conexões Relevantes:** [Identificar possíveis lacunas na conexão com influenciadores]
-- **Dificuldades em Mensurar Resultados:** [Mencionar a dificuldade relacionada à medição do ROI das campanhas]
-- **Necessidade de Autenticidade:** [Falar sobre a importância da autenticidade nas campanhas e como a empresa pode estar lutando para atingir isso]
+4. **RH e Corporativo:**
+   - Comunicação interna melhorada.
+   - Engajamento de colaboradores.
 
-## 6. Contexto de Influência
-- **Campanhas Anteriores:** [Resuma campanhas anteriores de influenciadores da empresa, se disponíveis]
-- **Atitude em Relação ao Marketing de Influência:** [Como a empresa atualmente aborda o marketing de influência?]
-- **Exemplos de Colaborações Bem-Sucedidas:** [Caso existam, cite exemplos de colaborações que tenham dado certo]
+## Target Audience
+- **Clientes Potenciais:** Cooperativas de crédito, empresas de grande porte no setor de saúde, varejo e educação.
+- **Principais Clientes:** Sicoob Credicitrus, Panvel, Unicred, Ailos.
 
-## 7. Proposta de Valor
-- **Como Podemos Ajudar:** [Descreva como o serviço de sua empresa pode resolver as dores identificadas e agregar valor]
-- **Resultados Esperados:** [Possíveis resultados que a empresa pode esperar ao fazer parceria com sua empresa]
+## Análise do Mercado
+- **Canais Preferidos:** WhatsApp é o canal mais utilizado no Brasil, com uma comunicação direta e pessoal.
+- **Necessidades do Consumidor:** Demandas por atendimento rápido, personalizado e que quebre barreiras de interação.
+- **Dores Comuns:**
+   - Baixa taxa de resposta em campanhas de marketing.
+   - Perda de oportunidades por falta de respostas rápidas.
+   - Necessidade de centralização de canais de atendimento.
 
-## 8. Referências
-- **Estudos de Caso Relevantes:** [Cite estudos de caso de sucesso que sejam semelhantes à empresa prospectada]
-- **Depoimentos de Clientes:** [Inclua depoimentos que reforcem a eficácia e qualidade do trabalho realizado pela sua empresa em marketing de influência]
+## Concorrência
+- **Principais Competidores:** Outras empresas que fornecem soluções de chatbot e automação de atendimento, como Zenvia e Take Blip.
+- **Diferenciais Competitivos:**
+   - Foco em experiência do usuário com soluções personalizadas.
+   - Abordagem consultiva durante a implementação de soluções digitalizadas.
+   - Casos de sucesso comprovados e forte presença no mercado de cooperativas.
 
-## 9. Observações Finais
-- **Comentários ou Observações Adicionais:** [Quaisquer outras insights ou informações que possam ajudar na abordagem]
+## Contexto e Possíveis Dor
+- **Dores em Prospecção:**
+   - Dificuldade em fazer interações personalizadas no canal preferido do consumidor.
+   - Barreira entre empresa e consumidor, resultando em perda de oportunidades.
+   - Necessidade de soluções que aumentem a eficiência operacional e reduzam custos.
 
----
+- **Situações e Necessidades:**
+   - Empresas enfrentando dificuldades para atender demandas rapidamente e de forma eficiente.
+   - Aumento da pressão por uma comunicação transparente e envolvente, especialmente em momentos de crise.
 
-### Ação Imediata:
-- Preparar um e-mail de prospecção personalizado e atraente com base nesse relatório. 
-- Uma vez que o e-mail seja enviado, acompanhar a resposta e planejar uma reunião se houver interesse.
+## Relevância do Produto
+- A Ubots se apresenta como uma solução viável para empresas que precisam:
+   - Centralizar a comunicação e atendimento ao cliente.
+   - Melhorar taxas de conversão em campanhas de marketing digital.
+   - Reduzir custos operacionais ao automatizar processos manuais.
 
-Espero que esse formato detalhado atenda suas necessidades de prospecção e ajude a equipe de copywriting na criação de um conteúdo relevante e impactante.
+## Proposta da Copywriter
+Desenvolver um e-mail abordando diretamente as classificações de clientes da empresa, a dor com a qual estão lidando atualmente e como as soluções da Ubots podem resolver esses problemas. Parafrasear a proposta de valor em uma chamada de ação clara, focando nos benefícios diretos de utilizar a plataforma Ubots.
+
+## Considerações Finais
+O uso de soluções de marketing de influência e estratégias de personalização, especialmente quando articuladas em ações conjuntas com as funcionalidades da Ubots, pode potencialmente aumentar a interação e a satisfação do cliente. Ao abordar a Ubots, você estará se conectando a uma empresa que não só coloca ênfase em tecnologia, mas também valoriza a experiência do cliente sob um aspecto humano e eficiente.
