@@ -18,7 +18,7 @@
 - **Instagram:**
   - **Perfil:** [não encontrado]
   
-  *Nota: Pesquisar redes sociais pode oferecer insights sobre a estratégia de marketing atual e influência digital da marca.*
+*Nota: Pesquisar redes sociais pode oferecer insights sobre a estratégia de marketing atual e influência digital da marca.*
 
 ## Potenciais Dores e Desafios
 1. **Visibilidade Online:**
@@ -36,7 +36,7 @@
 ## Oportunidades através do Marketing de Influência
 - **Conexão com Influenciadores:**
   - Propor uma estratégia solidificada de colaboração com influenciadores no segmento de beleza e estética que possam promover a marca em suas plataformas.
-  
+
 - **Conteúdo Autêntico:**
   - Influenciadores podem criar conteúdo autêntico e envolvente que coloque os produtos em um contexto de uso, aumentando a confiança do consumidor.
 
@@ -44,13 +44,13 @@
   - Utilizar influenciadores para criar promoções exclusivas e aumentarem o tráfego e vendas em um novo site otimizado.
 
 ## Mensagem Personalizada para Prospecção
-- **Eu entendi que a Loja e Beleza encontra-se em uma fase de desafios devido a problemas na infraestrutura do seu site, o que impacta diretamente na experiência do cliente. No entanto, essa também é uma grande oportunidade para realinhar suas estratégias de marketing. Se eu puder ajudar na conexão com influenciadores que não apenas reforçarão a visibilidade da sua marca, mas também oferecerão um tipo de engajamento mais profundo e autêntico, podemos criar uma estratégia que ponha a Loja e Beleza de volta ao radar dos consumidores.** 
+- **"Eu entendi que a Loja e Beleza encontra-se em uma fase de desafios devido a problemas na infraestrutura do seu site, o que impacta diretamente na experiência do cliente. No entanto, essa também é uma grande oportunidade para realinhar suas estratégias de marketing. Se eu puder ajudar na conexão com influenciadores que não apenas reforçarão a visibilidade da sua marca, mas também oferecerão um tipo de engajamento mais profundo e autêntico, podemos criar uma estratégia que ponha a Loja e Beleza de volta ao radar dos consumidores."**
 
 ## Próximos Passos
 1. **Tentar estabelecer contato com a equipe da Loja e Beleza para entender mais sobre suas necessidades atuais e colecionar informações adicionais.**
    
 2. **Elaborar uma proposta inicial focando na solução de problemas atuais e estratégias de marketing de influência que gerem resultados.**
-
+   
 3. **Acompanhar as redes sociais para coletar dados sobre postagens e interações que podem influenciar a proposta feita.**
 
 ---
