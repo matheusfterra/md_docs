@@ -1,67 +1,52 @@
 # Relatório de Prospecção: Elementar Digital
 
-## Informações Gerais
-- **Nome da Empresa:** Elementar Digital
-- **Website:** [www.elementar.digital](http://www.elementar.digital/)
-- **Localização:** Rua Butantã, 194, 8° andar – Pinheiros – São Paulo – SP. 05424-000
-- **CNPJ:** 27.892.135/0001-65
-- **Ano de Fundação:** Não especificado nas fontes consultadas.
-  
-## Visão Geral
-A Elementar Digital é uma empresa que atua no segmento de marketing digital, com foco em conexões eficientes entre marcas e influenciadores, além de otimização de performance em campanhas digitais. O compromisso da empresa é ajudar suas marcas a crescerem com eficiência, manuseando mais de R$250 milhões em mídia digital nos últimos anos.
+## 1. Informações Gerais da Empresa
+- **Nome da Empresa**: Elementar Digital
+- **Website**: [elementar.digital](http://www.elementar.digital)
+- **Localização**: Rua Butantã, 194, 8° andar – Pinheiros – São Paulo – SP. CEP 05424-000
+- **CNPJ**: 27.892.135/0001-65
+- **Idiomas disponíveis**: Português (PT), Inglês (EN)
 
-## Clientes e Parcerias
-A Elementar Digital atua com uma gama diversificada de marcas significativas, incluindo:
+## 2. Descrição da Empresa
+A Elementar Digital é uma agência especializada em marketing digital que visa ajudar marcas a crescerem com eficiência através de estratégias de marketing bem planejadas e mensuráveis. Com um histórico de gerenciamento de mais de R$ 250 milhões em mídia digital de performance no último ano, a empresa possui uma expertise considerável no setor.
+
+### 2.1. Serviços Oferecidos
+- **Marketing Digital**: Foco em results tangíveis e mensuráveis.
+- **Tecnologia de Marketing**: Integração de dados através de Big Data para tomada de decisões informadas.
+- **Análise de Marca**: Atuação em branding e rebranding, análise quantitativa para influenciadores digitais e outras ações de promoções.
+- **Estratégias de Publicidade**:
+  - **Search**: Promoção na busca do Google com foco na intenção do usuário.
+  - **Google Shopping**: Utilização do catálogo de produtos para visibilidade.
+  - **Display & Mídia Programática**: Aquisição de leads qualificados através de display e vídeos.
+  - **Remarketing**: Reengajamento de clientes potenciais.
+  - **Promoção de Aplicativos**: Incentivo à instalação e engajamento em aplicativos.
+
+### 2.2. Clientes Notáveis
 - Grupo Pão de Açúcar
+- Artex
 - iFood
 - Mercado Livre
 - Marisa
 - Cultura Inglesa
-- Pantys
-- Entre outros
+- Evino, entre outros.
 
-A empresa também é parceira oficial de plataformas de mídia digital como Google e Meta, permitindo um alto nível de credibilidade e acesso a ferramentas de marketing avançadas.
+## 3. Público-Alvo
+- Marcas que necessitam de serviços de marketing digital e análise de performance.
+- Empresas que buscam otimizar suas estratégias de marketing digital.
+- Negócios que desejam integrar Big Data para impulsionar decisões de marketing.
 
-## Serviços Oferecidos
-Os principais serviços da Elementar Digital incluem:
+## 4. Dores e Desafios Potenciais
+- **Visibilidade e Alcance**: Aumentar a presença da marca nos canais digitais pode ser um desafio, principalmente com o aumento da concorrência.
+- **Mensuração de Resultados**: Muitas empresas têm dificuldade em entender o ROI de suas campanhas, algo que a Elementar aponta como um diferencial.
+- **Integração de Dados**: Dificuldade em combinar dados de múltiplas fontes para gerar insights úteis.
+- **Engajamento**: Promover engajamento com o público alvo em um cenário saturado de informações e anúncios.
 
-### 1. **Marketing de Performance**
-   - **Search:** Captação de leads utilizando intenções de busca no Google.
-   - **Google Shopping:** Promoção eficiente de produtos.
-   - **Mídia Display & Programática:** Atração de usuários qualificados.
-   - **Remarketing:** Redirecionamento eficiente para potencializar conversões.
-   - **Promoção de Aplicativos:** Crescimento e engajamento em aplicativos.
+## 5. Contexto do Mercado de Marketing Digital
+O mercado de marketing digital está em franca expansão, especialmente após a pandemia, com um aumento significativo no consumo de mídias digitais e ações de marketing online. O marketing de influência, em particular, tem mostrado um crescimento robusto e se torna uma ferramenta fundamental para marcas que buscam se conectar de maneira mais autêntica com os consumidores.
 
-### 2. **Analytical Branding**
-   - Aplicação de expertise para medição e resultados em influenciadores digitais e ações de branding.
-  
-## Dores e Oportunidades
-### Possíveis Dores:
-- **Baixa Taxa de Conversão:** Muitas marcas enfrentam dificuldades em converter leads em clientes eficazmente.
-- **Falta de Conhecimento em Marketing Digital:** Algumas empresas não possuem expertise para otimizar suas campanhas de marketing digital, o que pode resultar em desperdício de recursos.
-- **Desconexão com o Público-Alvo:** Marcas podem encontrar dificuldades em se conectar com o público certo, o que compromete a eficácia de suas ações de marketing.
+## 6. Oportunidades para Parceria
+- A Elementar Digital poderia beneficiar-se significativamente de parcerias com plataformas de influenciadores para otimizar suas campanhas de marketing digital.
+- A proposta de valor se alinha com a ideia de criar campanhas de influenciadores que gerem resultados tangíveis e mensuráveis, utilizando a expertise em análise e tecnologia da Elementar.
 
-### Oportunidades de Melhoria:
-- **Integração de Dados:** A Elementar Digital pode oferecer soluções de big data para melhorar a tomada de decisões e a comunicação com o cliente.
-- **Aprimoramento de Estrategias de Remarketing:** Otimizar o processo de remarketing para melhor engajamento e conversão.
-- **Educação em Marketing Digital:** Oportunidade para criar cursos ou materiais educativos para os clientes não familiarizados com marketing digital.
-
-## Público-Alvo
-A Elementar Digital deve focar em marcas e empresas que possuem interesse em:
-
-- Crescimento em vendas através de marketing digital.
-- Aumentar a presença online.
-- Melhorar sua comunicação e relacionamento com os influenciadores.
-
-## Estilo de Comunicação
-Para abordar a Elementar Digital, recomenda-se um tom direto, cheio de dados e estatísticas que comprovem a relevância da estratégia de marketing de influência. Um enfoque em como a maximização da presença digital ajuda nas vendas e na satisfação do cliente é crucial.
-
-### Exemplos de Temas para o Email:
-- "Aumente suas Conversões com a Marketing de Influência"
-- "Como as Marcas Crescem Sem Desperdiçar Recursos com Campanhas Ineficientes"
-- "Conectando-se com o Seu Público: A Importância da Comunicação Eficiente"
-
-## Conclusão
-A Elementar Digital se apresenta como um potencial cliente ideal para um serviço de marketing de influência, dada sua experiência e forte portfólio de marcas. Um email bem estruturado e personalizado pode ressoar positivamente, apresentando uma abordagem direta sobre como nossas soluções podem auxiliar na superação de dores específicas que eles enfrentam no marketing digital.
-
-Esse relatório poderá ser utilizado pelo copywriter para construir um email de prospecção adequado, garantindo que todas as informações relevantes e nuances da Elementar Digital sejam consideradas para maximizar as chances de conversão.
+## 7. Conclusão
+O Elementar Digital representa uma excelente oportunidade de parceria para alavancar campanhas de marketing de influência e potencializar o alcance e engajamento das marcas com o público. Compreender suas necessidades específicas em relação à mensuração de resultados e otimização de campanhas será fundamental para estruturar uma abordagem de contato personalizada e eficaz.
