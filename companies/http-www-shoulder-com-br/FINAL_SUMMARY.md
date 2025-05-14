@@ -1,46 +1,63 @@
-# Relatório de Prospecção - Shoulder
+# Relatório de Prospecção para a Shoulder
 
-## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** Shoulder
-- **Segmento:** Moda feminina (Blusas, Vestidos, Saias, Calças, Jaquetas, Blazers, Macacões, Regatas, Shorts e Acessórios).
-- **Localização:** Brasil
-- **Website:** [shoulder.com.br](http://www.shoulder.com.br)
-- **Redes Sociais:** Disponível no site (não especificado no conteúdo).
+## Informações Gerais da Empresa
+- **Nome**: Shoulder
+- **Website**: [www.shoulder.com.br](http://www.shoulder.com.br)
+- **Segmento**: Moda Feminina (especializada em roupas e acessórios)
+- **Público-Alvo**: Mulheres entre 18 a 45 anos, que buscam moda acessível e de qualidade, engajadas com tendências e estilo.
 
-## 2. Produtos e Coleções
-A Shoulder oferece uma ampla variedade de produtos, categorizados principalmente em roupas femininas. Os principais segmentos incluem:
+## Produtos e Coleções
+A Shoulder oferece diversas coleções divididas em categorias que ajudam a definir o posicionamento e a comunicação de marketing:
 
-### 2.1. Roupas
-- **Blusas:** Diversidade de modelagens e tecidos, incluindo modelos sem mangas, mangas curtas, longas, transpassadas e básicos.
-- **Vestidos:** Disponíveis em curtos, longos e midis. Variedade de estampas e caimentos, adaptáveis para diferentes ocasiões, do casual ao formal.
-- **Saias:** Modelos curtos, midi e longos, sendo a midi uma peça-chave urbana.
-- **Calças e Calças Jeans:** Diversas modelagens como pantalona, slim, cargo e alfaiataria, focadas em conforto e estética.
-- **Jaquetas e Blazers:** Montar camadas com sofisticação através de peças atemporais e de alta qualidade.
+### Coleções
+1. **Vestidos**:
+   - Modelos variados: curtos, midi e longos, focados em estilo e conforto.
+   - Designs autorais e estampas que refletem a brasilidade.
 
-### 2.2. Acessórios
-- Bolsas, brincos, cintos, colares e lenços, complementando a vestimenta feminina e proporcionando opções variadas de estilo.
+2. **Calças**:
+   - Inclui opções de alfaiataria, calças jeans e models variados que vão do casual ao formal.
 
-## 3. Diferenciais Competitivos
-- **Moda Consciente:** Utilização de tecidos de qualidade e duráveis, como algodão e linho, demonstrando compromisso com a sustentabilidade.
-- **Versatilidade:** As roupas são projetadas para serem utilizadas em diferentes ocasiões, do trabalho ao lazer.
-- **Conexão com a Atualidade:** A Shoulder acompanha as tendências do mercado, trazendo novidades e oportunidades de combinação de cores e modelagens.
+3. **Casacos e Jaquetas**:
+   - Variedade de modelos para diversas ocasiões, desde casacos de frio até jaquetas bomber.
 
-## 4. Potenciais Dores e Desafios
-### 4.1. Dores do Consumidor
-- **Escolha e Variedade:** Algumas consumidoras podem sentir-se sobrecarregadas pela grande variedade de opções, levando à indecisão na hora da compra.
-- **Qualidade versus Preço:** Expectativa por qualidade e durabilidade nas peças, mas em um preço acessível.
-- **Tendências em Mudança Rápida:** Necessidade constante de estar na frente das tendências de moda para atrair e reter clientes.
+4. **Macacões**:
+   - Peças versáteis e práticas, com foco em conforto e elegância.
 
-### 4.2. Desafios da Marca
-- **Concorrência no Segmento de Moda:** O mercado de moda feminina é altamente competitivo, com muitas marcas disputando a atenção do mesmo público-alvo.
-- **Adaptabilidade às Novas Tecnologias:** A necessidade de integrar e otimizar as vendas Online, proporcionando uma experiência de usuário leve e rápida.
+5. **Regatas e Blusas**:
+   - Modelagens que se adequam a diferentes estilos e ocasiões.
 
-## 5. Sugestões para Prospecção
-Os influenciadores podem ajudar a amplificar a visibilidade da Shoulder da seguinte forma:
+6. **Saias e Shorts**:
+   - Opções que vão de básicos a peças mais sofisticadas, atendendo a diferentes contextos climáticos.
 
-- **Campanhas Personalizadas:** Criar campanhas que evidenciem a versatilidade das roupas da Shoulder, focando em como elas se adaptam a diferentes contextos (trabalho, eventos, lazer).
-- **Testemunhos e Reviews:** Utilizar influenciadores para criar conteúdo de como as roupas são confortáveis e estilosas, mostrando a qualidade dos materiais.
-- **Lives e Webinars de Moda:** Organizar eventos Online onde consumidores possam ver as peças em uso, aumentando a interação e educação dos consumidores.
+7. **Acessórios**:
+   - Inclui bolsas, brincos, cintos e outros itens que complementam os looks.
 
-## 6. Conclusão
-Shoulder tem a oportunidade de se destacar no mercado de moda feminina através de um forte foco em qualidade, sustentabilidade e adaptabilidade às tendências contemporâneas. Com uma estratégia de marketing de influência bem elaborada, será possível superar desafios e potencializar as vendas. O próximo passo deve ser uma abordagem em marketing personalizado, onde influenciadores possam se tornar embaixadores efetivos da marca.
+## Dores e Desafios
+1. **Concorrência Intensa**: O segmento de moda feminina enfrenta uma grande concorrência, com diversas marcas oferecendo produtos semelhantes.
+2. **Mudanças nas Tendências**: As tendências de moda mudam rapidamente; a empresa deve sempre se atualizar com novas coleções.
+3. **Atração do Público-Alvo**: A necessidade de se conectar com o consumidor em um nível mais emocional e pessoal, não apenas por meio da qualidade do produto, mas também mediante storytelling e marcas compatíveis.
+4. **Ampliação da Visibilidade Online**: O fortalecimento da presença nas mídias sociais e na publicidade digital é crucial no cenário atual, permitindo uma melhor segmentação do público e maior interação.
+
+## Contexto de Mercado
+O marketing de influência cresceu significativamente nos últimos anos, com consumidores buscando recomendações de pessoas em quem confiam. Para a Shoulder, isso representa uma oportunidade valiosa para ampliar seu alcance e promover produtos através de influenciadores que dialogam com o público-alvo.
+
+## Proposta de Colaboração
+### Objetivo
+A proposta de parceria entre a Shoulder e a nossa empresa visa utilizar estratégias de marketing de influência para potencializar a visibilidade da marca por meio de influenciadores que:
+- Se alinhem aos valores e à estética da marca.
+- Tenham forte conexão com o público feminino jovem e moderno, instaurando um engajamento genuíno.
+
+### Possíveis Atividades
+1. **Campanhas em Redes Sociais**: Criação de conteúdos visuais que mostrem os produtos em uso, promovendo o estilo e versatilidade.
+2. **Eventos e Lançamentos**: Convidar influenciadores para eventos de lançamento das novas coleções e promoções, gerando conteúdo ao vivo.
+3. **Programas de Afiliados**: Implementação de um sistema de comissões para influenciadores que tragam vendas ou engajamento significativo.
+
+## Próximos Passos
+1. **Identificação de Influenciadores**: Mapeamento de influenciadores que já promovem moda feminina e que correspondam ao perfil do público da Shoulder.
+2. **Desenvolvimento da Estratégia de Campanha**: Criação de um orçamento e planejamento para ações de marketing conjunto nesse ambiente.
+3. **Contatos e Propostas Formais**: Abordar os líderes de marketing da Shoulder para apresentar a proposta com dados relevantes sobre campanhas bem-sucedidas anteriores no formato de marketing de influência.
+
+### Conclusão
+A parceria entre nossa empresa e a Shoulder pode resultar em um grande valor agregado, não apenas em relação à promoção de produtos, mas também ao fortalecimento da marca e à construção de uma comunidade engajada em torno da moda feminina.
+
+Por favor, informe se há mais alguma informação que você gostaria de incluir ou se tem dúvidas sobre qualquer aspecto deste relatório.
