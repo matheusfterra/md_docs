@@ -6,7 +6,7 @@
 - **Segmento:** Tecnologia para Logística
 - **Descrição:** A nstech é uma plataforma integrada que oferece soluções de tecnologia para otimização da cadeia logística, conectando marcas, transportadoras e operadores logísticos.
 - **Localização:** Av. Magalhães de Castro 4800 - Continental Tower - Conjunto 301 - Jardim Panorama - SP, Brasil.
-
+  
 ## 2. Proposta de Valor
 - **Soluções:** Com mais de 100 soluções focadas em eficiência, redução de custos e sustentabilidade, a nstech atende a diferentes setores como agronegócio, e-commerce, alimentício, entre outros.
 - **Público-Alvo:** Embarcadores, transportadoras, operadores logísticos e setores específicos como agroindústria e transporte de produtos químicos.
@@ -23,7 +23,7 @@
 - **Visibilidade e Controle:** Dificuldades em obter dados em tempo real, impactando a tomada de decisões.
 
 ## 5. Contexto de Mercado
-O setor logístico no Brasil enfrenta complexidades, sendo um dos maiores mercados agrícolas. A integração logística é vital em meio a demanda crescente por soluções que proporcionem visibilidade em tempo real e práticas sustentáveis.
+O setor logístico no Brasil enfrenta complexidades, sendo um dos maiores mercados agrícolas. A integração logística é vital em meio à demanda crescente por soluções que proporcionem visibilidade em tempo real e práticas sustentáveis.
 
 ## 6. Oportunidades de Ação
 - **Demonstração de Soluções:** Apresentar estudos de caso e depoimentos de clientes que validem a eficácia das soluções nstech.
