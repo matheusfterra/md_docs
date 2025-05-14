@@ -1,11 +1,11 @@
-# Relatório de Prospecção - Index Conectada
+# 📄 Relatório de Prospecção - Index Conectada
 
 ## Informações Gerais
 - **Nome da Empresa**: Index Conectada
 - **Website**: [www.indexconectada.com.br](http://www.indexconectada.com.br)
 - **Segmento**: Marketing de Influência
 - **Localização**: Brasil
-- **Fundação**: 25 anos de mercado (exatas datas não foram especificadas)
+- **Fundação**: 25 anos de mercado 
 
 ## Missão da Empresa
 Transformar ao criar narrativas e conexões que geram valor e repercutem espontaneamente.
@@ -39,9 +39,9 @@ Ser reconhecido como um ecossistema visionário em criatividade, inovação, est
 A Index Conectada busca entender as dores e necessidades dos clientes, além de captar as intenções de consumo do público. O discurso é centrado na importância de ouvir e entender o que o consumidor realmente deseja.
 
 ### Destaques de Projetos
-- Blue Nights
-- Iguatemi Talks
-- Silvia Braz
+- **Blue Nights**
+- **Iguatemi Talks**
+- **Silvia Braz**
 
 ## Principais Parceiros
 A agência já trabalhou com marcas renomadas, incluindo:
@@ -65,7 +65,7 @@ A agência já trabalhou com marcas renomadas, incluindo:
 No Brasil, o Marketing de Influência tem crescido exponencialmente, especialmente em segmentos como moda, beleza e tecnologia. Com as mudanças no comportamento do consumidor e o aumento do consumo de conteúdo digital, as marcas estão buscando cada vez mais formas de se conectar com seus públicos-alvo usando influenciadores.
 
 ## Considerações Finais
-A Index Conectada está posicionada como uma agência inovadora que alia experiência e criatividade. A proposta é trabalhar de forma vincolada com as marcas para entender melhor as necessidades do mercado e dos consumidores, o que pode ser uma excelente oportunidade de colaboração.
+A Index Conectada está posicionada como uma agência inovadora que alia experiência e criatividade. A proposta é trabalhar de forma vincular com as marcas para entender melhor as necessidades do mercado e dos consumidores, o que pode ser uma excelente oportunidade de colaboração.
 
 ### Próximos Passos
 - **Contato**: Avaliar as melhores formas de contato (e-mail, LinkedIn).
