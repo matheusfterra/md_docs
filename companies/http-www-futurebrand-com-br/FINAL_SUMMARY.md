@@ -1,4 +1,4 @@
-# Relatório de Prospecção para a FutureBrand
+# Relatório de Prospecção para FutureBrand
 
 ## 1. Informações Gerais
 - **Nome da Empresa**: FutureBrand
@@ -42,8 +42,8 @@ O marketing de influência se tornou um canal essencial para marcas se conectare
 - Aborde a relevância de utilizar influenciadores que ressoem com suas marcas em termos de valores e visão.
 
 ## 9. Contato
-- **Email**: [contato](https://www.futurebrand.com/contact-us)
+- **Email**: [Contate-nos](https://www.futurebrand.com/contact-us)
 
 ---
 
-Este relatório fornece uma base sólida para que o copywriter desenvolva um email personalizado e impactante que entre em contato com a FutureBrand, evidenciando a necessidade de marketing de influência e os benefícios que a nossa colaboração pode trazer para potencializar suas campanhas.
+Este relatório fornece uma base sólida para que o copywriter desenvolva um e-mail personalizado e impactante que entre em contato com a FutureBrand, evidenciando a necessidade de marketing de influência e os benefícios que a nossa colaboração pode trazer para potencializar suas campanhas.
