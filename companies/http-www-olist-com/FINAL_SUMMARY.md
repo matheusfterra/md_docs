@@ -7,7 +7,7 @@
 - **Localização:** Avenida João Gualberto, n° 1.698, Curitiba/PR, CEP 80030-001.
 
 ## 2. Descrição do Negócio
-A Olist é uma plataforma que conecta empresas a influenciadores e facilita as vendas em marketplaces, e-commerce e atendimento logístico. O seu objetivo é simplificar a gestão de vendas e operações, melhorando a experiência tanto para comerciantes quanto para consumidores finais.
+A Olist é uma plataforma que conecta empresas a influenciadores e facilita as vendas em marketplaces, e-commerce e atendimento logístico. Seu objetivo é simplificar a gestão de vendas e operações, melhorando a experiência tanto para comerciantes quanto para consumidores finais.
 
 ### 2.1. Produtos e Serviços Oferecidos
 - **E-commerce:** Plataforma para criação de lojas virtuais.
@@ -27,7 +27,7 @@ A Olist é uma plataforma que conecta empresas a influenciadores e facilita as v
 - **Gestão Complexa:** Dificuldades na administração de múltiplos canais de vendas e gestão de estoque, que podem gerar frustrações e perdas de vendas.
 - **Falta de Automação:** Dependência de processos manuais que resulta em atrasos e erros, especialmente na área financeira.
 - **Baixo Acesso a Crédito:** Pequenos negócios enfrentam desafios para obter crédito acessível.
-- **Desorganização:** Ausência de sistemas integrados leva à ineficiência e falta de controle.
+- **Desorganização:** A ausência de sistemas integrados leva à ineficiência e falta de controle.
 
 ## 4. Soluções que a Olist Pode Oferecer
 - **E-commerce Integrado:** Aumento da visibilidade e facilidade na gestão das vendas nos marketplaces.
@@ -47,8 +47,8 @@ A Olist é uma plataforma que conecta empresas a influenciadores e facilita as v
    - "Entre em contato e descubra como nossa plataforma pode transformar o seu negócio!"
 
 ### 5.1. Exemplos de Depoimentos
-- "Com a Olist, nossa gestão de vendas se tornou muito mais prática e eficiente." - Felipe Bernardini, Proprietário da Birden Clothing.
-- "A integração da Olist facilitou nossa operação, permitindo que focássemos no que realmente importa: o crescimento." - Alexandre Sarti, Sócio da Sunset Cosméticos.
+- "Com a Olist, nossa gestão de vendas se tornou muito mais prática e eficiente." - **Felipe Bernardini**, Proprietário da Birden Clothing.
+- "A integração da Olist facilitou nossa operação, permitindo que focássemos no que realmente importa: o crescimento." - **Alexandre Sarti**, Sócio da Sunset Cosméticos.
 
 ## 6. Considerações Finais
 A Olist representa uma oportunidade valiosa para empresas que buscam descomplicar sua gestão e expandir suas operações. O uso de influenciadores pode ser uma poderosa estratégia de marketing que se alinha perfeitamente com os serviços oferecidos pela Olist. Este relatório deve servir como base para o desenvolvimento de um e-mail personalizado que conecte as soluções da Olist às necessidades da empresa prospectada.
