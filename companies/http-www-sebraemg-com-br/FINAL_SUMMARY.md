@@ -1,90 +1,56 @@
-Claro, aqui está um modelo detalhado de relatório de prospecção que um SDR poderia utilizar ao mapear informações relevantes sobre uma empresa no contexto de Marketing de Influência.
+# Relatório de Prospecção para a Empresa: Sebrae Minas Gerais
 
-# Relatório de Prospecção
+## Informações Gerais
+- **Nome da Empresa:** Sebrae Minas Gerais
+- **Segmento:** Entidade de apoio ao empreendedorismo, educação e consultoria para pequenos negócios.
+- **Website:** [sebraemg.com.br](https://sebraemg.com.br)
+- **Localização:** Belo Horizonte, MG, Brasil
+- **Ano de Fundação:** 1972
 
-## Informações Básicas da Empresa
+## Produtos e Serviços Oferecidos
+1. **Consultoria e Capacitação:**
+   - Consultorias personalizadas em diversas áreas, como Marketing, Finanças, Gestão de Vendas e Inovação.
+   - Programas educacionais como o Empretec para desenvolvimento de competências empreendedoras.
+   - Cursos online gratuitos em áreas como negociação, marketing digital, finanças e mais.
 
-- **Nome da Empresa:** [Nome da Empresa]
-- **Endereço:** [Endereço Completo]
-- **Website:** [URL do Site]
-- **Telefone:** [Número de Telefone]
-- **Email de Contato:** [Email de Contato Principal]
+2. **Eventos e Feiras:**
+   - Organização de eventos como o E-Festival Sebrae, que promove o empreendedorismo e reúne várias startups, investidores e mentors.
+   - Participação em eventos como a Semana do MEI, que oferece capacitações para microempreendedores.
 
-## Informações do Mercado
+3. **Plataformas Digitais:**
+   - PNBOX (plano de negócios digital) para facilitar a formulação de planos de negócios.
+   - Sebrae Play: plataforma de cursos online e consultorias.
 
-- **Segmento de Atuação:** [Descrever o segmento de atuação da empresa, como moda, beleza, tecnologia, etc.]
-- **Posicionamento no Mercado:** [Informações sobre como a empresa é percebida em seu segmento, qual sua proposta de valor, etc.]
-- **Concorrência Direta:** [Listar principais concorrentes e suas práticas de marketing de influência, se disponíveis.]
+4. **Publicações e Conteúdo:**
+   - Revista "Histórias de Sucesso" que compartilha relatos inspiradores e dicas práticas para empreendedores.
 
-## Dados da Equipe
+## Público-Alvo
+- Pequenos empresários e microempreendedores.
+- Empreendedores em potencial que buscam iniciar um negócio.
+- Municípios e associações que desejam desenvolver suas economias locais.
 
-- **Nome do Contato Principal:** [Nome]
-- **Cargo:** [Cargo do Contato]
-- **Experiência Profissional:** [Breve descrição das experiências anteriores do contato, se possível.]
-- **Interesses e Hobbies:** [Informações pessoais que podem ajudar na personalização do contato.]
-
-## Análise da Presença Online
-
-1. **Website:**
-   - Análise da navegação e estética.
-   - Avaliação da seção de blogs ou recursos.
-   - Identificação de áreas de destaque na oferta de produtos/serviços.
-
-2. **Mídias Sociais:**
-   - **Instagram:** (Número de seguidores, tipo de conteúdo postado, engajamento)
-   - **Facebook:** (Número de curtidas, postagens frequentes)
-   - **LinkedIn:** (Conexões, tipo de conteúdo relacionado a negócios)
-   - **Twitter:** (Número de seguidores, postagens relevantes)
-
-3. **Artigos e Publicações:**
-   - [Listar artigos relevantes sobre a empresa em mídias externas, blogs ou notícias.]
-
-## Dores e Desafios Identificados
-
-- **Dores Possíveis:**
-  - Dificuldade em atingir o público-alvo efetivamente.
-  - Baixo engajamento em campanhas de mídia social.
-  - Necessidade de melhorar a percepção de marca.
-  - Falta de conexão genuína com o público.
-
-- **Desafios Atuais:**
-  - [Descrever os desafios específicos atuais da empresa em relação ao marketing e à presença online, baseando-se em dados disponíveis.]
+## Dores e Desafios do Cliente
+- **Falta de Conhecimento e Capacitação:** Muitas pequenas empresas e microempreendedores carecem de informações e habilidades práticas sobre gestão e operação dos negócios.
+- **Visibilidade e Networking:** Necessidade de aumentar a visibilidade das marcas e produtos no mercado e conectar-se com potenciais clientes e investidores.
+- **Adaptação ao Ambiente Digital:** Desafio em transformar negócios tradicionais em modelos que utilizem tecnologia e marketing digital.
 
 ## Oportunidades de Marketing de Influência
+- **Parcerias com Influenciadores:** Colaborar com influenciadores que são especialistas em áreas relevantes para os empreendedores, como finanças pessoais, início e crescimento de negócios e marketing digital.
+- **Campanhas de Conscientização:** Criar campanhas de marketing de influência que promovam eventos como o E-Festival e a Semana do MEI, destacando os benefícios da participação nestes eventos para pequenos negócios.
+- **Depoimentos e Histórias de Sucesso:** Usar histórias de empreendedores que foram impactados por seus cursos e consultorias para contar relatos autênticos e engajadores que possam ser compartilhados por influenciadores.
 
-- **Influenciadores Potenciais:**
-  - [Listar perfis de influenciadores que se alinham com a marca, incluindo engajamento e público-alvo.]
+## Contexto e Tendências do Mercado
+- O cenário de empreendedorismo no Brasil continua a crescer, especialmente no contexto de recuperação econômica pós-pandemia.
+- A digitalização dos negócios tornou-se um foco essencial, com cada vez mais empreendedores buscando modos de integrar tecnologia em seus modelos de negócio.
+- Há um aumento na busca por capacitação e consultorias online, o que representa um canal importante de marketing e divulgação para o Sebrae.
 
-- **Campanhas Sazonais:**
-  - [Descrever campanhas que podem ser relevantes para a empresa, como datas comemorativas ou lançamentos de produtos.]
+## Competição
+- Competidores diretos incluem outras entidades de apoio ao empreendedorismo e consultorias de pequeno e médio porte.
+- A diferenciação do Sebrae está em sua longa experiência, na diversidade de serviços e na confiança que a marca transmite aos empreendedores.
 
-- **Possíveis Colaborações:**
-  - [Sugerir colaborações ou ações que poderiam ser vantajosas e atraentes para a empresa.]
+## Sugestões de Estratégia de Prospecção
+1. **Email Marketing Personalizado:** Enviar campanhas segmentadas para micro e pequenos empresários, oferecendo conteúdos relevantes e convidando-os para eventos específicos.
+2. **Webinars e Lives:** Organizar eventos online com influenciadores para discutir temas relevantes e atrair novos empreendedores.
+3. **Mentorias através de Influenciadores:** Fomentar programas de mentoria onde influenciadores atuem como mentores para novos empreendedores, ajudando a criar visibilidade e reforçar a imagem do Sebrae como uma entidade que além de consultorias, se esforça para criar um ambiente de apoio e aprendizado.
 
-## Concorrência Analisada
-
-- **Principais Concorrentes:**
-  - [Nome 1]
-    - Estratégia de Influência
-    - Resultados ou campanhas de destaque
-  - [Nome 2]
-    - Estratégia de Influência
-    - Resultados ou campanhas de destaque
-
-## Mensagem Personalizada para o Copywriter
-
-**Resumo:**  
-Com base nos dados coletados, a mensagem a ser elaborada deve focar em como o Marketing de Influência pode ser a solução para as dores da empresa, destacando a relevância da autencidade e como isso cria uma conexão mais forte com o público. Além disso, o copy deve mencionar influenciadores específicos que já se alinham à marca, demonstrando uma abordagem estratégica que não só atinge o público certo como também melhora a imagem da empresa no mercado.
-
-### Exemplos de Tópicos para o Email:
-- Como influenciadores podem resolver problemas de engajamento e branding.
-- Casos de sucesso de empresas semelhantes.
-- Sugestões personalizadas de influenciadores.
-
-## Conclusão
-
-Esse relatório deve fornecer um panorama completo da empresa alvo para que o copywriter consiga elaborar uma comunicação de alta relevância e engajamento. As informações devem ser constantemente atualizadas com novas descobertas e insights para garantir assertividade na abordagem. 
-
---- 
-
-Sinta-se à vontade para preencher os detalhes específicos com as informações coletadas sobre a empresa a ser prospectada!
+Com este relatório, o copywriter terá uma visão clara e detalhada sobre o Sebrae, suas ofertas, características do público-alvo, dores e oportunidades, além de um direcionamento estratégico para as campanhas de marketing de influência.
