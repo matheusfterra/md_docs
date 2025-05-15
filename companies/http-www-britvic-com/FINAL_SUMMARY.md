@@ -1,7 +1,6 @@
 # Relatório de Prospecção - Britvic
 
 ## Informações Gerais
-
 - **Nome da Empresa**: Britvic
 - **Setor**: Bebidas não alcoólicas (soft drinks)
 - **Localização**: Hemel Hempstead, Inglaterra
@@ -14,7 +13,6 @@
 
 ## Portfólio de Marcas
 Britvic possui um extenso portfólio de 39 marcas amadas, que incluem:
-
 1. **7UP**: Refrigerante de limão e lima, sem corantes e conservantes.
 2. **Aqua Libra**: Água com sabor, com um foco em hidratação sustentável.
 3. **Gatorade**: Bebida esportiva focada em desempenho atlético.
@@ -25,11 +23,10 @@ Britvic possui um extenso portfólio de 39 marcas amadas, que incluem:
 8. **Tango**: Refrigerante de laranja com um sabor marcante.
 
 ## Novas Iniciativas e Tendências
-- **Sustentabilidade**: Britvic tem um foco significativo em práticas sustentáveis, utilizando 75% de eletricidade gerada por energia solar, e comprometendo-se a remover bilhões de calorias da dieta dos consumidores por meio da reformulação de produtos.
-- **Inovações em sabores**: Recentemente, a Britvic lançou novos sabores como Orange & Mango na linha Robinsons e está trazendo de volta sabores como Cherry Blast e Raspberry Blast da marca Tango.
+- **Sustentabilidade**: Britvic tem um foco significativo em práticas sustentáveis, utilizando 75% de eletricidade gerada por energia solar e comprometendo-se a remover bilhões de calorias da dieta dos consumidores através da reformulação de produtos.
+- **Inovações em sabores**: Recentemente, a Britvic lançou novos sabores como **Orange & Mango** na linha Robinsons e está trazendo de volta sabores como **Cherry Blast** e **Raspberry Blast** da marca Tango.
 
 ## Desafios e Oportunidades
-
 ### Dores Potenciais
 - **Concorrência**: O setor de bebidas não alcoólicas é altamente competitivo, e as marcas estão constantemente lutando por participação de mercado.
 - **Mudança nas Preferências do Consumidor**: A crescente demanda por produtos mais saudáveis e sustentáveis está forçando marcas a se adaptarem rapidamente.
@@ -50,4 +47,11 @@ Ao elaborar uma comunicação, um e-mail direcionado à Britvic deve enfatizar o
 - A importância de alinhar parcerias de influência com a missão da Britvic de promover um futuro mais saudável.
 
 ## Notas Finais
-A Britvic, ao se tornar parte do Carlsberg Group, tem tido a chance de ampliar suas operações e inovar em um setor que evolui rapidamente. O alinhamento com influenciadores pode maximizar suas iniciativas de sustentabilidade e novos produtos, convertendo desafios em oportunidades de crescimento e engajamento de marca. É essencial que a comunicação seja feita de maneira a enfatizar a transformação social e ambiental que a marca está promovendo, criando uma narrativa que ressoe com os valores dos consumidores modernos.
+A Britvic, ao se tornar parte do Carlsberg Group, tem tido a chance de ampliar suas operações e inovar em um setor que evolui rapidamente. O alinhamento com influenciadores pode maximizar suas iniciativas de sustentabilidade e novos produtos, convertendo desafios em oportunidades de crescimento e engajamento de marca. É essencial que a comunicação seja feita de maneira a enfatizar a transformação social e ambiental que a marca está promovendo, criando uma narrativa que ressoe com os valores dos consumidores modernos. 
+
+### Anexos
+- Links para mais informações sobre iniciativas de sustentabilidade: [Sustentabilidade](https://www.britvic.com/sustainability/)
+- Dados financeiros e históricos disponíveis: [Históricos Financeiros](https://www.britvic.com/historical-financials/) 
+
+### Conclusão
+O marketing de influência, alinhado à missão e aos valores da Britvic, pode catalisar uma relação mais forte com os consumidores, especialmente em um mercado que prioriza saúde e sustentabilidade. O uso de influenciadores eficazes neste segmento pode não apenas aumentar a visibilidade das marcas, mas também gerar uma conexão emocional profunda com o público alvo.
