@@ -11,7 +11,7 @@
 A Elementar Digital é uma agência especializada em marketing digital que visa ajudar marcas a crescerem com eficiência através de estratégias de marketing bem planejadas e mensuráveis. Com um histórico de gerenciamento de mais de R$ 250 milhões em mídia digital de performance no último ano, a empresa possui uma expertise considerável no setor.
 
 ### 2.1. Serviços Oferecidos
-- **Marketing Digital**: Foco em results tangíveis e mensuráveis.
+- **Marketing Digital**: Foco em resultados tangíveis e mensuráveis.
 - **Tecnologia de Marketing**: Integração de dados através de Big Data para tomada de decisões informadas.
 - **Análise de Marca**: Atuação em branding e rebranding, análise quantitativa para influenciadores digitais e outras ações de promoções.
 - **Estratégias de Publicidade**:
@@ -46,7 +46,9 @@ O mercado de marketing digital está em franca expansão, especialmente após a 
 
 ## 6. Oportunidades para Parceria
 - A Elementar Digital poderia beneficiar-se significativamente de parcerias com plataformas de influenciadores para otimizar suas campanhas de marketing digital.
-- A proposta de valor se alinha com a ideia de criar campanhas de influenciadores que gerem resultados tangíveis e mensuráveis, utilizando a expertise em análise e tecnologia da Elementar.
+- A proposta de valor se alinha com a ideia de criar campanhas de influenciadores que gerem resultados tangíveis e mensuráveis, utilizando a experiência em análise e tecnologia da Elementar.
 
 ## 7. Conclusão
-O Elementar Digital representa uma excelente oportunidade de parceria para alavancar campanhas de marketing de influência e potencializar o alcance e engajamento das marcas com o público. Compreender suas necessidades específicas em relação à mensuração de resultados e otimização de campanhas será fundamental para estruturar uma abordagem de contato personalizada e eficaz.
+A Elementar Digital representa uma excelente oportunidade de parceria para alavancar campanhas de marketing de influência e potencializar o alcance e engajamento das marcas com o público. Compreender suas necessidades específicas em relação à mensuração de resultados e otimização de campanhas será fundamental para estruturar uma abordagem de contato personalizada e eficaz. 
+
+Este relatório fornecerá ao copywriter as informações necessárias para elaborar um e-mail atrativo e que dialogue diretamente com as necessidades e realidades da Elementar Digital.
