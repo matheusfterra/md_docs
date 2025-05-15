@@ -55,7 +55,7 @@ A Locaweb oferece uma ampla gama de serviços e produtos para atender as necessi
 
 ## 6. Oportunidade de Marketing de Influência
 ### Contexto:
-- Com o crescimento do marketing digital, muitas empresas estão buscando maneiras de se destacar. O marketing de influência pode posicionar a Locaweb como uma marca de confiança e impelir a adoção de seus produtos.
+- Com o crescimento do marketing digital, muitas empresas estão buscando maneiras de se destacar. O marketing de influência pode posicionar a Locaweb como uma marca de confiança e impulsionar a adoção de seus produtos.
 
 ### Estratégias Recomendada:
 1. **Colaboração com Influenciadores de Tecnologia:** Parcerias com influenciadores especializados em tecnologia para promover a Locaweb como uma solução de confiança para a contratação de serviços digitais.
@@ -63,12 +63,9 @@ A Locaweb oferece uma ampla gama de serviços e produtos para atender as necessi
 
 ## 7. Ações Recomendadas para Prospecção
 Para chamar a atenção da Locaweb, a carta que será redigida deve:
-
 - Destacar o potencial de colaborar com influenciadores para ampliar a visibilidade e reputação da marca.
 - Mencionar a importância do marketing digital na retenção de clientes e na captação de novos públicos.
 - Enfatizar a crescente necessidade de soluções de segurança e credibilidade na comunicação digital.
 
 ## 8. Conclusão
-A Locaweb possui uma estrutura robusta e uma ampla gama de serviços destinados ao público brasileiro, com um histórico de confiabilidade e atendimento qualificado. Há um grande potencial para introduzir ações de marketing de influência que podem ampliar sua presença de mercado e fortalecer a percepção da marca entre seus clientes. 
-
-Esse relatório serve de base para a elaboração de uma comunicação relevante e estratégica, potencializando as chances de sucesso na prospecção.
+A Locaweb possui uma estrutura robusta e uma ampla gama de serviços destinados ao público brasileiro, com um histórico de confiabilidade e atendimento qualificado. Há um grande potencial para introduzir ações de marketing de influência que podem ampliar sua presença de mercado e fortalecer a percepção da marca entre seus clientes. Este relatório serve de base para a elaboração de uma comunicação relevante e estratégica, potencializando as chances de sucesso na prospecção.
