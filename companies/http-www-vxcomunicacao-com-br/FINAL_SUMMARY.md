@@ -6,14 +6,14 @@
 - **Localização**: 
   - Brasil: R. Quinze de Novembro, 4, Grupo 910, Niterói - RJ, 24.020-125
   - Portugal: AV. INFANTE SANTO, NO 17, 6°, 1350-175 LISBOA
-- **Contato**: +55 21 2722-2113 (Brasil) | +351 923 522 385 (Portugal)
+- **Contato**: 
+  - Brasil: +55 21 2722-2113 
+  - Portugal: +351 923 522 385
 - **Website**: [vxcomunicacao.com.br](https://vxcomunicacao.com.br)
 - **E-mail de Contato**: [Contato VX](https://vxcomunicacao.com.br/contato/)
 
 ## Descrição da Empresa
-A VX Comunicação é uma agência de marketing 360° que se dedica a criar e desenvolver soluções no âmbito do marketing digital, com foco em resultados reais e duradouros. A empresa se posiciona como um coletivo multidisciplinar, oferecendo lançamentos de campanhas, estratégias de branding e comunicação integrada.
-
-A VX Comunicação atua com uma abordagem centrada no cliente, buscando entender suas necessidades e proporcionando experiências únicas e personalizadas. A equipe de profissionais é composta por especialistas em diversas áreas que vão desde o desenvolvimento de produtos digitais até a gestão de mídias sociais.
+A VX Comunicação é uma agência de marketing 360° que se dedica a criar e desenvolver soluções no âmbito do marketing digital, com foco em resultados reais e duradouros. A empresa se posiciona como um coletivo multidisciplinar, oferecendo lançamentos de campanhas, estratégias de branding e comunicação integrada. Sua abordagem centrada no cliente permite proporcionar experiências únicas e personalizadas.
 
 ## Serviços e Soluções
 - **Estratégia de Marca e Planejamento**
@@ -23,7 +23,7 @@ A VX Comunicação atua com uma abordagem centrada no cliente, buscando entender
 - **Produção Gráfica**
 - **Tecnologia e Desenvolvimento**
 - **Mídia Kits**
-- Para mais informações: [Serviços e Soluções](https://vxcomunicacao.com.br/servicos-e-solucoes).
+- Para mais informações: [Serviços e Soluções](https://vxcomunicacao.com.br/servicos-e-solucoes)
 
 ## Clientes Atuais
 A VX Comunicação possui um portfólio diverso com grandes marcas como:
@@ -37,7 +37,7 @@ A VX Comunicação possui um portfólio diverso com grandes marcas como:
 8. Canal Telecine
 9. Disney
 10. E muitas outras.
-- Para a lista completa: [Clientes](https://vxcomunicacao.com.br/clientes).
+- Para a lista completa: [Clientes](https://vxcomunicacao.com.br/clientes)
 
 ## Propostas de Valor
 A VX Comunicação se destaca no mercado por oferecer:
