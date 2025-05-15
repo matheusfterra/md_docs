@@ -40,7 +40,7 @@ A Fisia Italimpianti está empenhada em resolver questões ambientais e a escass
 - **Crescimento Sustentável:** A busca por parcerias que ofereçam inovação e fortaleçam sua reputação no setor.
 
 ### 7. Proposta de Valor para a Fisia Italimpianti
-**Como a nossa empresa de Marketing de Influência pode ajudar:**
+Como a nossa empresa de Marketing de Influência pode ajudar:
 - **Aumentar a Visibilidade:** Criar campanhas que destaquem a atuação da Fisia nas mídias sociais e outros canais, promovendo seus projetos e iniciativas.
 - **Conectar com Stakeholders:** Conectar a Fisia a influenciadores do setor ambiental e de sustentabilidade que podem amplificar a mensagem da empresa.
 - **Criação de Conteúdo:** Desenvolver conteúdo que aborde as necessidades e desafios da empresa, reforçando sua imagem de liderança no setor.
