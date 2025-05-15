@@ -18,7 +18,6 @@ O Grupo Elian é uma indústria têxtil que se destaca pela produção e comerci
 - **Colorittá:** Focada em moda infantil com ênfase em sustentabilidade e estilos variados.
 - **Marialícia:** Moda feminina que celebra a diversidade de biotipos, oferecendo uma grade de tamanhos do 36 ao 52.
 - **Elian Beats:** Linha voltada para um público mais jovem.
-
 A marca se destaca pela qualidade de seus produtos e pela preocupação em acompanhar as tendências de moda.
 
 ## Segmento de Mercado
@@ -54,3 +53,7 @@ A Elian está atenta às tendências de moda e às necessidades do mercado. Em r
 
 ## Considerações Finais
 Este relatório fornece uma visão abrangente do Grupo Elian, suas operações e oportunidades potenciais para parcerias em marketing de influência. A personalização das comunicações com base nas informações privilegiadas pode contribuir para um contato mais eficaz e relevante com a empresa.
+
+--- 
+
+Com esse relatório, o copywriter pode elaborar um email profundamente personalizado e impactante, abordando as potencialidades de uma parceria em marketing de influência, alinhando-se às necessidades e valores do Grupo Elian.
