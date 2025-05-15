@@ -1,52 +1,75 @@
-# Relatório de Prospecção: LGTI Tecnologia
+# Relatório de Prospecção para a LGTI
 
 ## Informações Gerais da Empresa
-- **Nome da Empresa**: LGTI Tecnologia de Informação Ltda
-- **CNPJ**: 08.758.643/0001-00
-- **Site**: [lgti.com.br](https://www.lgti.com.br)
-- **Telefone**: 4000-2555
-- **E-mail**: [contato@lgti.com.br](mailto:contato@lgti.com.br)
+
+**Nome da Empresa:** LGTI Tecnologia de Informação  
+**Website:** [www.lgti.com.br](https://www.lgti.com.br)  
+**CNPJ:** 08.758.643/0001-00  
+**Telefone de Contato:** 4000-2555  
+**Email de Contato:** contato@lgti.com.br  
 
 ## Visão Geral da Empresa
-A LGTI é uma empresa que atua como um Managed Service Provider (MSP) e oferece uma gama de serviços voltados para a segurança, gerenciamento e otimização da infraestrutura de Tecnologia da Informação. Com 17 anos de experiência no mercado, a LGTI se destaca por sua compromisso em proporcionar soluções inovadoras, agilidade e automação, visando melhorar a eficiência operacional das empresas que atendem.
 
-## Segmentos de Atuação
-A LGTI oferece serviços em três áreas principais:
-1. **Cyber Security**: 
-   - Defensiva (Blue Team)
-   - Ofensiva (Red Team)
-   - Gerenciamento de Segurança (Purple Team)
-  
-2. **Cloud Services**: 
+A LGTI atua como um Managed Service Provider (MSP) com 17 anos de experiência no mercado de TI, oferecendo soluções integradas para o gerenciamento e segurança da infraestrutura de TI. A empresa utiliza tecnologias inovadoras e uma equipe altamente qualificada para maximizar a segurança de dados e a continuidade das operações de seus clientes.
+
+### Princípios da LGTI
+
+1. **We are stronger together** (Juntos somos mais fortes).
+2. **Work from anywhere** (Trabalhe de qualquer lugar).
+3. **Autonomy, responsibility, and rewards** (Autonomia, responsabilidade e recompensas).
+4. **Customer first** (Cliente em primeiro lugar).
+
+## Serviços Oferecidos
+
+1. **Cybersecurity**
+   - Defensive Security – SOC – Blue Team
+   - Offensive Security - Red Team
+   - Management Security - Purple Team
+
+2. **Cloud Services**
    - Jornada Cloud
-   - Gerenciamento de Nuvem
-   - Continuidade de Negócios
+   - Cloud Management
+   - Business Continuity Management
 
-3. **IT Infrastructure Management**:
-   - Administração de TI
+3. **IT Infrastructure Management**
+   - IT Admin
    - Command Center
-   - Centro de Operações de Negócios (BOC)
-   - Centro de Operações de Rede (NOC)
+   - Business Operation Center (BOC)
+   - Network Operation Center (NOC)
    - Integradores de Tecnologia
 
-## Dores Potenciais do Cliente
-- **Segurança de Dados**: Com o aumento de ataques cibernéticos, as empresas estão sempre em risco de perda e violações de dados.
-- **Gerenciamento de Infraestrutura**: Muitas empresas lutam com a complexidade e os custos associados à manutenção de suas infraestruturas de TI.
-- **Necessidade de Agilidade**: As empresas precisam ser mais ágeis e eficientes para se manterem competitivas, mas muitas vezes não têm as ferramentas ou o know-how para otimizar suas operações de TI.
-- **Escalabilidade**: A capacidade de escalar rapidamente é crucial, especialmente para empresas que estão em crescimento e necessitam de soluções flexíveis.
+## Contexto do Mercado
+
+A LGTI se posiciona em um mercado de crescente demanda por soluções de TI seguras e escaláveis. Com os desafios de segurança cibernética em ascensão, as empresas buscam parceiros confiáveis que possam oferecer monitoramento contínuo e suporte especializado para suas operações.
+
+## Possíveis Dores da Empresa
+
+1. **Falta de Segurança:** Com o aumento das ameaças cibernéticas, a LGTI precisa garantir que os dados e sistemas de seus clientes estejam seguros contra possíveis ataques.
+
+2. **Eficiência Operacional:** As empresas enfrentam desafios para manter operações ininterruptas. A LGTI deve focar em soluções que garantam a continuidade dos negócios, especialmente no setor financeiro e em organizações que lidam com grandes volumes de dados.
+
+3. **Inovação Constante:** O mercado de TI evolui rapidamente, e é vital que a LGTI esteja na vanguarda da tecnologia, implementando soluções inovadoras que atendam às necessidades em constante mudança de seus clientes.
+
+4. **Adoção de Cloud:** Muitas empresas estão na jornada de migração para a nuvem e a LGTI pode ajudar a tornar esse processo mais eficiente e seguro, ao mesmo tempo em que minimiza custos.
 
 ## Casos de Sucesso
-- **Federação Paulista de Futebol**: A LGTI implementou soluções que melhoraram a segurança e a eficiência da infraestrutura de TI da organização, garantindo suporte ágil em um ambiente com alta visibilidade.
-- **Sicoob Crediceripa**: Implementação bem-sucedida de um projeto de transformação digital que envolveu melhorias significativas em infraestrutura e segurança, além de monitoramento 24/7.
+
+### Federação Paulista de Futebol
+- **Desafio:** Alta demanda por disponibilidade e monitoramento em tempo real.
+- **Solução:** Parceria com a LGTI para gerenciamento da infraestrutura, garantindo a segurança e continuidade dos serviços, trazendo satisfação aos gerentes de TI.
+
+### Sicoob Crediceripa
+- **Desafio:** Necessidade de transformação digital em sua infraestrutura de TI.
+- **Solução:** Implementação de soluções de monitoramento e suporte proativo, resultando em um elevando sucesso na produtividade e na segurança.
 
 ## Cultura Organizacional
-A LGTI enfatiza a criação de um ambiente de trabalho colaborativo e inovador. Eles têm um forte compromisso com a proatividade, entrega de resultados e manutenção de um relacionamento próximo com os clientes. A cultura é centrada na valorização das pessoas (chamadas de "Stronger"), promovendo um espaço onde a felicidade e a satisfação são essenciais para o sucesso organizacional.
 
-## Estratégia de Comunicação
-Para um email de prospecção, é importante enfatizar:
-- Como a LGTI pode acelerar a segurança e a eficiência operacional da empresa prospectada.
-- Casos de sucesso que são relevantes para a indústria da empresa a ser contactada.
-- A importância de uma abordagem personalizada e as soluções específicas que a LGTI pode oferecer.
+A LGTI valoriza o trabalho em equipe, a inovação e a felicidade dos seus colaboradores, conhecidos como "Stronger". A empresa proporciona um ambiente flexível e dinâmico, onde as pessoas são incentivadas a se desenvolver e aprender continuamente.
+
+### Destaques Culturais
+- **Flexibilidade de Trabalho:** O ambiente de trabalho remoto é altamente valorizado, com um framework que fomenta a inovação e a produtividade.
+- **Cultura de Feedback:** Dialogos abertos são encorajados, permitindo um crescimento mútuo e contínuo.
 
 ## Conclusão
-A LGTI se apresenta como um parceiro estratégico valioso para empresas que buscam otimizar suas operações de TI, aumentar a segurança e garantir a continuidade dos negócios em um ambiente digital em constante mudança. Acrescentar informações relevantes sobre as dores do cliente, experiências anteriores e a cultura organizacional durante o contato pode fortalecer a proposta e aumentar as chances de uma resposta positiva.
+
+A LGTI é uma empresa sólida e bem posicionada para oferecer soluções críticas no mercado de TI. Sua abordagem focada na segurança e suporte contínuo a torna um parceiro valioso para empresas que buscam aprimorar suas operações e segurança de dados. O copywriter deve explorar as dores e desafios enfrentados por seus clientes para criar uma mensagem que ressoe com suas necessidades, destacando a experiência e os casos de sucesso como apoio à proposta de valor da LGTI.
