@@ -1,14 +1,14 @@
 # Relatório de Prospecção: Thomson Reuters
 
 ## 1. Informações da Empresa
-- **Nome Complento:** Thomson Reuters
+- **Nome Completo:** Thomson Reuters
 - **Segmento:** Tecnologia e serviços de informação
 - **Subsegmentos:** Comércio exterior, contabilidade, jurídico, tributário
 - **Website:** [http://www.thomsonreuters.com.br](http://www.thomsonreuters.com.br)
 - **Localização:** São Paulo, Brasil
 
 ## 2. Descrição da Atividade
-A Thomson Reuters é uma empresa líder em soluções e informações tecnológicas, fornecendo serviços para profissionais de diversas áreas. Seu foco está em ajudar seus clientes a entender as mudanças do ambiente global através das suas soluções, especificamente nos domínios de comércio exterior, contabilidade, jurídico e tributário.
+A Thomson Reuters é uma empresa líder em soluções e informações tecnológicas, fornecendo serviços para profissionais de diversas áreas. Seu foco está em ajudar seus clientes a entender as mudanças do ambiente global através de suas soluções, especificamente nos domínios de comércio exterior, contabilidade, jurídico e tributário.
 
 ## 3. Serviços Oferecidos
 - **Comércio Exterior:**
@@ -25,15 +25,15 @@ A Thomson Reuters é uma empresa líder em soluções e informações tecnológi
 
 ## 4. Dores e Desafios
 1. **Otimização dos Processos:**
-   - Empresas enfrentam a necessidade de modernização em suas operações de importação/exportação.
+   - Necessidade de modernização nas operações de importação/exportação.
 2. **Compliance e Transparência:**
-   - Necessidade de conformidade rigorosa com as regulamentações governamentais.
+   - Conformidade com regulamentações governamentais.
 3. **Automação:**
-   - Integrações de sistemas são essenciais para evitar erros e melhorar a eficiência de processos.
+   - Integrações de sistemas para evitar erros e melhorar a eficiência.
 4. **Risco no Comércio Exterior:**
-   - A complexidade crescente das operações internacionais gera riscos significativos.
+   - A complexidade crescente das operações internacionais gera riscos.
 5. **Acesso limitado a dados em tempo real:**
-   - Dificuldade em obter informações essenciais compromete a tomada de decisões.
+   - Dificuldade em obter informações essenciais para a tomada de decisões.
 
 ## 5. Contexto de Mercado
 ### Mudanças nas Regulamentações
