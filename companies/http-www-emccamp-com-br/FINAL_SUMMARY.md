@@ -71,7 +71,7 @@ O público-alvo da Emccamp inclui:
 - **Mudanças nas Preferências dos Consumidores:** Os consumidores valorizam cada vez mais áreas com boa infraestrutura e opções de lazer, tornando a localização um fator determinante para a venda.
 
 ## 6. Insights para Campanhas de Marketing
-- A identificação do foco nas famílias e jovens profissionais pode ser uma potência para campanhas direcionadas, enfatizando a localização e o estilo de vida em torno dos novos empreendimentos.
+- A identificação do foco nas famílias e jovens profissionais pode ser uma potencia para campanhas direcionadas, enfatizando a localização e o estilo de vida em torno dos novos empreendimentos.
 - Campanhas que explorem a confiabilidade e entrega no prazo podem resonar bem com o público atual.
 - Uma estratégia de marketing digital que utilize influenciadores pode ser extremamente benéfica, aproveitando a credibilidade e o alcance dessas personalidades para promover os empreendimentos.
 
