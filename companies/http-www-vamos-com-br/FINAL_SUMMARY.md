@@ -48,4 +48,8 @@
 - **Conteúdo Educacional:** Desenvolvimento de webinars e conteúdos educativos sobre logística, frete e aluguel de veículos pesados.
 
 ## Conclusão
-O Grupo Vamos é um exemplo de sucesso na locação e venda de veículos pesados, com ênfase na qualidade e inovação. As estratégias de marketing de influência podem proporcionar um significativo aumento na visibilidade e engajamento da marca. Este relatório fornece informações essenciais para a elaboração de um e-mail direto e personalizado que possa abordar diretamente as dores e oportunidades do Grupo Vamos, chamando sua atenção para uma possível parceria em marketing de influência.
+O Grupo Vamos é um exemplo de sucesso na locação e venda de veículos pesados, com ênfase na qualidade e inovação. As estratégias de marketing de influência podem proporcionar um significativo aumento na visibilidade e engajamento da marca. Este relatório fornece informações essenciais para a elaboração de um e-mail direto e personalizado que possa abordar diretamente as dores e oportunidades do Grupo Vamos, chamando sua atenção para uma possível parceria em marketing de influência. 
+
+--- 
+
+*Dados coletados a partir de fontes online do Grupo Vamos e análise contextual do mercado.*
