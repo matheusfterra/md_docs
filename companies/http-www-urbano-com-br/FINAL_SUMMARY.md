@@ -1,60 +1,76 @@
 # Relatório de Prospecção - Urbano Agroindustrial
 
-## 1. Informações Gerais da Empresa
-- **Nome da Empresa:** Urbano Agroindustrial
+## Informações Gerais
+
+- **Nome da Empresa:** Urbano Agroindustrial Ltda
 - **Website:** [www.urbano.com.br](https://www.urbano.com.br)
-- **Fundação:** 1960
-- **Localização:** Sede em Jaraguá do Sul, SC, com várias unidades de produção e distribuição em todo o Brasil.
-- **Número de Funcionários:** Mais de 1.700 colaboradores diretos.
-- **Área de Atuação:** Beneficiamento de alimentos, incluindo arroz, feijão, farinha e macarrão de arroz.
+- **Segmento:** Alimentos; Beneficiamento de arroz, feijão, farinha e macarrão de arroz.
+- **Ano de Fundação:** 1960
+- **Localização da Matriz:** Jaraguá do Sul, SC
+- **Tamanho da Empresa:** Mais de 1.700 colaboradores
+- **Área de Produção:** 143 mil m²
+- **Produção Mensal:** Mais de 60 mil toneladas
+- **Armazenamento:** Capacidade de 450 mil toneladas de arroz em casca e feijão.
 
-## 2. Missão, Visão e Valores
-- **Missão:** Proporcionar alimentação saudável e saborosa, com competitividade e eficiência, do campo à mesa.
+## Produtos Oferecidos
+
+1. **Arroz**
+   - Tipos: Branco, Integral, Parboilizado, Arbório, Basmati, entre outros.
+   - Uso: Atuante nas refeições do dia a dia e ocasiões especiais.
+   - Diferenciais: Produzido com tecnologia avançada para garantir a qualidade dos grãos.
+
+2. **Farinha**
+   - Tipos: Farinha de Arroz, Flocão de Arroz, Farinha Integral.
+   - Uso: Ideal para intolerantes ao glúten, podendo ser usada em diversas receitas.
+
+3. **Feijão**
+   - Tipos: Carioca, Preto, Vermelho, e de Corda.
+   - Diferenciais: Processo de beneficiamento que garante a seleção de grãos inteiros e de qualidade.
+
+4. **Macarrão**
+   - Tipos: Tradicional, Integral, Protein, Kids.
+   - Diferenciais: Todas as opções são sem glúten e desenvolvidas para atender diferentes necessidades nutricionais.
+
+5. **Cereais**
+   - Ofertas incluem: Quinoa, Grão de Bico, Lentilha, Milho para Pipoca, entre outros.
+
+## Missão, Visão e Valores
+
+- **Missão:** Proporcionar alimentação saudável e saborosa com competitividade e eficiência, do campo à mesa.
 - **Visão:** Intensificar o crescimento e presença junto ao consumidor, assegurando a continuidade do negócio.
-- **Valores:** 
-  - Simplicidade
-  - Integridade
-  - Comprometimento
-  - Pessoas
-  - Fazer acontecer
+- **Valores:** Simplicidade, Integridade, Comprometimento, Valorização das Pessoas e Realização de Resultados.
 
-## 3. Produtos Oferecidos
-A Urbano tem uma vasta gama de produtos alimentícios que atende ao mercado brasileiro:
-- **Arroz:** Diversas variedades, incluindo Arroz Branco, Arroz Integral e Arroz para Sushi.
-- **Feijão:** Vários tipos, como Feijão Carioca, Feijão Preto, Feijão Vermelho e Feijão de Corda.
-- **Macarrão:** Opções como Tradicional, Protein, Kids e Integral.
-- **Cereais:** Pipoca, lentilhas e muito mais.
-- **Farinha:** Farinha de Arroz e Flocão de Arroz, sem glúten.
+## Iniciativas Ambientais
 
-## 4. Responsabilidade Ambiental
-A empresa adota práticas sustentáveis, como:
-- **Tratamento de Água:** Utilização de água tratada e purificada em seus processos de produção.
-- **Autossuficiência Energética:** Produção de energia elétrica a partir da casca de arroz, atendendo 28.000 residências por ano.
-- **Controle de Poluição:** Métodos rigorosos de controle de poluição sonora e emissão de partículas sólidas.
+A Urbano demonstra preocupação com a sustentabilidade através de diversas iniciativas, como:
 
-## 5. Análise do Mercado
-- **Segmento:** Alimentação saudável e produtos sem glúten.
-- **Competidores:** Indústrias alimentícias tradicionais e startups focadas em alimentação saudável.
-- **Tendências:** Aumento da demanda por produtos livres de glúten e saudáveis, além de preocupações com sustentabilidade.
+- **Tratamento da Água:** A água utilizada nos processos de produção é tratada para garantir a qualidade dos produtos e o uso responsável dos recursos naturais.
+- **Autossuficiência Energética:** A empresa usa a casca do arroz para gerar energia elétrica, contribuindo para a sustentabilidade do negócio.
 
-## 6. Potenciais Dores da Empresa
-- Aumento da competição no segmento.
-- Necessidade de inovação contínua para atender às tendências de mercado.
-- Desafios na comunicação da proposta de valor ao consumidor final.
-- Necessidade de fortalecer a presença nas redes sociais e estratégias de marketing digital.
+## Características da Marca e Estratégia de Comunicação
 
-## 7. Contexto para Proposta de Marketing de Influência
-- **Oportunidade:** Com base em suas iniciativas em responsabilidade ambiental e produtos saudáveis, a Urbano pode se beneficiar de parcerias com influenciadores que promovem um estilo de vida saudável e sustentável.
-- **Estratégia:** Propositions de campanhas que conectem os produtos da Urbano com influenciadores que compartilhem receitas, dicas de alimentação saudável e práticas sustentáveis. 
-- **Objetivo:** Aumentar a conscientização da marca, ampliar o engajamento nas redes sociais e impulsionar as vendas.
+- **Slogan:** "Urbano, Como faz bem!"
+- **Público-Alvo:** Famílias em busca de produtos alimentícios de alta qualidade, com foco em saúde e bem-estar.
+- **Canais de Comunicação:** Presença em redes sociais, campanhas promocionais e newsletters.
+- **Diferenciação:** Enfatiza a qualidade dos ingredientes, cuidando do processo do campo à mesa e atendendo as necessidades de consumidores com restrições alimentares.
 
-## 8. Contato
-- **Página de Contato:** [Contato Urbano](https://www.urbano.com.br/contato)
-- **Telefone:** +55 47 3372 7500 (Urbano Jaraguá do Sul)
+## Dores Potenciais
 
-## 9. Conclusão
-A Urbano Agroindustrial é uma empresa consolidada com forte potencial em marketing de influência. Há oportunidades significativas para explorar colaborações com influenciadores que se alinhem com os valores e a missão da empresa, especialmente considerando seu foco em saúde e sustentabilidade. As estratégias propostas podem resultar em maior visibilidade e conexão com o consumidor final.
+1. **Aumento da Concorrência:** Com o crescimento do mercado de produtos sem glúten, a Urbano pode enfrentar a pressão de novos concorrentes que oferecem produtos similares.
+  
+2. **Necessidade de Consciência Ambiental:** Com consumidores cada vez mais preocupados com a sustentabilidade, a empresa precisa continuar a fortalecer suas práticas ambientais.
+
+3. **Adaptação ao Mercado Digital:** A ampliação de canais digitais e a mudança nas preferências dos consumidores exigem adaptação constante.
+
+## Contexto para a Prospenção
+
+A Urbano Agroindustrial é uma empresa consolidada no mercado de alimentos, oferecendo uma variedade de produtos que atendem diretamente à crescente demanda por opções saudáveis, sustentáveis e sem glúten. A comunicação deve se concentrar em destacar como a colaboração com influenciadores pode potencializar a presença da marca e engajar mais efetivamente o público-alvo.
+
+## Oportunidades de Marketing de Influência
+
+- **Colaboração com Chefs e Especialistas em Nutrição:** Poderia ajudar a reforçar a imagem da Urbano como uma marca saudável e confiável.
+- **Campanhas em Redes Sociais:** Influenciadores em plataformas como Instagram e TikTok podem promover receitas e o uso dos produtos em diversas ocasiões, aumentando o alcance da marca.
 
 ---
 
-Esse relatório fornece uma base sólida para a equipe de copywriting elaborar um e-mail personalizado e impactante para a Urbano, focando em suas necessidades e oportunidades identificadas.
+Este relatório detalhado é destinado ao copywriter para que ele possa elaborar um e-mail personalizado e envolvente para a Urbano Agroindustrial, enfatizando as oportunidades de marketing de influência que a empresa pode explorar.
