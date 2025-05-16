@@ -12,18 +12,14 @@
 
 ## 2. Produtos e Serviços 
 A Pixeon oferece uma série de soluções focadas em tecnologia para saúde, que incluem:
-
-- **Sistema para Hospitais**: Gestão completa com Prontuário Eletrônico do Paciente (PEP), sistemas de integração (HIS, CIS, LIS, RIS, PACS) para otimizar processos assistenciais e administrativos.
-  
-- **Sistema para Clínicas e Consultórios**: PEP com funcionalidades específicas para melhorar a gestão do histórico do paciente, otimização de processos, e cumprimento de normas de acreditação.
-
-- **Sistema para Laboratórios**: Automação dos processos laboratoriais, do atendimento inicial até a entrega de resultados online, com soluções para gestão estratégica em tempo real.
-
-- **Sistema para Radiologia**: Integração entre RIS e PACS para aumentar a produtividade e melhorar a gestão dos exames de imagem, entrega online de resultados e segurança no processos.
+- **Sistema para Hospitais:** Gestão completa com Prontuário Eletrônico do Paciente (PEP), sistemas de integração (HIS, CIS, LIS, RIS, PACS) para otimizar processos assistenciais e administrativos.
+- **Sistema para Clínicas e Consultórios:** PEP com funcionalidades específicas para melhorar a gestão do histórico do paciente, otimização de processos e cumprimento de normas de acreditação.
+- **Sistema para Laboratórios:** Automação dos processos laboratoriais, do atendimento inicial até a entrega de resultados online, com soluções para gestão estratégica em tempo real.
+- **Sistema para Radiologia:** Integração entre RIS e PACS para aumentar a produtividade e melhorar a gestão dos exames de imagem, entrega online de resultados e segurança nos processos.
 
 ## 3. Reconhecimentos e Certificações
-- **Best in KLAS for Latin America (2020, 2021, 2024)**: Pixeon foi premiada como a melhor solução de PACS da América Latina.
-- Registros em conformidade com a ANVISA para seus produtos, garantido seus padrões de segurança.
+- **Best in KLAS for Latin America (2020, 2021, 2024):** Pixeon foi premiada como a melhor solução de PACS da América Latina.
+- Registros em conformidade com a ANVISA para seus produtos, garantindo seus padrões de segurança.
 
 ## 4. Tendências e Inovações
 A Pixeon tem investido em tecnologia de inteligência artificial, com a perspectiva de melhorar ainda mais os processos de diagnóstico e tornar-se um player inovador no setor. A implementação de novas ferramentas para análise de imagens e armazenamento em nuvem são pontos destacados por executivos da empresa.
@@ -37,9 +33,7 @@ As instituições de saúde frequentemente enfrentam desafios como:
 
 ## 6. Depoimentos de Clientes
 - **Dr. Carlos Augusto Ribeiro**, Centro Médico InCórpore: “A recepção e o faturamento não se comunicavam, gerando problemas de produtividade. A Pixeon ofereceu uma solução eficaz."
-  
 - **José Fernando Denardi**, Assemed: “A parceria com a Pixeon foi fundamental para garantirmos um sistema de laudos confiável, seguro e que atendeu as necessidades da nossa expansão.”
-  
 - **Marcelo Abrahão**, Clínica Fares: “O PEP da Pixeon tem seguido nosso foco no cuidado ao paciente, proporcionando um atendimento mais integral.”
 
 ## 7. Contexto e Oportunidades
