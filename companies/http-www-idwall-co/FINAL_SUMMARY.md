@@ -1,66 +1,66 @@
-# Relatório de Prospecção - idwall Tecnologia
+# Relatório de Prospecção - Idwall Tecnologia
 
 ## Resumo da Empresa
-A idwall é uma empresa especializada em soluções de identidade digital, focada em prevenir fraudes e otimizar processos de validação de identidade. Seu portfólio inclui uma plataforma all-in-one que abrange gestão de identidade digital, autenticação biométrica, e soluções de verificação de documentos e antecedentes.
+A Idwall é uma empresa inovadora no setor de soluções de identidade digital, projetada para ajudar empresas a prevenir fraudes e otimizar processos de validação de identidade. A plataforma oferece uma gama abrangente de serviços, incluindo a gestão de identidade digital, autenticação biométrica e verificação de documentos.
 
 ## Objetivo da Prospecção
-O objetivo é apresentar a idwall para possíveis clientes no setor financeiro, de e-commerce e telecomunicações que necessitam de soluções robustas para gerenciamento e verificação de identidade, assegurando segurança e compliance.
+O objetivo da prospecção é conquistar novas parcerias com empresas nos setores financeiro, de e-commerce e telecomunicações, que necessitam de soluções robustas e eficientes para gerenciamento de identidade, que garantam segurança, agilidade e conformidade regulatória.
 
 ## Informações Básicas
-- **Nome da Empresa:** idwall Tecnologia LTDA
+- **Nome da Empresa:** Idwall Tecnologia LTDA
 - **CNPJ:** 24.934.106/0001-20
 - **Website:** [idwall.co](https://idwall.co)
 
 ## Características e Ofertas
-1. **Soluções de Identidades Digitais**
-   - Verificação da identidade com dados biométricos, cadastrais e documentais.
-   - Uso de tecnologia de autenticação biométrica para transações de risco, como Pix e recuperação de contas.
+1. **Soluções de Identidade Digital**
+   - Validação da identidade com dados biométricos, informações cadastrais e documentais.
+   - Autenticação biométrica para transações de alto risco, como manuseio de contas e transferências.
 
 2. **Conformidade Regulatória**
-   - Adequação às normas do Banco Central e COAF, com foco em KYC (Know Your Customer) e PLD/CFT (Prevenção à Lavagem de Dinheiro e Combate ao Financiamento do Terrorismo).
+   - Adequação às normativas do Banco Central e do COAF, cumprimento de diretrizes KYC e PLD/CFT.
 
 3. **Prevenção de Fraudes**
-   - Ferramentas para detecção de risco de fraudes e validação de documentos, reduzindo significativamente as taxas de fraudes.
+   - Ferramentas para detectar fraudes e validar documentos, reduzindo significativamente os índices de tentativas fraudulentas.
 
 4. **Integrações Personalizadas**
-   - Possibilidade de integrar várias soluções para criar uma abordagem unificada e automatizada para verificação de identidade e antifraude.
+   - Integração de várias soluções para criar um sistema unificado e automatizado para gerência de identidade e antifraude.
 
-5. **Colaboração com Gigantes da Indústria**
-   - Mais de 400 clientes em diversos setores, incluindo instituições financeiras (como os principais bancos do Brasil) e empresas de telecomunicações.
+5. **Portfólio de Clientes**
+   - Mais de 400 clientes, incluindo grandes instituições financeiras e telecomunicações, como Globo e iFood.
 
 ## Dores do Cliente
 1. **Fraudes em Transações**
-   - As empresas enfrentam riscos crescentes relacionados a fraudes em transações financeiras e cadastro, impactando sua reputação e resultando em perdas financeiras.
+   - Risco significativo relacionado a fraudes em transações financeiras e cadastros, afetando a reputação empresarial e gerando perdas financeiras.
 
-2. **Complexidade de Compliance**
-   - As exigências regulatórias estão se tornando cada vez mais complexas, obrigando as empresas a investirem em soluções eficientes para garantir conformidade.
+2. **Complexidade de Conformidade**
+   - Crescente complexidade das exigências regulatórias, que exige a adoção de soluções práticas para garantir a conformidade.
 
 3. **Experiência do Usuário**
-   - O equilíbrio entre segurança e experiência do usuário é delicado. Soluções que geram fricção podem levar à perda de clientes.
+   - A segurança deve ser balanceada com uma experiência de usuário fluida; soluções com alta fricção podem levar à perda de clientes.
 
-4. **Custo de Verificações Manuais**
-   - Processos manuais de verificação são ineficientes e custosos, exigindo automação para reduzir gastos e tempo.
+4. **Custos Operacionais com Verificações Manuais**
+   - Processos de verificação manuais são ineficientes e dispendiosos, destacando a necessidade de automação.
 
 ## Contexto de Mercado
-No cenário atual, o aumento da digitalização e o crescimento do e-commerce exacerbam os riscos de fraudes e a necessidade de soluções adequadas de verificação de identidade. O aumento das regulamentações impõe pressões adicionais, destacando a necessidade de plataformas que integram segurança e usabilidade.
+O panorama atual exige que as empresas inovem e se adaptem na era digital, onde o aumento do e-commerce traz riscos elevados de fraudes. A integração de soluções que oferecem segurança combinada a uma experiência otimizada aos usuários é fundamental.
 
 ## Exemplos de Casos de Uso
-- **Instituições Financeiras:** KYC e PLD/CFT, verificação de identidade de clientes durante o onboarding.
-- **E-commerce:** Validação de identidade e prevenção de fraudes em compras.
-- **Telecomunicações:** Gestão de risco e verificações de KYC para prevenção de fraudes.
+- **Instituições Financeiras:** Implementação de KYC e PLD/CFT e validação de identidade no processo de onboarding.
+- **E-commerce:** Verificação de identidade e prevenção de fraudes em compras.
+- **Telecomunicações:** Gestão do risco e verificações KYC para prevenir fraudes.
 
 ## Benefícios da Proposta
-1. **Redução de Fraudes:** Implementação de soluções integradas e específicas que previnem tentativas de fraudes em tempo real.
-2. **Aumento da Conversão:** Processo de validação ágil que melhora a experiência do cliente e aumenta as taxas de conversão.
-3. **Eficiência Operacional:** Simplificação e automação dos processos de verificação, resultando em redução de custos operacionais.
-4. **Compliance Garantido:** Manutenção da conformidade regulatória com atualizações automáticas sobre legislações.
+1. **Redução de Fraudes:** Implementação de soluções integradas que possibilitam a detecção de fraudes em tempo real.
+2. **Aumento da Conversão:** Processos de validação ágeis que impactam positivamente na experiência do cliente.
+3. **Eficiência Operacional:** Processos de verificação automatizados que promovem a redução de custos.
+4. **Compliance Garantido:** Acompanhamento eficaz das mudanças regulamentares, assegurando a conformidade contínua.
 
 ## Exemplos de Clientes
-- **Globo:** Utiliza a tecnologia para reduzir fricção e aumentar taxas de conversão.
-- **iFood:** Otimização do cadastro de motoristas com automação da validação de dados.
-- **Mercado Bitcoin:** Aumento significativo na produtividade operacional ao automatizar fluxos de verificação.
+- **Globo:** Projetos que visam aumentar as taxas de conversão por meio da tecnologia da Idwall.
+- **iFood:** Automação do cadastro de motoristas, melhorando a validação de dados.
+- **Mercado Bitcoin:** Aumento na produtividade operacional em decorrência da automação.
 
 # Conclusão
-A idwall oferece uma solução robusta, ideal para empresas que buscam melhorar sua segurança contra fraudes, otimizar processos de validação de identidade e garantir conformidade regulatória. Com a crescente digitalização dos negócios, a adoção de uma plataforma como a da idwall se torna uma estratégia competitiva essencial. 
+A Idwall é a solução ideal para empresas que almejam aumentar sua segurança contra fraudes, otimizar processos de validação e garantir conformidade regulatória. Com a crescente digitalização dos negócios, a adoção da plataforma Idwall é uma estratégia essencial para se manter competitivo no mercado atual.
 
-Este relatório deve servir como base para a criação de comunicações personalizadas, destacando as necessidades da empresa-alvo e como a idwall pode atendê-las.
+Este relatório deve servir como base para a elaboração de comunicações personalizadas, enfatizando as necessidades da empresa-alvo e como a Idwall pode fornecer soluções efetivas para essas demandas.
