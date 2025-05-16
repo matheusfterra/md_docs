@@ -6,7 +6,7 @@
 - **Localização:** Sete Lagoas, MG, Brasil
 - **Ano de Fundação:** 30 anos no mercado
 - **Ramo de Atividade:** Produção e fornecimento de sais minerais e fertilizantes para os setores de nutrição vegetal, animal e aplicação industrial.
-  
+
 ### Empresas do Grupo
 - **MicroSolo**
 - **EletroMineral**
@@ -14,7 +14,7 @@
 - **Geral Metais**
 
 ## Produtos e Serviços
-A Multitécnica tem um portfólio completo de produtos, incluindo:
+A Multitécnica tem um portfólio completo de produtos que inclui:
 1. **Nutrição Vegetal**
    - Fertilizantes foliares
    - Fertilizantes granulados
@@ -30,15 +30,15 @@ A Multitécnica tem um portfólio completo de produtos, incluindo:
 - **Gold Café 5-6-8**
 - **MultiTurbo**
 - **Granulados riquíssimos em nutrientes (ex: zinco, cobre, manganês)**
-  
+
 ## Dores e Oportunidades
 ### Dores Identificadas
 1. **Concorrência Intensa:**
-   - O mercado de fertilizantes e nutrição tem competição elevada com novas empresas surgindo constantemente. 
+   - O mercado de fertilizantes e nutrição tem competição elevada com novas empresas surgindo constantemente.
 2. **Falta de Visibilidade Digital:**
    - A presença online e engajamento com influenciadores digitais pode ser melhorado para aumentar a conscientização da marca e gerar leads qualificados.
 3. **Mudanças Regulatórias:**
-   - A constante mudança nas regulamentações de agronegócio pode impactar a produção e distribuição de produtos.
+   - A constante mudança nas regulamentações do agronegócio pode impactar a produção e distribuição de produtos.
 
 ### Oportunidades
 1. **Parcerias com Influenciadores:**
@@ -53,14 +53,11 @@ O setor agrícola brasileiro está em constante crescimento, e a Multitécnica, 
 
 ## Sugestões Estratégicas para Prospecção
 1. **Personalização do Conteúdo:**
-   - Criar conteúdos que personalizem a solução de dores específicas que a Multitécnica enfrenta, com propostas direcionadas.
-  
+   - Criar conteúdos que personalizem a solução para as dores específicas que a Multitécnica enfrenta, com propostas direcionadas.
 2. **Campanhas de Influência:**
    - Identificar e contatar influenciadores no nicho de agronegócio que possam promover conteúdos sobre a eficiência dos produtos da Multitécnica e sua importância no aumento da produtividade.
-
 3. **Webinars e Conteúdos Educativos:**
    - Organizar webinars que discutam como maximizar o uso de fertilizantes para garantir colheitas efetivas, utilizando a influência de especialistas e influenciadores para atrair mais audiência.
-
 4. **Iniciativas de Responsabilidade Social:**
    - Fortalecer a imagem da marca através de iniciativas que promovam práticas sustentáveis e preservação da biodiversidade, reforçando o compromisso com o meio ambiente.
 
