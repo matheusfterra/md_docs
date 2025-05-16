@@ -1,6 +1,7 @@
 # Relatório de Prospecção - FSB Comunicação
 
 ## 1. Visão Geral da Empresa
+
 ### Nome da Empresa
 FSB Comunicação
 
@@ -8,7 +9,7 @@ FSB Comunicação
 [www.fsb.com.br](http://www.fsb.com.br)
 
 ### Segmento
-Agência de comunicação com foco em gerenciamento de reputação, imagem e marketing digital.
+Agência de comunicação com foco em gerenciamento de reputação, imagem e marketing digital, especializada em conectar marcas/empresas a influenciadores.
 
 ### Localizações
 - **São Paulo**: Av. Pres. Juscelino Kubitschek, 1400, 6º andar, Itaim Bibi - SP
@@ -17,42 +18,46 @@ Agência de comunicação com foco em gerenciamento de reputação, imagem e mar
 - **Brasília**: SHS Quadra 6, conj. A, bloco E, Ed. Business Center Park, cj. 712
 
 ## 2. História e Expertise
+
 ### Anos de Atuação
-- **Mais de 40 anos** no mercado
+- **Mais de 40 anos** de mercado.
 
 ### Reconhecimento
-- **36ª maior agência do mundo** segundo o Holmes Report
-- **Líder na América Latina** em comunicação
+- **36ª maior agência do mundo** segundo o Holmes Report.
+- **Líder na América Latina** em comunicação.
 
 ### Filosofia
-A FSB acredita na criação de relações que geram resultados, utilizando dados para desenvolver estratégias de comunicação. A empresa se define como **#PRIGITAL**, unindo PR e marketing digital.
+A FSB se posiciona como **#PRIGITAL**, integrando PR a estratégias digitais, com foco na criação de relações que geram resultados e estratégias orientadas a dados.
 
 ## 3. Soluções Oferecidas
+
 ### Portfólio de Serviços
-1. **PR + Digital**: Integração entre comunicação digital e offline.
+1. **PR + Digital**: Sinergia entre comunicação digital e offline.
 2. **Comunicação para o Setor Privado**: Atendimento a mais de 150 grandes empresas.
-3. **Comunicação para o Setor Público**: Engajamento com serviços de forma clara.
+3. **Comunicação para o Setor Público**: Engajamento claro e efetivo.
 4. **FSB Inteligência**: Análise de mercado com métricas exclusivas.
-5. **Insights e Inovação**: Projetos estratégicos focados em tendências.
-6. **Treinamentos e Workshops**: Especialização em media training e influência digital.
-7. **Comunicação Interna**: Fortalecimento da marca via público interno.
-8. **Compliance**: Atendimento às normas éticas.
+5. **Insights e Inovação**: Projetos estratégicos baseados em tendências.
+6. **Treinamentos e Workshops**: Media training e formação de influenciadores digitais.
+7. **Comunicação Interna**: Foco no público interno como embaixador da marca.
+8. **Compliance**: Atendendo às normas éticas do setor.
 9. **FSB Canais**: Criação de contatos estratégicos para marcas.
 
 ## 4. Objetivo e Missão
-**Objetivo**: Ajudar empresas a inovar suas estratégias de comunicação.  
-**Missão**: Proporcionar mais do que o cliente espera, apoiando nas necessidades de comunicação.
+**Objetivo**: Ajudar empresas a inovar em suas estratégias de comunicação.  
+**Missão**: Superar as expectativas do cliente, atendendo às suas necessidades de comunicação.
 
 ## 5. Identificação de Possíveis Dores e Necessidades
+
 ### Dores Potenciais
-- **Necessidade de Inovação**: Adaptar-se rapidamente às novas dinâmicas do mercado.
-- **Gerenciamento de Reputação**: Crucial em tempos de críticas rápidas nas redes sociais.
-- **Engajamento com o Público**: Comunicação que ressoe e converta engajamento em lealdade.
+- **Necessidade de Inovação**: Empresas buscam se adaptar rapidamente às novas dinâmicas do mercado.
+- **Gerenciamento de Reputação**: Desafio em tempos de críticas rápidas nas redes sociais.
+- **Engajamento com o Público**: Necessidade de uma comunicação que converta engajamento em lealdade.
 
 ### Contexto Atual
-O mercado muda constantemente devido à digitalização, e as empresas precisam de parceiros que as ajudem a navegar nessas transições.
+O mercado está em constante evolução devido à digitalização, exigindo parceiros eficazes para auxiliar as empresas em suas transições.
 
 ## 6. Informações de Contato
+
 - **Itaim Bibi, SP**: +55 11 3165 9596
 - **Centro, RJ**: +55 21 2217 6500
 - **Ipanema, RJ**: +55 21 3206 5050
@@ -60,13 +65,16 @@ O mercado muda constantemente devido à digitalização, e as empresas precisam 
 - [Página de Contato Completa](https://www.fsb.com.br/contato/)
 
 ## 7. Considerações Finais para o Copywriter
-### Apelo para o E-mail
-O e-mail deve considerar as dores de inovação e gerenciamento de reputação, apresentando a FSB como parceira ideal para ajudar a empresa prospectada a superar esses desafios. Deve ressaltar a integração entre PR e marketing digital como um diferencial para se destacar no campo da comunicação moderna. Além disso, a mensagem deve refletir a filosofia de oferecer sempre mais do que o cliente espera e como a FSB está bem equipada para atender às novas demandas do mercado.
 
----
+### Apelo para o E-mail
+O e-mail deve considerar as seguintes nuances:
+- Enfatizar a **necessidade de inovação** e o **gerenciamento de reputação** como pontos de dor significativos.
+- Apresentar a FSB Comunicação como a parceira ideal para ajudar a empresa prospectada a superar esses desafios.
+- Destacar a integração entre PR e marketing digital como um diferencial competitivo, alinhado às tendências modernas.
+- Refletir a filosofia da FSB de sempre oferecer mais do que o cliente espera e a sua capacidade de atender às novas demandas do mercado.
 
 ### Anotações Adicionais
-- A FSB opera não apenas no território nacional, mas possui uma operação internacional, tornando-se um player relevante para marcas que buscam uma comunicação eficaz em múltiplos mercados.
-- A especialização em treinamento e desenvolvimento de influenciadores pode ser um ponto de contato importante no contexto atual do marketing de influência.
+- A presença internacional da FSB reforça sua capacidade de atender marcas que necessitam de comunicação eficaz em múltiplos mercados.
+- A especialização em treinamento e desenvolvimento de influenciadores pode ser um ponto chave a ser explorado, especialmente dado o crescimento do marketing de influência.
 
-**Essas informações fornecem ao copywriter uma base abrangente para a elaboração de um e-mail persuasivo e alinhado com os valores e necessidades da FSB Comunicação.**
+**Essas informações fornecem ao copywriter uma base robusta para a elaboração de um e-mail persuasivo e bem alinhado com os valores e necessidades da FSB Comunicação.**
