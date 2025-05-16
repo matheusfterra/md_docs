@@ -1,68 +1,61 @@
 # Relatório de Prospecção - Sicoob Cocre
 
-## Informações Gerais da Empresa
+## 1. Informações Gerais da Empresa
 
 - **Nome da Empresa:** Sicoob Cocre
+- **Segmento:** Cooperativa de Crédito
 - **Website:** [www.cocre.com.br](http://www.cocre.com.br)
-- **Segmento:** Serviços financeiros e cooperativas (foco em crédito e produtos financeiros)
-- **Missão:** Proporcionar aos cooperados melhores condições financeiras e produtos, contribuindo para um futuro mais justo e sustentável.
-- **Tempo de Mercado:** Mais de 55 anos de experiência.
-- **Tipologia:** Cooperativa de crédito.
+- **Localização:** Brasil
+- **Ano de Fundação:** Mais de 55 anos de atuação no mercado financeiro
+- **Modelo de Negócio:** Cooperativa (Modelo de negócios que promove a autogestão de seus cooperados)
+- **Proposta de Valor:** Conectar cooperados a melhores condições e produtos financeiros, promovendo um futuro mais justo e sustentável.
 
-## Produtos e Serviços
+## 2. Produtos e Serviços Oferecidos
 
-1. **Crédito Pessoal:**
-   - Objetivo: Facilitar acesso a crédito de maneira descomplicada.
-   - [Mais Informações](https://www.cocre.com.br/para-voce/credito-pessoal/)
+### 2.1 Para Cooperados
+- **Conta Corrente:** Condições e serviços diferenciados para cooperados.
+- **Cartões Sicoob:** Vários tipos de cartões para facilitar o dia a dia dos cooperados.
+- **Crédito Pessoal:** Soluções de crédito personalizadas.
+- **Consórcio:** Opção de consórcio para aquisição de bens de forma planejada.
+- **Investimentos:** Aplicações seguras com rendimentos competitivos.
 
-2. **Cartões Sicoob:**
-   - Várias opções para adequar às necessidades da rotina dos cooperados.
-   - [Peça o seu](https://www.cocre.com.br/para-voce/sicoobcard/)
+### 2.2 Para Empresas
+- **Pacotes de Serviços Financeiros:** Soluções financeiras adaptadas para atender às necessidades de negócios.
+- **Maquininhas Sipag:** Soluções de pagamento para facilitar as vendas.
+- **Consultoria Financeira:** Orientação para potencializar o desempenho financeiro da empresa.
 
-3. **Sipag:**
-   - Soluções para empresas, como maquininha de cartão.
-   - [Adquirir Sipag](https://www.cocre.com.br/para-sua-empresa/#group-service-6)
+## 3. Público-Alvo
 
-4. **Open Finance:**
-   - Organiza contas e oferece soluções financeiras personalizadas por meio do aplicativo Sicoob.
-   - [Acessar Passo a Passo](https://www.cocre.com.br/para-voce/agregador-financeiro/)
+### 3.1 Cooperados
+- Pessoas físicas em busca de melhores condições financeiras, segurança e um futuro sustentável.
+- Consumidores que valorizam o cooperativismo e desejam fazer parte de uma comunidade que compartilha seus interesses.
 
-5. **Produtos Agro:**
-   - Linhas de crédito específicas para o setor agropecuário.
-   - [Conheça o Agro](https://www.cocre.com.br/agro/)
+### 3.2 Empresas
+- Pequenos e médios empresários que necessitam de soluções financeiras acessíveis e suporte para ampliar seus negócios.
 
-## Características da Empresa
+## 4. Oportunidades e Desafios
 
-- **Modelo de Negócio:** Cooperativa, o que significa que as decisões são tomadas em conjunto pelos cooperados.
-- **Foco na Inovação:** Busca de soluções modernas como Open Finance para atender melhor aos cooperados.
-- **Compromisso com Sustentabilidade:** Foco em um futuro mais justo e sustentável.
-  
-## Comunicação e Marketing
+### 4.1 Oportunidades
+- Crescente interesse pelo cooperativismo e modelos financeiros alternativos, que podem ser explorados através de campanhas com influenciadores que tenham forte conexão com a comunidade.
+- Aumento na demanda por serviços financeiros digitais e soluções de pagamento inovadoras, como as maquininhas Sipag.
+- Maior interesse em responsabilidade social e investimentos que gerem impacto, que podem ser promovidos através de parcerias com influenciadores.
 
-### Público-Alvo
+### 4.2 Desafios
+- Competição acirrada no setor financeiro, com a presença de bancos tradicionais e fintechs que oferecem serviços similares.
+- Necessidade de constante atualização nas estratégias de marketing digital para atrair e reter cooperados.
+- As questões relacionadas à proteção de dados e privacidade (LGPD) demandam um esforço contínuo para garantir a segurança das informações dos cooperados.
 
-- **Segmentação:** Pessoas físicas e jurídicas que necessitam de soluções financeiras, incluindo setores como agro.
-- **Influenciadores Potenciais:** Profissionais de finanças, DJs, criadores de conteúdo focados em finanças pessoais, influenciadores de sustentabilidade, etc.
+## 5. Contexto da Prospecção
 
-### Contato
+Com a crescente competitividade no setor financeiro, especialmente em tempos de digitalização, a Sicoob Cocre tem uma excelente oportunidade de se destacar através de uma estratégia de marketing de influência que não só promove seus produtos, mas também a filosofia cooperativista. Parcerias com influenciadores que se alinhem aos valores da cooperativa podem impulsionar a visibilidade da marca e atrair novos cooperados.
 
-- **Página de Contato:** [Fale Conosco](https://www.cocre.com.br/fale-conosco/)
-- **Carreiras:** [Oportunidades de Trabalho](https://www.cocre.com.br/carreiras/)
-- **Eventos e Visitas:** [Agendamento](https://www.cocre.com.br/visitas-cocre/)
+## 6. Sugestões de Abordagem para Copywriter
 
-## Dores e Necessidades
+- Destacar a importância do cooperativismo e como a Sicoob Cocre contribui para um futuro sustentável.
+- Abordar os benefícios únicos oferecidos aos cooperados que optam por fazer parte da cooperativa, como a participação nos lucros e melhores condições de crédito.
+- Incluir uma mensagem que convide as empresas a conhecer as vantagens de oferecer soluções financeiras aos seus funcionários através da Sicoob, como o acesso a cartões e serviços financeiros exclusivos.
+- Utilizar dados e depoimentos que validem a experiência positiva de cooperados atuais, promovendo a confiança na marca.
 
-1. **Acesso ao Crédito:** Muitas pessoas e pequenas empresas têm dificuldade em obter crédito em condições acessíveis.
-2. **Educação Financeira:** Há uma necessidade de maior orientação sobre gestão financeira e produtos disponíveis.
-3. **Soluções Personalizadas:** Buscam serviços que se adaptem às suas necessidades específicas, especialmente no setor agro e empreendedorismo.
-4. **Conexão com a Comunidade:** A necessidade de se sentir parte de uma comunidade maior, o que é um diferencial das cooperativas.
+---
 
-## Oportunidades de Parceria
-
-- **Marketing de Influência:** Colaborar com influenciadores da área financeira para promover soluções de crédito e educação financeira.
-- **Webinars e Workshops:** Realizar eventos online sobre gestão financeira, aumentando a visibilidade e o conhecimento da marca.
-- **Conteúdo Educativo:** Criar guias e tutoriais que possam ser compartilhados com influenciadores, aumentando o alcance e a credibilidade.
-
-## Conclusão
-
-O Sicoob Cocre apresenta um grande potencial para conexão com influenciadores, dado seu compromisso com soluções financeiras acessíveis e sua operação como uma cooperativa, o que é atraente para muitas audiências. Através de uma abordagem educacional, é possível atender necessidades do público, abordando suas dores e destacando o valor do cooperativismo e da comunidade. Com a estratégia certa, a Sicoob Cocre pode não só ampliar seu alcance, mas também se posicionar como um líder em soluções financeiras sustentáveis.
+Esse relatório deve fornecer um panorama abrangente para a elaboração de um e-mail de prospecção orientado e altamente personalizado, que possa captar a atenção tanto de indivíduos quanto de empresas interessadas em se tornar cooperados da Cocre.
