@@ -8,18 +8,17 @@
 
 ### 2. Histórico da Empresa
 - **Fundação:** A Oregon Tool foi fundada como Oregon Saw Chain Corp. em 1947, por Joe Cox, que criou a moderna corrente de serra após observar como as larvas de brocas de madeira cortavam fibras de madeira.
-- **Mudanças de Nome:** Renomeada para Omark Industries em 1957 e depois para Blount International, Inc. até se tornar Oregon Tool, Inc. em 2021.
-- **Expansão Internacional:** A empresa possui fabricação na América do Norte, América do Sul e Ásia, com uma presença significativa no Brasil e na China.
+- **Mudanças de Nome:** Renomeada para Omark Industries em 1957, e depois para Blount International, Inc. até se tornar Oregon Tool, Inc. em 2021.
+- **Expansão Internacional:** A empresa possui fábricas na América do Norte, América do Sul e Ásia, com presença significativa no Brasil e na China.
 
 ### 3. Missão e Valores
 - **Missão:** Construir sobre o legado de inovação em corte de precisão para que os profissionais possam enfrentar as tarefas mais difíceis.
 - **Visão:** Ser a líder global indiscutível em ferramentas de corte para profissionais, trabalhando para tornar o mundo um lugar melhor.
-  
-**Valores:** 
-- Liderar com humildade
-- Espírito pioneiro 
-- Gestão global
-- Responsabilidade
+- **Valores:** 
+  - Liderar com humildade
+  - Espírito pioneiro 
+  - Gestão global
+  - Responsabilidade
 
 ### 4. Segmento de Atuação
 - Oregon Tool, Inc. atua no segmento de ferramentas de corte de precisão para:
@@ -58,3 +57,7 @@
 
 ### 11. Conclusão
 A Oregon Tool, Inc. é uma empresa bem estabelecida com forte história de inovações em ferramentas de precisão e um compromisso com iniciativas sustentáveis. Um foco em marketing de influência pode ajudá-los a expandir sua presença no mercado, abordando as dores do setor e se conectando de forma mais eficaz com seus públicos-alvo.
+
+---
+
+Esse relatório fornece uma base sólida para o copywriter desenvolver uma abordagem personalizada que ressoe com a história e os desafios da Oregon Tool, ajudando a traçar um caminho para uma colaboração frutífera através do marketing de influência.
