@@ -6,26 +6,24 @@
 - **CNPJ:** 17.140.820/0002-62
 - **Website:** [www.bydcars.com.br](http://www.bydcars.com.br)
 - **Setor:** Automotivo / Veículos Elétricos e Híbridos
-- **Produtos/Serviços:** Produção e venda de veículos elétricos e híbridos, com diversas linhas de automóveis como SUVs, hatchbacks e sedans.
+- **Produtos/Serviços:** Produção e venda de veículos elétricos e híbridos, com várias linhas de automóveis como SUVs, hatchbacks e sedans.
 
 ## Análise do Contexto do Segmento
-
 ### 1. Tendências do Setor
 - **Crescimento do Mercado:** O mercado de veículos elétricos (EVs) está se expandindo globalmente, com uma crescente conscientização sobre questões ambientais e uma demanda significativa por tecnologias sustentáveis.
 - **Incentivos Governamentais:** Políticas públicas que incentivam a compra de veículos elétricos, como subsídios e incentivos fiscais, estão facilitando a adoção por consumidores no Brasil.
 - **Desenvolvimento da Infraestrutura:** A ampliação da infraestrutura de recarga e a busca por soluções de mobilidade elétrica são tendências marcantes, especialmente em áreas urbanas.
 
 ### 2. Concorrência
-- **Competidores Diretos:** A BYD enfrenta concorrência de empresas como Tesla, Nissan e fabricantes locais que já possuem presença no mercado de veículos elétricos.
+- **Competidores Diretos:** A BYD enfrenta concorrência de empresas como Tesla, Nissan e fabricantes locais que já têm presença no mercado de veículos elétricos.
 - **Diferenciais Competitivos:** A BYD destaca-se pela qualidade e preço competitivo de seus veículos elétricos, mas precisa inovar continuamente nas estratégias de marketing e nas ofertas.
-- **Parcerias Estratégicas:** Importância de fortalecer colaborações com concessionárias e revendedores para aumentar a distribuição e a visibilidade da marca.
+- **Parcerias Estratégicas:** A importância de fortalecer colaborações com concessionárias e revendedores para aumentar a distribuição e a visibilidade da marca.
 
 ### 3. Expectativas dos Consumidores
 - **Exigências Elevadas:** Consumidores buscam eficiência energética, desempenho e tecnologias avançadas em veículos, exigindo um desenvolvimento constante dos produtos.
 - **Interesse por Sustentabilidade:** A preocupação com o impacto ambiental e a sustentabilidade são aspectos cruciais que devem ser comunicados claramente pela marca.
 
 ## Mapeamento de Dores e Oportunidades
-
 ### Dores
 1. **Consolidação da Marca:** A BYD enfrenta o desafio de aumentar sua visibilidade em um mercado dominado por marcas estabelecidas como Volkswagen e GM.
 2. **Educação do Consumidor:** Necessidade de desfazer a resistência do público e explicar as vantagens dos veículos elétricos em comparação com opções tradicionais.
@@ -39,7 +37,6 @@
 4. **Expansão da Rede de Test-Drive:** Ampliar a quantidade de locais onde consumidores possam realizar test-drives e realizar parcerias com estabelecimentos que enfoquem a sustentabilidade.
 
 ## Características de Marketing
-
 ### Persona-Alvo
 - **Perfil Demográfico:** Jovens adultos entre 18-40 anos, preocupados com questões ambientais e que buscam alternativas tecnológicas e sustentáveis em suas compras.
 - **Interesses:** Mobilidade sustentável, tecnologia, inovação e economia em combustíveis.
