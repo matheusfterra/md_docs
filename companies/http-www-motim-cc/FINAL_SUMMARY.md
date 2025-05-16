@@ -17,7 +17,7 @@ Marketing de Influência e Assessoria de Imprensa
 A MOTIM é uma agência inovadora que atua na comunicação e marketing, posicionando marcas de maneira estratégica no mercado. Ela se destaca ao integrar relações públicas, marketing de conteúdo e o posicionamento de líderes, servindo como elo entre marcas e influenciadores, além de veículos de imprensa relevantes. O foco central é desenvolver estratégias que ampliem a notoriedade e o reconhecimento das marcas.
 
 ## Serviços Oferecidos:
-1. **Assessoria de Imprensa**: Desenvolvimento de estratégias voltadas para maximizar a presença da marca na mídia.
+1. **Assessoria de Imprensa**: Desenvolvimento de estratégias voltadas para maximizar a presença da marca na mídia, oferecendo contato direto com jornalistas das principais publicações.
 2. **Marketing de Influência**: Criação de campanhas que conectam marcas a influenciadores, aumentando a credibilidade e o alcance das mensagens.
 3. **Conteúdo de Marca**: Produção e gestão de conteúdo estratégico que reforça a imagem da marca em diferentes plataformas digitais.
 4. **Branding Pessoal (LinkedIn PR)**: Posicionamento de executivos como líderes de pensamento, utilizando o LinkedIn para aumentar a relevância e a visibilidade profissional.
@@ -44,7 +44,7 @@ A MOTIM é uma agência inovadora que atua na comunicação e marketing, posicio
 - **Movidesk**: Aumento considerável no alcance e engajamento por meio de uma estratégia de LinkedIn PR bem executada.
 
 ## Análise de Concorrência
-A MOTIM compete com outras agências de RP e marketing digital, destacando-se pela abordagem inovadora e personalização do atendimento. A combinação de assessoria de imprensa e marketing de influenciadores forma um importante diferencial competitivo.
+A MOTIM compete com outras agências de RP e marketing digital, destacando-se pela abordagem inovadora e pela personalização do atendimento. A combinação de assessoria de imprensa e marketing de influenciadores forma um importante diferencial competitivo.
 
 ## Oportunidades de Prospecção
 - Capacitar marcas sobre as melhores práticas de RP e marketing de influência.
