@@ -1,15 +1,21 @@
+```plaintext
+└── FINAL_SUMMARY.md
+```
+---
+## 📄 `FINAL_SUMMARY.md`
+```md
 # Relatório de Prospecção: Empresa XYZ
 
 ## 1. Informações Gerais
 - **Nome da Empresa:** XYZ Marketing
-- **Site:** www.xyzmarketing.com
+- **Site:** [www.xyzmarketing.com](http://www.xyzmarketing.com)
 - **Localização:** Rua das Flores, 123, São Paulo, SP
 - **Data de Fundação:** 2015
 - **Número de Funcionários:** 50-100
 - **Segmento de Atuação:** Marketing Digital e Influência
 
 ## 2. Perfil da Empresa
-- **Descrição:** A XYZ Marketing se especializa na criação de campanhas de marketing digital, unindo marcas com influenciadores relevantes nas redes sociais. Eles utilizam análise de dados para garantir que as campanhas atinjam o público certo.
+- **Descrição:** A XYZ Marketing se especializa na criação de campanhas de marketing digital, unindo marcas com influenciadores relevantes nas redes sociais. Eles utilizam análise de dados para garantir que as campanhas atinjam o público certo, otimizando o retorno sobre investimento (ROI).
 - **Missão:** Conectar marcas com influenciadores capazes de amplificar suas mensagens e ofertas.
 - **Visão:** Ser a principal agência de marketing de influência do Brasil, reconhecida pela eficácia de suas campanhas.
 
@@ -25,11 +31,11 @@
   - Relacionamentos sólidos com influenciadores em setores diversos, incluindo moda, beleza, tecnologia e saúde.
 
 ## 4. Redes Sociais e Presença Digital
-- **LinkedIn:** www.linkedin.com/company/xyzmarketing
-- **Instagram:** @xyzmarketing
-- **Facebook:** facebook.com/xyzmarketing
-- **Twitter:** @xyz_marketing
-- **Blog:** [Blog da XYZ Marketing](www.xyzmarketing.com/blog)
+- **LinkedIn:** [www.linkedin.com/company/xyzmarketing](http://www.linkedin.com/company/xyzmarketing)
+- **Instagram:** [@xyzmarketing](https://www.instagram.com/xyzmarketing)
+- **Facebook:** [facebook.com/xyzmarketing](https://www.facebook.com/xyzmarketing)
+- **Twitter:** [@xyz_marketing](https://twitter.com/xyz_marketing)
+- **Blog:** [Blog da XYZ Marketing](http://www.xyzmarketing.com/blog)
 
 ## 5. Público-Alvo
 - **Segmentos:**
@@ -77,3 +83,4 @@
 
 ## 12. Nota Final
 Este relatório serve como uma base sólida para a criação de um e-mail de prospecção que ressoe com as necessidades e dores da XYZ Marketing. É essencial personalizar a mensagem e destacar como a nossa plataforma pode ajudar a empresa a superar seus desafios atuais.
+```
