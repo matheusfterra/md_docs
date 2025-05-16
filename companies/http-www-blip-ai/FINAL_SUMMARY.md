@@ -1,7 +1,7 @@
 # Relatório de Prospecção - Blip
 
 ## Resumo da Empresa
-A Blip é uma plataforma de marketing conversacional que integra inteligência artificial e soluções de mensagens para transformar a comunicação digital de marcas. Atuando como fornecedora oficial da API do WhatsApp, a Blip atende a diversas indústrias, incluindo saúde, varejo, bens de consumo, serviços financeiros e logística.
+A Blip é uma plataforma de marketing conversacional que integra inteligência artificial e soluções de mensagens para transformar a comunicação digital de marcas. Atuando como fornecedora oficial da API do WhatsApp, a Blip atende a diversas indústrias, incluindo saúde, varejo, bens de consumo, serviços financeiros, e logística.
 
 ### Informações Gerais:
 - **Nome da Empresa:** Blip
@@ -35,7 +35,7 @@ A Blip oferece soluções que permitem:
 ## Oportunidades de Prospecção
 - **Empresas em Busca de Eficiência Operacional:** Negócios que desejam melhorar a eficiência na comunicação e atendimento ao cliente.
 - **Setores com Crescimento no E-Commerce:** Varejistas e marcas de bens de consumo que estão vendo um aumento nas vendas online.
-- **Empresas com Alto Volume de Atendimento:** Clínicas, seguradoras e outros serviços que requerem uma comunicação ágil e eficiente.
+- **Empresas com Alto Volume de Atendimento:** Clínicas, seguradoras e outros serviços que requerem comunicação ágil e eficiente.
 
 ## Concorrência
 - **Nuvemshop**
@@ -52,7 +52,6 @@ A Blip se destaca por oferecer uma solução que combina automação e interaç�
 - **Integrações Customizadas:** Conecta mais de 90 APIs para favorecer a experiência do cliente.
 
 ## Comunicações e Estratégia
-
 ### Marcadores de Comunicação
 - Foco em tendências de marketing conversacional.
 - Destaque na relevância de um atendimento digitalizado e humanizado.
