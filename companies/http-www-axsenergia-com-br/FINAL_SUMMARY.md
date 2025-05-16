@@ -1,55 +1,57 @@
-# Relatório de Prospecção: AXS Energia
+# Relatório de Prospecção - AXS Energia
 
-## Informações Gerais da Empresa
-- **Nome da Empresa:** AXS Energia
-- **Site Oficial:** [www.axsenergia.com.br](http://www.axsenergia.com.br)
-- **Segmento:** Energia solar / Sustentabilidade
-- **Modelo de Negócio:** Energia solar compartilhada, com foco em economia e acessibilidade
-- **Área de Atuação:** Residencial e comercial
-- **Meta de Clientes até 2025:** 50.000 clientes
-- **Investimento Previsto:** R$ 1,8 bilhões
-- **Capacidade de Geração:** 350 MWp
-- **Elementos Diferenciais:** Aluguel de cotas de energia solar, sem necessidade de instalação de painéis no local do consumidor.
+## 1. Informações Gerais sobre a Empresa
+- **Nome da Empresa**: AXS Energia
+- **Site**: [www.axsenergia.com.br](http://www.axsenergia.com.br)
+- **Segmento**: Energia renovável, focado em energia solar.
+- **Modelo de Negócio**: A AXS oferece um modelo de energia solar baseado em cotas, permitindo que os clientes aluguem uma cota da energia gerada por usinas solares, sem a necessidade de instalação de painéis solares.
+- **Missão**: Proporcionar liberdade na escolha da fonte de energia com ênfase em sustentabilidade e economia para os clientes.
 
-## Proposta de Valor
-AXS Energia oferece uma maneira sustentável e acessível de obter energia solar, proporcionando economia na conta de luz através de:
-- **Créditos Solares:** Energia gerada nas usinas solares da AXS que é compartilhada com os clientes.
-- **Modelos de Adesão:** Opção de compartilhar energia sem investimento inicial em equipamentos, apenas alugando uma cota de energia.
+## 2. Produtos e Serviços
+- **Energia Solar**: A AXS disponibiliza energia solar por cotas, facilitando o acesso e a utilização de energia renovável.
+- **Área do Cliente**: Plataforma online para gestão de conta, com recursos que permitem ao cliente ter maior controle sobre a sua energia.
+- **App**: A AXS possui um aplicativo que complementa as funcionalidades da área do cliente.
+- **Serviços de Consultoria**: Informações educacionais sobre energia solar e práticas sustentáveis.
 
-## Ponto de Contato
-- **Área do Cliente:** A empresa oferece uma plataforma online onde os clientes podem gerenciar suas contas e serviços de forma prática.
+## 3. Características do Modelo de Negócio
+- **Energia Compartilhada**: Os clientes compartilham a energia gerada em usinas, recebendo créditos solares que abatem na conta de luz.
+- **Sem Investimentos iniciais**: O modelo não exige que os clientes realizem investimentos em equipamentos ou taxas de adesão.
+- **Sustentabilidade**: A AXS promove a conscientização sobre práticas sustentáveis e oferece notícias relacionadas.
 
-## Contexto do Setor
-1. **Sustentabilidade e Energia Renovável:** O crescente interesse por fontes de energia sustentáveis e a pressão para reduzir a pegada de carbono estão impulsionando a demanda por soluções de energia solar.
-2. **Regulamentações:** As leis e incentivos para a adoção de energias renováveis estão em expansão, o que gera oportunidades no mercado.
-3. **Mudanças Climáticas:** A discussão sobre as mudanças climáticas e a busca por energia limpa são cada vez mais atuais, especialmente em eventos como a COP 30.
+## 4. Público-Alvo
+- **Segmento Residencial**: Clientes que busca uma alternativa econômica e sustentável para suas contas de energia.
+- **Pequenos Negócios**: Empresas que desejam reduzir seus custos com energia e se alinhar a práticas sustentáveis.
+- **Consciente ambiental**: Pessoas e organizações que prezam pela preservação do meio ambiente e buscam soluções sustentáveis.
 
-## Dores Potenciais da Empresa
-- **Concorrência:** O mercado de energia solar está se tornando cada vez mais competitivo; a AXS Energia precisa destacar seus diferenciais.
-- **Educação do Consumidor:** Muitos ainda têm dúvidas sobre como funciona a energia solar compartilhada e os benefícios da adesão, o que pode dificultar a aquisição de novos clientes.
-- **Impostos e Regulamentações:** A variação nas taxas e políticas governamentais que afetam diretamente o custo de instalação e operação de energia solar pode ser uma barreira para a adoção em massa.
+## 5. Dores e Desafios
+- **Custo elevado da energia**: Clientes podem ter dificuldade em gerenciar altos custos com conta de energia.
+- **Conscientização**: Necessidade de educar o público sobre os benefícios da energia solar e do compartilhamento de energia.
+- **Sustentabilidade**: Empresas enfrentam pressão crescente para implementar práticas mais sustentáveis e reduzir sua pegada de carbono.
 
-## Insights de Conteúdo do Blog
-1. **Artigos Relevantes:**
-   - **"Energia Solar por Cotas: Economia, Praticidade e Preservação do Meio Ambiente"** - Foco em como a colaboração e o sistema de cotas economizam e cuidam do meio ambiente.
-   - **"COP 30: Energia Renovável nas Discussões sobre Mudanças Climáticas"** - Relevância do tema no cenário atual e os compromissos da AXS.
-   - **"Dia Mundial da Eficiência Energética - Energia Solar Bate Recordes no Brasil"** - Demonstra os avanços e a popularidade crescente da energia solar.
-  
-2. **Tópicos de Alta Nacionalidade:**
-   - **Sustentação de um futuro sustentável e as necessidades de transição energética.**
-   - **Como pequenos negócios podem se beneficiar de soluções de energia solar.**
-   - **O papel da educação ambiental e como ela pode impulsionar a adoção de práticas sustentáveis.**
+## 6. Contexto da Indústria
+- **Crescimento do Setor de Energia Renovável**: A energia renovável, especialmente a solar, está em ascensão devido a incentivos governamentais, preocupações ambientais e a necessidade de reduzir a dependência de combustíveis fósseis.
+- **Iniciativas Governamentais**: Incentivos e políticas progressivas estão favorecendo a adoção de energias renováveis, especialmente após eventos climáticos extremos e direção global para a sustentabilidade.
 
-## Oportunidades de Marketing de Influência
-- **Parcerias com Influenciadores:** A colaboração com influenciadores que promovem sustentabilidade pode amplificar a mensagem da AXS e aumentar a conscientização sobre os benefícios da energia solar compartilhada.
-- **Campanhas de Conteúdo:** Criar conteúdos obre experiências de clientes que utilizam a energia da AXS e seus impactos positivos.
-- **Eventos e Webinários:** Promover webinars onde especialistas discutem as vantagens da energia renovável e respondem perguntas do público geral.
+## 7. Conteúdo Relevante
+- **Blog**: O site da AXS possui um blog ativo que aborda tópicos como sustentabilidade, dicas de economia de energia, e tendências no setor de energia solar, o que pode ser explorado para entender a comunicação e engajamento com o público.
 
-## Call to Action para o Copywriting
-- **Começar com uma pergunta provocativa sobre sustentabilidade ou economia na conta de luz.**
-- **Destacar a importância de ações individuais e coletivas no combate às mudanças climáticas.**
-- **Chamar a atenção para uma oferta especial ou a possibilidade de uma consulta personalizada sobre energia solar.**
+### Artigos em Destaque
+1. **Movimento Zero Waste**: Como a energia fotovoltaica pode contribuir para um mundo sustentável.
+2. **Energia Solar por Cotas**: Benefícios econômicos e práticas de preservação ambiental.
+3. **COP 30**: Discussões sobre mudanças climáticas e energia renovável.
+
+## 8. Oportunidades de Colaboração
+- **Marketing de Influência**: Conexão com influenciadores e criadores de conteúdo que promovem sustentabilidade, economia de energia e inovação no setor, para amplificar a mensagem da AXS.
+- **Parcerias com Organizações Sustentáveis**: Oportunidade de se alavancar em comunidades que já promovem a conscientização ambiental.
+
+## 9. Proposta de Valor
+A AXS Energia se posiciona como uma alternativa acessível e sustentável, permitindo aos clientes não apenas economizar em suas contas de energia, mas também contribuir para um futuro mais sustentável e consciente. Promover a AXS através de parcerias de marketing de influência poderia reforçar essa narrativa e expandir seu alcance para públicos preocupados com questões ambientais e econômicas.
 
 ---
 
-Esse relatório visa equipar a equipe de copywriting com informações pertinentes e a construir uma abordagem personalizada, eficaz e relevante para a AXS Energia.
+### Recomendações para o Email do Copywriter
+- **Personalização**: Abordar diretamente as preocupações específicas do cliente relacionadas a custos de energia e sustentabilidade.
+- **Uso de Dados**: Incluir dados relevantes sobre crescimento do setor solar e como a AXS facilita o acesso a essa energia.
+- **Chamada para Ação**: Incentivar o agendamento de uma reunião para discutir detalhes e ultimar uma parceria.
+
+Esta estrutura visa fornecer ao copywriter todas as informações necessárias para criar um email de prospecção altamente personalizado e atraente para AXS Energia.
