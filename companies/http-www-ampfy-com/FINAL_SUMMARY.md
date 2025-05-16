@@ -1,52 +1,82 @@
-# Relatório de Prospecção: Ampfy
+# Relatório de Prospecção da Ampfy
 
-## Informações Gerais da Empresa
-- **Nome da Empresa**: Ampfy
-- **Site**: [www.ampfy.com](http://www.ampfy.com)
-- **Localização**: Rua Girassol, 953 Vila Madalena, São Paulo, SP, Brasil, 05433-002
-- **Telefone**: +55 11 2244 6600
-- **Fundação**: 2011
-- **Número de Funcionários**: Mais de 240
+## Informações Gerais
 
-## Descrição da Empresa
-Ampfy é uma agência de comunicação contemporânea, reconhecida por sua abordagem inovadora que combina estratégia, criatividade e mídia, visando a conexão profunda entre marcas e consumidores. A empresa se destaca por ter sido classificada em primeiro lugar em satisfação do cliente no Brasil pela AgencyScope, evidenciando sua reputação respeitável no mercado.
+**Nome da Empresa:** Ampfy  
+**Website:** [www.ampfy.com](http://www.ampfy.com)  
+**Localização:** Rua Girassol, 953, Vila Madalena, São Paulo, SP, Brasil - 05433-002  
+**Telefone:** +55 11 2244 6600  
+**Ano de Fundação:** 2011  
+**Número de Funcionários:** Mais de 240  
+**Classificação:** Primeira no índice de satisfação do cliente no Brasil pela AgencyScope (2023-2024)  
 
-## Pontos de Destaque
-- **Ranking**: 1ª posição em satisfação do cliente (AgencyScope 2023-2024).
-- **Modelo de Operação**: A Ampfy é uma agência "born digital" que expandiu seu trabalho para todos os canais onde os consumidores se engajam.
-- **Cultura Organizacional**: Equipe diversa e dinâmica, adotando formas de trabalho remoto ou no local do cliente.
-- **Foco em Inovação**: Emprego de criatividade na resolução de problemas e engajamento com consumidores.
+## Sobre a Empresa
 
-## Clientes
-A Ampfy atendem marcas de diversos setores, incluindo:
-- **Alfa**
-- **Alelo**
-- **Bradesco**
-- **Gatorade**
-- **PepsiCo**
-- **Risqué**
+A Ampfy é uma agência de comunicação contemporânea que se destaca por suas dinâmicas de comportamento do consumidor de ponta. A empresa combina estratégia, criatividade e mídia para conectar marcas e consumidores de forma profunda. A Ampfy é reconhecida por seu trabalho premiado e por sua abordagem inovadora, que busca impactar o público em vários canais onde os consumidores se engajam.
 
-## Trabalhos Notáveis
-A agência é conhecida por campanhas impactantes e premiadas, como:
-1. **BPM Pay Gatorade**: Uma campanha que promoveu o novo sabor Berry Blue através de uma interação única com corredores via um outdoor interativo.
-2. **Gaming for Good (Alelo)**: Usou jogos para angariar alimentos doados em um contexto de crise alimentar no Brasil.
-3. **The Missing Portraits (Piracanjuba)**: Uma iniciativa que reinstituiu a ideia dos leites em cartonagens, ajudando a localizar pessoas desaparecidas.
+### Missão e Visão
+A missão da empresa é estabelecer conexões significativas entre marcas e consumidores. A visão é ser referência no mercado de marketing de influência, com foco em resultados e satisfação do cliente.
 
-## Dores e Oportunidades
-### Dores Potenciais
-- **Falta de engajamento autêntico com públicos-alvo**: A necessidade de criar laços mais profundos e significativos entre marcas e consumidores.
-- **Desafios em adaptar-se rapidamente às mudanças do mercado digital**: Manter relevância em um mundo digital em rápida evolução.
-- **Aumento da concorrência em campais digitais e influenciadores**: Necessidade de diferenciação clara nas mensagens e abordagens criativas.
+## Segmento do Mercado
 
-### Oportunidades
-- **Implementação de novas campanhas de Marketing de Influência**: Conectar marcas com influenciadores que compartilham valores semelhantes, aumentando o alcance e o engajamento.
-- **Exploração de tendências emergentes**: Como o metaverso e a realidade aumentada, para campanhas inovadoras e de maior impacto.
-- **Diversificação de canais de mídia**: Para maximizar o alcance e engajamento, explorando plataformas novas e existentes.
+A Ampfy atua no segmento de marketing de influência, proporcionando conexões entre marcas e influenciadores. Este mercado tem crescido rapidamente com o aumento do uso das redes sociais e a procura por estratégias que promovam engajamento autêntico com o consumidor.
 
-## Contexto Atual
-O cenário de marketing de influência está evoluindo, com um crescente foco em autenticidade e engajamento real. Marcas que conseguem se alinhar com influenciadores que têm um impacto positivo e autêntico nas comunidades podem se beneficiar enormemente, especialmente em um mercado competitivo como o brasileiro.
+### Principais Setores Atendidos
+- Alimentação e Bebidas
+- Moda
+- Tecnologia
+- Beleza e Cosméticos
+- Serviços Financeiros
+- Entretenimento
+
+## Principais Clientes
+
+A Ampfy conta com uma lista diversificada de clientes, incluindo marcas de grande renome e significativa presença no mercado, como:
+- Gatorade
+- Alelo
+- Bauducco
+- PepsiCo
+- Bradesco
+- Outback
+- Dr. Oetker
+- Piracanjuba
+
+## Projetos Emblemáticos
+
+1. **Gaming for Good (Alelo):** 
+   - Lançamento de uma campanha de responsabilidade social que usa um jogo de Minecraft para combater a fome no Brasil, doando alimentos por meio das ações dos jogadores. 
+   - Amplificado por influenciadores chave do jogo, maximizando o envolvimento da comunidade gamer.
+
+2. **BPM Pay Gatorade:**
+   - Projeto em São Paulo que incentivou a hidratação durante corridas através da interação física, um outdoor interativo que oferecia Gatorade com base na frequência cardíaca dos corredores. 
+   - Reflete a estratégia de inclusão e acessibilidade da marca.
+
+3. **The Missing Portraits (Piracanjuba):**
+   - Utilização inteligente da embalagem dos produtos para ajudar a localizar pessoas desaparecidas. Através de retratos atualizados impressos nas embalagens, a campanha promoveu não apenas a consciência social, mas também impacto positivo na reputação da marca.
+
+## Possíveis Dores e Desafios
+
+1. **Concorrência no Mercado de Influência:**
+   - Com o crescimento do marketing de influência, a competição entre agências e a diversificação percebida por marcas e influenciadores, é crucial para a Ampfy distinguir-se por meio de inovação e resultados mensuráveis.
+
+2. **Mudanças nas Políticas de Mídia Social:**
+   - Alterações nas plataformas de mídia social podem influenciar a eficácia das campanhas de marketing de influência, tornando essencial a adaptação contínua das estratégias.
+
+3. **Expectativas do Consumidor:**
+   - Os consumidores estão cada vez mais atentos à autenticidade e responsabilidade social das marcas, o que pode ser um desafio para marcas em busca de engajamento verdadeiro.
+
+## Proposta de Valor
+
+A Ampfy pode oferecer uma abordagem personalizada para suas campanhas de marketing de influência, combinando insights de comportamento do consumidor com estratégia criativa e canais mais eficientes. Ao utilizar dados e tecnologias emergentes, a agência busca proporcionar não apenas alcance, mas impacto significativo nas campanhas de seus clientes.
+
+### Contato Para Proposta
+
+A equipe de vendas e relacionamento da Ampfy está disponível para discutir possíveis colaborações e apresentar soluções personalizadas. Para consultas e propostas, a:
+
+**Localização:** Rua Girassol, 953, Vila Madalena, São Paulo - SP  
+**Telefone:** +55 11 2244 6600  
+**Email:** [Contato Website](https://ampfy.com/en/job-openings/#contactform)
 
 ## Conclusão
-Ampfy é uma agência de marketing de influência que já está bem posicionada no mercado, mas que pode se beneficiar ao fortalecer a conexão com influenciadores e experimentar com novas abordagens criativas. Oportunidades de colaboração podem emergir quando se valoriza a autenticidade e se busca uma comunicação que ressoe verdadeiramente com os consumidores.
 
-Este relatório deverá servir ao copywriter para a elaboração de um e-mail muito personalizado, que aborde diretamente as dores e as oportunidades percebidas da Ampfy.
+A Ampfy é uma agência que não apenas se destacou pela sua criatividade e inovação, mas também pelas contribuições sociais significativas que faz através de suas campanhas. Sua reputação como a agência número um em satisfação do cliente demonstra seu compromisso em exceder as expectativas de suas marcas parceiras.
