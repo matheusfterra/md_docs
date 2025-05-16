@@ -17,7 +17,7 @@
    - Análise de dados utilizando Inteligência Artificial.
    - Implementação de ferramentas de automação e CRM.
    - Desenvolvimento de plataformas de e-commerce e suas integrações.
-   
+
 3. **Consultoria Estratégica:**
    - Consultoria em transformação digital e otimização de processos.
    - Insights e dados para formular estratégias de negócios.
