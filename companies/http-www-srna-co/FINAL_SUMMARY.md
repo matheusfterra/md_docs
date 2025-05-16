@@ -1,49 +1,94 @@
-# Relatório de Prospecção - Serena
+# Relatório de Prospecção da Empresa Serena Energia
 
-## **Informações da Empresa**
-**Nome da Empresa:** Serena (anteriormente Omega Energia)  
-**Website:** [srna.co](http://www.srna.co/)  
-**Atuação:** Geração e comercialização de energia limpa e sustentável, com ênfase em energia solar e eólica.  
-**Ano de Fundação:** 15 anos de história, reformulada para começar uma nova fase como Serena.  
-**Localização:** Brasil e EUA.
+## 1. Informações Gerais
 
-## **Missão e Visão**
-- **Missão:** Levar desenvolvimento por meio de soluções energéticas limpas e acessíveis, contribuindo para a sustentabilidade e a prosperidade da sociedade e do meio ambiente.
-- **Visão:** Acreditar que a energia limpa é uma forma de proporcionar um futuro sustentável para todos.
+**Nome da Empresa:** Serena Energia (anteriormente Omega Energia)
 
-## **Serviços Oferecidos**
-- **Energia para Empresas:** Planos voltados para diferentes perfis de consumo, oferecendo economia e eficiência.
-- **Energia para Residências:** Propostas para o consumidor comum, também focando na redução de custos com energia.
-- **Infraestrutura para AI e computação de alto desempenho**: Fornecimento de infraestrutura para setores que demandam alta capacidade de computação.
+**Setor:** Geração e comercialização de energia renovável (eólica e solar)
 
-## **Diferenciais Competitivos**
-- Proposta de **contratação digital** sem necessidade de instalação de placas solares; a energia é gerada por ativos próprios e entregues pelas distribuidoras.
-- **Modelo de cobrança transparente:** O cliente paga apenas pelo que consome, promovendo economia de até 30%.
-- Garantia de **energia 100% limpa**, proveniente de fontes renováveis.
-- **Foco na comunidade**: Oferece condições para reduzir emissões de CO₂ usando créditos de carbono e certificados.
+**Website:** [www.srna.co](http://www.srna.co)
 
-## **Dados Relevantes**
-- **Capacidade instalada:** 2.804 MW em ativos renováveis.
-- **Impacto ambiental:** 3,2 milhões de toneladas de CO₂ evitadas desde o IPO em 2017.
-- **Clientes atendidos:** Fornecimento de energia equivalente para mais de 4,2 milhões de domicílios.
-- **Retorno social:** R$ 6,51 por cada R$ 1,00 investido em projetos sociais.
+**Anos de Atividade:** 15 anos
 
-## **Testemunhos de Clientes**
-- **Thiago Gomes (Cliente residencial):** "Enquanto procurava formas de economizar, encontrei a Serena e percebi que não precisaria ter o custo de instalar placas solares."
-- **Ilson Mateus (Presidente do Grupo Mateus):** "Estamos falando de energia limpa, renovável e com custo competitivo, que permite apoiar nosso crescimento operacional."
-- **Guilherme Lopes Sobral (Novos Negócios - Santa Luzia):** "Os preços sempre foram competitivos e o atendimento de confiança foi crucial na renovação do nosso contrato energético."
+**Missão:** Proporcionar energia limpa, acessível e sustentável para estimular prosperidade.
 
-## **Contexto do Mercado**
-A demanda por energia limpa e soluções sustentáveis está crescendo, impulsionada por mudanças climáticas e regulações que favorecem a energia renovável. Empresas buscam reduzir seus custos operacionais com energia e atender suas metas de sustentabilidade.
+## 2. Características da Empresa
 
-## **Possíveis Dores (Pains)**
-1. **Altos custos de energia:** Muitas empresas buscam maneiras de reduzir suas contas de energia, especialmente com a alta volatilidade dos preços.
-2. **Sustentabilidade e Responsabilidade Social:** A pressão por práticas empresariais sustentáveis está aumentando, e as empresas precisam urgentemente encontrar maneiras de reduzir suas emissões.
-3. **Complexidade na contratação de energia:** O processo pode ser complicado, com falta de clareza sobre custos, fornecimento e opções disponíveis.
+### 2.1. Produtos e Serviços Oferecidos
 
-## **Chaves para Abordagem**
-- Enfatizar a **economia** que a contratação dos seus serviços pode oferecer às empresas.
-- Destacar o **compromisso com a sustentabilidade**, uma exigência crescente do consumidor e da legislação atual.
-- A simplicidade do processo de **contratação digital**, que elimina as dores de cabeça frequentemente associadas à energia renovável.
+- **Energia para Empresas:**
+  - Oferece energia elétrica limpa proveniente de fontes renováveis (solar e eólica).
+  - Economia de até 30% na conta de luz.
+  - Sem instalação de placas solares, evitando custos e complicações.
 
-Esse relatório visa fornecer uma base rica em detalhes para suportar a equipe de copywriters na formação de comunicações personalizadas que atendam as necessidades específicas e dores dos clientes potenciais.
+- **Planos de Contratação:**
+  - Diferentes planos de energia com opções de 3 a 7 anos de contrato.
+  - Processo de contratação digital e simples.
+
+- **Iniciativas de Sustentabilidade:**
+  - Traders de I-REC (certificados de energia limpa).
+  - Créditos de carbono para empresas que buscam neutralizar suas emissões.
+
+### 2.2. Inovação e Tecnologia
+- Plataforma digital lançada para comercializar energia renovável de maneira simples e eficiente.
+- Foco em tecnologias de computação de alto desempenho (Power to Data).
+
+## 3. Mercado e Concorrência
+
+### 3.1. Público-Alvo
+- Pequenas, médias e grandes empresas que buscam economia e sustentabilidade.
+- Comunidades locais em busca de energia limpa.
+
+### 3.2. Concorrência
+- Outras comercializadoras de energia renovável no mercado.
+- Empresas focadas em energia tradicional (pode ser vista como uma dor da Serena).
+
+### 3.3. Tendências do Setor
+- Aumento da demanda por energia renovável devido a regulamentos de sustentabilidade e consciência ambiental.
+- O mercado de energia limpa cresce com força no Brasil, ajudado por incentivos governamentais.
+
+## 4. Pontos de Dor Potenciais
+
+### 4.1. Necessidade de Redução de Custos
+- Empresas buscam alternativas para reduzir custos operacionais com energia elétrica.
+
+### 4.2. Sustentabilidade
+- Pressão crescente por parte de regulamentações e consumidores para que empresas adotem práticas sustentáveis.
+
+### 4.3. Confiabilidade nas Fontes de Energia
+- Necessidade de garantir que as fontes de energia são confiáveis e não poluentes.
+
+## 5. Contexto de Mercado
+
+- O Brasil possui uma matriz energética predominantemente renovável, mas as empresas ainda enfrentam altos custos.
+- A legislação está se tornando favorável às comercializadoras de energia no mercado livre, incentivando mais empresas a migrarem para esse modelo.
+  
+## 6. Testemunhos e Casos de Sucesso
+
+- Empresas como Heineken e Cargill têm parcerias com a Serena para promover sua transição para energia limpa, destacando a competitividade de preços e benefícios à sustentabilidade.
+
+## 7. Proposta de Valor
+
+- A Serena oferece uma solução completa que não apenas atende à demanda por energia de qualidade, mas também promove economia significativa e responsabilidade ambiental, ajudando as empresas a solucionarem suas dores relacionadas a custos e sustentabilidade.
+
+## 8. Sugestões para o Copywriter
+
+1. **Enfatizar a Economia:** Mostrar como as empresas podem economizar até 30% em sua conta de luz com a energia da Serena.
+  
+2. **Foco na Sustentabilidade:** Destacar que a Serena promove uma prática sustentável oferecendo energia 100% limpa, sem necessidade de instalações de placas solares.
+
+3. **Experiência do Cliente:** Incluir testemunhos de clientes satisfeitos, como os da Heineken e Cargill, que usufruem da energia limpa da Serena e como isso contribuiu para suas metas de sustentabilidade.
+
+4. **Facilidade de Contratação:** Reforçar que a contratação é digital e sem burocracia, facilitando a adesão de novas empresas.
+
+5. **Atração para novos parceiros:** Promover a ideia de que ao se juntar à Serena, as empresas estão não só economizando, mas também participando de um movimento mais amplo em estabilidade ambiental e desenvolvimento sustentável.
+
+## 9. Contatos Importantes
+
+**Email de Contato:** ri@srna.co  
+**Telefone:** +55 11 3254-9810  
+**LinkedIn:** [Serena no LinkedIn](https://srna.co/#linkedin)
+
+---
+
+Esse relatório proporciona uma visão abrangente da Serena Energia, destacando suas oportunidades e a abordagem necessária para o desenvolvimento de uma comunicação eficaz e dirigida ao cliente final.
