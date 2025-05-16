@@ -23,7 +23,7 @@
 - **Apoio para Estudo de Língua Inglesa**: Reembolso de até R$150 por mês.
 - **Alimentação**: R$900/mês via cartão Caju (VR ou VA).
 - **Política de Férias**: Férias com manutenção de alimentação (VR/VA).
-- **Apoio a Diversidade**: Programa "Abraço Trans" oferece apoio jurídico, psicológico e financeiro.
+- **Apoio à Diversidade**: Programa "Abraço Trans" oferece apoio jurídico, psicológico e financeiro.
 - **Integração Mensal**: R$70,00 mensais no Caju.
 
 ## 5. Políticas de Inclusão
@@ -49,7 +49,7 @@
 - **Tendências de Inclusão**: O mercado está atento à inclusão e diversidade, representando uma oportunidade para a Atlas se destacar.
 
 ## 10. Conclusão
-Atlas Technologies é uma referência em inclusão e diversidade através da inovação tecnológica. As oportunidades no marketing de influência, alinhadas com a missão social da empresa, sugerem que colaborações significativas podem ocorrer, beneficiando tanto a empresa quanto os influenciadores.
+Atlas Technologies é uma referência em inclusão e diversidade através da inovação tecnológica. Colaborações no marketing de influência podem resultar em iniciativas que não só ampliam a visibilidade da marca, mas também fortalecem sua missão social.
 
 ### Recomendações para Estratégia de Prospecção
 - Enfatizar como o marketing de influência pode reforçar as iniciativas de inclusão da Atlas.
