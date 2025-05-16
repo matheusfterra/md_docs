@@ -1,82 +1,65 @@
-# Relatório de Prospecção para Grupo RPN
+# Relatório de Prospecção: Grupo RPN
 
-## 1. Informações Gerais
+## 1. Informações Gerais da Empresa
 - **Nome da Empresa:** Grupo RPN
 - **Website:** [www.gruporpn.com.br](http://www.gruporpn.com.br)
-- **Localização:** Rua Rio Branco, 70 - 5º Andar, Americana, SP, Brasil, CEP: 13465-030
-- **Telefone:** (19) 3407-1234
-- **Redes Sociais:** O grupo não informa links diretos, mas pode ser encontrado nas redes sociais através da busca pelo nome Grupo RPN.
+- **Localização:** Rua Rio Branco, 70 - 5º Andar, Americana/SP  
+- **CEP:** 13465-030
+- **Contato:** (19) 3407-1234
+- **Segmento:** Holding com várias empresas atuando em telecomunicações, construção, imobiliário e marketing.
 
-## 2. Estrutura do Grupo
-- O Grupo RPN é uma holding que integra diversas empresas de diferentes setores, buscando melhorar a gestão e potencializar resultados. As empresas integrantes são:
-  - **Cellular.com:** Agente autorizado Claro, atuando no comércio de celulares e serviços relacionados.
-  - **A.D.A. Soluções Industriais:** Especializada em fabricação, montagem e manutenção industrial.
-  - **Doma Construtora:** Focada em construção e design de interiores.
-  - **Doma Imobiliária:** Vendas e locação de imóveis.
-  - **CellularStore:** Comércio eletrônico de celulares seminovos.
-  - **StudioSoul:** Agência de publicidade e marketing.
-  - **KeepFone:** Assistência técnica para celulares.
+## 2. Marcas e Segmentos
+O Grupo RPN é composto por diversas empresas, cada uma especializada em diferentes segmentos:
+1. **Cellular.com**
+   - Setor: Telecomunicações
+   - Descrição: Maior parceiro da Claro com comércio de celulares e soluções de conectividade.
+   - Contato: [Cellular.com](https://www.gruporpn.com.br/cellular-com)
 
-## 3. Missão, Visão e Valores
-- **Missão:** Conectar pessoas e negócios para desenvolver empresas com resultados extraordinários.
-- **Visão:** Tornar as empresas do grupo líderes em suas áreas, promovendo o crescimento e desenvolvimento de seus colaboradores.
-- **Valores:**
-  - Verdade
-  - Cooperação
-  - Respeito
-  - Senso de Dono
-  - Ousadia
-  - Determinação
-  - Resultado
+2. **A.D.A. (Soluções Industriais)**
+   - Setor: Indústria
+   - Descrição: Fabricação e manutenção industrial, caldeiraria. Integrada ao Grupo desde 2018.
+   - Contato: [A.D.A.](https://www.gruporpn.com.br/a-d-a)
 
-## 4. Características das Empresas do Grupo
+3. **Doma Construtora**
+   - Setor: Construção Civil
+   - Descrição: Desenvolvimento de construções e projetos arquitetônicos, foco em qualidade e sofisticação.
+   - Contato: [Doma Construtora](https://www.gruporpn.com.br/doma-construtora)
 
-### 4.1 Cellular.com
-- **Descrição:** Parceira da Claro, atua no comércio de celulares, acessórios e serviços de telecomunicações.
-- **Destaque:** Em 2022, com 100 lojas, o grupo notou uma possibilidade de expansão.
+4. **Doma Imobiliária**
+   - Setor: Imobiliário
+   - Descrição: Gestão de imóveis, venda e locação, consultoria imobiliária.
+   - Contato: [Doma Imobiliária](https://www.gruporpn.com.br/doma-imobiliria)
 
-### 4.2 A.D.A. Soluções Industriais
-- **Descrição:** Fabricação e montagem de componentes industriais, reconhecida por soluções em diversos segmentos industriais.
-- **Destaque:** Incorporada ao Grupo RPN em 2018, a A.D.A. buscou excelência em serviços industriais.
+5. **CellularStore**
+   - Setor: E-commerce de tecnologia
+   - Descrição: Comércio eletrônico focado em venda de aparelhos seminovos.
+   - Contato: [CellularStore](https://www.gruporpn.com.br/cellularstore)
 
-### 4.3 Doma Construtora
-- **Descrição:** Desenvolvimento de construções e projetos de alto padrão.
-- **Destaque:** Foco em qualidade e sofisticação nos projetos, reconhecida no setor de atuação.
+6. **StudioSoul**
+   - Setor: Publicidade e Marketing
+   - Descrição: Agência que cuida das necessidades digitais e criativas das empresas do grupo.
+   - Contato: [StudioSoul](https://www.gruporpn.com.br/studiosoul)
 
-### 4.4 Doma Imobiliária
-- **Descrição:** Gestão imobiliária, focada em venda e locação de imóveis na região.
-- **Destaque:** Agregou valor à Doma Construtora, oferecendo serviços de consultoria e gestão.
+7. **KeepFone**
+   - Setor: Serviços técnicos para celulares
+   - Descrição: Planos de assistência para celulares, garantindo qualidade e eficiência nos serviços.
+   - Contato: [KeepFone](https://www.gruporpn.com.br/keepfone)
 
-### 4.5 CellularStore
-- **Descrição:** Comércio eletrônico especializado em celulares seminovos.
-- **Destaque:** Primeira loja virtual do grupo, promovendo sustentabilidade através da reciclagem de tecnologia.
+## 3. Contexto e Dores Potenciais
+### 3.1 Desafios do Grupo
+- **Integração de Serviços:** A diversidade de segmentos pode dificultar uma estratégia unificada de marketing e comunicação.
+- **Concorrência Aumentada:** O setor de telecomunicações e e-commerce está em crescimento acelerado, com alta concorrência.
+- **Mudança nas Preferências do Consumidor:** A evolução das tecnologias e a necessidade de soluções inovadoras exigem adaptação constante.
 
-### 4.6 StudioSoul
-- **Descrição:** Agência de publicidade e marketing, atendendo as demandas de marketing digital do grupo.
-- **Destaque:** Foco em inovação e soluções criativas.
+### 3.2 Oportunidades de Marketing de Influência
+- **Aumento da Visibilidade:** Utilizar influenciadores para potencializar campanhas e aumentar o reconhecimento das diversas marcas.
+- **Segmentação por Nicho:** Cada uma das subdivisões da empresa pode se beneficiar de uma estratégia personalizada de marketing de influência, abordando nichos diferenciados.
+- **Engajamento do Público Jovem:** Campanhas direcionadas através de influenciadores podem atrair a audiência mais jovem para as lojas de dispositivos e serviços.
 
-### 4.7 KeepFone
-- **Descrição:** Assistência técnica para celulares, com planos acessíveis.
-- **Destaque:** Iniciativa recente, aproveitando a expertise do grupo na área de tecnologia.
+## 4. Expectativa em Relação a Parcerias
+O Grupo RPN busca conectar-se com parceiros que ofereçam uma abordagem inovadora e eficaz em marketing. Uma parceria focada no marketing de influência pode não só agregar valor às diversas marcas do grupo, mas também potencializar a presença digital e o relacionamento com o cliente.
 
-## 5. Possíveis Dores e Oportunidades
-- **Dores:** 
-  - Aumento da concorrência no setor de telecomunicações e assistência técnica.
-  - Necessidade de constante inovação em marketing e engajamento com o público.
-  - Desafios na gestão de marcas diversificadas e na comunicação integrativa entre elas.
+## 5. Conclusão
+O Grupo RPN é uma holding diversificada com grande potencial para parcerias estratégicas em marketing de influência. Com a dinâmica dos diferentes segmentos, é essencial abordar as dores e desejos específicos de cada marca, utilizando influenciadores para criar uma narrativa coesa e atraente para o público. Essa abordagem permitirá maximizar o impacto de suas campanhas e fortalecer a conexão com o consumidor.
 
-- **Oportunidades:**
-  - Integrar ações de marketing de influenciadores para fortalecer a imagem de marca de cada segmento.
-  - Explorar estratégias criativas que unam as diferentes empresas do grupo em campanhas coesas e integradas.
-  - Aproveitar o crescimento do comércio eletrônico e do interesse por produtos sustentáveis através do CellularStore.
-
-## 6. Contexto para o Copywriter
-Para o email a ser escrito para o Grupo RPN, sugerimos que o foco seja na importância da marketing de influência na construção de marca e engajamento com o consumidor. Através do uso de influenciadores, as empresas podem:
-- Melhorar a percepção de marca e aumentar a visibilidade nas redes sociais.
-- Criar conexão emocional com o público, o que é fundamental em um mercado com tanta concorrência.
-- Implementar campanhas que atraiam não apenas o consumidor final, mas também promovam parcerias com outras marcas e influenciadores.
-
-O texto deve abordar a visão do grupo de conectar pessoas e negócios, reforçando que a cooperação e o compartilhamento de expertise podem ser potencializados com a estratégia de marketing de influência. Explicar também como a Agency StudioSoul pode agregar valor a esse relacionamento.
-
-## 7. Conclusão
-O Grupo RPN possui uma estrutura diversificada e forte, com várias marcas que, individualmente, têm grande potencial, mas que, ao unirem esforços, podem criar um impacto ainda maior. Uma abordagem focada em marketing de influência pode ser a chave para alavancar ainda mais suas iniciativas e fortalecer a conexão com seus consumidores.
+Esse relatório pode servir de guia para o copywriter na criação de uma comunicação impactante e personalizada para o Grupo RPN, abordando suas necessidades e oportunidades de forma a chamar a atenção e fomentar uma conversa sobre futuras colaborações.
