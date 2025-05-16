@@ -10,19 +10,15 @@
 
 ## Produtos Oferecidos
 A empresa Liz oferece uma série de produtos relacionados a pijamas, destacando-se pela qualidade dos tecidos e pelo conforto que proporcionam. Abaixo seguem alguns dos principais produtos disponíveis:
-
 1. **Pijamas de Calor**
    - Blusa de Pijama Manga Curta com Renda - R$159,90
    - Calça de Pijama Algodão Flanelado - R$319,90
-
 2. **Pijamas de Frio**
    - Blusa de Pijama de Manga Longa - R$219,00
    - Calça de Pijama Longa Algodão Flanelado - R$319,90
-
 3. **Shorts e Calças de Pijama**
    - Shorts de Pijama com Renda - R$129,90
    - Calça de Pijama Cropped - R$179,00
-
 4. **Camisolas e Robes**
    - Camisola Midi de Manga Curta - R$319,90
    - Robe de Algodão com Renda - R$349,90
@@ -53,6 +49,6 @@ A Liz está em um segmento que vem crescendo, especialmente devido ao aumento da
 ---
 
 ## Conclusão
-A Liz é uma marca sólida e bem posicionada no mercado, com um forte apelo emocional relacionada ao conforto e ao empoderamento feminino. A utilização de influenciadores que se conectem a essas mensagens pode criar um impacto significativo nas estratégias de marketing e nas vendas. Um e-mail direcionado deve incluir insights sobre como a parceria pode potencializar esses valores e reforçar a proposta de valor da Liz dentro do competitivo mercado de moda íntima. 
+A Liz é uma marca sólida e bem posicionada no mercado, com um forte apelo emocional relacionada ao conforto e ao empoderamento feminino. A utilização de influenciadores que se conectem a essas mensagens pode criar um impacto significativo nas estratégias de marketing e nas vendas. Um e-mail direcionado deve incluir insights sobre como a parceria pode potencializar esses valores e reforçar a proposta de valor da Liz dentro do competitivo mercado de moda íntima.
 
-Esse relatório deve ser utilizado pelo copywriter para elaborar uma comunicação focada nas necessidades e valores que a Liz representa, buscando estabelecer um relacionamento duradouro e produtivo.
+Esse relatório deve ser utilizado pelo copywriter para elaborar uma comunicação focada nas necessidades e valores que a Liz representa, buscando estabelecer um relacionamento duradouro e produtivo com a marca.
