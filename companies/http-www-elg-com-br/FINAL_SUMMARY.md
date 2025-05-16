@@ -1,7 +1,6 @@
 # Relatório de Prospecção - ELG
 
 ## Informações Gerais da Empresa
-
 ### Nome da Empresa
 **ELG**
 
@@ -12,91 +11,83 @@
 **Joinville, Santa Catarina - Brasil**
 
 ### Histórico
-- **Fundação:** 2002
+- **Fundação:** 2002.
 - **Origem:** Pioneira em suportes e pedestais para áudio e vídeo no Brasil.
-- **Crescimento:** Rápido reconhecimento e expansão no mercado brasileiro através de parcerias com grandes varejistas.
-- **Inovação:** Destaque no desenvolvimento de suportes com tecnologia de pistão a gás.
+- **Crescimento:** Rápido reconhecimento e expansão no mercado brasileiro através de parcerias com grandes varejistas como Shoptime, Americanas.com, Magazine Luiza, entre outros.
+- **Inovação:** Desenvolvimento de suportes com tecnologia de pistão a gás, destacando-se na oferta de produtos de alta qualidade.
 
 ### Missão
 Entregar produtos de alta qualidade, inovação e conforto aos consumidores brasileiros, mantendo um alto padrão organizacional.
 
 ### Presença Internacional
-Participação em feiras internacionais de tecnologia como CES (Las Vegas), IFA (Alemanha), Infocomm (EUA), entre outras.
+Participação frequente em feiras internacionais de tecnologia, como CES (Las Vegas) e IFA (Alemanha), promovendo produtos que muitas vezes chegam ao mercado brasileiro antes de outras regiões, como EUA e Europa.
 
 ---
 
 ## Portfólio de Produtos
-
 ### Categorias de Produtos
 1. **Suportes e Pedestais**
-   - Suportes para TVs, monitores, projetores.
+   - Suportes para TVs, monitores e projetores.
    - Pedestais para caixas acústicas.
    - Soluções para ambientes corporativos e residenciais.
-
+   
 2. **Acessórios de Áudio e Vídeo**
    - Cabos HDMI, cabos ópticos, fones de ouvido e carregadores.
-
+   
 3. **Automação Residencial (ELG Connect)**
-   - Soluções de automação para conforto, segurança e monitoramento em casa.
+   - Soluções de automação para conforto, segurança e monitoramento residencial.
    - Iluminação inteligente com mais de 16 milhões de cores.
-   - Sistema de monitoramento de segurança com criptografia.
 
 4. **Equipamentos para Gaming (ELG Gaming)**
-   - Acessórios gamers, mouses, teclados, headsets, cadeiras e gabinetes.
+   - Produtos específicos para gamers, como mouses, teclados, headsets, cadeiras e gabinetes.
 
 ---
 
 ## Público-Alvo
-
 ### Demografia
-- Construtoras, hotéis, hospitais, aeroportos, e grandes corporações.
-- Consumidores residenciais atualizados e envolvidos em tecnologia.
+- Construtoras, hotéis, hospitais, aeroportos e grandes corporações.
+- Consumidores residenciais que estão atualizados e engajados com tecnologia.
 
 ### Comportamento
-- Interessados em produtos de alta qualidade e design moderno.
-- Usuários de tecnologias de automação e gamers em busca de equipamentos de alto desempenho.
+- Buscam produtos de alta qualidade, design moderno e inovação.
+- Usuários de tecnologia de automação residencial e gamers em busca de equipamentos de performance superior.
 
 ---
 
 ## Análise de Mercado
-
 ### Concorrência
-- **Concorrentes diretos:** Outras marcas de produtos de áudio e vídeo, automação residencial e acessórios para gamers.
-- **Diferenciais:** Produto de alta qualidade e inovação, presença em eventos internacionais de tecnologia e uma forte estratégia de marca.
+- **Concorrentes diretos:** Outras marcas que atuam no segmento de áudio e vídeo, automação residencial e acessórios para gaming.
+- **Diferenciais:** Alta qualidade, inovação, presença em feiras internacionais e forte estratégia de marca.
 
 ### Tendências
-- Crescimento do mercado de automação residencial e de dispositivos conectados.
-- Aumento da demanda por equipamentos de gaming com qualidade superior e desempenho.
+- Crescimento do mercado de automação residencial e dispositivos conectados.
+- Aumento da demanda por equipamentos de gaming de alto desempenho.
 
 ---
 
 ## Possíveis Dores e Necessidades
-
 1. **Dificuldade em Se Destacar no Mercado**
-   - Com a crescente concorrência, a ELG precisa de estratégias para se diferenciar ainda mais.
-
+   - A crescente concorrência requer que a ELG desenvolva estratégias robustas para se diferenciar.
+   
 2. **Conexão com Influenciadores**
-   - A necessidade de promover produtos através de influenciadores pode ser uma oportunidade para fortalecer a marca entre os consumidores finais.
+   - Aproveitar as redes sociais e influenciadores para promover produtos, fortalecendo a marca junto aos consumidores finais.
 
 3. **Adoção de Novas Tecnologias**
-   - Necessidade de comunicação clara sobre inovação tecnológica, especialmente para novos produtos de automação e gaming.
+   - Necessidade de uma comunicação clara sobre inovações e novos produtos, especialmente em automação e gaming.
 
 ---
 
 ## Oportunidades de Colaboração
-
-- **Marketing de Influência:** Desenvolvimento de campanhas focadas na promoção dos produtos através de influencers com grande alcance em tecnologia, decoração e estilo de vida.
-- **Conteúdo Educacional:** Produção de conteúdo que ajude o público a entender os produtos ELG e suas funcionalidades, aumentando o interesse no uso de soluções de automação.
+- **Marketing de Influência:** Propostas de campanhas focadas na promoção de produtos por influenciadores com forte apelo em tecnologia, decoração e estilo de vida.
+  
+- **Conteúdo Educacional:** Produção de materiais que ajudem o público a entender os produtos ELG, aumentando o interesse e a adesão às soluções de automação.
 
 ---
 
 ## Conclusão
+A ELG inspira confiança e é reconhecida por sua inovação e qualidade. A implementação de estratégias de marketing digital e colaborações com influenciadores pode expandir significativamente sua visibilidade no mercado. A personalização da comunicação para atender as dores e necessidades do público-alvo será fundamental para destacar a marca no competitivo cenário atual.
 
-A ELG é uma empresa sólida, com um histórico de inovação e um portfólio diversificado que atende a um mercado em crescimento. A integração de estratégias de marketing digital e parcerias com influenciadores pode ser uma maneira eficaz de a ELG aumentar sua visibilidade e conexão com consumidores.
+---
 
-Este relatório pode servir de base para a produção de uma abordagem de vendas mais assertiva, focando nas necessidades e dores identificadas. É fundamental adaptar a comunicação para abordar cada um desses pontos, destacando como a ELG pode resolver os desafios enfrentados por seus clientes e se destacar ainda mais no mercado.
-
---- 
-
-**Responsável pelo relatório:** [Seu Nome]
+**Responsável pelo relatório:** [Seu Nome]  
 **Data:** [Data Atual]
