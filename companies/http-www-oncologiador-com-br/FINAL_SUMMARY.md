@@ -29,7 +29,7 @@ A Oncologia D'Or oferece uma gama abrangente de tratamentos, incluindo:
 
 Cada tipo de tratamento é suportado por uma tecnologia avançada, incluindo o maior parque tecnológico da América Latina.
 
-## Características da empresa
+## Características da Empresa
 - **Tecnologia:** Utilização de equipamentos de última geração.
 - **Equipe:** Equipe multidisciplinar composta por profissionais reconhecidos na área da oncologia.
 - **Inovação:** Continuamente implementando novas práticas baseadas em pesquisas clínicas e avanços tecnológicos.
@@ -57,9 +57,9 @@ Cada tipo de tratamento é suportado por uma tecnologia avançada, incluindo o m
 A Oncologia D'Or apresenta-se como uma excelente oportunidade para campanhas de marketing de influência devido ao seu compromisso com a excelência, inovação e cuidados humanizados. Uma proposta de parceria que enfoque estas características, alinhada a conteúdos educativos e humanizados, pode resultar em uma sinergia poderosa que não apenas beneficiará a empresa, mas também a conscientização pública sobre o câncer.
 
 ### Ação Recomendada
-Recomendar uma abordagem inicial de contato com o marketing da Oncologia D'Or para explorar oportunidades de parceria em campanhas de conscientização e promoção de tratamento, vinculando influenciadores relevantes e contando suas histórias.
+Recomendar uma abordagem inicial de contato com a equipe de marketing da Oncologia D'Or para explorar oportunidades de parceria em campanhas de conscientização e promoção de tratamento, vinculando influenciadores relevantes e contando suas histórias.
 
-**Próximos Passos:**
+### Próximos Passos:
 1. Agendar uma reunião com a equipe de marketing da Oncologia D'Or.
 2. Levantar dados sobre influenciadores que atuam no segmento de saúde e bem-estar para apresentar propostas concretas.
 3. Elaborar materiais e propostas para campanhas de conscientização.
